@@ -34,7 +34,7 @@ const filterRSSFeed = async (rssText) => {
       );
 
       result.rss.channel[0].item = filteredItems;
-      result.rss.channel[0].title = `EconTalk | Mike Munger episodes`;
+      result.rss.channel[0].title = `EconTalk | Mike Munger Episodes`;
 
       const builder = new Builder();
       resolve(builder.buildObject(result));
