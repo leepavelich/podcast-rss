@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/wgl4xEgL" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>EconTalk | Mike Munger episodes</title>
+    <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
+    <copyright>Copyright 2006-2023</copyright>
+    <language>en-us</language>
+    <pubDate>Mon, 22 Jan 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2024 11:30:11 +0000</lastBuildDate>
+    <image>
+      <link>https://simplecast.econtalk.org</link>
+      <title>EconTalk</title>
+      <url>https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed</url>
+    </image>
+    <link>https://simplecast.econtalk.org</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</itunes:summary>
+    <itunes:author>Russ Roberts</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/wgl4xEgL</itunes:new-feed-url>
+    <itunes:keywords>economics, business, books, interviews, history, ethics</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Library of Economics and Liberty</itunes:name>
+      <itunes:email>webmaster@econlib.org</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:category text="Science">
+      <itunes:category text="Social Sciences"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <item>
+      <guid isPermaLink="false">33e3b572-9c16-4acc-9ab2-7a12ac1e6a7b</guid>
+      <title>Michael Munger on How Adam Smith Solved the Trolley Problem</title>
+      <description>&lt;p&gt;In the original version of a now classic thought experiment, five people are about to be killed by a runaway trolley. Would you divert the trolley knowing that your choice will kill a single innocent bystander? Listen as Michael Munger of Duke University argues that Adam Smith gave an answer to this challenge a few hundred years before it was proposed by the philosopher Philippa Foot and brought vividly to life in the miniseries, &lt;i&gt;The Good Place&lt;/i&gt;. Along the way, Munger and EconTalk's Russ Roberts discuss effective altruism, the moral claims of Peter Singer, what the trolley problem really tells us, if anything, and how our moral choices differ according to context.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 18 Sep 2023 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-how-adam-smith-solved-the-trolley-problem/</link>
+      <content:encoded>&lt;p&gt;In the original version of a now classic thought experiment, five people are about to be killed by a runaway trolley. Would you divert the trolley knowing that your choice will kill a single innocent bystander? Listen as Michael Munger of Duke University argues that Adam Smith gave an answer to this challenge a few hundred years before it was proposed by the philosopher Philippa Foot and brought vividly to life in the miniseries, &lt;i&gt;The Good Place&lt;/i&gt;. Along the way, Munger and EconTalk's Russ Roberts discuss effective altruism, the moral claims of Peter Singer, what the trolley problem really tells us, if anything, and how our moral choices differ according to context.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="68876090" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/436e3f91-2a85-4604-8009-819da906816b/audio/861cacaf-c050-4cdc-8bd4-6ff83fd70cc8/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on How Adam Smith Solved the Trolley Problem</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:11:28</itunes:duration>
+      <itunes:summary>In the original version of a now classic thought experiment, five people are about to be killed by a runaway trolley. Would you divert the trolley knowing that your choice will kill a single innocent bystander? Listen as Michael Munger of Duke University argues that Adam Smith gave an answer to this challenge a few hundred years before it was proposed by the philosopher Philippa Foot and brought vividly to life in the miniseries, The Good Place. Along the way, Munger and EconTalk's Russ Roberts discuss effective altruism, the moral claims of Peter Singer, what the trolley problem really tells us, if anything, and how our moral choices differ according to context.</itunes:summary>
+      <itunes:subtitle>In the original version of a now classic thought experiment, five people are about to be killed by a runaway trolley. Would you divert the trolley knowing that your choice will kill a single innocent bystander? Listen as Michael Munger of Duke University argues that Adam Smith gave an answer to this challenge a few hundred years before it was proposed by the philosopher Philippa Foot and brought vividly to life in the miniseries, The Good Place. Along the way, Munger and EconTalk's Russ Roberts discuss effective altruism, the moral claims of Peter Singer, what the trolley problem really tells us, if anything, and how our moral choices differ according to context.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, trolley problem, philippa foot, econlib, morality, peter singer, philosophy, effective altruism</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>911</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">202a78bd-66d1-41cd-a7bc-e940e2ac6622</guid>
+      <title>Michael Munger on Obedience to the Unenforceable</title>
+      <description>&lt;p&gt;Civilization and the pleasantness of everyday life depend on unwritten rules. Early in the 20th century, an English mathematician and government official, Lord Moulton, described complying with these rules as "obedience to the unenforceable"--the area of personal choice that falls between illegal acts and complete freedom. Listen as economist Michael Munger talks with EconTalk's Russ Roberts about the power and challenge of the unenforceable.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 19 Jun 2023 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-obedience-to-the-unenforceable/</link>
+      <content:encoded>&lt;p&gt;Civilization and the pleasantness of everyday life depend on unwritten rules. Early in the 20th century, an English mathematician and government official, Lord Moulton, described complying with these rules as "obedience to the unenforceable"--the area of personal choice that falls between illegal acts and complete freedom. Listen as economist Michael Munger talks with EconTalk's Russ Roberts about the power and challenge of the unenforceable.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="68081745" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/64aca0ff-7276-4c1c-8fd4-c153efbe492e/audio/0d565eb8-6d4d-488a-a964-03d6aa29da18/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Obedience to the Unenforceable</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:38</itunes:duration>
+      <itunes:summary>Civilization and the pleasantness of everyday life depend on unwritten rules. Early in the 20th century, an English mathematician and government official, Lord Moulton, described complying with these rules as "obedience to the unenforceable"--the area of personal choice that falls between illegal acts and complete freedom. Listen as economist Michael Munger talks with EconTalk's Russ Roberts about the power and challenge of the unenforceable.</itunes:summary>
+      <itunes:subtitle>Civilization and the pleasantness of everyday life depend on unwritten rules. Early in the 20th century, an English mathematician and government official, Lord Moulton, described complying with these rules as "obedience to the unenforceable"--the area of personal choice that falls between illegal acts and complete freedom. Listen as economist Michael Munger talks with EconTalk's Russ Roberts about the power and challenge of the unenforceable.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, econlib, law, political science, norms, institutions, lord moulton</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>898</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">a06b8913-d5f8-4565-b5ea-603df44ad1b3</guid>
+      <title>Michael Munger on the Perfect vs. the Good</title>
+      <description>&lt;p&gt;Is the perfect really the enemy of the good? Or is it the other way around? In 2008, Duke University economist Michael Munger ran for governor and proposed increasing school choice through vouchers for the state's poorest counties. But some lovers of liberty argued that it's better to fight for eliminating public schools instead of trying to improve them. Munger realized his fellow free-marketers come in two flavors: directionalists--who take our political realities as given and try to move outcomes closer to the ideal--and destinationists--who want no compromises with what they see as the perfect outcome. Listen as Munger talks to EconTalk's Russ Roberts about two different strategies for achieving political goals. Along the way, they discuss rent control, the minimum wage, and why free-market policies are so rare.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 24 Apr 2023 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-the-perfect-vs-the-good/</link>
+      <content:encoded>&lt;p&gt;Is the perfect really the enemy of the good? Or is it the other way around? In 2008, Duke University economist Michael Munger ran for governor and proposed increasing school choice through vouchers for the state's poorest counties. But some lovers of liberty argued that it's better to fight for eliminating public schools instead of trying to improve them. Munger realized his fellow free-marketers come in two flavors: directionalists--who take our political realities as given and try to move outcomes closer to the ideal--and destinationists--who want no compromises with what they see as the perfect outcome. Listen as Munger talks to EconTalk's Russ Roberts about two different strategies for achieving political goals. Along the way, they discuss rent control, the minimum wage, and why free-market policies are so rare.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="71915352" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/4eeaf8ef-24c7-49bd-8dbc-44e23ef0037f/audio/513ca868-8355-4ffa-9a8f-999d42225fb4/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on the Perfect vs. the Good</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:38</itunes:duration>
+      <itunes:summary>Is the perfect really the enemy of the good? Or is it the other way around? In 2008, Duke University economist Michael Munger ran for governor and proposed increasing school choice through vouchers for the state's poorest counties. But some lovers of liberty argued that it's better to fight for eliminating public schools instead of trying to improve them. Munger realized his fellow free-marketers come in two flavors: directionalists--who take our political realities as given and try to move outcomes closer to the ideal--and destinationists--who want no compromises with what they see as the perfect outcome. Listen as Munger talks to EconTalk's Russ Roberts about two different strategies for achieving political goals. Along the way, they discuss rent control, the minimum wage, and why free-market policies are so rare.</itunes:summary>
+      <itunes:subtitle>Is the perfect really the enemy of the good? Or is it the other way around? In 2008, Duke University economist Michael Munger ran for governor and proposed increasing school choice through vouchers for the state's poorest counties. But some lovers of liberty argued that it's better to fight for eliminating public schools instead of trying to improve them. Munger realized his fellow free-marketers come in two flavors: directionalists--who take our political realities as given and try to move outcomes closer to the ideal--and destinationists--who want no compromises with what they see as the perfect outcome. Listen as Munger talks to EconTalk's Russ Roberts about two different strategies for achieving political goals. Along the way, they discuss rent control, the minimum wage, and why free-market policies are so rare.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, public choice, econlib, microeconomics, debate, government policy, political science, philosophy</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>890</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">2faf0443-7d93-4cf5-b479-14775c27cb7d</guid>
+      <title>Michael Munger on Industrial Policy</title>
+      <description>&lt;p&gt;Economist and political scientist Michael Munger of Duke University talks about industrial policy with EconTalk host Russ Roberts. Munger argues that in a democracy, the default outcome for industrial policy is crony capitalism--attempts to improve on that outcome either by appointing experts or eliminating cronyism are going to fail for political reasons. The conversation concludes with a discussion of the reliability of Munger's claim and what options are left for dissatisfied reformers.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 31 Oct 2022 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-industrial-policy/</link>
+      <content:encoded>&lt;p&gt;Economist and political scientist Michael Munger of Duke University talks about industrial policy with EconTalk host Russ Roberts. Munger argues that in a democracy, the default outcome for industrial policy is crony capitalism--attempts to improve on that outcome either by appointing experts or eliminating cronyism are going to fail for political reasons. The conversation concludes with a discussion of the reliability of Munger's claim and what options are left for dissatisfied reformers.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="67084832" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/fb46317c-6a98-4ec3-8940-02b29708f544/audio/942400d1-9478-4360-b76b-0f645650681f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Industrial Policy</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:36</itunes:duration>
+      <itunes:summary>Economist and political scientist Michael Munger of Duke University talks about industrial policy with EconTalk host Russ Roberts. Munger argues that in a democracy, the default outcome for industrial policy is crony capitalism--attempts to improve on that outcome either by appointing experts or eliminating cronyism are going to fail for political reasons. The conversation concludes with a discussion of the reliability of Munger's claim and what options are left for dissatisfied reformers.</itunes:summary>
+      <itunes:subtitle>Economist and political scientist Michael Munger of Duke University talks about industrial policy with EconTalk host Russ Roberts. Munger argues that in a democracy, the default outcome for industrial policy is crony capitalism--attempts to improve on that outcome either by appointing experts or eliminating cronyism are going to fail for political reasons. The conversation concludes with a discussion of the reliability of Munger's claim and what options are left for dissatisfied reformers.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, businesses, econlib, experts, inflation, regulation, political science, capitalism, government policies</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>865</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">1951ede3-e7db-4e22-b90b-b20efa7ae6dd</guid>
+      <title>Russ Roberts and Mike Munger on Wild Problems</title>
+      <description>&lt;p&gt;Waze and Google Maps tell us the best way to get to where we're going. But no app or algorithm can tell us whether we should head there in the first place. To economist Russ Roberts, the reason is simple: Humans are dynamic and aspirational beings. When it comes to making life's big decisions, from what to study to whom to marry or whether to have a child, it's not always us doing the deciding, he argues, but rather the people we want to be. Join the host of EconTalk, the president of Shalem College, and the author of the new book &lt;i&gt;Wild Problems: A Guide to the Decisions that Define Us&lt;/i&gt;, as he speaks with friend and EconTalk favorite Michael Munger about why the traditional economic models for decision making can lead us astray--and why life should be less about solving problems than embracing possibilities.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 8 Aug 2022 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/russ-roberts-and-mike-munger-on-wild-problems/</link>
+      <content:encoded>&lt;p&gt;Waze and Google Maps tell us the best way to get to where we're going. But no app or algorithm can tell us whether we should head there in the first place. To economist Russ Roberts, the reason is simple: Humans are dynamic and aspirational beings. When it comes to making life's big decisions, from what to study to whom to marry or whether to have a child, it's not always us doing the deciding, he argues, but rather the people we want to be. Join the host of EconTalk, the president of Shalem College, and the author of the new book &lt;i&gt;Wild Problems: A Guide to the Decisions that Define Us&lt;/i&gt;, as he speaks with friend and EconTalk favorite Michael Munger about why the traditional economic models for decision making can lead us astray--and why life should be less about solving problems than embracing possibilities.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="74487139" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/d0ad3dc4-129a-4508-b8c5-b976a88a8e04/audio/5c3d0a3c-a852-4fed-a85e-5634f72d02a7/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Russ Roberts and Mike Munger on Wild Problems</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:17:20</itunes:duration>
+      <itunes:summary>Waze and Google Maps tell us the best way to get to where we're going. But no app or algorithm can tell us whether we should head there in the first place. To economist Russ Roberts, the reason is simple: Humans are dynamic and aspirational beings. When it comes to making life's big decisions, from what to study to whom to marry or whether to have a child, it's not always us doing the deciding, he argues, but rather the people we want to be. Join the host of EconTalk, the president of Shalem College, and the author of the new book Wild Problems: A Guide to the Decisions that Define Us, as he speaks with friend and EconTalk favorite Michael Munger about why the traditional economic models for decision making can lead us astray--and why life should be less about solving problems than embracing possibilities.</itunes:summary>
+      <itunes:subtitle>Waze and Google Maps tell us the best way to get to where we're going. But no app or algorithm can tell us whether we should head there in the first place. To economist Russ Roberts, the reason is simple: Humans are dynamic and aspirational beings. When it comes to making life's big decisions, from what to study to whom to marry or whether to have a child, it's not always us doing the deciding, he argues, but rather the people we want to be. Join the host of EconTalk, the president of Shalem College, and the author of the new book Wild Problems: A Guide to the Decisions that Define Us, as he speaks with friend and EconTalk favorite Michael Munger about why the traditional economic models for decision making can lead us astray--and why life should be less about solving problems than embracing possibilities.</itunes:subtitle>
+      <itunes:keywords>economics, self-help, michael munger, aspirations, econlib, interview, decision-making, life</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>853</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">3df27a7d-bbd4-4f17-8f4d-fd6404807ce9</guid>
+      <title>Michael Munger on Antitrust</title>
+      <description>&lt;p&gt;Are tech giants such as Google, Amazon, or Facebook dangerous? Do they have too much power? Dive into the murky waters of antitrust as Michael Munger of Duke University talks with EconTalk host Russ Roberts about monopoly, antitrust policy, and competition in the 21st century.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 25 Apr 2022 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-antitrust/</link>
+      <content:encoded>&lt;p&gt;Are tech giants such as Google, Amazon, or Facebook dangerous? Do they have too much power? Dive into the murky waters of antitrust as Michael Munger of Duke University talks with EconTalk host Russ Roberts about monopoly, antitrust policy, and competition in the 21st century.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="79356519" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3d09fb92-d261-47a9-92cb-d29400b386b4/audio/0a00065a-272c-423f-8f5e-1c031f51699b/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Antitrust</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:22:25</itunes:duration>
+      <itunes:summary>Are tech giants such as Google, Amazon, or Facebook dangerous? Do they have too much power? Dive into the murky waters of antitrust as Michael Munger of Duke University talks with EconTalk host Russ Roberts about monopoly, antitrust policy, and competition in the 21st century.</itunes:summary>
+      <itunes:subtitle>Are tech giants such as Google, Amazon, or Facebook dangerous? Do they have too much power? Dive into the murky waters of antitrust as Michael Munger of Duke University talks with EconTalk host Russ Roberts about monopoly, antitrust policy, and competition in the 21st century.</itunes:subtitle>
+      <itunes:keywords>economics, competition, michael munger, monopolies, econlib, oligopolies, ronald coase, firms, ftc</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>838</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">985baad8-c9dc-4091-a111-4fd0498cd43e</guid>
+      <title>Michael Munger on Constitutions</title>
+      <description>&lt;p&gt;More than we need rules, argues Michael Munger, we need rules about the rules. So does the United States need a new Constitution? Listen as the Duke University economist and political scientist talks to host Russ Roberts about public choice, consenting to coercion, and whether constitutions matter.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 20 Dec 2021 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-constitutions/</link>
+      <content:encoded>&lt;p&gt;More than we need rules, argues Michael Munger, we need rules about the rules. So does the United States need a new Constitution? Listen as the Duke University economist and political scientist talks to host Russ Roberts about public choice, consenting to coercion, and whether constitutions matter.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="64067158" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c6459c10-928a-4152-97dd-41031ad1fa47/audio/77d36f92-3854-473a-b432-40663e8a09c3/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Constitutions</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:06:29</itunes:duration>
+      <itunes:summary>More than we need rules, argues Michael Munger, we need rules about the rules. So does the United States need a new Constitution? Listen as the Duke University economist and political scientist talks to host Russ Roberts about public choice, consenting to coercion, and whether constitutions matter.</itunes:summary>
+      <itunes:subtitle>More than we need rules, argues Michael Munger, we need rules about the rules. So does the United States need a new Constitution? Listen as the Duke University economist and political scientist talks to host Russ Roberts about public choice, consenting to coercion, and whether constitutions matter.</itunes:subtitle>
+      <itunes:keywords>economics, contracts, michael munger, public choice, econlib, james buchanan, social norms, political science, property rights</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>820</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">73ff34fb-0d73-4043-962c-9862454313e7</guid>
+      <title>Michael Munger on Free Markets</title>
+      <description>&lt;p&gt;Author and economist Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues--and the flaws--of free markets. Munger says the best argument for a free market approach is not that it's perfect but that it's better than anything else we've been able to come up with over the centuries. Better at bringing people out of poverty, better at promoting wealth creation, and better at pushing up the standard of living for most of the people, most of the time. Topics include what exactly is a free market, why specialization is so important, the case for case-by-case intervention, and the challenge of picking the prettiest pig.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 9 Aug 2021 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/michael-munger-on-free-markets/</link>
+      <content:encoded>&lt;p&gt;Author and economist Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues--and the flaws--of free markets. Munger says the best argument for a free market approach is not that it's perfect but that it's better than anything else we've been able to come up with over the centuries. Better at bringing people out of poverty, better at promoting wealth creation, and better at pushing up the standard of living for most of the people, most of the time. Topics include what exactly is a free market, why specialization is so important, the case for case-by-case intervention, and the challenge of picking the prettiest pig.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="33831082" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/be9fb638-176c-4456-951e-29e06c81e6bf/audio/c58da970-efa3-4e2b-8610-2271b6ea2ab6/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Free Markets</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:10:16</itunes:duration>
+      <itunes:summary>Author and economist Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues--and the flaws--of free markets. Munger says the best argument for a free market approach is not that it's perfect but that it's better than anything else we've been able to come up with over the centuries. Better at bringing people out of poverty, better at promoting wealth creation, and better at pushing up the standard of living for most of the people, most of the time. Topics include what exactly is a free market, why specialization is so important, the case for case-by-case intervention, and the challenge of picking the prettiest pig.</itunes:summary>
+      <itunes:subtitle>Author and economist Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues--and the flaws--of free markets. Munger says the best argument for a free market approach is not that it's perfect but that it's better than anything else we've been able to come up with over the centuries. Better at bringing people out of poverty, better at promoting wealth creation, and better at pushing up the standard of living for most of the people, most of the time. Topics include what exactly is a free market, why specialization is so important, the case for case-by-case intervention, and the challenge of picking the prettiest pig.</itunes:subtitle>
+      <itunes:keywords>economics, specialization, michael munger, econlib, market failures, capitalism, freedom</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>801</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">08bb5750-4253-47c0-95bf-4c90acc27fcc</guid>
+      <title>Michael Munger on Desires, Morality, and Self-Interest</title>
+      <description>&lt;p&gt;Economist and author Michael Munger of Duke University talks about human wants and desires with EconTalk host Russ Roberts. Human beings have desires about our desires. Can we change what we want? And how should economists and normal human beings think about doing the right thing, what we often call morality? Is acting morally self-interested behavior or is it possible to act selflessly?&lt;/p&gt;
+</description>
+      <pubDate>Mon, 1 Mar 2021 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-desires-morality-and-self-interest/</link>
+      <content:encoded>&lt;p&gt;Economist and author Michael Munger of Duke University talks about human wants and desires with EconTalk host Russ Roberts. Human beings have desires about our desires. Can we change what we want? And how should economists and normal human beings think about doing the right thing, what we often call morality? Is acting morally self-interested behavior or is it possible to act selflessly?&lt;/p&gt;
+</content:encoded>
+      <enclosure length="71517721" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/ac3b82bc-aa5d-4325-993f-4722a02080d3/audio/6ec2df14-372e-44d1-8242-9dd1e38d4ac3/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Desires, Morality, and Self-Interest</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:15</itunes:duration>
+      <itunes:summary>Economist and author Michael Munger of Duke University talks about human wants and desires with EconTalk host Russ Roberts. Human beings have desires about our desires. Can we change what we want? And how should economists and normal human beings think about doing the right thing, what we often call morality? Is acting morally self-interested behavior or is it possible to act selflessly?</itunes:summary>
+      <itunes:subtitle>Economist and author Michael Munger of Duke University talks about human wants and desires with EconTalk host Russ Roberts. Human beings have desires about our desires. Can we change what we want? And how should economists and normal human beings think about doing the right thing, what we often call morality? Is acting morally self-interested behavior or is it possible to act selflessly?</itunes:subtitle>
+      <itunes:keywords>ethics, economics, legislation, michael munger, econlib, morals, law, aristotle, philosophy</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>778</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2020/Mungerhighereducation.mp3</guid>
+      <title>Michael Munger on the Future of Higher Education</title>
+      <description>&lt;p&gt;In this c750th (!) episode, Duke University's Michael Munger talks with EconTalk host Russ Roberts about whether the pandemic might create an opportunity for colleges and universities to experiment and innovate. Munger is Professor of Political Science, Economics and Public Policy at Duke. He believes "top" schools can emerge from the current period of uncertainty to thrive in the long run. The path for "second-tier" institutions could be more difficult. They will still face the challenges that existed before the pandemic: competition from online classes and a shrinking pool of new applicants ready to pay high tuition bills.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 17 Aug 2020 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-the-future-of-higher-education/</link>
+      <content:encoded>&lt;p&gt;In this c750th (!) episode, Duke University's Michael Munger talks with EconTalk host Russ Roberts about whether the pandemic might create an opportunity for colleges and universities to experiment and innovate. Munger is Professor of Political Science, Economics and Public Policy at Duke. He believes "top" schools can emerge from the current period of uncertainty to thrive in the long run. The path for "second-tier" institutions could be more difficult. They will still face the challenges that existed before the pandemic: competition from online classes and a shrinking pool of new applicants ready to pay high tuition bills.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="32625745" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/92b70561-e71b-41f0-8085-147268fd371a/mungerhighereducation_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on the Future of Higher Education</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:07:55</itunes:duration>
+      <itunes:summary>In this 750th (!) episode, Duke University's Michael Munger talks with EconTalk host Russ Roberts about whether the pandemic might create an opportunity for colleges and universities to experiment and innovate. Munger is Professor of Political Science, Economics and Public Policy at Duke. He believes "top" schools can emerge from the current period of uncertainty to thrive in the long run. The path for "second-tier" institutions could be more difficult. They will still face the challenges that existed before the pandemic: competition from online classes and a shrinking pool of new applicants ready to pay high tuition bills.</itunes:summary>
+      <itunes:subtitle>In this 750th (!) episode, Duke University's Michael Munger talks with EconTalk host Russ Roberts about whether the pandemic might create an opportunity for colleges and universities to experiment and innovate. Munger is Professor of Political Science, Economics and Public Policy at Duke. He believes "top" schools can emerge from the current period of uncertainty to thrive in the long run. The path for "second-tier" institutions could be more difficult. They will still face the challenges that existed before the pandemic: competition from online classes and a shrinking pool of new applicants ready to pay high tuition bills.</itunes:subtitle>
+      <itunes:keywords>economics, schools, michael munger, teaching, econlib, colleges, universities, new keyword, online education, innovation</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>750</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2019/Mungercrony.mp3</guid>
+      <title>Michael Munger on Crony Capitalism</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about whether real capitalism is unstable and leads inevitably to crony capitalism. They also discuss ways to prevent the descent into cronyism and speculate on their own blind spots.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 25 Feb 2019 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/michael-munger-on-crony-capitalism/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about whether real capitalism is unstable and leads inevitably to crony capitalism. They also discuss ways to prevent the descent into cronyism and speculate on their own blind spots.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="33712864" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/849c9e48-8999-4bac-b797-2651fde5b015/mungercrony_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Crony Capitalism</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:10:11</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about whether real capitalism is unstable and leads inevitably to crony capitalism. They also discuss ways to prevent the descent into cronyism and speculate on their own blind spots.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about whether real capitalism is unstable and leads inevitably to crony capitalism. They also discuss ways to prevent the descent into cronyism and speculate on their own blind spots.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, econlib, political science, corruption, capitalism</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>671</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2018/Mungertomorrow.mp3</guid>
+      <title>Michael Munger on Sharing, Transaction Costs, and Tomorrow 3.0</title>
+      <description>&lt;p&gt;Economist and author Michael Munger of Duke University talks about his book, Tomorrow 3.0, with EconTalk host Russ Roberts. Munger analyzes the rise of companies like Uber and AirBnB as an example of how technology lowers transactions costs. Users and providers can find each other more easily through their smartphones, increasing opportunity. Munger expects these costs to fall elsewhere and predicts an expansion of the sharing economy to a wide array of items in our daily lives.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 29 Oct 2018 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/michael-munger-on-sharing-transaction-costs-and-tomorrow-3.0/</link>
+      <content:encoded>&lt;p&gt;Economist and author Michael Munger of Duke University talks about his book, Tomorrow 3.0, with EconTalk host Russ Roberts. Munger analyzes the rise of companies like Uber and AirBnB as an example of how technology lowers transactions costs. Users and providers can find each other more easily through their smartphones, increasing opportunity. Munger expects these costs to fall elsewhere and predicts an expansion of the sharing economy to a wide array of items in our daily lives.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="33770361" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/b5d95cc7-b976-4a0a-a044-655e172d579f/mungertomorrow_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Sharing, Transaction Costs, and Tomorrow 3.0</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:10:18</itunes:duration>
+      <itunes:summary>Economist and author Michael Munger of Duke University talks about his book, Tomorrow 3.0, with EconTalk host Russ Roberts. Munger analyzes the rise of companies like Uber and AirBnB as an example of how technology lowers transactions costs. Users and providers can find each other more easily through their smartphones, increasing opportunity. Munger expects these costs to fall elsewhere and predicts an expansion of the sharing economy to a wide array of items in our daily lives.</itunes:summary>
+      <itunes:subtitle>Economist and author Michael Munger of Duke University talks about his book, Tomorrow 3.0, with EconTalk host Russ Roberts. Munger analyzes the rise of companies like Uber and AirBnB as an example of how technology lowers transactions costs. Users and providers can find each other more easily through their smartphones, increasing opportunity. Munger expects these costs to fall elsewhere and predicts an expansion of the sharing economy to a wide array of items in our daily lives.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, econlib, future, sharing economy, cell phones, technology, transactions costs</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>654</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2018/Mungertraffic.mp3</guid>
+      <title>Michael Munger on Traffic</title>
+      <description>&lt;p&gt;Does rush-hour traffic drive you crazy? Is a congestion tax on car travel a good idea? Michael Munger of Duke University talks with EconTalk host Russ Roberts about the economics of traffic and congestion taxes. It takes a while to get there (how appropriate!) but they eventually agree that a tax on congestion while reducing travel time is harmful to many drivers and may be best thought of as any tax placed on a particular good--a way to raise government revenue from the pockets of the consumers of that good.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 2 Apr 2018 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-traffic/</link>
+      <content:encoded>&lt;p&gt;Does rush-hour traffic drive you crazy? Is a congestion tax on car travel a good idea? Michael Munger of Duke University talks with EconTalk host Russ Roberts about the economics of traffic and congestion taxes. It takes a while to get there (how appropriate!) but they eventually agree that a tax on congestion while reducing travel time is harmful to many drivers and may be best thought of as any tax placed on a particular good--a way to raise government revenue from the pockets of the consumers of that good.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="35612061" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a252fd3e-f3cd-485b-9af7-dc3b3517ea67/audio/5e976f9d-e707-430c-ad21-4b7d3a593c49/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Traffic</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:08</itunes:duration>
+      <itunes:summary>Does rush-hour traffic drive you crazy? Is a congestion tax on car travel a good idea? Michael Munger of Duke University talks with EconTalk host Russ Roberts about the economics of traffic and congestion taxes. It takes a while to get there (how appropriate!) but they eventually agree that a tax on congestion while reducing travel time is harmful to many drivers and may be best thought of as any tax placed on a particular good--a way to raise government revenue from the pockets of the consumers of that good.</itunes:summary>
+      <itunes:subtitle>Does rush-hour traffic drive you crazy? Is a congestion tax on car travel a good idea? Michael Munger of Duke University talks with EconTalk host Russ Roberts about the economics of traffic and congestion taxes. It takes a while to get there (how appropriate!) but they eventually agree that a tax on congestion while reducing travel time is harmful to many drivers and may be best thought of as any tax placed on a particular good--a way to raise government revenue from the pockets of the consumers of that good.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, urban, econlib, taxes, congestion pricing, cars, transportation, cities</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>623</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2017/Mungerpermissionless.mp3</guid>
+      <title>Michael Munger on Permissionless Innovation</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 30 Oct 2017 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-permissionless-innovation/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="65243620" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/d90cdc55-0b2b-4568-b950-62d1af4466f9/audio/ae70e6e9-11e4-4233-be29-17ad83ef7f78/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Permissionless Innovation</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:07:51</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, inventions, econlib, philosophy, entrepreneurship, politics, emergence</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>601</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2017/BoudreauxMungerRoberts.mp3</guid>
+      <title>Don Boudreaux, Michael Munger, and Russ Roberts on Emergent Order</title>
+      <description>&lt;p&gt;Why is it that people in large cities like Paris or New York City people sleep peacefully, unworried about whether there will be enough bread or other necessities available for purchase the next morning? No one is in charge--no bread czar. No flour czar. And yet it seems to work remarkably well. Don Boudreaux of George Mason University and Michael Munger of Duke University join EconTalk host Russ Roberts to discuss emergent order and markets. The conversation includes a reading of Roberts's poem, &amp;quot;It's a Wonderful Loaf.&amp;quot;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 12 Jun 2017 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/don-boudreaux-michael-munger-and-russ-roberts-on-emergent-order/</link>
+      <content:encoded>&lt;p&gt;Why is it that people in large cities like Paris or New York City people sleep peacefully, unworried about whether there will be enough bread or other necessities available for purchase the next morning? No one is in charge--no bread czar. No flour czar. And yet it seems to work remarkably well. Don Boudreaux of George Mason University and Michael Munger of Duke University join EconTalk host Russ Roberts to discuss emergent order and markets. The conversation includes a reading of Roberts's poem, &amp;quot;It's a Wonderful Loaf.&amp;quot;&lt;/p&gt;
+</content:encoded>
+      <enclosure length="35381553" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/23500f6a-39cb-4998-8a80-254dc0543033/audio/188e970e-0b8b-44b0-89c0-953a0eae794b/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Don Boudreaux, Michael Munger, and Russ Roberts on Emergent Order</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:13:39</itunes:duration>
+      <itunes:summary>Why is it that people in large cities like Paris or New York City people sleep peacefully, unworried about whether there will be enough bread or other necessities available for purchase the next morning? No one is in charge--no bread czar. No flour czar. And yet it seems to work remarkably well. Don Boudreaux of George Mason University and Michael Munger of Duke University join EconTalk host Russ Roberts to discuss emergent order and markets. The conversation includes a reading of Roberts's poem, "It's a Wonderful Loaf."</itunes:summary>
+      <itunes:subtitle>Why is it that people in large cities like Paris or New York City people sleep peacefully, unworried about whether there will be enough bread or other necessities available for purchase the next morning? No one is in charge--no bread czar. No flour czar. And yet it seems to work remarkably well. Don Boudreaux of George Mason University and Michael Munger of Duke University join EconTalk host Russ Roberts to discuss emergent order and markets. The conversation includes a reading of Roberts's poem, "It's a Wonderful Loaf."</itunes:subtitle>
+      <itunes:keywords>spontaneous order, economics, michael munger, econlib, top down, coordination, don boudreaux, emergence, competitive markets, friedrich hayek, cities, bottom up</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>581</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2017/Mungerguarantee.mp3</guid>
+      <title>Michael Munger on the Basic Income Guarantee</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues and negatives of a basic guaranteed income--giving every American adult an annual amount of money to guarantee a subsistence level of well-being. How would such a plan work? How would it interact with current anti-poverty programs? How would it affect recipients and taxpayers? Munger attacks these issues and more in a lively conversation with Roberts.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jan 2017 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-the-basic-income-guarantee/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues and negatives of a basic guaranteed income--giving every American adult an annual amount of money to guarantee a subsistence level of well-being. How would such a plan work? How would it interact with current anti-poverty programs? How would it affect recipients and taxpayers? Munger attacks these issues and more in a lively conversation with Roberts.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="30881977" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/f15bb346-c3b4-407c-9432-c02440eefec5/audio/25fd0d16-e765-44cb-920d-8a6f4dd953e5/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on the Basic Income Guarantee</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:16</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues and negatives of a basic guaranteed income--giving every American adult an annual amount of money to guarantee a subsistence level of well-being. How would such a plan work? How would it interact with current anti-poverty programs? How would it affect recipients and taxpayers? Munger attacks these issues and more in a lively conversation with Roberts.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about the virtues and negatives of a basic guaranteed income--giving every American adult an annual amount of money to guarantee a subsistence level of well-being. How would such a plan work? How would it interact with current anti-poverty programs? How would it affect recipients and taxpayers? Munger attacks these issues and more in a lively conversation with Roberts.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, econlib, income inequality, taxation, subsistence, poverty</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>560</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2016/Mungerslavery.mp3</guid>
+      <title>Michael Munger on Slavery and Racism</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about how attitudes in the American South toward slavery evolved over time and what we can learn from that evolution about the role culture plays in our lives.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 22 Aug 2016 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/munger-on-slavery-and-racism/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about how attitudes in the American South toward slavery evolved over time and what we can learn from that evolution about the role culture plays in our lives.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="35773756" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/4d55e217-bcfd-4149-bc82-7c077f2fb4f0/audio/aca29231-e3a8-4896-8213-e2dcd9a4c9fb/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Slavery and Racism</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:28</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about how attitudes in the American South toward slavery evolved over time and what we can learn from that evolution about the role culture plays in our lives.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about how attitudes in the American South toward slavery evolved over time and what we can learn from that evolution about the role culture plays in our lives.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, econlib, history, the south, culture</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>539</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2015/Mungerfivehundred.mp3</guid>
+      <title>Michael Munger on EconTalk's 500th Episode</title>
+      <description>&lt;p&gt;Michael Munger of Duke University makes his 29th appearance on the 500th episode of EconTalk alongside EconTalk host Russ Roberts. He talks about his personal intellectual journey, his interest in public choice, and Unicorn economics. Other topics include the origins of EconTalk, Roberts's intellectual roots, and the EconTalk theme music. The conversation closes with a brief reprise of a few highlights from past Munger appearances on EconTalk.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 23 Nov 2015 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-econtalks-500th-episode/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University makes his 29th appearance on the 500th episode of EconTalk alongside EconTalk host Russ Roberts. He talks about his personal intellectual journey, his interest in public choice, and Unicorn economics. Other topics include the origins of EconTalk, Roberts's intellectual roots, and the EconTalk theme music. The conversation closes with a brief reprise of a few highlights from past Munger appearances on EconTalk.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="35340982" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/69a725dc-2742-490b-9f26-e45499f78ad5/audio/8241c776-1db9-412d-930c-8758bb15b747/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on EconTalk's 500th Episode</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:13:34</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University makes his 29th appearance on the 500th episode of EconTalk alongside EconTalk host Russ Roberts. He talks about his personal intellectual journey, his interest in public choice, and Unicorn economics. Other topics include the origins of EconTalk, Roberts's intellectual roots, and the EconTalk theme music. The conversation closes with a brief reprise of a few highlights from past Munger appearances on EconTalk.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University makes his 29th appearance on the 500th episode of EconTalk alongside EconTalk host Russ Roberts. He talks about his personal intellectual journey, his interest in public choice, and Unicorn economics. Other topics include the origins of EconTalk, Roberts's intellectual roots, and the EconTalk theme music. The conversation closes with a brief reprise of a few highlights from past Munger appearances on EconTalk.</itunes:subtitle>
+      <itunes:keywords>about, economics, michael munger, econlib, intellectual history, theme music</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>500</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2015/Mungergroups.mp3</guid>
+      <title>Michael Munger on Choosing in Groups</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about his latest book (co-authored with Kevin Munger), Choosing in Groups. Munger lays out the challenges of group decision-making and the challenges of agreeing on constitutions or voting rules for group decision-making. The conversation highlights some of the challenges of majority rule and uses the Lewis and Clark expedition as an example.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 23 Feb 2015 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-choosing-in-groups/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about his latest book (co-authored with Kevin Munger), Choosing in Groups. Munger lays out the challenges of group decision-making and the challenges of agreeing on constitutions or voting rules for group decision-making. The conversation highlights some of the challenges of majority rule and uses the Lewis and Clark expedition as an example.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="36115297" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/72cb2399-7e69-410d-86ea-209c24e33dc3/audio/14f6be58-d676-41bc-b497-f08d9b8e59fe/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Choosing in Groups</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:15:11</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about his latest book (co-authored with Kevin Munger), Choosing in Groups. Munger lays out the challenges of group decision-making and the challenges of agreeing on constitutions or voting rules for group decision-making. The conversation highlights some of the challenges of majority rule and uses the Lewis and Clark expedition as an example.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about his latest book (co-authored with Kevin Munger), Choosing in Groups. Munger lays out the challenges of group decision-making and the challenges of agreeing on constitutions or voting rules for group decision-making. The conversation highlights some of the challenges of majority rule and uses the Lewis and Clark expedition as an example.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, public choice, constitutions, econlib, political science, majority rule, lewis clark</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>461</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2014/MungerRobertsSmith.mp3</guid>
+      <title>Russ Roberts and Michael Munger on How Adam Smith Can Change Your Life</title>
+      <description>&lt;p&gt;EconTalk host Russ Roberts is interviewed by long-time EconTalk guest Michael Munger about Russ's new book, How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness. Topics discussed include how economists view human motivation and consumer behavior, the role of conscience and self-interest in acts of kindness, and the costs and benefits of judging others. The conversation closes with a discussion of how Smith can help us understand villains in movies.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 13 Oct 2014 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/russ-roberts-and-mike-munger-on-how-adam-smith-can-change-your-life/</link>
+      <content:encoded>&lt;p&gt;EconTalk host Russ Roberts is interviewed by long-time EconTalk guest Michael Munger about Russ's new book, How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness. Topics discussed include how economists view human motivation and consumer behavior, the role of conscience and self-interest in acts of kindness, and the costs and benefits of judging others. The conversation closes with a discussion of how Smith can help us understand villains in movies.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="30923261" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/8a2d0d2d-f2d7-4aad-995f-6fdae0740370/audio/148fa149-a4f8-437b-8f92-ede4ac68662f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Russ Roberts and Michael Munger on How Adam Smith Can Change Your Life</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:22</itunes:duration>
+      <itunes:summary>EconTalk host Russ Roberts is interviewed by long-time EconTalk guest Michael Munger about Russ's new book, How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness. Topics discussed include how economists view human motivation and consumer behavior, the role of conscience and self-interest in acts of kindness, and the costs and benefits of judging others. The conversation closes with a discussion of how Smith can help us understand villains in movies.</itunes:summary>
+      <itunes:subtitle>EconTalk host Russ Roberts is interviewed by long-time EconTalk guest Michael Munger about Russ's new book, How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness. Topics discussed include how economists view human motivation and consumer behavior, the role of conscience and self-interest in acts of kindness, and the costs and benefits of judging others. The conversation closes with a discussion of how Smith can help us understand villains in movies.</itunes:subtitle>
+      <itunes:keywords>economics, happiness, econlib, self-interest, russ roberts and mike munger, philosophy</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>442</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2014/Mungersharing.mp3</guid>
+      <title>Michael Munger on the Sharing Economy</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the sharing economy--companies like Uber, AirBnB, FlightApp, and DogVacay that let people share their houses, cars, or other assets with strangers in exchange for money. These companies dramatically increase the use of resources that would otherwise be idle and disrupt existing services such as hotels and taxis. Topics discussed include the regulatory response to these companies, the politics of that response, and the significance of these new products. The conversation closes with the potential impact of Uber combining with driverless cars to change the automobile industry and cities.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 7 Jul 2014 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/michael-munger-on-the-sharing-economy/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the sharing economy--companies like Uber, AirBnB, FlightApp, and DogVacay that let people share their houses, cars, or other assets with strangers in exchange for money. These companies dramatically increase the use of resources that would otherwise be idle and disrupt existing services such as hotels and taxis. Topics discussed include the regulatory response to these companies, the politics of that response, and the significance of these new products. The conversation closes with the potential impact of Uber combining with driverless cars to change the automobile industry and cities.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="30294172" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/2958f7a6-8a40-4c35-bb82-0cb724a383cc/audio/74a5648e-40eb-45ed-a95c-f116f090726e/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on the Sharing Economy</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:03:04</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the sharing economy--companies like Uber, AirBnB, FlightApp, and DogVacay that let people share their houses, cars, or other assets with strangers in exchange for money. These companies dramatically increase the use of resources that would otherwise be idle and disrupt existing services such as hotels and taxis. Topics discussed include the regulatory response to these companies, the politics of that response, and the significance of these new products. The conversation closes with the potential impact of Uber combining with driverless cars to change the automobile industry and cities.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the sharing economy--companies like Uber, AirBnB, FlightApp, and DogVacay that let people share their houses, cars, or other assets with strangers in exchange for money. These companies dramatically increase the use of resources that would otherwise be idle and disrupt existing services such as hotels and taxis. Topics discussed include the regulatory response to these companies, the politics of that response, and the significance of these new products. The conversation closes with the potential impact of Uber combining with driverless cars to change the automobile industry and cities.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, uber, hotels, mike munger, technology, taxis</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>428</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2013/Mungermilk.mp3</guid>
+      <title>Michael Munger on Milk</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about why milk is in the back of the grocery store. Michael Pollan and others argue that milk is in the back so that customers, who often buy milk, will be forced to walk through the entire story and be encouraged by the trek to buy other items. Munger and Roberts argue that competition encourages stores to serve customers and that alternative explanations explain where milk is found in the store. The conversation also discusses restaurant pricing, government &amp;quot;nudging&amp;quot; and related issues of grocery economics.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 2 Sep 2013 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/munger-on-milk/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about why milk is in the back of the grocery store. Michael Pollan and others argue that milk is in the back so that customers, who often buy milk, will be forced to walk through the entire story and be encouraged by the trek to buy other items. Munger and Roberts argue that competition encourages stores to serve customers and that alternative explanations explain where milk is found in the store. The conversation also discusses restaurant pricing, government &amp;quot;nudging&amp;quot; and related issues of grocery economics.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="29288692" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a73d6668-476d-4b50-840b-6e69bc9f1f28/audio/11c446f3-4276-4f0a-9919-78257ec1a725/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Milk</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:00:58</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about why milk is in the back of the grocery store. Michael Pollan and others argue that milk is in the back so that customers, who often buy milk, will be forced to walk through the entire story and be encouraged by the trek to buy other items. Munger and Roberts argue that competition encourages stores to serve customers and that alternative explanations explain where milk is found in the store. The conversation also discusses restaurant pricing, government "nudging" and related issues of grocery economics.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about why milk is in the back of the grocery store. Michael Pollan and others argue that milk is in the back so that customers, who often buy milk, will be forced to walk through the entire story and be encouraged by the trek to buy other items. Munger and Roberts argue that competition encourages stores to serve customers and that alternative explanations explain where milk is found in the store. The conversation also discusses restaurant pricing, government "nudging" and related issues of grocery economics.</itunes:subtitle>
+      <itunes:keywords>economics, restaurants, nudge, competition, grocery stores, econlib, marketing, food, mike munger, supermarkets</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>383</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2013/Mungersports.mp3</guid>
+      <title>Michael Munger on Sports, Norms, Rules, and the Code</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about the role of formal rules and informal rules in sports. Many sports restrain violence and retaliation through formal rules while in others, protective equipment is used to reduce injury. In all sports, codes of conduct emerge to deal with violence and unobserved violations of formal rules. Munger explores the interaction of these forces across different sports and how they relate to insights of Coase and Hayek.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 1 Jul 2013 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/munger-on-sports-norms-rules-and-the-code/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about the role of formal rules and informal rules in sports. Many sports restrain violence and retaliation through formal rules while in others, protective equipment is used to reduce injury. In all sports, codes of conduct emerge to deal with violence and unobserved violations of formal rules. Munger explores the interaction of these forces across different sports and how they relate to insights of Coase and Hayek.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="29679914" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/b9be57ba-9693-4665-bc90-36379d5c0a55/audio/d92e2e58-5b16-4a94-badb-0d84057c10aa/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Sports, Norms, Rules, and the Code</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:01:47</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about the role of formal rules and informal rules in sports. Many sports restrain violence and retaliation through formal rules while in others, protective equipment is used to reduce injury. In all sports, codes of conduct emerge to deal with violence and unobserved violations of formal rules. Munger explores the interaction of these forces across different sports and how they relate to insights of Coase and Hayek.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about the role of formal rules and informal rules in sports. Many sports restrain violence and retaliation through formal rules while in others, protective equipment is used to reduce injury. In all sports, codes of conduct emerge to deal with violence and unobserved violations of formal rules. Munger explores the interaction of these forces across different sports and how they relate to insights of Coase and Hayek.</itunes:subtitle>
+      <itunes:keywords>economics, protective gear, michael munger, econlib, sport injuries, culture</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>374</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2012/MungerLocke.mp3</guid>
+      <title>Michael Munger on John Locke, Prices, and Hurricane Sandy</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled &amp;quot;Venditio,&amp;quot; Munger explores Locke's views on markets, prices, and morality.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 12 Nov 2012 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/munger-on-john-locke-prices-and-hurricane-sandy/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled &amp;quot;Venditio,&amp;quot; Munger explores Locke's views on markets, prices, and morality.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="31258127" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5755a6c6-2382-4e4e-a1dd-4fd6fce9f406/audio/35b556cf-dfed-46e4-b10b-a4b8b8aafc67/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on John Locke, Prices, and Hurricane Sandy</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:57</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled "Venditio," Munger explores Locke's views on markets, prices, and morality.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the gas shortage following Hurricane Sandy and John Locke's view of the just price. Drawing on a short, obscure essay of Locke's titled "Venditio," Munger explores Locke's views on markets, prices, and morality.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, morality, gouging, markets, prices, mike munger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>341</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2011/Mungerstories.mp3</guid>
+      <title>Michael Munger on Profits, Entrepreneurship, and Storytelling</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about profit. What is profit's role in allocating resources? How should we feel about the people who earn profits or who take them in ways that may not be earned? How easy is it to discover profitable opportunities? Munger examines these questions through a series of stories, real and fictional, to illuminate the sometimes puzzling nature of profit.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 12 Dec 2011 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/munger-on-profits-entrepreneurship-and-storytelling/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about profit. What is profit's role in allocating resources? How should we feel about the people who earn profits or who take them in ways that may not be earned? How easy is it to discover profitable opportunities? Munger examines these questions through a series of stories, real and fictional, to illuminate the sometimes puzzling nature of profit.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="30826592" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a21e6123-1987-4839-9e6d-09f53e9a803e/audio/3ed28051-db38-4c50-a710-c81a9b0d6c91/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Profits, Entrepreneurship, and Storytelling</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:03</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about profit. What is profit's role in allocating resources? How should we feel about the people who earn profits or who take them in ways that may not be earned? How easy is it to discover profitable opportunities? Munger examines these questions through a series of stories, real and fictional, to illuminate the sometimes puzzling nature of profit.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about profit. What is profit's role in allocating resources? How should we feel about the people who earn profits or who take them in ways that may not be earned? How easy is it to discover profitable opportunities? Munger examines these questions through a series of stories, real and fictional, to illuminate the sometimes puzzling nature of profit.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, stories, mike munger, resource allocation, entrepreneurs</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>293</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2011/Mungerexchange.mp3</guid>
+      <title>Michael Munger on Exchange, Exploitation and Euvoluntary Transactions</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the psychology, sociology, and economics of buying and selling. Why are different transactions that seemingly make both parties better off frowned on and often made illegal? In theory, all voluntary transactions should make both parties better off. But Munger argues that some transactions are more voluntary than others. Munger lists the attributes of a truly voluntary transaction, what he calls a euvoluntary transaction and argues that when transactions are not euvoluntary, they may be outlawed or seen as immoral. Related issues that are discussed include price gouging after a natural disaster, blackmail, sales of human organs, and the employment of low-wage workers.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 20 Jun 2011 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-exchange-exploitation-and-euvoluntary-transactions/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the psychology, sociology, and economics of buying and selling. Why are different transactions that seemingly make both parties better off frowned on and often made illegal? In theory, all voluntary transactions should make both parties better off. But Munger argues that some transactions are more voluntary than others. Munger lists the attributes of a truly voluntary transaction, what he calls a euvoluntary transaction and argues that when transactions are not euvoluntary, they may be outlawed or seen as immoral. Related issues that are discussed include price gouging after a natural disaster, blackmail, sales of human organs, and the employment of low-wage workers.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="30173547" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/3fff2272-a9d5-4b54-9b8b-1b60e1fd9538/mungerexchange_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Exchange, Exploitation and Euvoluntary Transactions</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:02:42</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the psychology, sociology, and economics of buying and selling. Why are different transactions that seemingly make both parties better off frowned on and often made illegal? In theory, all voluntary transactions should make both parties better off. But Munger argues that some transactions are more voluntary than others. Munger lists the attributes of a truly voluntary transaction, what he calls a euvoluntary transaction and argues that when transactions are not euvoluntary, they may be outlawed or seen as immoral. Related issues that are discussed include price gouging after a natural disaster, blackmail, sales of human organs, and the employment of low-wage workers.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the psychology, sociology, and economics of buying and selling. Why are different transactions that seemingly make both parties better off frowned on and often made illegal? In theory, all voluntary transactions should make both parties better off. But Munger argues that some transactions are more voluntary than others. Munger lists the attributes of a truly voluntary transaction, what he calls a euvoluntary transaction and argues that when transactions are not euvoluntary, they may be outlawed or seen as immoral. Related issues that are discussed include price gouging after a natural disaster, blackmail, sales of human organs, and the employment of low-wage workers.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, trade, psychology, mike munger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>268</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2011/Mungermicrofinance.mp3</guid>
+      <title>Michael Munger on Microfinance, Savings, and Poverty</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about microfinance. Munger argues that cultural forces make it difficult for some families to save, and the main value of microfinance is to allow a higher level of savings. Families are willing to save via microfinance even though returns can be negative. Munger argues that this counterintuitive result is possible when other means of savings are unavailable. Munger also discusses microfinance that is used for entrepreneurship and the potential role for microfinance in development.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 18 Apr 2011 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-microfinance-savings-and-poverty/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about microfinance. Munger argues that cultural forces make it difficult for some families to save, and the main value of microfinance is to allow a higher level of savings. Families are willing to save via microfinance even though returns can be negative. Munger argues that this counterintuitive result is possible when other means of savings are unavailable. Munger also discusses microfinance that is used for entrepreneurship and the potential role for microfinance in development.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="27926822" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/3560adaf-60d6-4f69-b0a3-d7b680da5f74/mungermicrofinance_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Microfinance, Savings, and Poverty</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:58:10</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about microfinance. Munger argues that cultural forces make it difficult for some families to save, and the main value of microfinance is to allow a higher level of savings. Families are willing to save via microfinance even though returns can be negative. Munger argues that this counterintuitive result is possible when other means of savings are unavailable. Munger also discusses microfinance that is used for entrepreneurship and the potential role for microfinance in development.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about microfinance. Munger argues that cultural forces make it difficult for some families to save, and the main value of microfinance is to allow a higher level of savings. Families are willing to save via microfinance even though returns can be negative. Munger argues that this counterintuitive result is possible when other means of savings are unavailable. Munger also discusses microfinance that is used for entrepreneurship and the potential role for microfinance in development.</itunes:subtitle>
+      <itunes:keywords>economics, development, econlib, microcredit, mike munger, entrepreneurs</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>259</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2010/Mungercompetition.mp3</guid>
+      <title>Michael Munger on Private and Public Rent-Seeking (and Chilean Buses)</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about private and public rent-seeking. When firms compete for either private profit opportunities or government contracts, there are inevitably firms or people who spend resources but end up earning little or nothing. What are the differences, if any between these two forms of competition? How do they related to competitions that award prizes for discovering new technologies? The conversation begins with a discussion of a recent trip Munger took to Chile where he observed the current state of the Chilean bus system, a topic he has discussed in the past.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 23 Aug 2010 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-private-and-public-rent-seeking-(and-chilean-buses)/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about private and public rent-seeking. When firms compete for either private profit opportunities or government contracts, there are inevitably firms or people who spend resources but end up earning little or nothing. What are the differences, if any between these two forms of competition? How do they related to competitions that award prizes for discovering new technologies? The conversation begins with a discussion of a recent trip Munger took to Chile where he observed the current state of the Chilean bus system, a topic he has discussed in the past.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="28053837" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/8de1a1f6-6865-4508-bde9-76dee5dc38b1/mungercompetition_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Private and Public Rent-Seeking (and Chilean Buses)</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:58:26</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about private and public rent-seeking. When firms compete for either private profit opportunities or government contracts, there are inevitably firms or people who spend resources but end up earning little or nothing. What are the differences, if any between these two forms of competition? How do they related to competitions that award prizes for discovering new technologies? The conversation begins with a discussion of a recent trip Munger took to Chile where he observed the current state of the Chilean bus system, a topic he has discussed in the past.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about private and public rent-seeking. When firms compete for either private profit opportunities or government contracts, there are inevitably firms or people who spend resources but end up earning little or nothing. What are the differences, if any between these two forms of competition? How do they related to competitions that award prizes for discovering new technologies? The conversation begins with a discussion of a recent trip Munger took to Chile where he observed the current state of the Chilean bus system, a topic he has discussed in the past.</itunes:subtitle>
+      <itunes:keywords>economics, competition, econlib, government contracts, mike munger, technology</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>225</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2010/Mungernonprofits.mp3</guid>
+      <title>Michael Munger on Love, Money, Profits, and Non-profits</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the world of profit, money, love, gifts, and incentives. What motivates people, self-interest or altruism? Both obviously. But how do these forces interact with each other? Does relying on one always provide a stronger incentive than the other? Do charities, for-profit businesses or government agencies do a better job providing a good or service? Munger and Roberts have a wide-ranging discussion across these issues including a section where they discuss whether Christmas gift-giving and gift-giving in general is inefficient.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 19 Apr 2010 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-love-money-profits-and-non-profits/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the world of profit, money, love, gifts, and incentives. What motivates people, self-interest or altruism? Both obviously. But how do these forces interact with each other? Does relying on one always provide a stronger incentive than the other? Do charities, for-profit businesses or government agencies do a better job providing a good or service? Munger and Roberts have a wide-ranging discussion across these issues including a section where they discuss whether Christmas gift-giving and gift-giving in general is inefficient.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="31209847" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/dd41ca7a-d30b-4b6a-84ef-afea234fbf81/mungernonprofits_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Love, Money, Profits, and Non-profits</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:05:01</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the world of profit, money, love, gifts, and incentives. What motivates people, self-interest or altruism? Both obviously. But how do these forces interact with each other? Does relying on one always provide a stronger incentive than the other? Do charities, for-profit businesses or government agencies do a better job providing a good or service? Munger and Roberts have a wide-ranging discussion across these issues including a section where they discuss whether Christmas gift-giving and gift-giving in general is inefficient.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the world of profit, money, love, gifts, and incentives. What motivates people, self-interest or altruism? Both obviously. But how do these forces interact with each other? Does relying on one always provide a stronger incentive than the other? Do charities, for-profit businesses or government agencies do a better job providing a good or service? Munger and Roberts have a wide-ranging discussion across these issues including a section where they discuss whether Christmas gift-giving and gift-giving in general is inefficient.</itunes:subtitle>
+      <itunes:keywords>altruism, economics, charity, gifts, mike munger, firms, econlib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>207</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2010/Mungermany.mp3</guid>
+      <title>Michael Munger on Many Things</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about many things. Listeners sent in questions for Mike and Russ to talk about and they chose ten of the most interesting questions with the idea of talking about each for six minutes. The topics are the scarcity of clean water, asset bubbles, the role of Fannie and Freddie in the financial crisis, can a business pass a tax on to its customers (or maybe even its workers), compassionate food, the study of economics, how to choose a college, the nature of cooperation in a modern economy, the humanity of non-profits, and the American Dream.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 18 Jan 2010 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-many-things/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about many things. Listeners sent in questions for Mike and Russ to talk about and they chose ten of the most interesting questions with the idea of talking about each for six minutes. The topics are the scarcity of clean water, asset bubbles, the role of Fannie and Freddie in the financial crisis, can a business pass a tax on to its customers (or maybe even its workers), compassionate food, the study of economics, how to choose a college, the nature of cooperation in a modern economy, the humanity of non-profits, and the American Dream.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="34916936" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/31765011-4358-489b-bd41-aee86fc2b914/mungermany_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Many Things</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:12:44</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about many things. Listeners sent in questions for Mike and Russ to talk about and they chose ten of the most interesting questions with the idea of talking about each for six minutes. The topics are the scarcity of clean water, asset bubbles, the role of Fannie and Freddie in the financial crisis, can a business pass a tax on to its customers (or maybe even its workers), compassionate food, the study of economics, how to choose a college, the nature of cooperation in a modern economy, the humanity of non-profits, and the American Dream.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about many things. Listeners sent in questions for Mike and Russ to talk about and they chose ten of the most interesting questions with the idea of talking about each for six minutes. The topics are the scarcity of clean water, asset bubbles, the role of Fannie and Freddie in the financial crisis, can a business pass a tax on to its customers (or maybe even its workers), compassionate food, the study of economics, how to choose a college, the nature of cooperation in a modern economy, the humanity of non-profits, and the American Dream.</itunes:subtitle>
+      <itunes:keywords>clean water, econlib, mike munger, economics, college, asset bubbles</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>194</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2009/Mungershortages.mp3</guid>
+      <title>Munger on Shortages, Prices, and Competition</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the limits of prices and markets, especially in the area of health. They talk about vaccines, organ transplants, the ethics of triage and what role price should play in allocating. The discussion concludes with a discussion of how markets respond to price controls, particularly minimum wages.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 19 Oct 2009 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-shortages-prices-and-competition/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the limits of prices and markets, especially in the area of health. They talk about vaccines, organ transplants, the ethics of triage and what role price should play in allocating. The discussion concludes with a discussion of how markets respond to price controls, particularly minimum wages.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="32642820" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/919d1afd-a3cc-4d4e-b2a5-d5c4d716f0a9/mungershortages_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Munger on Shortages, Prices, and Competition</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:08:00</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the limits of prices and markets, especially in the area of health. They talk about vaccines, organ transplants, the ethics of triage and what role price should play in allocating. The discussion concludes with a discussion of how markets respond to price controls, particularly minimum wages.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the limits of prices and markets, especially in the area of health. They talk about vaccines, organ transplants, the ethics of triage and what role price should play in allocating. The discussion concludes with a discussion of how markets respond to price controls, particularly minimum wages.</itunes:subtitle>
+      <itunes:keywords>mike munger, economics, health care, econlib, vaccines, minimum wages</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>181</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2009/Mungercultural.mp3</guid>
+      <title>Michael Munger on Cultural Norms</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about cultural norms--the subtle signals we send to each other in our daily interactions. Mike, having returned from a four-month stint as a visiting professor in Germany, talks about the challenges of being an American in a different culture with very different expectations on how people will interact. Our speech patterns, how we wait in line, how we treat each other at the grocery, the interaction between a teacher and a student, how we drive, how we tip for services rendered, even how we listen to music all emerge from our culture and are often different in different countries. The listener will learn what Ted Williams and Joe Dimaggio have to do with the Book of Judges along with the relative merits of Williams and Dimaggio performances in 1941.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 31 Aug 2009 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-cultural-norms/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about cultural norms--the subtle signals we send to each other in our daily interactions. Mike, having returned from a four-month stint as a visiting professor in Germany, talks about the challenges of being an American in a different culture with very different expectations on how people will interact. Our speech patterns, how we wait in line, how we treat each other at the grocery, the interaction between a teacher and a student, how we drive, how we tip for services rendered, even how we listen to music all emerge from our culture and are often different in different countries. The listener will learn what Ted Williams and Joe Dimaggio have to do with the Book of Judges along with the relative merits of Williams and Dimaggio performances in 1941.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="28100021" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/3c2bb564-d95b-47e3-a5c9-0ea00dab93c6/mungercultural_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Cultural Norms</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:58:32</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about cultural norms--the subtle signals we send to each other in our daily interactions. Mike, having returned from a four-month stint as a visiting professor in Germany, talks about the challenges of being an American in a different culture with very different expectations on how people will interact. Our speech patterns, how we wait in line, how we treat each other at the grocery, the interaction between a teacher and a student, how we drive, how we tip for services rendered, even how we listen to music all emerge from our culture and are often different in different countries. The listener will learn what Ted Williams and Joe Dimaggio have to do with the Book of Judges along with the relative merits of Williams and Dimaggio performances in 1941.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about cultural norms--the subtle signals we send to each other in our daily interactions. Mike, having returned from a four-month stint as a visiting professor in Germany, talks about the challenges of being an American in a different culture with very different expectations on how people will interact. Our speech patterns, how we wait in line, how we treat each other at the grocery, the interaction between a teacher and a student, how we drive, how we tip for services rendered, even how we listen to music all emerge from our culture and are often different in different countries. The listener will learn what Ted Williams and Joe Dimaggio have to do with the Book of Judges along with the relative merits of Williams and Dimaggio performances in 1941.</itunes:subtitle>
+      <itunes:keywords>germany, economics, michael munger, culture, sports, econlib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>174</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2009/Mungerfranchise.mp3</guid>
+      <title>Michael Munger on Franchising, Vertical Integration, and the Auto Industry</title>
+      <description>&lt;p&gt;Michael Munger, of Duke University, talks with EconTalk host Russ Roberts about franchising, particularly car dealerships. Munger highlights how the dealers used state regulations to protect their profits and how bankruptcy appears to be unraveling that strategy. The main themes of the conversation are the incentives in the franchising relationship and the evolution of the auto industry in the United States over the last forty years.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 22 Jun 2009 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-franchising-vertical-integration-and-the-auto-industry/</link>
+      <content:encoded>&lt;p&gt;Michael Munger, of Duke University, talks with EconTalk host Russ Roberts about franchising, particularly car dealerships. Munger highlights how the dealers used state regulations to protect their profits and how bankruptcy appears to be unraveling that strategy. The main themes of the conversation are the incentives in the franchising relationship and the evolution of the auto industry in the United States over the last forty years.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="27490846" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/7cc7c3f0-2cfe-4a6a-a28f-99858e649216/mungerfranchise_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Franchising, Vertical Integration, and the Auto Industry</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:57:16</itunes:duration>
+      <itunes:summary>Michael Munger, of Duke University, talks with EconTalk host Russ Roberts about franchising, particularly car dealerships. Munger highlights how the dealers used state regulations to protect their profits and how bankruptcy appears to be unraveling that strategy. The main themes of the conversation are the incentives in the franchising relationship and the evolution of the auto industry in the United States over the last forty years.</itunes:summary>
+      <itunes:subtitle>Michael Munger, of Duke University, talks with EconTalk host Russ Roberts about franchising, particularly car dealerships. Munger highlights how the dealers used state regulations to protect their profits and how bankruptcy appears to be unraveling that strategy. The main themes of the conversation are the incentives in the franchising relationship and the evolution of the auto industry in the United States over the last forty years.</itunes:subtitle>
+      <itunes:keywords>economics, car dealerships, econlib, bankruptcy, automobile, michael munger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>164</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2008/Mungermiddlemen.mp3</guid>
+      <title>Michael Munger on Middlemen</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the often-vilified middleman--someone who buys cheap, sells dear and does nothing to improve the product. Munger explains the economic function of arbitrage using a classic article about how prices emerged in a POW camp during World War II. Munger then applies the analysis to the financial crisis.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 27 Oct 2008 08:40:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-middlemen/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the often-vilified middleman--someone who buys cheap, sells dear and does nothing to improve the product. Munger explains the economic function of arbitrage using a classic article about how prices emerged in a POW camp during World War II. Munger then applies the analysis to the financial crisis.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="34838986" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/b38c5d89-8da6-42e2-b6c9-fffdcfabee3d/mungermiddlemen_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Middlemen</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:12:34</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the often-vilified middleman--someone who buys cheap, sells dear and does nothing to improve the product. Munger explains the economic function of arbitrage using a classic article about how prices emerged in a POW camp during World War II. Munger then applies the analysis to the financial crisis.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the often-vilified middleman--someone who buys cheap, sells dear and does nothing to improve the product. Munger explains the economic function of arbitrage using a classic article about how prices emerged in a POW camp during World War II. Munger then applies the analysis to the financial crisis.</itunes:subtitle>
+      <itunes:keywords>middleman, arbitrage, pow, econlib, finance, mike munger, economics</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>126</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2008/Mungertransportation.mp3</guid>
+      <title>Michael Munger on the Political Economy of Public Transportation</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about Munger's recent trip to Chile and the changes Chile has made to Santiago's bus system. What was once a private decentralized system with differing levels of quality and price has been transformed into a system of uniform quality designed from the top down. How has the new system fared? Not particularly well according to Munger. Commuting times are up and the President of Chile has apologized to the Chilean people for the failures of the new system. Munger talks about why such changes take place and why they persist even when they seem inferior to the original system that was replaced.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 7 Jul 2008 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-the-political-economy-of-public-transportation/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with EconTalk host Russ Roberts about Munger's recent trip to Chile and the changes Chile has made to Santiago's bus system. What was once a private decentralized system with differing levels of quality and price has been transformed into a system of uniform quality designed from the top down. How has the new system fared? Not particularly well according to Munger. Commuting times are up and the President of Chile has apologized to the Chilean people for the failures of the new system. Munger talks about why such changes take place and why they persist even when they seem inferior to the original system that was replaced.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="26934960" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/e6000e90-7506-441b-9a55-dddc4bf9bb08/mungertransportation_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on the Political Economy of Public Transportation</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:56:06</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about Munger's recent trip to Chile and the changes Chile has made to Santiago's bus system. What was once a private decentralized system with differing levels of quality and price has been transformed into a system of uniform quality designed from the top down. How has the new system fared? Not particularly well according to Munger. Commuting times are up and the President of Chile has apologized to the Chilean people for the failures of the new system. Munger talks about why such changes take place and why they persist even when they seem inferior to the original system that was replaced.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about Munger's recent trip to Chile and the changes Chile has made to Santiago's bus system. What was once a private decentralized system with differing levels of quality and price has been transformed into a system of uniform quality designed from the top down. How has the new system fared? Not particularly well according to Munger. Commuting times are up and the President of Chile has apologized to the Chilean people for the failures of the new system. Munger talks about why such changes take place and why they persist even when they seem inferior to the original system that was replaced.</itunes:subtitle>
+      <itunes:keywords>michael munger, econlib, bus system, economics, chile</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>110</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2008/Mungersubsidies.mp3</guid>
+      <title>Michael Munger on Subsidies and Externalities</title>
+      <description>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the economics of subsidies. What is the economic argument for subsidies? What is the history of the economic argument and what is its relevance today? Munger draws on his personal experience as a farmer to help listeners understand the pros and cons of using government-funded payments to encourage various activities deemed to be worth encouraging.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 24 Mar 2008 07:00:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/munger-on-subsidies-and-externalities/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University talks with EconTalk host Russ Roberts about the economics of subsidies. What is the economic argument for subsidies? What is the history of the economic argument and what is its relevance today? Munger draws on his personal experience as a farmer to help listeners understand the pros and cons of using government-funded payments to encourage various activities deemed to be worth encouraging.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="29906650" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/8ed7918b-888f-4d3f-9a95-f5e7158ee0a4/audio/72e6ed40-1105-406a-8c67-d67cd37b0d66/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Subsidies and Externalities</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:02:18</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the economics of subsidies. What is the economic argument for subsidies? What is the history of the economic argument and what is its relevance today? Munger draws on his personal experience as a farmer to help listeners understand the pros and cons of using government-funded payments to encourage various activities deemed to be worth encouraging.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University talks with EconTalk host Russ Roberts about the economics of subsidies. What is the economic argument for subsidies? What is the history of the economic argument and what is its relevance today? Munger draws on his personal experience as a farmer to help listeners understand the pros and cons of using government-funded payments to encourage various activities deemed to be worth encouraging.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, farm subsidies, regulation, mike munger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>95</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2008/Mungerfirms.mp3</guid>
+      <title>Michael Munger on the Nature of the Firm</title>
+      <description>&lt;p&gt;Mike Munger, of Duke University, talks about why firms exist. If prices and markets work so well (and they do) in steering economic resources, then why does so much economic activity take place within organizations that use command-and-control, top-down, centralized structures called firms? Within a firm, most of the goods and services that the workers use are given away rather than allocated by prices--computer services, legal services and almost everything else is not handed out by competition but by fiat, decided by a boss. A firm, the lynchpin of capitalism, is run like something akin to a centrally planned economy. Munger's answer, drawing on work of Ronald Coase, is a fascinating look at the often unseen costs of making various types of economic decisions. The result is a set of fascinating insights into why firms exist and why they do what they do.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 14 Jan 2008 06:15:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-the-nature-of-the-firm/</link>
+      <content:encoded>&lt;p&gt;Mike Munger, of Duke University, talks about why firms exist. If prices and markets work so well (and they do) in steering economic resources, then why does so much economic activity take place within organizations that use command-and-control, top-down, centralized structures called firms? Within a firm, most of the goods and services that the workers use are given away rather than allocated by prices--computer services, legal services and almost everything else is not handed out by competition but by fiat, decided by a boss. A firm, the lynchpin of capitalism, is run like something akin to a centrally planned economy. Munger's answer, drawing on work of Ronald Coase, is a fascinating look at the often unseen costs of making various types of economic decisions. The result is a set of fascinating insights into why firms exist and why they do what they do.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="29944475" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/db7c0e45-4934-4210-befc-9c89969b4406/mungerfirms_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on the Nature of the Firm</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:02:23</itunes:duration>
+      <itunes:summary>Mike Munger, of Duke University, talks about why firms exist. If prices and markets work so well (and they do) in steering economic resources, then why does so much economic activity take place within organizations that use command-and-control, top-down, centralized structures called firms? Within a firm, most of the goods and services that the workers use are given away rather than allocated by prices--computer services, legal services and almost everything else is not handed out by competition but by fiat, decided by a boss. A firm, the lynchpin of capitalism, is run like something akin to a centrally planned economy. Munger's answer, drawing on work of Ronald Coase, is a fascinating look at the often unseen costs of making various types of economic decisions. The result is a set of fascinating insights into why firms exist and why they do what they do.</itunes:summary>
+      <itunes:subtitle>Mike Munger, of Duke University, talks about why firms exist. If prices and markets work so well (and they do) in steering economic resources, then why does so much economic activity take place within organizations that use command-and-control, top-down, centralized structures called firms? Within a firm, most of the goods and services that the workers use are given away rather than allocated by prices--computer services, legal services and almost everything else is not handed out by competition but by fiat, decided by a boss. A firm, the lynchpin of capitalism, is run like something akin to a centrally planned economy. Munger's answer, drawing on work of Ronald Coase, is a fascinating look at the often unseen costs of making various types of economic decisions. The result is a set of fascinating insights into why firms exist and why they do what they do.</itunes:subtitle>
+      <itunes:keywords>economics, markets, econlib, coase, firms, mike munger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>85</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2007/Mungertrade.mp3</guid>
+      <title>Michael Munger on Fair Trade and Free Trade</title>
+      <description>&lt;p&gt;Mike Munger, frequent guest and longtime Econlib contributor, speaks with EconTalk host Russ Roberts about fair trade coffee and free trade agreements. Does the premium for fair trade coffee end up in the hands of the grower? What economic forces might stop that from happening? They discuss the business strategy of using higher wages as a marketing strategy to attract concerned consumers. They turn to the issue of free trade agreements. If the ideal situation is open borders to foreign products, is it still worthwhile to negotiate bilateral and multilateral agreements that requires delays, exemptions and a bureaucracy to enforce? What is the cost of including environmental and various labor market regulations in these agreements?&lt;/p&gt;
+</description>
+      <pubDate>Mon, 3 Dec 2007 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-fair-trade-and-free-trade/</link>
+      <content:encoded>&lt;p&gt;Mike Munger, frequent guest and longtime Econlib contributor, speaks with EconTalk host Russ Roberts about fair trade coffee and free trade agreements. Does the premium for fair trade coffee end up in the hands of the grower? What economic forces might stop that from happening? They discuss the business strategy of using higher wages as a marketing strategy to attract concerned consumers. They turn to the issue of free trade agreements. If the ideal situation is open borders to foreign products, is it still worthwhile to negotiate bilateral and multilateral agreements that requires delays, exemptions and a bureaucracy to enforce? What is the cost of including environmental and various labor market regulations in these agreements?&lt;/p&gt;
+</content:encoded>
+      <enclosure length="28303776" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/27022bcd-888f-423a-9c8b-60f68e8f4da6/mungertrade_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Fair Trade and Free Trade</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:58:57</itunes:duration>
+      <itunes:summary>Mike Munger, frequent guest and longtime Econlib contributor, speaks with EconTalk host Russ Roberts about fair trade coffee and free trade agreements. Does the premium for fair trade coffee end up in the hands of the grower? What economic forces might stop that from happening? They discuss the business strategy of using higher wages as a marketing strategy to attract concerned consumers. They turn to the issue of free trade agreements. If the ideal situation is open borders to foreign products, is it still worthwhile to negotiate bilateral and multilateral agreements that requires delays, exemptions and a bureaucracy to enforce? What is the cost of including environmental and various labor market regulations in these agreements?</itunes:summary>
+      <itunes:subtitle>Mike Munger, frequent guest and longtime Econlib contributor, speaks with EconTalk host Russ Roberts about fair trade coffee and free trade agreements. Does the premium for fair trade coffee end up in the hands of the grower? What economic forces might stop that from happening? They discuss the business strategy of using higher wages as a marketing strategy to attract concerned consumers. They turn to the issue of free trade agreements. If the ideal situation is open borders to foreign products, is it still worthwhile to negotiate bilateral and multilateral agreements that requires delays, exemptions and a bureaucracy to enforce? What is the cost of including environmental and various labor market regulations in these agreements?</itunes:subtitle>
+      <itunes:keywords>free trade, economics, mike munger, econlib, coffee</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>80</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2007/Mungergrabbag.mp3</guid>
+      <title>Grab Bag: Mike Munger and Russ Roberts on Recycling, Peak Oil and Steroids</title>
+      <description>&lt;p&gt;Mike Munger, of Duke University, and EconTalk host Russ Roberts clean up some loose ends from their previous conversation on recycling, move on to talk about the idea of buying local to reduce one's carbon footprint and then talk about the idea of peak oil. They close the conversation with the Rick Ankiel story and the implications for the Barry Bonds saga.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 24 Sep 2007 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/grab-bag:-munger-and-roberts-on-recycling-peak-oil-and-steroids/</link>
+      <content:encoded>&lt;p&gt;Mike Munger, of Duke University, and EconTalk host Russ Roberts clean up some loose ends from their previous conversation on recycling, move on to talk about the idea of buying local to reduce one's carbon footprint and then talk about the idea of peak oil. They close the conversation with the Rick Ankiel story and the implications for the Barry Bonds saga.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="31352998" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/28f17148-8970-42cd-b540-ae709b69a3cb/mungergrabbag_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Grab Bag: Mike Munger and Russ Roberts on Recycling, Peak Oil and Steroids</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:05:19</itunes:duration>
+      <itunes:summary>Mike Munger, of Duke University, and EconTalk host Russ Roberts clean up some loose ends from their previous conversation on recycling, move on to talk about the idea of buying local to reduce one's carbon footprint and then talk about the idea of peak oil. They close the conversation with the Rick Ankiel story and the implications for the Barry Bonds saga.</itunes:summary>
+      <itunes:subtitle>Mike Munger, of Duke University, and EconTalk host Russ Roberts clean up some loose ends from their previous conversation on recycling, move on to talk about the idea of buying local to reduce one's carbon footprint and then talk about the idea of peak oil. They close the conversation with the Rick Ankiel story and the implications for the Barry Bonds saga.</itunes:subtitle>
+      <itunes:keywords>baseball, mike munger, peak oil, econlib, buy local, recycling, economics</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>69</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2007/Mungerrecycling.mp3</guid>
+      <title>Michael Munger on Recycling</title>
+      <description>&lt;p&gt;Mike Munger, professor of economics and political science at Duke University and frequent guest of EconTalk, talks with host Russ Roberts about the economics and politics of recycling. Munger argues that recycling can save resources, of course, but it can also require more resources than production from scratch. Some curbside recycling, for example, makes sense, while other forms (such as green glass) may be akin to a form of religious expression rather than a wise policy that is environmentally productive. The conversation is based on Munger's recent essay at the Library of Economics and Liberty.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 2 Jul 2007 05:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-recycling/</link>
+      <content:encoded>&lt;p&gt;Mike Munger, professor of economics and political science at Duke University and frequent guest of EconTalk, talks with host Russ Roberts about the economics and politics of recycling. Munger argues that recycling can save resources, of course, but it can also require more resources than production from scratch. Some curbside recycling, for example, makes sense, while other forms (such as green glass) may be akin to a form of religious expression rather than a wise policy that is environmentally productive. The conversation is based on Munger's recent essay at the Library of Economics and Liberty.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="30004452" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/7e0f5b64-2326-4683-b4ab-91f261ee3a70/mungerrecycling_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Recycling</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:02:30</itunes:duration>
+      <itunes:summary>Mike Munger, professor of economics and political science at Duke University and frequent guest of EconTalk, talks with host Russ Roberts about the economics and politics of recycling. Munger argues that recycling can save resources, of course, but it can also require more resources than production from scratch. Some curbside recycling, for example, makes sense, while other forms (such as green glass) may be akin to a form of religious expression rather than a wise policy that is environmentally productive. The conversation is based on Munger's recent essay at the Library of Economics and Liberty.</itunes:summary>
+      <itunes:subtitle>Mike Munger, professor of economics and political science at Duke University and frequent guest of EconTalk, talks with host Russ Roberts about the economics and politics of recycling. Munger argues that recycling can save resources, of course, but it can also require more resources than production from scratch. Some curbside recycling, for example, makes sense, while other forms (such as green glass) may be akin to a form of religious expression rather than a wise policy that is environmentally productive. The conversation is based on Munger's recent essay at the Library of Economics and Liberty.</itunes:subtitle>
+      <itunes:keywords>glass, economics, mike munger, environment, regulation, econlib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>57</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/y2007/Mungerlabor.mp3</guid>
+      <title>Mike Munger on the Division of Labor</title>
+      <description>&lt;p&gt;Mike Munger of Duke University and EconTalk host Russ Roberts talk about specialization, the role of technology in aiding specialization and how the division of labor creates wealth.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 2 Apr 2007 06:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/mike-munger-on-the-division-of-labor/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University and EconTalk host Russ Roberts talk about specialization, the role of technology in aiding specialization and how the division of labor creates wealth.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="14788963" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/6f178987-cd97-4ee4-90df-989c309495b3/mungerlabor_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Mike Munger on the Division of Labor</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:01:37</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University and EconTalk host Russ Roberts talk about specialization, the role of technology in aiding specialization and how the division of labor creates wealth.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University and EconTalk host Russ Roberts talk about specialization, the role of technology in aiding specialization and how the division of labor creates wealth.</itunes:subtitle>
+      <itunes:keywords>specialization, mike munger, adam smith, division of labor, economics, econlib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>44</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/Mungergouging.mp3</guid>
+      <title>Michael Munger on Price Gouging</title>
+      <description>&lt;p&gt;Mike Munger of Duke University recounts the harrowing (and fascinating) experience of being in the path of a hurricane and the economic forces that were set in motion as a result. One of the most important is the import of urgent supplies when thousands of people are without electricity. Should prices be allowed to rise freely or should the government restrict prices? Listen in as Munger and EconTalk host Russ Roberts discuss the human side of economics after a catastrophe.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 8 Jan 2007 12:15:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/munger-on-price-gouging/</link>
+      <content:encoded>&lt;p&gt;Mike Munger of Duke University recounts the harrowing (and fascinating) experience of being in the path of a hurricane and the economic forces that were set in motion as a result. One of the most important is the import of urgent supplies when thousands of people are without electricity. Should prices be allowed to rise freely or should the government restrict prices? Listen in as Munger and EconTalk host Russ Roberts discuss the human side of economics after a catastrophe.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="14433176" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/27bfe15d-5473-45e0-8faa-0b053a264d94/mungergouging_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Price Gouging</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>01:00:08</itunes:duration>
+      <itunes:summary>Mike Munger of Duke University recounts the harrowing (and fascinating) experience of being in the path of a hurricane and the economic forces that were set in motion as a result. One of the most important is the import of urgent supplies when thousands of people are without electricity. Should prices be allowed to rise freely or should the government restrict prices? Listen in as Munger and EconTalk host Russ Roberts discuss the human side of economics after a catastrophe.</itunes:summary>
+      <itunes:subtitle>Mike Munger of Duke University recounts the harrowing (and fascinating) experience of being in the path of a hurricane and the economic forces that were set in motion as a result. One of the most important is the import of urgent supplies when thousands of people are without electricity. Should prices be allowed to rise freely or should the government restrict prices? Listen in as Munger and EconTalk host Russ Roberts discuss the human side of economics after a catastrophe.</itunes:subtitle>
+      <itunes:keywords>economics, hurricanes, price gouging econlib, mike munger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/Mungerpublic.mp3</guid>
+      <title>Michael Munger on Private vs. Public Risk-Taking</title>
+      <description>&lt;p&gt;Mike Munger and Russ Roberts discuss the differences between public and private risk-taking. Their conversation includes the history of Honda, the Apple computer and even the use of turkey carcasses as an energy source. They also try to understand why the public is skeptical of good new ideas but often embraces bad new ideas.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 3 Oct 2006 06:45:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/private-vs.-public-risk-taking/</link>
+      <content:encoded>&lt;p&gt;Mike Munger and Russ Roberts discuss the differences between public and private risk-taking. Their conversation includes the history of Honda, the Apple computer and even the use of turkey carcasses as an energy source. They also try to understand why the public is skeptical of good new ideas but often embraces bad new ideas.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="12443040" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/caabd44e-a1d5-4ae7-afb7-d8a7f9fd1e4f/mungerpublic_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Private vs. Public Risk-Taking</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:51:50</itunes:duration>
+      <itunes:summary>Mike Munger and Russ Roberts discuss the differences between public and private risk-taking. Their conversation includes the history of Honda, the Apple computer and even the use of turkey carcasses as an energy source. They also try to understand why the public is skeptical of good new ideas but often embraces bad new ideas.</itunes:summary>
+      <itunes:subtitle>Mike Munger and Russ Roberts discuss the differences between public and private risk-taking. Their conversation includes the history of Honda, the Apple computer and even the use of turkey carcasses as an energy source. They also try to understand why the public is skeptical of good new ideas but often embraces bad new ideas.</itunes:subtitle>
+      <itunes:keywords>mike munger, public choice, economics, econlib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/Mungerrentseeking.mp3</guid>
+      <title>Michael Munger on Giving Away Money: An Economist's Guide to Political Life</title>
+      <description>&lt;p&gt;Mike Munger, of Duke University, and Russ Roberts talk about the economics of politics, rent-seeking, lobbying and the sometimes perverse incentives of the political world.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 23 Jun 2006 12:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/giving-away-money:-an-economists-guide-to-political-life/</link>
+      <content:encoded>&lt;p&gt;Mike Munger, of Duke University, and Russ Roberts talk about the economics of politics, rent-seeking, lobbying and the sometimes perverse incentives of the political world.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="6927696" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/8a77e83a-c481-434d-a8d7-c767294f549b/mungerrentseeking_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Giving Away Money: An Economist's Guide to Political Life</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:summary>Mike Munger, of Duke University, and Russ Roberts talk about the economics of politics, rent-seeking, lobbying and the sometimes perverse incentives of the political world.</itunes:summary>
+      <itunes:subtitle>Mike Munger, of Duke University, and Russ Roberts talk about the economics of politics, rent-seeking, lobbying and the sometimes perverse incentives of the political world.</itunes:subtitle>
+      <itunes:keywords>economics, mike munger, econlib, politics, rent-seeking</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">http://www.econlib.org/library/Downloads/Munger_Radio.mp3</guid>
+      <title>Michael Munger on Ticket Scalping and Opportunity Cost</title>
+      <description>&lt;p&gt;Michael Munger of Duke University talks with Russ Roberts about the economics of ticket scalping, examining our reactions to free and found goods, gifts, e-Bay, value in use vs. value in exchange, and opportunity costs.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 10 Apr 2006 15:00:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Library of Economics and Liberty)</author>
+      <link>https://www.econtalk.org/ticket-scalping-and-opportunity-cost/</link>
+      <content:encoded>&lt;p&gt;Michael Munger of Duke University talks with Russ Roberts about the economics of ticket scalping, examining our reactions to free and found goods, gifts, e-Bay, value in use vs. value in exchange, and opportunity costs.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="14283235" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/6f832c26-88db-42ce-936d-436f19b97eeb/munger-radio_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Michael Munger on Ticket Scalping and Opportunity Cost</itunes:title>
+      <itunes:author>Library of Economics and Liberty</itunes:author>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:summary>Michael Munger of Duke University talks with Russ Roberts about the economics of ticket scalping, examining our reactions to free and found goods, gifts, e-Bay, value in use vs. value in exchange, and opportunity costs.</itunes:summary>
+      <itunes:subtitle>Michael Munger of Duke University talks with Russ Roberts about the economics of ticket scalping, examining our reactions to free and found goods, gifts, e-Bay, value in use vs. value in exchange, and opportunity costs.</itunes:subtitle>
+      <itunes:keywords>e-bay, ticket scalping, economics, opportunity costs, mike munger, econlib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
+  </channel>
+</rss>

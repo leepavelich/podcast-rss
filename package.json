@@ -1,0 +1,24 @@
+{
+  "name": "podcast-rss",
+  "version": "1.0.0",
+  "description": "Place for my podcast RSS scripts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leepavelich/podcast-rss.git"
+  },
+  "author": "Lee Pavelich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leepavelich/podcast-rss/issues"
+  },
+  "homepage": "https://github.com/leepavelich/podcast-rss#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "xml2js": "^0.4.23"
+  }
+}
