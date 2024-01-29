@@ -55,8 +55,8 @@ const processRSSFeed = async () => {
 };
 
 const main = async () => {
-  //   downloadRSSFeed(econtalkRSS);
-  processRSSFeed();
+  await downloadRSSFeed(econtalkRSS);
+  await processRSSFeed();
 };
 
 main();
