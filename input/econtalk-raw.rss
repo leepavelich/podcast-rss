@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Jan 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">63c91e75-906e-4e09-9864-f00ba18cfa45</guid>
+      <title>What Palestinians Are Thinking (with Dahlia Scheindlin)</title>
+      <description><![CDATA[<p>Pollster and political scientist Dahlia Scheindlin has worked extensively with public opinion polls of both Palestinians and Israelis. Listen as she talks with EconTalk's Russ Roberts about the dreams, fears, anger, and frustration of both sides. Along the way she analyzes the mood of Arab-Israelis and what optimism, if any, she has for a peaceful coexistence between Israelis and Palestinians in the aftermath of October 7th.</p>
+]]></description>
+      <pubDate>Mon, 29 Jan 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/what-palestinians-are-thinking-with-dahlia-scheindlin/</link>
+      <content:encoded><![CDATA[<p>Pollster and political scientist Dahlia Scheindlin has worked extensively with public opinion polls of both Palestinians and Israelis. Listen as she talks with EconTalk's Russ Roberts about the dreams, fears, anger, and frustration of both sides. Along the way she analyzes the mood of Arab-Israelis and what optimism, if any, she has for a peaceful coexistence between Israelis and Palestinians in the aftermath of October 7th.</p>
+]]></content:encoded>
+      <enclosure length="63264789" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/f4a3a932-99c1-413e-8f22-8c167ac9f19b/audio/529fd798-dba5-48f3-b850-beeecf05b169/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>What Palestinians Are Thinking (with Dahlia Scheindlin)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:05:37</itunes:duration>
+      <itunes:summary>Pollster and political scientist Dahlia Scheindlin has worked extensively with public opinion polls of both Palestinians and Israelis. Listen as she talks with EconTalk&apos;s Russ Roberts about the dreams, fears, anger, and frustration of both sides. Along the way she analyzes the mood of Arab-Israelis and what optimism, if any, she has for a peaceful coexistence between Israelis and Palestinians in the aftermath of October 7th.</itunes:summary>
+      <itunes:subtitle>Pollster and political scientist Dahlia Scheindlin has worked extensively with public opinion polls of both Palestinians and Israelis. Listen as she talks with EconTalk&apos;s Russ Roberts about the dreams, fears, anger, and frustration of both sides. Along the way she analyzes the mood of Arab-Israelis and what optimism, if any, she has for a peaceful coexistence between Israelis and Palestinians in the aftermath of October 7th.</itunes:subtitle>
+      <itunes:keywords>hamas, gaza, economics, surveys, public choice, econlib, arab-israelis, dahlia scheindlin, politics, palestinians</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>930</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">75a1f00d-29b1-4fe3-bad9-ed2417d537bf</guid>
       <title>If Life Is Random, Is It Meaningless? (with Brian Klaas)</title>
