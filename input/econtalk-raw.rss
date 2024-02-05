@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 29 Jan 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jan 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 5 Feb 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 5 Feb 2024 11:30:10 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">01426186-79c8-4b36-9927-0d9a8f1afbfe</guid>
+      <title>Should Israel Depend on the US? (with Michael Oren)</title>
+      <description><![CDATA[<p>For decades, American aid to Israel has sent a strategic message: the greatest superpower in the world stands behind the Jewish state. But does it really? Historian and former Israeli Ambassador to the U.S. Michael Oren tells EconTalk's Russ Roberts that it's time for Israel to stop accepting U.S. foreign aid. He also explains why he's optimistic about Israel's future even as the Gaza War drags on.</p>
+]]></description>
+      <pubDate>Mon, 5 Feb 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/should-israel-depend-on-the-us-with-michael-oren/</link>
+      <content:encoded><![CDATA[<p>For decades, American aid to Israel has sent a strategic message: the greatest superpower in the world stands behind the Jewish state. But does it really? Historian and former Israeli Ambassador to the U.S. Michael Oren tells EconTalk's Russ Roberts that it's time for Israel to stop accepting U.S. foreign aid. He also explains why he's optimistic about Israel's future even as the Gaza War drags on.</p>
+]]></content:encoded>
+      <enclosure length="70969444" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5b2e62a0-c054-43d4-b8db-c8caec98a48c/audio/945c7875-46a9-47d2-b771-3322bc56b0c4/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Should Israel Depend on the US? (with Michael Oren)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:13:39</itunes:duration>
+      <itunes:summary>For decades, American aid to Israel has sent a strategic message: the greatest superpower in the world stands behind the Jewish state. But does it really? Historian and former Israeli Ambassador to the U.S. Michael Oren tells EconTalk&apos;s Russ Roberts that it&apos;s time for Israel to stop accepting U.S. foreign aid. He also explains why he&apos;s optimistic about Israel&apos;s future even as the Gaza War drags on.</itunes:summary>
+      <itunes:subtitle>For decades, American aid to Israel has sent a strategic message: the greatest superpower in the world stands behind the Jewish state. But does it really? Historian and former Israeli Ambassador to the U.S. Michael Oren tells EconTalk&apos;s Russ Roberts that it&apos;s time for Israel to stop accepting U.S. foreign aid. He also explains why he&apos;s optimistic about Israel&apos;s future even as the Gaza War drags on.</itunes:subtitle>
+      <itunes:keywords>economics, international, econlib, foreign relations, financial aid, israelis, war, michael oren, antisemitism, palestinians</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>931</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">63c91e75-906e-4e09-9864-f00ba18cfa45</guid>
       <title>What Palestinians Are Thinking (with Dahlia Scheindlin)</title>
