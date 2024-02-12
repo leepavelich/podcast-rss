@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 5 Feb 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 5 Feb 2024 11:30:10 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">1f367782-b3d8-48cc-9abd-119d6b05c48c</guid>
+      <title>Year Zero of the Arab-Israeli Conflict (with Hillel Cohen)</title>
+      <description><![CDATA[<p>How far back should you go to understand the current moment in the relationship between Israel and its Palestinian neighbors and the attack of October 7? Some would say 2005, or 1967, or maybe 1948 when the State of Israel was founded. But for historian and author Hillel Cohen of Hebrew University, year zero was 1929. Listen as he explains to EconTalk's Russ Roberts the significance of that year for the current moment, and the challenge of being an open-minded historian when tribal issues loom large.</p>
+]]></description>
+      <pubDate>Mon, 12 Feb 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/year-zero-of-the-arab-israeli-conflict-with-hillel-cohen/</link>
+      <content:encoded><![CDATA[<p>How far back should you go to understand the current moment in the relationship between Israel and its Palestinian neighbors and the attack of October 7? Some would say 2005, or 1967, or maybe 1948 when the State of Israel was founded. But for historian and author Hillel Cohen of Hebrew University, year zero was 1929. Listen as he explains to EconTalk's Russ Roberts the significance of that year for the current moment, and the challenge of being an open-minded historian when tribal issues loom large.</p>
+]]></content:encoded>
+      <enclosure length="65643452" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/2bee7168-86dc-4833-9b00-b6445647a21c/audio/a0f3f58d-d041-4efc-b75e-c88c56b6f64c/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Year Zero of the Arab-Israeli Conflict (with Hillel Cohen)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:06</itunes:duration>
+      <itunes:summary>How far back should you go to understand the current moment in the relationship between Israel and its Palestinian neighbors and the attack of October 7? Some would say 2005, or 1967, or maybe 1948 when the State of Israel was founded. But for historian and author Hillel Cohen of Hebrew University, year zero was 1929. Listen as he explains to EconTalk&apos;s Russ Roberts the significance of that year for the current moment, and the challenge of being an open-minded historian when tribal issues loom large.</itunes:summary>
+      <itunes:subtitle>How far back should you go to understand the current moment in the relationship between Israel and its Palestinian neighbors and the attack of October 7? Some would say 2005, or 1967, or maybe 1948 when the State of Israel was founded. But for historian and author Hillel Cohen of Hebrew University, year zero was 1929. Listen as he explains to EconTalk&apos;s Russ Roberts the significance of that year for the current moment, and the challenge of being an open-minded historian when tribal issues loom large.</itunes:subtitle>
+      <itunes:keywords>economics, west bank, econlib, morality, hebron, history, israelis, hillel cohen, palestinians, tribalism</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>932</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">01426186-79c8-4b36-9927-0d9a8f1afbfe</guid>
       <title>Should Israel Depend on the US? (with Michael Oren)</title>
