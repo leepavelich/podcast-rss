@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 19 Feb 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Feb 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">46bcbec6-48db-4803-89fe-10fe60df38a9</guid>
+      <title>The Secrets of Great Conversation (with Charles Duhigg)</title>
+      <description><![CDATA[<p>When EconTalk's Russ Roberts sat down with Charles Duhigg to talk about his new book on the art of conversation, <i>Supercommunicators</i>, Roberts tried to apply some of its lessons to his conversation with the author. The result is this special conversation between two people eager to connect and communicate. Enjoy.</p>
+]]></description>
+      <pubDate>Mon, 26 Feb 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-secrets-of-great-conversation-with-charles-duhigg/</link>
+      <content:encoded><![CDATA[<p>When EconTalk's Russ Roberts sat down with Charles Duhigg to talk about his new book on the art of conversation, <i>Supercommunicators</i>, Roberts tried to apply some of its lessons to his conversation with the author. The result is this special conversation between two people eager to connect and communicate. Enjoy.</p>
+]]></content:encoded>
+      <enclosure length="80035933" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c053bd68-d434-4db3-9781-8e4ae807ea75/audio/d78f1d0d-255d-497b-b1e9-9586bd69ad84/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Secrets of Great Conversation (with Charles Duhigg)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:23:05</itunes:duration>
+      <itunes:summary>When EconTalk&apos;s Russ Roberts sat down with Charles Duhigg to talk about his new book on the art of conversation, Supercommunicators, Roberts tried to apply some of its lessons to his conversation with the author. The result is this special conversation between two people eager to connect and communicate. Enjoy.</itunes:summary>
+      <itunes:subtitle>When EconTalk&apos;s Russ Roberts sat down with Charles Duhigg to talk about his new book on the art of conversation, Supercommunicators, Roberts tried to apply some of its lessons to his conversation with the author. The result is this special conversation between two people eager to connect and communicate. Enjoy.</itunes:subtitle>
+      <itunes:keywords>economics, human interactions, communications, self-help, charles duhigg, econlib, conversationalists, debates, supercommunicators, empathy, looping</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>934</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">fb9be8e4-092c-47b7-b99a-a67983ba3346</guid>
       <title>A Lively Debate on the Israeli-Palestinian Conflict (with Robert Wright)</title>
