@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 4 Mar 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 4 Mar 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Mar 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Mar 2024 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">89a047c1-38c7-46c0-8fb5-32e890959056</guid>
+      <title>Living with Exponential Change (with Azeem Azhar)</title>
+      <description><![CDATA[<p>The world of today would seem alien to someone living 30 years ago: people seduced by their screens in private and public and now AI blurring the lines between humans and the machine. Author and technologist Azeem Azhar chronicles the pace of change and asks whether the human experience can cope with that pace while preserving what is fundamentally human.</p>
+]]></description>
+      <pubDate>Mon, 11 Mar 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/living-with-exponential-change-with-azeem-azhar/</link>
+      <content:encoded><![CDATA[<p>The world of today would seem alien to someone living 30 years ago: people seduced by their screens in private and public and now AI blurring the lines between humans and the machine. Author and technologist Azeem Azhar chronicles the pace of change and asks whether the human experience can cope with that pace while preserving what is fundamentally human.</p>
+]]></content:encoded>
+      <enclosure length="71469068" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/ad52a9a4-c8a6-48ad-94b0-20045b206322/audio/a6ac8157-5c22-4332-a17b-aa420ddecdd2/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Living with Exponential Change (with Azeem Azhar)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:10</itunes:duration>
+      <itunes:summary>The world of today would seem alien to someone living 30 years ago: people seduced by their screens in private and public and now AI blurring the lines between humans and the machine. Author and technologist Azeem Azhar chronicles the pace of change and asks whether the human experience can cope with that pace while preserving what is fundamentally human.</itunes:summary>
+      <itunes:subtitle>The world of today would seem alien to someone living 30 years ago: people seduced by their screens in private and public and now AI blurring the lines between humans and the machine. Author and technologist Azeem Azhar chronicles the pace of change and asks whether the human experience can cope with that pace while preserving what is fundamentally human.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, azeem azhar, humans, solar energy, artificial intelligence, technology</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>936</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">57b3b7a2-0499-4020-9778-affcf760f78b</guid>
       <title>How to Avoid Lying With Statistics (with Jeremy Weber)</title>
