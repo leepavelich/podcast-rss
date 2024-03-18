@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 11 Mar 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2024 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">34ff2142-7a51-4314-b33e-607fae0e124d</guid>
+      <title>Voices from Gaza (with Ahmed Alkhatib)</title>
+      <description><![CDATA[<p>Ahmed Fouad Alkhatib spent much of his childhood in Gaza before becoming an American citizen. He has lost dozens of family members and both his childhood homes in Israel's war in Gaza. But he hasn't lost hope for peace and the future of the Palestinian people. Listen as he describes the reality of life in Gaza under Hamas rule, and what he believes most Gazans think of Hamas. He also shares his thoughts on how to save Israel's hostages, and how Palestinians can thrive once the war is over.</p>
+]]></description>
+      <pubDate>Mon, 18 Mar 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/voices-from-gaza-with-ahmed-alkhatib/</link>
+      <content:encoded><![CDATA[<p>Ahmed Fouad Alkhatib spent much of his childhood in Gaza before becoming an American citizen. He has lost dozens of family members and both his childhood homes in Israel's war in Gaza. But he hasn't lost hope for peace and the future of the Palestinian people. Listen as he describes the reality of life in Gaza under Hamas rule, and what he believes most Gazans think of Hamas. He also shares his thoughts on how to save Israel's hostages, and how Palestinians can thrive once the war is over.</p>
+]]></content:encoded>
+      <enclosure length="70309715" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/58c127f5-56a2-4199-8c8d-762e4db45630/audio/f7d10395-35df-4c6c-b4b1-a39b1b689a91/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Voices from Gaza (with Ahmed Alkhatib)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:12:58</itunes:duration>
+      <itunes:summary>Ahmed Fouad Alkhatib spent much of his childhood in Gaza before becoming an American citizen. He has lost dozens of family members and both his childhood homes in Israel&apos;s war in Gaza. But he hasn&apos;t lost hope for peace and the future of the Palestinian people. Listen as he describes the reality of life in Gaza under Hamas rule, and what he believes most Gazans think of Hamas. He also shares his thoughts on how to save Israel&apos;s hostages, and how Palestinians can thrive once the war is over.</itunes:summary>
+      <itunes:subtitle>Ahmed Fouad Alkhatib spent much of his childhood in Gaza before becoming an American citizen. He has lost dozens of family members and both his childhood homes in Israel&apos;s war in Gaza. But he hasn&apos;t lost hope for peace and the future of the Palestinian people. Listen as he describes the reality of life in Gaza under Hamas rule, and what he believes most Gazans think of Hamas. He also shares his thoughts on how to save Israel&apos;s hostages, and how Palestinians can thrive once the war is over.</itunes:subtitle>
+      <itunes:keywords>hamas, economics, israel, econlib, palestine, middle east, war, ahmed alkhatib</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>937</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">89a047c1-38c7-46c0-8fb5-32e890959056</guid>
       <title>Living with Exponential Change (with Azeem Azhar)</title>
