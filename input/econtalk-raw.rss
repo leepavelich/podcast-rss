@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 18 Mar 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Mar 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Mar 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">6459230e-4ddd-4db2-b68e-39682aa9438c</guid>
+      <title>What Does &quot;Unbiased&quot; Mean in the Digital World? (with Megan McArdle)</title>
+      <description><![CDATA[<p>Listen as Megan McArdle and EconTalk's Russ Roberts use Google's new AI entrant Gemini as the starting point for a discussion about the future of our culture in the shadow of AI bias. They also discuss the tension between rules and discretion in Western society and why the ultimate answer to AI bias can't be found in technology.</p>
+]]></description>
+      <pubDate>Mon, 25 Mar 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/what-does-unbiased-mean-in-the-digital-world-with-megan-mcardle/</link>
+      <content:encoded><![CDATA[<p>Listen as Megan McArdle and EconTalk's Russ Roberts use Google's new AI entrant Gemini as the starting point for a discussion about the future of our culture in the shadow of AI bias. They also discuss the tension between rules and discretion in Western society and why the ultimate answer to AI bias can't be found in technology.</p>
+]]></content:encoded>
+      <enclosure length="69785547" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/57e491ee-f28b-4baa-ba48-0c51a245f42e/audio/1242333c-743c-4abe-963b-7e4ae56e58fb/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>What Does &quot;Unbiased&quot; Mean in the Digital World? (with Megan McArdle)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:12:25</itunes:duration>
+      <itunes:summary>Listen as Megan McArdle and EconTalk&apos;s Russ Roberts use Google&apos;s new AI entrant Gemini as the starting point for a discussion about the future of our culture in the shadow of AI bias. They also discuss the tension between rules and discretion in Western society and why the ultimate answer to AI bias can&apos;t be found in technology.</itunes:summary>
+      <itunes:subtitle>Listen as Megan McArdle and EconTalk&apos;s Russ Roberts use Google&apos;s new AI entrant Gemini as the starting point for a discussion about the future of our culture in the shadow of AI bias. They also discuss the tension between rules and discretion in Western society and why the ultimate answer to AI bias can&apos;t be found in technology.</itunes:subtitle>
+      <itunes:keywords>accuracy, gemini, economics, truth, megan mcardle, econlib, future, bias, artificial intelligence, technology</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>938</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">34ff2142-7a51-4314-b33e-607fae0e124d</guid>
       <title>Voices from Gaza (with Ahmed Alkhatib)</title>
