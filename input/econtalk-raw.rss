@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 25 Mar 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Mar 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 1 Apr 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 1 Apr 2024 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">c9bce15b-2a12-4f8f-8ca2-cc627302e9dc</guid>
+      <title>A User&apos;s Guide to Our Emotional Thermostat (with Adam Mastroianni)</title>
+      <description><![CDATA[<p>Can you be too happy? Psychologist Adam Mastroianni talks with EconTalk's Russ Roberts about our emotional control systems, which seem to work at bringing both sadness and happiness back to a steady baseline. Too much happiness is--perhaps surprisingly--not necessarily a good thing. They also explore whether our general level of happiness is really related to events in our lives or connected to something much larger than ourselves.</p>
+]]></description>
+      <pubDate>Mon, 1 Apr 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/a-users-guide-to-our-emotional-thermostat-with-adam-mastroianni/</link>
+      <content:encoded><![CDATA[<p>Can you be too happy? Psychologist Adam Mastroianni talks with EconTalk's Russ Roberts about our emotional control systems, which seem to work at bringing both sadness and happiness back to a steady baseline. Too much happiness is--perhaps surprisingly--not necessarily a good thing. They also explore whether our general level of happiness is really related to events in our lives or connected to something much larger than ourselves.</p>
+]]></content:encoded>
+      <enclosure length="60792317" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/56082c28-ca01-41d3-9fd0-c486109443b3/audio/e7f2bbfc-256a-4401-aafa-8a1f76f4a1db/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>A User&apos;s Guide to Our Emotional Thermostat (with Adam Mastroianni)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:03:03</itunes:duration>
+      <itunes:summary>Can you be too happy? Psychologist Adam Mastroianni talks with EconTalk&apos;s Russ Roberts about our emotional control systems, which seem to work at bringing both sadness and happiness back to a steady baseline. Too much happiness is--perhaps surprisingly--not necessarily a good thing. They also explore whether our general level of happiness is really related to events in our lives or connected to something much larger than ourselves.</itunes:summary>
+      <itunes:subtitle>Can you be too happy? Psychologist Adam Mastroianni talks with EconTalk&apos;s Russ Roberts about our emotional control systems, which seem to work at bringing both sadness and happiness back to a steady baseline. Too much happiness is--perhaps surprisingly--not necessarily a good thing. They also explore whether our general level of happiness is really related to events in our lives or connected to something much larger than ourselves.</itunes:subtitle>
+      <itunes:keywords>economics, happiness, econlib, adam mastroianni, emotions, behavioral, brain</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>939</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">6459230e-4ddd-4db2-b68e-39682aa9438c</guid>
       <title>What Does &quot;Unbiased&quot; Mean in the Digital World? (with Megan McArdle)</title>
