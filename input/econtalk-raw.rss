@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 1 Apr 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 1 Apr 2024 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 8 Apr 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 8 Apr 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">d608f8c7-e868-4d44-99bb-eadab5af12fe</guid>
+      <title>Rituals Without Religion (with Michael Norton)</title>
+      <description><![CDATA[<p>While religion may play less of a role in many people's lives, rituals--the lifeblood of religion--remain central to the human experience. Listen as Michael Norton of the Harvard Business School explains how and why rituals remain at the center of our lives--they give meaning to life-cycle events and secular holidays, calm our fears, and give us a sense of control when the pressure to perform can otherwise overwhelm us.</p>
+]]></description>
+      <pubDate>Mon, 8 Apr 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/rituals-without-religion-with-michael-norton/</link>
+      <content:encoded><![CDATA[<p>While religion may play less of a role in many people's lives, rituals--the lifeblood of religion--remain central to the human experience. Listen as Michael Norton of the Harvard Business School explains how and why rituals remain at the center of our lives--they give meaning to life-cycle events and secular holidays, calm our fears, and give us a sense of control when the pressure to perform can otherwise overwhelm us.</p>
+]]></content:encoded>
+      <enclosure length="58811248" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3780dfad-0772-4e42-81a1-5689fbf8d81e/audio/ddd3934a-110b-4658-943c-4c39d6ac0e6f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Rituals Without Religion (with Michael Norton)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:00:59</itunes:duration>
+      <itunes:summary>While religion may play less of a role in many people&apos;s lives, rituals--the lifeblood of religion--remain central to the human experience. Listen as Michael Norton of the Harvard Business School explains how and why rituals remain at the center of our lives--they give meaning to life-cycle events and secular holidays, calm our fears, and give us a sense of control when the pressure to perform can otherwise overwhelm us.</itunes:summary>
+      <itunes:subtitle>While religion may play less of a role in many people&apos;s lives, rituals--the lifeblood of religion--remain central to the human experience. Listen as Michael Norton of the Harvard Business School explains how and why rituals remain at the center of our lives--they give meaning to life-cycle events and secular holidays, calm our fears, and give us a sense of control when the pressure to perform can otherwise overwhelm us.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, habits, family, calm, psychology, michael norton, behavior</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>940</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">c9bce15b-2a12-4f8f-8ca2-cc627302e9dc</guid>
       <title>A User&apos;s Guide to Our Emotional Thermostat (with Adam Mastroianni)</title>
