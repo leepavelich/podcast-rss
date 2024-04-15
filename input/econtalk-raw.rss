@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 8 Apr 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 8 Apr 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2024 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">9ca24c98-73ac-4411-8898-6c75bb80ff9e</guid>
+      <title>When Prediction Is Not Enough (with Teppo Felin)</title>
+      <description><![CDATA[<p>If the Wright Brothers could have used AI to guide their decision making, it's almost certain they would never have gotten off the ground. That's because, points out Teppo Felin of Utah State University and Oxford, all the evidence said human flight was impossible. So how and why did the Wrights persevere? Felin explains that the human ability to ignore existing data and evidence is not only our Achilles heel, but also one of our superpowers. Topics include the problems inherent in modeling our brains after computers, and the value of not only data-driven prediction, but also belief-driven experimentation.</p>
+]]></description>
+      <pubDate>Mon, 15 Apr 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/when-prediction-is-not-enough-with-teppo-felin/</link>
+      <content:encoded><![CDATA[<p>If the Wright Brothers could have used AI to guide their decision making, it's almost certain they would never have gotten off the ground. That's because, points out Teppo Felin of Utah State University and Oxford, all the evidence said human flight was impossible. So how and why did the Wrights persevere? Felin explains that the human ability to ignore existing data and evidence is not only our Achilles heel, but also one of our superpowers. Topics include the problems inherent in modeling our brains after computers, and the value of not only data-driven prediction, but also belief-driven experimentation.</p>
+]]></content:encoded>
+      <enclosure length="64742926" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/64524bd5-6d18-40a2-a70a-c342eff746a4/audio/a8eda809-ed34-456e-b063-fdb4a631facb/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>When Prediction Is Not Enough (with Teppo Felin)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:07:10</itunes:duration>
+      <itunes:summary>If the Wright Brothers could have used AI to guide their decision making, it&apos;s almost certain they would never have gotten off the ground. That&apos;s because, points out Teppo Felin of Utah State University and Oxford, all the evidence said human flight was impossible. So how and why did the Wrights persevere? Felin explains that the human ability to ignore existing data and evidence is not only our Achilles heel, but also one of our superpowers. Topics include the problems inherent in modeling our brains after computers, and the value of not only data-driven prediction, but also belief-driven experimentation.</itunes:summary>
+      <itunes:subtitle>If the Wright Brothers could have used AI to guide their decision making, it&apos;s almost certain they would never have gotten off the ground. That&apos;s because, points out Teppo Felin of Utah State University and Oxford, all the evidence said human flight was impossible. So how and why did the Wrights persevere? Felin explains that the human ability to ignore existing data and evidence is not only our Achilles heel, but also one of our superpowers. Topics include the problems inherent in modeling our brains after computers, and the value of not only data-driven prediction, but also belief-driven experimentation.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, priors, biases, perseverence, teppo felin, artificial intelligence, innovation, evidence, wright brothers</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>941</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">d608f8c7-e868-4d44-99bb-eadab5af12fe</guid>
       <title>Rituals Without Religion (with Michael Norton)</title>
