@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Apr 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Apr 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2024 10:30:10 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">de0b97c6-ac0c-4981-abf5-b06ba61d578a</guid>
+      <title>The Top EconTalk Conversations of 2023 (with Russ Roberts)</title>
+      <description><![CDATA[<p>The favorite EconTalk episodes for host Russ Roberts are when he and his guest have an unusually powerful connection such as his recent episode with Charles Duhigg, and the ones where he learns something mind-blowing, like Adam Mastroianni’s insight that you can’t reach the brain through the ears. Listen as Russ explains how he chooses guests, and why EconTalk has evolved to focus on things other than economics. He also shares listeners' favorite conversations from 2023, and tells a story that shows the challenges—and opportunities—of applying EconTalk’s lessons to our personal lives.</p>
+]]></description>
+      <pubDate>Mon, 29 Apr 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-top-econtalk-conversations-of-2023-with-russ-roberts/</link>
+      <content:encoded><![CDATA[<p>The favorite EconTalk episodes for host Russ Roberts are when he and his guest have an unusually powerful connection such as his recent episode with Charles Duhigg, and the ones where he learns something mind-blowing, like Adam Mastroianni’s insight that you can’t reach the brain through the ears. Listen as Russ explains how he chooses guests, and why EconTalk has evolved to focus on things other than economics. He also shares listeners' favorite conversations from 2023, and tells a story that shows the challenges—and opportunities—of applying EconTalk’s lessons to our personal lives.</p>
+]]></content:encoded>
+      <enclosure length="40719478" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/50c7ebd2-f769-4f85-9266-8cc9e9490f03/audio/1b4f06ea-b265-4908-bd67-657d720253b4/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Top EconTalk Conversations of 2023 (with Russ Roberts)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:42:08</itunes:duration>
+      <itunes:summary>The favorite EconTalk episodes for host Russ Roberts are when he and his guest have an unusually powerful connection such as his recent episode with Charles Duhigg, and the ones where he learns something mind-blowing, like Adam Mastroianni’s insight that you can’t reach the brain through the ears. Listen as Russ explains how he chooses guests, and why EconTalk has evolved to focus on things other than economics. He also shares listeners&apos; favorite conversations from 2023, and tells a story that shows the challenges—and opportunities—of applying EconTalk’s lessons to our personal lives.</itunes:summary>
+      <itunes:subtitle>The favorite EconTalk episodes for host Russ Roberts are when he and his guest have an unusually powerful connection such as his recent episode with Charles Duhigg, and the ones where he learns something mind-blowing, like Adam Mastroianni’s insight that you can’t reach the brain through the ears. Listen as Russ explains how he chooses guests, and why EconTalk has evolved to focus on things other than economics. He also shares listeners&apos; favorite conversations from 2023, and tells a story that shows the challenges—and opportunities—of applying EconTalk’s lessons to our personal lives.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, conversations, favorites, top ten, anniversary, russ roberts</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>943</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3b61a5f3-2d7d-45f2-b75b-6b7e2e63c031</guid>
       <title>Seeking Immortality (with Paul Bloom)</title>
