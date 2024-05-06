@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 29 Apr 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2024 10:30:10 +0000</lastBuildDate>
+    <pubDate>Mon, 6 May 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 6 May 2024 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">7614383f-c6d7-42e7-945c-c6ba03ceb2c2</guid>
+      <title>Living with the Constitution (with A.J. Jacobs)</title>
+      <description><![CDATA[<p>What does it mean to live Constitutionally in the year 2024? For a start, it means getting off social media. It also means swapping a quill pen for your keyboard, and candlelight for electricity. And don't forget the tricorn hat and musket--though maybe skip the boiled mutton. Join author A.J. Jacobs as he deep-dives with EconTalk's Russ Roberts into the centuries-old principles of the U.S. Constitution and tries to apply them to the current day. Topics include the original conceptions of our most cherished amendments, the office of the President, and the Supreme Court, and an explanation of how one can be an originalist and still believe in gender equity. Jacobs also shares his family's experience writing its own constitution, and explains why his research made him more optimistic about the future of American democracy.</p>
+]]></description>
+      <pubDate>Mon, 6 May 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/living-with-the-constitution-with-a-j-jacobs/</link>
+      <content:encoded><![CDATA[<p>What does it mean to live Constitutionally in the year 2024? For a start, it means getting off social media. It also means swapping a quill pen for your keyboard, and candlelight for electricity. And don't forget the tricorn hat and musket--though maybe skip the boiled mutton. Join author A.J. Jacobs as he deep-dives with EconTalk's Russ Roberts into the centuries-old principles of the U.S. Constitution and tries to apply them to the current day. Topics include the original conceptions of our most cherished amendments, the office of the President, and the Supreme Court, and an explanation of how one can be an originalist and still believe in gender equity. Jacobs also shares his family's experience writing its own constitution, and explains why his research made him more optimistic about the future of American democracy.</p>
+]]></content:encoded>
+      <enclosure length="66358772" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/8e64f3f6-b8c9-4d3e-9260-bac8f10908a9/audio/45b09547-4ed1-42d6-b1a5-0bd7a87aa9e0/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Living with the Constitution (with A.J. Jacobs)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:51</itunes:duration>
+      <itunes:summary>What does it mean to live Constitutionally in the year 2024? For a start, it means getting off social media. It also means swapping a quill pen for your keyboard, and candlelight for electricity. And don&apos;t forget the tricorn hat and musket--though maybe skip the boiled mutton. Join author A.J. Jacobs as he deep-dives with EconTalk&apos;s Russ Roberts into the centuries-old principles of the U.S. Constitution and tries to apply them to the current day. Topics include the original conceptions of our most cherished amendments, the office of the President, and the Supreme Court, and an explanation of how one can be an originalist and still believe in gender equity. Jacobs also shares his family&apos;s experience writing its own constitution, and explains why his research made him more optimistic about the future of American democracy.</itunes:summary>
+      <itunes:subtitle>What does it mean to live Constitutionally in the year 2024? For a start, it means getting off social media. It also means swapping a quill pen for your keyboard, and candlelight for electricity. And don&apos;t forget the tricorn hat and musket--though maybe skip the boiled mutton. Join author A.J. Jacobs as he deep-dives with EconTalk&apos;s Russ Roberts into the centuries-old principles of the U.S. Constitution and tries to apply them to the current day. Topics include the original conceptions of our most cherished amendments, the office of the President, and the Supreme Court, and an explanation of how one can be an originalist and still believe in gender equity. Jacobs also shares his family&apos;s experience writing its own constitution, and explains why his research made him more optimistic about the future of American democracy.</itunes:subtitle>
+      <itunes:keywords>economics, legislation, econlib, law, family, living, norms, a.j. jacobs, constitutionally</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>944</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">de0b97c6-ac0c-4981-abf5-b06ba61d578a</guid>
       <title>The Top EconTalk Conversations of 2023 (with Russ Roberts)</title>
