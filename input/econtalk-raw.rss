@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 13 May 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 13 May 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">80cca1d7-0b57-4b14-92f9-59958f1f1507</guid>
+      <title>Purpose, Pleasure, and Meaning in a World Without Work (with Nicholas Bostrom)</title>
+      <description><![CDATA[<p>If you didn't have to work to enjoy material abundance, would you do it anyway? If an algorithm or a pill could achieve better results, would you bother shopping or going to the gym? These are the kinds of questions we'll need to ask ourselves if AI makes all human labor and other traditional ways of spending time obsolete. Oxford philosopher Nicholas Bostrom, author of <i>Deep Utopia</i>, is downright bullish about our ability, not only to adjust to a life stripped of labor, but to thrive. Listen as Bostrom explains to EconTalk's Russ Roberts what pleasure and leisure might look like in a world without struggle or pain, and why art and religion may come out still standing, or even become more necessary. Finally, they speak about how AI might free us up to be the best people we can be.</p>
+]]></description>
+      <pubDate>Mon, 20 May 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/purpose-pleasure-and-meaning-in-a-world-without-work-with-nicholas-bostrom/</link>
+      <content:encoded><![CDATA[<p>If you didn't have to work to enjoy material abundance, would you do it anyway? If an algorithm or a pill could achieve better results, would you bother shopping or going to the gym? These are the kinds of questions we'll need to ask ourselves if AI makes all human labor and other traditional ways of spending time obsolete. Oxford philosopher Nicholas Bostrom, author of <i>Deep Utopia</i>, is downright bullish about our ability, not only to adjust to a life stripped of labor, but to thrive. Listen as Bostrom explains to EconTalk's Russ Roberts what pleasure and leisure might look like in a world without struggle or pain, and why art and religion may come out still standing, or even become more necessary. Finally, they speak about how AI might free us up to be the best people we can be.</p>
+]]></content:encoded>
+      <enclosure length="73737871" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/cc804318-aa6c-4aae-95e8-b20083f2c5a6/audio/739a75cd-33fa-41ea-9ae1-1ef97416e990/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Purpose, Pleasure, and Meaning in a World Without Work (with Nicholas Bostrom)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:16:32</itunes:duration>
+      <itunes:summary>If you didn&apos;t have to work to enjoy material abundance, would you do it anyway? If an algorithm or a pill could achieve better results, would you bother shopping or going to the gym? These are the kinds of questions we&apos;ll need to ask ourselves if AI makes all human labor and other traditional ways of spending time obsolete. Oxford philosopher Nicholas Bostrom, author of Deep Utopia, is downright bullish about our ability, not only to adjust to a life stripped of labor, but to thrive. Listen as Bostrom explains to EconTalk&apos;s Russ Roberts what pleasure and leisure might look like in a world without struggle or pain, and why art and religion may come out still standing, or even become more necessary. Finally, they speak about how AI might free us up to be the best people we can be.</itunes:summary>
+      <itunes:subtitle>If you didn&apos;t have to work to enjoy material abundance, would you do it anyway? If an algorithm or a pill could achieve better results, would you bother shopping or going to the gym? These are the kinds of questions we&apos;ll need to ask ourselves if AI makes all human labor and other traditional ways of spending time obsolete. Oxford philosopher Nicholas Bostrom, author of Deep Utopia, is downright bullish about our ability, not only to adjust to a life stripped of labor, but to thrive. Listen as Bostrom explains to EconTalk&apos;s Russ Roberts what pleasure and leisure might look like in a world without struggle or pain, and why art and religion may come out still standing, or even become more necessary. Finally, they speak about how AI might free us up to be the best people we can be.</itunes:subtitle>
+      <itunes:keywords>economics, labor, econlib, leisure, robots, nicholas bostrom, artificial intelligence, jobs</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>946</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">345faa4b-1f33-45b0-ba3d-f3df5eb3c844</guid>
       <title>Glenn Loury Tells All</title>
@@ -10478,7 +10499,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
       <itunes:duration>01:08:34</itunes:duration>
       <itunes:summary>Nick Bostrom of the University of Oxford talks with EconTalk host Russ Roberts about his book, Superintelligence: Paths, Dangers, Strategies. Bostrom argues that when machines exist which dwarf human intelligence they will threaten human existence unless steps are taken now to reduce the risk. The conversation covers the likelihood of the worst scenarios, strategies that might be used to reduce the risk and the implications for labor markets, and human flourishing in a world of superintelligent machines.</itunes:summary>
       <itunes:subtitle>Nick Bostrom of the University of Oxford talks with EconTalk host Russ Roberts about his book, Superintelligence: Paths, Dangers, Strategies. Bostrom argues that when machines exist which dwarf human intelligence they will threaten human existence unless steps are taken now to reduce the risk. The conversation covers the likelihood of the worst scenarios, strategies that might be used to reduce the risk and the implications for labor markets, and human flourishing in a world of superintelligent machines.</itunes:subtitle>
-      <itunes:keywords>economics, labor, nick bostrom, econlib, computers, robots, humans, singularity, jobs</itunes:keywords>
+      <itunes:keywords>economics, labor, econlib, computers, robots, humans, singularity, nicholas bostrom, jobs</itunes:keywords>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>449</itunes:episode>
