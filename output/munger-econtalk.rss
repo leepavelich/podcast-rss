@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <atom:link href="https://feeds.simplecast.com/wgl4xEgL" rel="self" title="MP3 Audio" type="application/atom+xml"/>
-    <atom:link href="https://simplecast.superfeedr.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://simplecast.superfeedr.com,https://api.prod.stitcher.com/podcast/feeds" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
     <generator>https://simplecast.com</generator>
     <title>EconTalk | Mike Munger Episodes</title>
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 27 May 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 27 May 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 3 Jun 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 3 Jun 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>

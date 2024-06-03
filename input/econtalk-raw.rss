@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <atom:link href="https://feeds.simplecast.com/wgl4xEgL" rel="self" title="MP3 Audio" type="application/atom+xml"/>
-    <atom:link href="https://simplecast.superfeedr.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://simplecast.superfeedr.com,https://api.prod.stitcher.com/podcast/feeds" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
     <generator>https://simplecast.com</generator>
     <title>EconTalk</title>
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 27 May 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 27 May 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 3 Jun 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 3 Jun 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">00606d5f-763a-4faa-ac0f-0e1834cddf19</guid>
+      <title>Injustice and the &quot;Letter from Birmingham Jail&quot; (with Dwayne Betts)</title>
+      <description><![CDATA[<p>When poet, lawyer, and MacArthur Fellow Dwayne Betts was imprisoned for nine years at the age of 16 for carjacking, he only wept twice. One of those times was when he read Martin Luther King Jr.'s "Letter from Birmingham Jail." In this powerful conversation with EconTalk's Russ Roberts, Betts explains why he cried, what he learned from King, King's urgency in the face of injustice, and Betts's thoughts on writing the introduction to a new volume of King's letter.</p>
+]]></description>
+      <pubDate>Mon, 3 Jun 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/injustice-and-the-letter-from-birmingham-jail-with-dwayne-betts/</link>
+      <content:encoded><![CDATA[<p>When poet, lawyer, and MacArthur Fellow Dwayne Betts was imprisoned for nine years at the age of 16 for carjacking, he only wept twice. One of those times was when he read Martin Luther King Jr.'s "Letter from Birmingham Jail." In this powerful conversation with EconTalk's Russ Roberts, Betts explains why he cried, what he learned from King, King's urgency in the face of injustice, and Betts's thoughts on writing the introduction to a new volume of King's letter.</p>
+]]></content:encoded>
+      <enclosure length="61756684" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/fb807912-04f5-42f6-875a-bdd4adbfaa64/audio/293a2df3-9991-4d4d-a519-3090f688c55b/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Injustice and the &quot;Letter from Birmingham Jail&quot; (with Dwayne Betts)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:03</itunes:duration>
+      <itunes:summary>When poet, lawyer, and MacArthur Fellow Dwayne Betts was imprisoned for nine years at the age of 16 for carjacking, he only wept twice. One of those times was when he read Martin Luther King Jr.&apos;s &quot;Letter from Birmingham Jail.&quot; In this powerful conversation with EconTalk&apos;s Russ Roberts, Betts explains why he cried, what he learned from King, King&apos;s urgency in the face of injustice, and Betts&apos;s thoughts on writing the introduction to a new volume of King&apos;s letter.</itunes:summary>
+      <itunes:subtitle>When poet, lawyer, and MacArthur Fellow Dwayne Betts was imprisoned for nine years at the age of 16 for carjacking, he only wept twice. One of those times was when he read Martin Luther King Jr.&apos;s &quot;Letter from Birmingham Jail.&quot; In this powerful conversation with EconTalk&apos;s Russ Roberts, Betts explains why he cried, what he learned from King, King&apos;s urgency in the face of injustice, and Betts&apos;s thoughts on writing the introduction to a new volume of King&apos;s letter.</itunes:subtitle>
+      <itunes:keywords>economics, laws, jails, econlib, dwayne betts, mlk, history, prisons, crimes</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>948</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">ae7c85df-b24e-4cbb-b8f4-23bbc04e76a8</guid>
       <title>The Good, the Bad, and the Ugly of the Covid Vaccine (with Vinay Prasad)</title>
