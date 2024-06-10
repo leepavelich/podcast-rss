@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <atom:link href="https://feeds.simplecast.com/wgl4xEgL" rel="self" title="MP3 Audio" type="application/atom+xml"/>
-    <atom:link href="https://simplecast.superfeedr.com,https://api.prod.stitcher.com/podcast/feeds" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
     <generator>https://simplecast.com</generator>
     <title>EconTalk</title>
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 3 Jun 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 3 Jun 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">1210d445-6098-407d-8805-590e01cfcfb4</guid>
+      <title>How the Constitution Can Bring Us Together (with Yuval Levin)</title>
+      <description><![CDATA[<p>Can a document unify a nation? Yuval Levin of the American Enterprise Institute and author of <i>American Covenant</i> argues that the Constitution unified the United States at the founding of the country and that understanding the Constitution can help bring the country together today. Listen as Levin speaks with EconTalk's Russ Roberts about how the Constitution not only took into account fractious politics, but also ensured that polarization would lead to a stronger democracy. Topics include the inherent limitations placed on the majority and how that affects policy formation, the vital if misunderstood advantages of the electoral college, and why, despite all the warnings to the contrary, this is far from a dangerous moment in American political history.</p>
+]]></description>
+      <pubDate>Mon, 10 Jun 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-the-constitution-can-bring-us-together-with-yuval-levin/</link>
+      <content:encoded><![CDATA[<p>Can a document unify a nation? Yuval Levin of the American Enterprise Institute and author of <i>American Covenant</i> argues that the Constitution unified the United States at the founding of the country and that understanding the Constitution can help bring the country together today. Listen as Levin speaks with EconTalk's Russ Roberts about how the Constitution not only took into account fractious politics, but also ensured that polarization would lead to a stronger democracy. Topics include the inherent limitations placed on the majority and how that affects policy formation, the vital if misunderstood advantages of the electoral college, and why, despite all the warnings to the contrary, this is far from a dangerous moment in American political history.</p>
+]]></content:encoded>
+      <enclosure length="60664551" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/b156b2a4-f6bf-4655-a25c-fa89a88b6ad7/audio/d0c47b50-5864-417b-bf19-d20d4cd05513/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How the Constitution Can Bring Us Together (with Yuval Levin)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:02:55</itunes:duration>
+      <itunes:summary>Can a document unify a nation? Yuval Levin of the American Enterprise Institute and author of American Covenant argues that the Constitution unified the United States at the founding of the country and that understanding the Constitution can help bring the country together today. Listen as Levin speaks with EconTalk&apos;s Russ Roberts about how the Constitution not only took into account fractious politics, but also ensured that polarization would lead to a stronger democracy. Topics include the inherent limitations placed on the majority and how that affects policy formation, the vital if misunderstood advantages of the electoral college, and why, despite all the warnings to the contrary, this is far from a dangerous moment in American political history.</itunes:summary>
+      <itunes:subtitle>Can a document unify a nation? Yuval Levin of the American Enterprise Institute and author of American Covenant argues that the Constitution unified the United States at the founding of the country and that understanding the Constitution can help bring the country together today. Listen as Levin speaks with EconTalk&apos;s Russ Roberts about how the Constitution not only took into account fractious politics, but also ensured that polarization would lead to a stronger democracy. Topics include the inherent limitations placed on the majority and how that affects policy formation, the vital if misunderstood advantages of the electoral college, and why, despite all the warnings to the contrary, this is far from a dangerous moment in American political history.</itunes:subtitle>
+      <itunes:keywords>economics, laws, constitutions, econlib, nations, history, yuval levin, democracies</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>949</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">00606d5f-763a-4faa-ac0f-0e1834cddf19</guid>
       <title>Injustice and the &quot;Letter from Birmingham Jail&quot; (with Dwayne Betts)</title>
