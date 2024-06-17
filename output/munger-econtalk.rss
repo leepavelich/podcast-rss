@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 10 Jun 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2024 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16028df5-36f1-4884-974d-eeb3d359d63b</guid>
+      <title>Does Market Failure Justify Government Intervention? (with Michael Munger)</title>
+      <description>&lt;p&gt;Economics students are often taught that government should intervene when there is market failure. But what about government failure? Should we expect government intervention to outperform market outcomes? Listen as Duke University economist Michael Munger explores the history of how economists have thought about this dilemma and possible ways to find a third or even fourth option beyond government or markets.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 17 Jun 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/does-market-failure-justify-government-intervention-with-michael-munger/</link>
+      <content:encoded>&lt;p&gt;Economics students are often taught that government should intervene when there is market failure. But what about government failure? Should we expect government intervention to outperform market outcomes? Listen as Duke University economist Michael Munger explores the history of how economists have thought about this dilemma and possible ways to find a third or even fourth option beyond government or markets.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="65613686" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/81aafb34-d365-4b10-9a49-410ed6b7672d/audio/cb1e41d9-7f19-4c06-b9a6-be6c4fd8a7c2/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Does Market Failure Justify Government Intervention? (with Michael Munger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:04</itunes:duration>
+      <itunes:summary>Economics students are often taught that government should intervene when there is market failure. But what about government failure? Should we expect government intervention to outperform market outcomes? Listen as Duke University economist Michael Munger explores the history of how economists have thought about this dilemma and possible ways to find a third or even fourth option beyond government or markets.</itunes:summary>
+      <itunes:subtitle>Economics students are often taught that government should intervene when there is market failure. But what about government failure? Should we expect government intervention to outperform market outcomes? Listen as Duke University economist Michael Munger explores the history of how economists have thought about this dilemma and possible ways to find a third or even fourth option beyond government or markets.</itunes:subtitle>
+      <itunes:keywords>economics, michael munger, government, econlib, markets, regulation, political science</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>950</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">33e3b572-9c16-4acc-9ab2-7a12ac1e6a7b</guid>
       <title>Michael Munger on How Adam Smith Solved the Trolley Problem</title>
