@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 24 Jun 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Jun 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 1 Jul 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 1 Jul 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -37,6 +37,27 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <item>
+      <guid isPermaLink="false">cde6d261-adb1-462e-bdc1-3575de76c416</guid>
+      <title>Is Israel Occupying the West Bank? (with Eugene Kontorovich)</title>
+      <description><![CDATA[<p>To international law expert Eugene Kontorovich of George Mason University, all the arguments that make Israel out to be an occupying force collapse under the weight of a single, simple fact: A country cannot occupy territory to which it has a legal claim. Listen as Kontorovich speaks with EconTalk's Russ Roberts about the legal issues surrounding occupation as well as the moral issues of Israel's treatment of the Palestinians. They also discuss the crazy-quilt legal environment of jurisdiction in the West Bank in the aftermath of the Oslo Accords of 1993. Finally, they explore the likely outcomes of current proposals for a Palestinian state in the West Bank.</p>
+]]></description>
+      <pubDate>Mon, 1 Jul 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/is-israel-occupying-the-west-bank-with-eugene-kontorovich/</link>
+      <content:encoded><![CDATA[<p>To international law expert Eugene Kontorovich of George Mason University, all the arguments that make Israel out to be an occupying force collapse under the weight of a single, simple fact: A country cannot occupy territory to which it has a legal claim. Listen as Kontorovich speaks with EconTalk's Russ Roberts about the legal issues surrounding occupation as well as the moral issues of Israel's treatment of the Palestinians. They also discuss the crazy-quilt legal environment of jurisdiction in the West Bank in the aftermath of the Oslo Accords of 1993. Finally, they explore the likely outcomes of current proposals for a Palestinian state in the West Bank.</p>
+]]></content:encoded>
+      <enclosure length="63911743" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a2348094-1cf9-4546-94f6-e3352062a8c5/audio/191727c8-2579-4088-93f3-492f8b805586/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Is Israel Occupying the West Bank? (with Eugene Kontorovich)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:06:18</itunes:duration>
+      <itunes:summary>To international law expert Eugene Kontorovich of George Mason University, all the arguments that make Israel out to be an occupying force collapse under the weight of a single, simple fact: A country cannot occupy territory to which it has a legal claim. Listen as Kontorovich speaks with EconTalk&apos;s Russ Roberts about the legal issues surrounding occupation as well as the moral issues of Israel&apos;s treatment of the Palestinians. They also discuss the crazy-quilt legal environment of jurisdiction in the West Bank in the aftermath of the Oslo Accords of 1993. Finally, they explore the likely outcomes of current proposals for a Palestinian state in the West Bank.</itunes:summary>
+      <itunes:subtitle>To international law expert Eugene Kontorovich of George Mason University, all the arguments that make Israel out to be an occupying force collapse under the weight of a single, simple fact: A country cannot occupy territory to which it has a legal claim. Listen as Kontorovich speaks with EconTalk&apos;s Russ Roberts about the legal issues surrounding occupation as well as the moral issues of Israel&apos;s treatment of the Palestinians. They also discuss the crazy-quilt legal environment of jurisdiction in the West Bank in the aftermath of the Oslo Accords of 1993. Finally, they explore the likely outcomes of current proposals for a Palestinian state in the West Bank.</itunes:subtitle>
+      <itunes:keywords>economics, israel, laws, occupation, econlib, history, eugene kontorovich, violence, palestinians</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>952</itunes:episode>
+    </item>
+    <item>
       <guid isPermaLink="false">93b181c9-5ccf-46dd-ad41-c03eeeef716f</guid>
       <title>René Girard, Mimesis, and Conflict (with Cynthia Haven)</title>
       <description><![CDATA[<p>If you're always imitating others or aspiring to be something else, what's left of the "authentic" you? According to the French philosopher René Girard, not much: Nothing can be truly authentic, he argued--everything comes from somewhere else. This is just one of the many original and counterintuitive claims put forth in Girard's sweeping approach to human history. He argues it is sameness, not our difference that leads to conflict, and he sees religion as a way to contain the chaos as opposed to its first cause. Listen as Stanford University scholar Cynthia Haven speaks with EconTalk's Russ Roberts about Girard's theories of desire and violence. The conversation also includes a discussion of the power of forgiveness to put a stop to conflict's rinse-and-repeat.</p>
@@ -46,7 +67,7 @@
       <link>https://www.econtalk.org/rene-girard-mimesis-and-conflict-with-cynthia-haven/</link>
       <content:encoded><![CDATA[<p>If you're always imitating others or aspiring to be something else, what's left of the "authentic" you? According to the French philosopher René Girard, not much: Nothing can be truly authentic, he argued--everything comes from somewhere else. This is just one of the many original and counterintuitive claims put forth in Girard's sweeping approach to human history. He argues it is sameness, not our difference that leads to conflict, and he sees religion as a way to contain the chaos as opposed to its first cause. Listen as Stanford University scholar Cynthia Haven speaks with EconTalk's Russ Roberts about Girard's theories of desire and violence. The conversation also includes a discussion of the power of forgiveness to put a stop to conflict's rinse-and-repeat.</p>
 ]]></content:encoded>
-      <enclosure length="52549145" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/05ee6064-6307-48c8-9ad0-9fb742fbcca2/audio/bf5c099f-83ce-4a0b-85a3-44d5a45de78f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <enclosure length="52549449" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/05ee6064-6307-48c8-9ad0-9fb742fbcca2/audio/bf5c099f-83ce-4a0b-85a3-44d5a45de78f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
       <itunes:title>René Girard, Mimesis, and Conflict (with Cynthia Haven)</itunes:title>
       <itunes:author>EconTalk: Russ Roberts</itunes:author>
       <itunes:duration>00:54:28</itunes:duration>
