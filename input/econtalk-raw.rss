@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 1 Jul 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 1 Jul 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 8 Jul 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 8 Jul 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">6e41a5e7-c231-41d7-b0fe-8a05a7a023ce</guid>
+      <title>Reading, Writing, and Fighting (with Mark Helprin)</title>
+      <description><![CDATA[<p>For many men, surviving the test of battle intensifies the joy of being alive. A provocative claim, perhaps, but to novelist Mark Helprin, simply a fact, and one that drives his new book about men who commit themselves fully both to service during wartime and to the women they love. Listen as Helprin tells EconTalk's Russ Roberts how his service in the Israeli and American militaries, his decades of journalism and outdoor adventure, and his long career in defense and foreign policy enabled him to write <i>The Oceans and the Stars</i>, a lyrical and thrilling look at leadership in the crucible of war--and at sea. They also discuss Helprin's writing routine and sources of inspiration, his analysis of Israel's real-life war against Iran and its proxies, and his thoughts on the state of American culture today.</p>
+]]></description>
+      <pubDate>Mon, 8 Jul 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/reading-writing-and-fighting-with-mark-helprin/</link>
+      <content:encoded><![CDATA[<p>For many men, surviving the test of battle intensifies the joy of being alive. A provocative claim, perhaps, but to novelist Mark Helprin, simply a fact, and one that drives his new book about men who commit themselves fully both to service during wartime and to the women they love. Listen as Helprin tells EconTalk's Russ Roberts how his service in the Israeli and American militaries, his decades of journalism and outdoor adventure, and his long career in defense and foreign policy enabled him to write <i>The Oceans and the Stars</i>, a lyrical and thrilling look at leadership in the crucible of war--and at sea. They also discuss Helprin's writing routine and sources of inspiration, his analysis of Israel's real-life war against Iran and its proxies, and his thoughts on the state of American culture today.</p>
+]]></content:encoded>
+      <enclosure length="90601818" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/8ae7c446-ed58-4b33-b3b2-ee2fa1070292/audio/4e2c5557-acde-462c-80c9-f54f410c695a/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Reading, Writing, and Fighting (with Mark Helprin)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:34:06</itunes:duration>
+      <itunes:summary>For many men, surviving the test of battle intensifies the joy of being alive. A provocative claim, perhaps, but to novelist Mark Helprin, simply a fact, and one that drives his new book about men who commit themselves fully both to service during wartime and to the women they love. Listen as Helprin tells EconTalk&apos;s Russ Roberts how his service in the Israeli and American militaries, his decades of journalism and outdoor adventure, and his long career in defense and foreign policy enabled him to write The Oceans and the Stars, a lyrical and thrilling look at leadership in the crucible of war--and at sea. They also discuss Helprin&apos;s writing routine and sources of inspiration, his analysis of Israel&apos;s real-life war against Iran and its proxies, and his thoughts on the state of American culture today.</itunes:summary>
+      <itunes:subtitle>For many men, surviving the test of battle intensifies the joy of being alive. A provocative claim, perhaps, but to novelist Mark Helprin, simply a fact, and one that drives his new book about men who commit themselves fully both to service during wartime and to the women they love. Listen as Helprin tells EconTalk&apos;s Russ Roberts how his service in the Israeli and American militaries, his decades of journalism and outdoor adventure, and his long career in defense and foreign policy enabled him to write The Oceans and the Stars, a lyrical and thrilling look at leadership in the crucible of war--and at sea. They also discuss Helprin&apos;s writing routine and sources of inspiration, his analysis of Israel&apos;s real-life war against Iran and its proxies, and his thoughts on the state of American culture today.</itunes:subtitle>
+      <itunes:keywords>economics, israel, novelist, econlib, mark helprin, war, fiction, military, literature</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>953</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">cde6d261-adb1-462e-bdc1-3575de76c416</guid>
       <title>Is Israel Occupying the West Bank? (with Eugene Kontorovich)</title>
