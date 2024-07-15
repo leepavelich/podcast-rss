@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 8 Jul 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 8 Jul 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">8306ed98-befa-4f41-b28a-10ab69796ca3</guid>
+      <title>Lessons from Lincoln, Then and Now (with Diana Schaub)</title>
+      <description><![CDATA[<p>What lessons can we take from the speeches of Abraham Lincoln for today's turbulent times? How did those speeches move the nation in Lincoln's day? Listen as political scientist Diana Schaub of Loyola University, Maryland talks with EconTalk's Russ Roberts about three of Lincoln's most important speeches and what they can tell us about the United States then and now.</p>
+]]></description>
+      <pubDate>Mon, 15 Jul 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/lessons-from-lincoln-then-and-now-with-diana-schaub/</link>
+      <content:encoded><![CDATA[<p>What lessons can we take from the speeches of Abraham Lincoln for today's turbulent times? How did those speeches move the nation in Lincoln's day? Listen as political scientist Diana Schaub of Loyola University, Maryland talks with EconTalk's Russ Roberts about three of Lincoln's most important speeches and what they can tell us about the United States then and now.</p>
+]]></content:encoded>
+      <enclosure length="90667394" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/86bcafe0-f425-4ad5-abc4-cdec2061ace0/audio/ec6c8e18-7a7e-4c0b-93f8-51f1a62aa25b/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Lessons from Lincoln, Then and Now (with Diana Schaub)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:34:10</itunes:duration>
+      <itunes:summary>What lessons can we take from the speeches of Abraham Lincoln for today&apos;s turbulent times? How did those speeches move the nation in Lincoln&apos;s day? Listen as political scientist Diana Schaub of Loyola University, Maryland talks with EconTalk&apos;s Russ Roberts about three of Lincoln&apos;s most important speeches and what they can tell us about the United States then and now.</itunes:summary>
+      <itunes:subtitle>What lessons can we take from the speeches of Abraham Lincoln for today&apos;s turbulent times? How did those speeches move the nation in Lincoln&apos;s day? Listen as political scientist Diana Schaub of Loyola University, Maryland talks with EconTalk&apos;s Russ Roberts about three of Lincoln&apos;s most important speeches and what they can tell us about the United States then and now.</itunes:subtitle>
+      <itunes:keywords>economics, abraham lincoln, civil war, econlib, history, diana schaub, civility, political science, speeches</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>954</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">6e41a5e7-c231-41d7-b0fe-8a05a7a023ce</guid>
       <title>Reading, Writing, and Fighting (with Mark Helprin)</title>
