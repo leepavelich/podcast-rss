@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 15 Jul 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">bef5cd12-0077-4d29-953d-905833d4eafe</guid>
+      <title>Does Parenting Make You a Better Person? (with Erik Hoel)</title>
+      <description><![CDATA[<p>Does parenting make you a better person? Can it improve your life? Neuroscientist Erik Hoel makes the self-interested case for parenting arguing that it makes you less jaded and more heartbroken (in a good way) for how you experience the world. Listen as new father Hoel speaks with EconTalk host Russ Roberts about the universal and particular truths surrounding parenting, and why the perception presented by the media is often at odds with our own experience. Topics include different parenting styles and their effects, how parents shape children's personalities and preferences, and the famous children's books that both men love and hate. The conversation closes with a discussion of the reliability of recent studies condemning homeschooling.</p>
+]]></description>
+      <pubDate>Mon, 22 Jul 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/does-parenting-make-you-a-better-person-with-erik-hoel/</link>
+      <content:encoded><![CDATA[<p>Does parenting make you a better person? Can it improve your life? Neuroscientist Erik Hoel makes the self-interested case for parenting arguing that it makes you less jaded and more heartbroken (in a good way) for how you experience the world. Listen as new father Hoel speaks with EconTalk host Russ Roberts about the universal and particular truths surrounding parenting, and why the perception presented by the media is often at odds with our own experience. Topics include different parenting styles and their effects, how parents shape children's personalities and preferences, and the famous children's books that both men love and hate. The conversation closes with a discussion of the reliability of recent studies condemning homeschooling.</p>
+]]></content:encoded>
+      <enclosure length="81203129" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/6c00c3b3-93e3-442f-867a-ee9204ce29ca/audio/40aa8614-e5fb-4c7a-8822-65471d9d8ba6/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Does Parenting Make You a Better Person? (with Erik Hoel)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:24:18</itunes:duration>
+      <itunes:summary>Does parenting make you a better person? Can it improve your life? Neuroscientist Erik Hoel makes the self-interested case for parenting arguing that it makes you less jaded and more heartbroken (in a good way) for how you experience the world. Listen as new father Hoel speaks with EconTalk host Russ Roberts about the universal and particular truths surrounding parenting, and why the perception presented by the media is often at odds with our own experience. Topics include different parenting styles and their effects, how parents shape children&apos;s personalities and preferences, and the famous children&apos;s books that both men love and hate. The conversation closes with a discussion of the reliability of recent studies condemning homeschooling.</itunes:summary>
+      <itunes:subtitle>Does parenting make you a better person? Can it improve your life? Neuroscientist Erik Hoel makes the self-interested case for parenting arguing that it makes you less jaded and more heartbroken (in a good way) for how you experience the world. Listen as new father Hoel speaks with EconTalk host Russ Roberts about the universal and particular truths surrounding parenting, and why the perception presented by the media is often at odds with our own experience. Topics include different parenting styles and their effects, how parents shape children&apos;s personalities and preferences, and the famous children&apos;s books that both men love and hate. The conversation closes with a discussion of the reliability of recent studies condemning homeschooling.</itunes:subtitle>
+      <itunes:keywords>economics, self-help, econlib, education, family, books, psychology, erik hoel, homeschooling</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>955</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">8306ed98-befa-4f41-b28a-10ab69796ca3</guid>
       <title>Lessons from Lincoln, Then and Now (with Diana Schaub)</title>
