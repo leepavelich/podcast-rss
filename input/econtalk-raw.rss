@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Jul 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Jul 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">b61e3027-f7e9-472c-8ae5-09e319796588</guid>
+      <title>Sam Harris on Jew-Hatred, Radical Islam, and the West</title>
+      <description><![CDATA[<p>Neuroscientist and author Sam Harris of the podcast Making Sense talks with EconTalk's Russ Roberts about rising Jew-hatred in the West and what Harris sees as the dangers of radical Islam and Jihadism.</p>
+]]></description>
+      <pubDate>Mon, 29 Jul 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/sam-harris-on-jew-hatred-radical-islam-and-the-west/</link>
+      <content:encoded><![CDATA[<p>Neuroscientist and author Sam Harris of the podcast Making Sense talks with EconTalk's Russ Roberts about rising Jew-hatred in the West and what Harris sees as the dangers of radical Islam and Jihadism.</p>
+]]></content:encoded>
+      <enclosure length="113411108" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/0f0ae329-a407-466f-af64-083877c26810/audio/d17049c0-fc7f-40fb-adaa-b6686d01cf97/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Sam Harris on Jew-Hatred, Radical Islam, and the West</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:57:51</itunes:duration>
+      <itunes:summary>Neuroscientist and author Sam Harris of the podcast Making Sense talks with EconTalk&apos;s Russ Roberts about rising Jew-hatred in the West and what Harris sees as the dangers of radical Islam and Jihadism.</itunes:summary>
+      <itunes:subtitle>Neuroscientist and author Sam Harris of the podcast Making Sense talks with EconTalk&apos;s Russ Roberts about rising Jew-hatred in the West and what Harris sees as the dangers of radical Islam and Jihadism.</itunes:subtitle>
+      <itunes:keywords>bigotry, economics, sam harris, israel, econlib, colleges, universities, antisemitism, palestinians, protests</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>956</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">bef5cd12-0077-4d29-953d-905833d4eafe</guid>
       <title>Does Parenting Make You a Better Person? (with Erik Hoel)</title>
