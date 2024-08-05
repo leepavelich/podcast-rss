@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 29 Jul 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jul 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 5 Aug 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 5 Aug 2024 10:30:10 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">401ffb45-6f77-43db-bcd0-516d347fe93a</guid>
+      <title>The Ever-Present Challenge of Escaping Poverty (with Noah Smith)</title>
+      <description><![CDATA[<p>The universe, points out economist Noah Smith, is always trying to kill us, whether through asteroids hurtling through space or our every-few-hours hunger pains. Why, then, should we expect anything but a gravitational pull toward poverty? Listen as Smith explains to EconTalk's Russ Roberts why he believes that poverty will always be our "elemental foe," and how what he calls "industrial modernity" is key to keeping poverty at bay. They also discuss Smith's impatience with the "degrowth movement," which he thinks jeopardizes our gains in the fight against the elemental foe.</p>
+]]></description>
+      <pubDate>Mon, 5 Aug 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-ever-present-challenge-of-escaping-poverty-with-noah-smith/</link>
+      <content:encoded><![CDATA[<p>The universe, points out economist Noah Smith, is always trying to kill us, whether through asteroids hurtling through space or our every-few-hours hunger pains. Why, then, should we expect anything but a gravitational pull toward poverty? Listen as Smith explains to EconTalk's Russ Roberts why he believes that poverty will always be our "elemental foe," and how what he calls "industrial modernity" is key to keeping poverty at bay. They also discuss Smith's impatience with the "degrowth movement," which he thinks jeopardizes our gains in the fight against the elemental foe.</p>
+]]></content:encoded>
+      <enclosure length="60559344" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/9a648c3d-8ad4-451c-a08d-fe9514a0794a/audio/dd4efdd3-88cc-4467-a1c7-e2d1e2fb5046/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Ever-Present Challenge of Escaping Poverty (with Noah Smith)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:02:48</itunes:duration>
+      <itunes:summary>The universe, points out economist Noah Smith, is always trying to kill us, whether through asteroids hurtling through space or our every-few-hours hunger pains. Why, then, should we expect anything but a gravitational pull toward poverty? Listen as Smith explains to EconTalk&apos;s Russ Roberts why he believes that poverty will always be our &quot;elemental foe,&quot; and how what he calls &quot;industrial modernity&quot; is key to keeping poverty at bay. They also discuss Smith&apos;s impatience with the &quot;degrowth movement,&quot; which he thinks jeopardizes our gains in the fight against the elemental foe.</itunes:summary>
+      <itunes:subtitle>The universe, points out economist Noah Smith, is always trying to kill us, whether through asteroids hurtling through space or our every-few-hours hunger pains. Why, then, should we expect anything but a gravitational pull toward poverty? Listen as Smith explains to EconTalk&apos;s Russ Roberts why he believes that poverty will always be our &quot;elemental foe,&quot; and how what he calls &quot;industrial modernity&quot; is key to keeping poverty at bay. They also discuss Smith&apos;s impatience with the &quot;degrowth movement,&quot; which he thinks jeopardizes our gains in the fight against the elemental foe.</itunes:subtitle>
+      <itunes:keywords>economics, sweatshops, econlib, world history, industrial development, poor, technology, noah smith</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>957</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">b61e3027-f7e9-472c-8ae5-09e319796588</guid>
       <title>Sam Harris on Jew-Hatred, Radical Islam, and the West</title>
