@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 12 Aug 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Aug 2024 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">819ebc1c-5364-4003-bbca-a49ff981b2b4</guid>
+      <title>What&apos;s Happening Inside Your Doctor&apos;s Head and Heart (with Adam Cifu)</title>
+      <description><![CDATA[<p>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it's just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk's Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</p>
+]]></description>
+      <pubDate>Mon, 19 Aug 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/whats-happening-inside-your-doctors-head-and-heart-with-adam-cifu/</link>
+      <content:encoded><![CDATA[<p>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it's just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk's Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</p>
+]]></content:encoded>
+      <enclosure length="60771254" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a043f200-7a10-4ebf-ad15-3fc66f941c2a/audio/2243cf7b-e5b8-4932-bf0b-686bc5d1103b/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>What&apos;s Happening Inside Your Doctor&apos;s Head and Heart (with Adam Cifu)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:03:01</itunes:duration>
+      <itunes:summary>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it&apos;s just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk&apos;s Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</itunes:summary>
+      <itunes:subtitle>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it&apos;s just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk&apos;s Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, doctors, physicians, adam cifu, healthcare, lifespan, psychology, medicines</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>959</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">aba3c1e3-a252-4b0b-8447-8777516cd26c</guid>
       <title>How Do You Capture the Tragedy of War? (with Sabin Howard)</title>
@@ -73,7 +94,7 @@
       <itunes:duration>01:02:48</itunes:duration>
       <itunes:summary>The universe, points out economist Noah Smith, is always trying to kill us, whether through asteroids hurtling through space or our every-few-hours hunger pains. Why, then, should we expect anything but a gravitational pull toward poverty? Listen as Smith explains to EconTalk&apos;s Russ Roberts why he believes that poverty will always be our &quot;elemental foe,&quot; and how what he calls &quot;industrial modernity&quot; is key to keeping poverty at bay. They also discuss Smith&apos;s impatience with the &quot;degrowth movement,&quot; which he thinks jeopardizes our gains in the fight against the elemental foe.</itunes:summary>
       <itunes:subtitle>The universe, points out economist Noah Smith, is always trying to kill us, whether through asteroids hurtling through space or our every-few-hours hunger pains. Why, then, should we expect anything but a gravitational pull toward poverty? Listen as Smith explains to EconTalk&apos;s Russ Roberts why he believes that poverty will always be our &quot;elemental foe,&quot; and how what he calls &quot;industrial modernity&quot; is key to keeping poverty at bay. They also discuss Smith&apos;s impatience with the &quot;degrowth movement,&quot; which he thinks jeopardizes our gains in the fight against the elemental foe.</itunes:subtitle>
-      <itunes:keywords>economics, sweatshops, econlib, world history, industrial development, poor, technology, noah smith</itunes:keywords>
+      <itunes:keywords>economics, sweatshops, degrowth, econlib, world history, industrial development, poor, technology, noah smith</itunes:keywords>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>957</itunes:episode>
