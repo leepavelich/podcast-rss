@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 19 Aug 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Aug 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -37,6 +37,27 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <item>
+      <guid isPermaLink="false">69e4ba0b-ff45-46f4-a72c-c29720263bdb</guid>
+      <title>Chaos and Complexity Economics (with J. Doyne Farmer)</title>
+      <description><![CDATA[<p>Physicist J. Doyne Farmer wants a new kind of economics that takes account of what we've learned from chaos theory and that builds more accurate models of how humans actually behave. Listen as he makes the case for complexity economics with EconTalk's Russ Roberts. Farmer argues that complexity economics makes better predictions than standard economic theory and does a better job dealing with the biggest problems in today's society.</p>
+]]></description>
+      <pubDate>Mon, 26 Aug 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/chaos-and-complexity-economics-with-j-doyne-farmer/</link>
+      <content:encoded><![CDATA[<p>Physicist J. Doyne Farmer wants a new kind of economics that takes account of what we've learned from chaos theory and that builds more accurate models of how humans actually behave. Listen as he makes the case for complexity economics with EconTalk's Russ Roberts. Farmer argues that complexity economics makes better predictions than standard economic theory and does a better job dealing with the biggest problems in today's society.</p>
+]]></content:encoded>
+      <enclosure length="62906629" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5d82c3d8-87ac-4ee7-9d4c-fbe8f8fb729a/audio/295f50fe-7c9a-4132-a75d-5a1123d16044/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Chaos and Complexity Economics (with J. Doyne Farmer)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:05:15</itunes:duration>
+      <itunes:summary>Physicist J. Doyne Farmer wants a new kind of economics that takes account of what we&apos;ve learned from chaos theory and that builds more accurate models of how humans actually behave. Listen as he makes the case for complexity economics with EconTalk&apos;s Russ Roberts. Farmer argues that complexity economics makes better predictions than standard economic theory and does a better job dealing with the biggest problems in today&apos;s society.</itunes:summary>
+      <itunes:subtitle>Physicist J. Doyne Farmer wants a new kind of economics that takes account of what we&apos;ve learned from chaos theory and that builds more accurate models of how humans actually behave. Listen as he makes the case for complexity economics with EconTalk&apos;s Russ Roberts. Farmer argues that complexity economics makes better predictions than standard economic theory and does a better job dealing with the biggest problems in today&apos;s society.</itunes:subtitle>
+      <itunes:keywords>economics, science, models, chaos theory, j. doyne farmer, physics, econlib, agent-based, weather, behavioral</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>960</itunes:episode>
+    </item>
+    <item>
       <guid isPermaLink="false">819ebc1c-5364-4003-bbca-a49ff981b2b4</guid>
       <title>What&apos;s Happening Inside Your Doctor&apos;s Head and Heart (with Adam Cifu)</title>
       <description><![CDATA[<p>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it's just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk's Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</p>
@@ -52,7 +73,7 @@
       <itunes:duration>01:03:01</itunes:duration>
       <itunes:summary>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it&apos;s just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk&apos;s Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</itunes:summary>
       <itunes:subtitle>Physician Adam Cifu keeps a binder of every patient of his who has passed away. Every once in a while, he opens it and remembers the lives of his past patients. Morbid? Maybe a little. But it&apos;s just one of the ways Cifu tries to make his practice of medicine more mindful. In this conversation with EconTalk&apos;s Russ Roberts, Cifu explores the human side of medicine and the challenges of being a good doctor.</itunes:subtitle>
-      <itunes:keywords>economics, econlib, doctors, physicians, adam cifu, healthcare, lifespan, psychology, medicines</itunes:keywords>
+      <itunes:keywords>economics, self-help, econlib, doctors, physicians, adam cifu, healthcare, lifespan, psychology</itunes:keywords>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>959</itunes:episode>
