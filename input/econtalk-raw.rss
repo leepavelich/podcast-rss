@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 26 Aug 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Aug 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 2 Sep 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 2 Sep 2024 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">4d46827f-af19-40e3-804f-e24d1bfcbdb6</guid>
+      <title>The Problems of Boys and Men in Today&apos;s America (with Richard Reeves)</title>
+      <description><![CDATA[<p>Many boys and men in America are doing worse than girls and women in education while struggling with a culture that struggles to define what masculinity is in the 21st century. Is this a problem? Richard Reeves thinks so which is why he started the American Institute for Boys and Men. Listen as Reeves discusses the state of boys and men and what might be done about it with EconTalk's Russ Roberts.</p>
+]]></description>
+      <pubDate>Mon, 2 Sep 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-problems-of-boys-and-men-in-todays-america-with-richard-reeves/</link>
+      <content:encoded><![CDATA[<p>Many boys and men in America are doing worse than girls and women in education while struggling with a culture that struggles to define what masculinity is in the 21st century. Is this a problem? Richard Reeves thinks so which is why he started the American Institute for Boys and Men. Listen as Reeves discusses the state of boys and men and what might be done about it with EconTalk's Russ Roberts.</p>
+]]></content:encoded>
+      <enclosure length="70486376" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/b39a5e55-1e68-47ee-954a-ed7c63adf22f/audio/655dc20b-2e63-4741-89d8-4b2054ef2914/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Problems of Boys and Men in Today&apos;s America (with Richard Reeves)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:13:09</itunes:duration>
+      <itunes:summary>Many boys and men in America are doing worse than girls and women in education while struggling with a culture that struggles to define what masculinity is in the 21st century. Is this a problem? Richard Reeves thinks so which is why he started the American Institute for Boys and Men. Listen as Reeves discusses the state of boys and men and what might be done about it with EconTalk&apos;s Russ Roberts.</itunes:summary>
+      <itunes:subtitle>Many boys and men in America are doing worse than girls and women in education while struggling with a culture that struggles to define what masculinity is in the 21st century. Is this a problem? Richard Reeves thinks so which is why he started the American Institute for Boys and Men. Listen as Reeves discusses the state of boys and men and what might be done about it with EconTalk&apos;s Russ Roberts.</itunes:subtitle>
+      <itunes:keywords>economics, labor, richard reeves, families, men, parenting, econlib, males, education, gender inequality</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>961</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">69e4ba0b-ff45-46f4-a72c-c29720263bdb</guid>
       <title>Chaos and Complexity Economics (with J. Doyne Farmer)</title>
