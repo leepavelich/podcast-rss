@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 2 Sep 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 2 Sep 2024 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 9 Sep 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 9 Sep 2024 10:30:10 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">e385f2e3-0e58-4347-8855-cee4463041b7</guid>
+      <title>Is Israel Winning the War in Gaza? (with Andrew Fox)</title>
+      <description><![CDATA[<p>British Army major and Sandhurst lecturer Andrew Fox recently spent a week with the Israel Defense Forces including a day inside Gaza. He was struck by the IDF's control of Gazan territory and shocked by the level of physical devastation. Listen as Fox and EconTalk's Russ Roberts discuss Fox's analysis of Israel's performance in the Gazan war, why Fox believes that Israel is succeeding, and what he thinks Israel's critics get right and wrong.</p>
+]]></description>
+      <pubDate>Mon, 9 Sep 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/is-israel-winning-the-war-in-gaza-with-andrew-fox/</link>
+      <content:encoded><![CDATA[<p>British Army major and Sandhurst lecturer Andrew Fox recently spent a week with the Israel Defense Forces including a day inside Gaza. He was struck by the IDF's control of Gazan territory and shocked by the level of physical devastation. Listen as Fox and EconTalk's Russ Roberts discuss Fox's analysis of Israel's performance in the Gazan war, why Fox believes that Israel is succeeding, and what he thinks Israel's critics get right and wrong.</p>
+]]></content:encoded>
+      <enclosure length="68564164" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/502a9642-73cb-44ee-8624-1315b9fb1a28/audio/fae929b3-9f06-4361-8cbb-fdb8dff6e8a7/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Is Israel Winning the War in Gaza? (with Andrew Fox)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:11:08</itunes:duration>
+      <itunes:summary>British Army major and Sandhurst lecturer Andrew Fox recently spent a week with the Israel Defense Forces including a day inside Gaza. He was struck by the IDF&apos;s control of Gazan territory and shocked by the level of physical devastation. Listen as Fox and EconTalk&apos;s Russ Roberts discuss Fox&apos;s analysis of Israel&apos;s performance in the Gazan war, why Fox believes that Israel is succeeding, and what he thinks Israel&apos;s critics get right and wrong.</itunes:summary>
+      <itunes:subtitle>British Army major and Sandhurst lecturer Andrew Fox recently spent a week with the Israel Defense Forces including a day inside Gaza. He was struck by the IDF&apos;s control of Gazan territory and shocked by the level of physical devastation. Listen as Fox and EconTalk&apos;s Russ Roberts discuss Fox&apos;s analysis of Israel&apos;s performance in the Gazan war, why Fox believes that Israel is succeeding, and what he thinks Israel&apos;s critics get right and wrong.</itunes:subtitle>
+      <itunes:keywords>hamas, gaza, economics, israel, econlib, warfare, andrew fox</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>962</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">4d46827f-af19-40e3-804f-e24d1bfcbdb6</guid>
       <title>The Problems of Boys and Men in Today&apos;s America (with Richard Reeves)</title>
