@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 16 Sep 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">c781d420-4f83-480b-af27-09fda7d1e264</guid>
+      <title>The Mysterious World of Owls (with Jennifer Ackerman)</title>
+      <description><![CDATA[<p>An owl will eat a rabbit whole, but owls can't digest the fur or the bones. So how do they survive? Why do their eyes face forward rather than to the side? Long-eared Owls don't have ears, so what's up with the name and how do they hear? How can dogs help us track owls--that seems impossible. Owls don't make nests, so where do they live? Listen as Jennifer Ackerman, author of <i>What an Owl Knows</i>, talks about the book with EconTalk's Russ Roberts, peeling back the feathers to reveal the astonishing biology and behavior of owls, as well as the amazing stories of those who love and study them.</p>
+]]></description>
+      <pubDate>Mon, 23 Sep 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-mysterious-world-of-owls-with-jennifer-ackerman/</link>
+      <content:encoded><![CDATA[<p>An owl will eat a rabbit whole, but owls can't digest the fur or the bones. So how do they survive? Why do their eyes face forward rather than to the side? Long-eared Owls don't have ears, so what's up with the name and how do they hear? How can dogs help us track owls--that seems impossible. Owls don't make nests, so where do they live? Listen as Jennifer Ackerman, author of <i>What an Owl Knows</i>, talks about the book with EconTalk's Russ Roberts, peeling back the feathers to reveal the astonishing biology and behavior of owls, as well as the amazing stories of those who love and study them.</p>
+]]></content:encoded>
+      <enclosure length="63285021" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/7e74c9b7-c6a7-4ec6-9450-155ad6e6f9ec/audio/e825efb7-e435-4f4b-b7c3-8af16cc89bdc/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Mysterious World of Owls (with Jennifer Ackerman)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:05:38</itunes:duration>
+      <itunes:summary>An owl will eat a rabbit whole, but owls can&apos;t digest the fur or the bones. So how do they survive? Why do their eyes face forward rather than to the side? Long-eared Owls don&apos;t have ears, so what&apos;s up with the name and how do they hear? How can dogs help us track owls--that seems impossible. Owls don&apos;t make nests, so where do they live? Listen as Jennifer Ackerman, author of What an Owl Knows, talks about the book with EconTalk&apos;s Russ Roberts, peeling back the feathers to reveal the astonishing biology and behavior of owls, as well as the amazing stories of those who love and study them.</itunes:summary>
+      <itunes:subtitle>An owl will eat a rabbit whole, but owls can&apos;t digest the fur or the bones. So how do they survive? Why do their eyes face forward rather than to the side? Long-eared Owls don&apos;t have ears, so what&apos;s up with the name and how do they hear? How can dogs help us track owls--that seems impossible. Owls don&apos;t make nests, so where do they live? Listen as Jennifer Ackerman, author of What an Owl Knows, talks about the book with EconTalk&apos;s Russ Roberts, peeling back the feathers to reveal the astonishing biology and behavior of owls, as well as the amazing stories of those who love and study them.</itunes:subtitle>
+      <itunes:keywords>economics, birds, econlib, jennifer ackerman, conservation, environment, art, animals, ornithology</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>964</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3fa2fbf9-40be-49b6-9cfd-15e21a65af52</guid>
       <title>What Modern Medicine Gets Wrong (with Marty Makary)</title>
