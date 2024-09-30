@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 23 Sep 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Sep 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">0f43bd43-d476-4a33-95dc-dd90f3c80d30</guid>
+      <title>The Underrated Bruno Leoni (with Michael Munger)</title>
+      <description>&lt;p&gt;Friedrich Hayek credited Bruno Leoni with shaping his ideas on laws and legislation. James Buchanan said that Leoni identified problems that led to his own work on public choice. How is it possible, then, that so few of us know of the groundbreaking Italian political philosopher? Listen as Duke economist Michael Munger talks with EconTalk's Russ Roberts about Leoni's ideas and the gruesome murder that ended his life before its time.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 30 Sep 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-underrated-bruno-leoni-with-michael-munger/</link>
+      <content:encoded>&lt;p&gt;Friedrich Hayek credited Bruno Leoni with shaping his ideas on laws and legislation. James Buchanan said that Leoni identified problems that led to his own work on public choice. How is it possible, then, that so few of us know of the groundbreaking Italian political philosopher? Listen as Duke economist Michael Munger talks with EconTalk's Russ Roberts about Leoni's ideas and the gruesome murder that ended his life before its time.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="74963415" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c67f39de-d5ac-487e-9050-5a7ff2c68637/audio/dbb73b7d-281e-47c0-b8f0-e877af9d09c0/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Underrated Bruno Leoni (with Michael Munger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:17:48</itunes:duration>
+      <itunes:summary>Friedrich Hayek credited Bruno Leoni with shaping his ideas on laws and legislation. James Buchanan said that Leoni identified problems that led to his own work on public choice. How is it possible, then, that so few of us know of the groundbreaking Italian political philosopher? Listen as Duke economist Michael Munger talks with EconTalk's Russ Roberts about Leoni's ideas and the gruesome murder that ended his life before its time.</itunes:summary>
+      <itunes:subtitle>Friedrich Hayek credited Bruno Leoni with shaping his ideas on laws and legislation. James Buchanan said that Leoni identified problems that led to his own work on public choice. How is it possible, then, that so few of us know of the groundbreaking Italian political philosopher? Listen as Duke economist Michael Munger talks with EconTalk's Russ Roberts about Leoni's ideas and the gruesome murder that ended his life before its time.</itunes:subtitle>
+      <itunes:keywords>economics, legislation, austrian school, michael munger, public choice, econlib, law, bruno leoni, murder, political science, biography</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>965</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">16028df5-36f1-4884-974d-eeb3d359d63b</guid>
       <title>Does Market Failure Justify Government Intervention? (with Michael Munger)</title>
