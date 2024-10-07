@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 30 Sep 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 7 Oct 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 7 Oct 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">a530face-8aa0-4a98-9735-4eeadac74474</guid>
+      <title>Reclaiming Tribalism (with Michael Morris)</title>
+      <description><![CDATA[<p>Is tribalism destroying democracy? According to cultural psychologist Michael Morris of Columbia University, just the opposite may be the case. As he explains in his new book, <i>Tribal</i>, our tribal instincts can also be the source of our success--in politics, society, business, and even professional sports. Listen as Morris and EconTalk's Russ Roberts discuss real examples of how smart leaders pulled tribal levers to improve performance, solve stubborn problems, and create positive change.</p>
+]]></description>
+      <pubDate>Mon, 7 Oct 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/reclaiming-tribalism-with-michael-morris/</link>
+      <content:encoded><![CDATA[<p>Is tribalism destroying democracy? According to cultural psychologist Michael Morris of Columbia University, just the opposite may be the case. As he explains in his new book, <i>Tribal</i>, our tribal instincts can also be the source of our success--in politics, society, business, and even professional sports. Listen as Morris and EconTalk's Russ Roberts discuss real examples of how smart leaders pulled tribal levers to improve performance, solve stubborn problems, and create positive change.</p>
+]]></content:encoded>
+      <enclosure length="79256822" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/ec81a114-cf31-4a88-885e-0c5c46baf72e/audio/e805ca1c-f0cf-4623-b81a-c6fb69ae6cd1/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Reclaiming Tribalism (with Michael Morris)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:22:16</itunes:duration>
+      <itunes:summary>Is tribalism destroying democracy? According to cultural psychologist Michael Morris of Columbia University, just the opposite may be the case. As he explains in his new book, Tribal, our tribal instincts can also be the source of our success--in politics, society, business, and even professional sports. Listen as Morris and EconTalk&apos;s Russ Roberts discuss real examples of how smart leaders pulled tribal levers to improve performance, solve stubborn problems, and create positive change.</itunes:summary>
+      <itunes:subtitle>Is tribalism destroying democracy? According to cultural psychologist Michael Morris of Columbia University, just the opposite may be the case. As he explains in his new book, Tribal, our tribal instincts can also be the source of our success--in politics, society, business, and even professional sports. Listen as Morris and EconTalk&apos;s Russ Roberts discuss real examples of how smart leaders pulled tribal levers to improve performance, solve stubborn problems, and create positive change.</itunes:subtitle>
+      <itunes:keywords>economics, leadership, econlib, tribe, management, culture, soccer coach, michael morris, psychology</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>966</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">0f43bd43-d476-4a33-95dc-dd90f3c80d30</guid>
       <title>The Underrated Bruno Leoni (with Michael Munger)</title>
