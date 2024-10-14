@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 7 Oct 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 7 Oct 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">1265f0d7-aafd-4d2b-a64c-53c65ffc8721</guid>
+      <title>Misinformation and the Three Languages of Politics (with Arnold Kling)</title>
+      <description><![CDATA[<p>How big a problem is misinformation for a democracy? How do we arrive at the truth? Listen as economist and author Arnold Kling talks with EconTalk's Russ Roberts about how we should think about truth-seeking. The conversation also revisits Kling's classic work, <i>The Three Languages of Politics</i>, and the relevance of its framework for the current moment.</p>
+]]></description>
+      <pubDate>Mon, 14 Oct 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/misinformation-and-the-three-languages-of-politics-with-arnold-kling/</link>
+      <content:encoded><![CDATA[<p>How big a problem is misinformation for a democracy? How do we arrive at the truth? Listen as economist and author Arnold Kling talks with EconTalk's Russ Roberts about how we should think about truth-seeking. The conversation also revisits Kling's classic work, <i>The Three Languages of Politics</i>, and the relevance of its framework for the current moment.</p>
+]]></content:encoded>
+      <enclosure length="59824119" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/bd4bda30-e675-468d-afc7-e62b23252c7c/audio/35c047de-54b6-40f1-b63b-41561dc45aab/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Misinformation and the Three Languages of Politics (with Arnold Kling)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:02:02</itunes:duration>
+      <itunes:summary>How big a problem is misinformation for a democracy? How do we arrive at the truth? Listen as economist and author Arnold Kling talks with EconTalk&apos;s Russ Roberts about how we should think about truth-seeking. The conversation also revisits Kling&apos;s classic work, The Three Languages of Politics, and the relevance of its framework for the current moment.</itunes:summary>
+      <itunes:subtitle>How big a problem is misinformation for a democracy? How do we arrive at the truth? Listen as economist and author Arnold Kling talks with EconTalk&apos;s Russ Roberts about how we should think about truth-seeking. The conversation also revisits Kling&apos;s classic work, The Three Languages of Politics, and the relevance of its framework for the current moment.</itunes:subtitle>
+      <itunes:keywords>economics, false information, censorship, water meters, econlib, lies, political science, honesty, arnold kling, covid</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>967</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">a530face-8aa0-4a98-9735-4eeadac74474</guid>
       <title>Reclaiming Tribalism (with Michael Morris)</title>
