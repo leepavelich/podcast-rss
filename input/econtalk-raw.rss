@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 14 Oct 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2024 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">84f0e84f-d421-4137-8610-0ddc59537348</guid>
+      <title>Why Housing Is Artificially Expensive and What Can Be Done About It (with Bryan Caplan)</title>
+      <description><![CDATA[<p>Housing is artificially expensive. Bryan Caplan of George Mason University and the author of <i>Build, Baby, Build</i> talks with EconTalk's Russ Roberts about the causes behind high housing prices and what can be done to bring prices down.</p>
+]]></description>
+      <pubDate>Mon, 21 Oct 2024 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/why-housing-is-artificially-expensive-and-what-can-be-done-about-it-with-bryan-caplan/</link>
+      <content:encoded><![CDATA[<p>Housing is artificially expensive. Bryan Caplan of George Mason University and the author of <i>Build, Baby, Build</i> talks with EconTalk's Russ Roberts about the causes behind high housing prices and what can be done to bring prices down.</p>
+]]></content:encoded>
+      <enclosure length="64049840" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3e375b92-00d7-459b-bc0a-5fce153b7859/audio/c32dc4cc-8e74-4bb8-87b5-b72641a5f141/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Why Housing Is Artificially Expensive and What Can Be Done About It (with Bryan Caplan)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:06:26</itunes:duration>
+      <itunes:summary>Housing is artificially expensive. Bryan Caplan of George Mason University and the author of Build, Baby, Build talks with EconTalk&apos;s Russ Roberts about the causes behind high housing prices and what can be done to bring prices down.</itunes:summary>
+      <itunes:subtitle>Housing is artificially expensive. Bryan Caplan of George Mason University and the author of Build, Baby, Build talks with EconTalk&apos;s Russ Roberts about the causes behind high housing prices and what can be done to bring prices down.</itunes:subtitle>
+      <itunes:keywords>economics, regulations, zoning, econlib, bryan caplan, neighborhoods, houston, homes, cities</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>968</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">1265f0d7-aafd-4d2b-a64c-53c65ffc8721</guid>
       <title>Misinformation and the Three Languages of Politics (with Arnold Kling)</title>
