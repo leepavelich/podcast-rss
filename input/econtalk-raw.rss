@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 28 Oct 2024 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Oct 2024 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 4 Nov 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 4 Nov 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">5758890e-9f62-4eeb-9861-6c8a37b51ccc</guid>
+      <title>Give Away a Kidney? Are You Crazy? (with filmmaker Penny Lane)</title>
+      <description><![CDATA[<p>After filmmaker Penny Lane decided to donate a kidney to a stranger, it took three years and a complex, often infuriating, sometimes terrifying process to make it happen. Along the way, being a filmmaker, she eventually decided to chronicle her experience and explore the question: How can a choice that seems so obvious to the donor seem so strange to everyone else? Listen as she tells EconTalk's Russ Roberts what she learned, what's still a mystery, and what she hopes we'll all take away from her story.</p>
+]]></description>
+      <pubDate>Mon, 4 Nov 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/give-away-a-kidney-are-you-crazy-with-filmmaker-penny-lane/</link>
+      <content:encoded><![CDATA[<p>After filmmaker Penny Lane decided to donate a kidney to a stranger, it took three years and a complex, often infuriating, sometimes terrifying process to make it happen. Along the way, being a filmmaker, she eventually decided to chronicle her experience and explore the question: How can a choice that seems so obvious to the donor seem so strange to everyone else? Listen as she tells EconTalk's Russ Roberts what she learned, what's still a mystery, and what she hopes we'll all take away from her story.</p>
+]]></content:encoded>
+      <enclosure length="78637816" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/2f15e72a-da63-48b6-9e08-58c127cd121d/audio/b9fba263-d022-447e-a975-2437853d6df4/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Give Away a Kidney? Are You Crazy? (with filmmaker Penny Lane)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:21:37</itunes:duration>
+      <itunes:summary>After filmmaker Penny Lane decided to donate a kidney to a stranger, it took three years and a complex, often infuriating, sometimes terrifying process to make it happen. Along the way, being a filmmaker, she eventually decided to chronicle her experience and explore the question: How can a choice that seems so obvious to the donor seem so strange to everyone else? Listen as she tells EconTalk&apos;s Russ Roberts what she learned, what&apos;s still a mystery, and what she hopes we&apos;ll all take away from her story.</itunes:summary>
+      <itunes:subtitle>After filmmaker Penny Lane decided to donate a kidney to a stranger, it took three years and a complex, often infuriating, sometimes terrifying process to make it happen. Along the way, being a filmmaker, she eventually decided to chronicle her experience and explore the question: How can a choice that seems so obvious to the donor seem so strange to everyone else? Listen as she tells EconTalk&apos;s Russ Roberts what she learned, what&apos;s still a mystery, and what she hopes we&apos;ll all take away from her story.</itunes:subtitle>
+      <itunes:keywords>economics, altruism, documentary, econlib, good samaritan, kidneys, amygdalas, penny lane, organ donations, surgery, movies</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>970</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">420354a7-9fd0-4d64-a555-359249f892a1</guid>
       <title>Susan Cain on Bittersweet and the Happiness of Melancholy</title>
