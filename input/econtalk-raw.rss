@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 4 Nov 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 4 Nov 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">bdb1f110-9734-499f-83c8-fc691d218dd5</guid>
+      <title>Who Needs Miracles? On Nature and the Miraculous (with Alan Lightman)</title>
+      <description><![CDATA[<p>How can we cultivate a sense of awe in our lives? Easy, says physicist and author Alan Lightman: Pay more attention. When we take the time to examine the world around us, from shooting stars to soap bubbles to everything in between, we can feel a sense of wonder and appreciation akin to spirituality. And the best part is, you can take your scientific worldview with you on your awe-inducing journey. Join Lightman and EconTalk's Russ Roberts as they discover that discovering the science behind things can be a truly miraculous experience.</p>
+]]></description>
+      <pubDate>Mon, 11 Nov 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/who-needs-miracles-on-nature-and-the-miraculous-with-alan-lightman/</link>
+      <content:encoded><![CDATA[<p>How can we cultivate a sense of awe in our lives? Easy, says physicist and author Alan Lightman: Pay more attention. When we take the time to examine the world around us, from shooting stars to soap bubbles to everything in between, we can feel a sense of wonder and appreciation akin to spirituality. And the best part is, you can take your scientific worldview with you on your awe-inducing journey. Join Lightman and EconTalk's Russ Roberts as they discover that discovering the science behind things can be a truly miraculous experience.</p>
+]]></content:encoded>
+      <enclosure length="67411050" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/fe1a1acb-417d-4490-a647-fb0c6ac54e5b/audio/d9acc476-3a63-4741-b349-af86a1e9253e/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Who Needs Miracles? On Nature and the Miraculous (with Alan Lightman)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:56</itunes:duration>
+      <itunes:summary>How can we cultivate a sense of awe in our lives? Easy, says physicist and author Alan Lightman: Pay more attention. When we take the time to examine the world around us, from shooting stars to soap bubbles to everything in between, we can feel a sense of wonder and appreciation akin to spirituality. And the best part is, you can take your scientific worldview with you on your awe-inducing journey. Join Lightman and EconTalk&apos;s Russ Roberts as they discover that discovering the science behind things can be a truly miraculous experience.</itunes:summary>
+      <itunes:subtitle>How can we cultivate a sense of awe in our lives? Easy, says physicist and author Alan Lightman: Pay more attention. When we take the time to examine the world around us, from shooting stars to soap bubbles to everything in between, we can feel a sense of wonder and appreciation akin to spirituality. And the best part is, you can take your scientific worldview with you on your awe-inducing journey. Join Lightman and EconTalk&apos;s Russ Roberts as they discover that discovering the science behind things can be a truly miraculous experience.</itunes:subtitle>
+      <itunes:keywords>economics, awe, physics, econlib, alan lightman, consciousness, spirituality, love</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>971</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">5758890e-9f62-4eeb-9861-6c8a37b51ccc</guid>
       <title>Give Away a Kidney? Are You Crazy? (with filmmaker Penny Lane)</title>
