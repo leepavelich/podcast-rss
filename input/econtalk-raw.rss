@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 11 Nov 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Nov 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">5591293d-2d55-4071-bc50-72e6a4a675f6</guid>
+      <title>Terrorism, Israel, and Dreams of Peace (with Haviv Rettig Gur)</title>
+      <description><![CDATA[<p>Over the last 30 years, the Israeli public has moved to the right on the question of how to deal with the Palestinians. Why did this happen? How has this changed Israeli politics and the strategy of the Palestinians? Listen, as journalist Haviv Rettig Gur explores the political and military history of the last three decades in Israel with EconTalk's Russ Roberts. The conversation ends with lessons for the future and a discussion of the differences between American and Israeli Jews.</p>
+]]></description>
+      <pubDate>Mon, 18 Nov 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/terrorism-israel-and-dreams-of-peace-with-haviv-rettig-gur/</link>
+      <content:encoded><![CDATA[<p>Over the last 30 years, the Israeli public has moved to the right on the question of how to deal with the Palestinians. Why did this happen? How has this changed Israeli politics and the strategy of the Palestinians? Listen, as journalist Haviv Rettig Gur explores the political and military history of the last three decades in Israel with EconTalk's Russ Roberts. The conversation ends with lessons for the future and a discussion of the differences between American and Israeli Jews.</p>
+]]></content:encoded>
+      <enclosure length="121077809" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/0c9f7eb5-9695-424f-a1a9-d44a4a6f04f7/audio/60710d6f-374d-4f7c-901b-e0111bb73149/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Terrorism, Israel, and Dreams of Peace (with Haviv Rettig Gur)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>02:05:50</itunes:duration>
+      <itunes:summary>Over the last 30 years, the Israeli public has moved to the right on the question of how to deal with the Palestinians. Why did this happen? How has this changed Israeli politics and the strategy of the Palestinians? Listen, as journalist Haviv Rettig Gur explores the political and military history of the last three decades in Israel with EconTalk&apos;s Russ Roberts. The conversation ends with lessons for the future and a discussion of the differences between American and Israeli Jews.</itunes:summary>
+      <itunes:subtitle>Over the last 30 years, the Israeli public has moved to the right on the question of how to deal with the Palestinians. Why did this happen? How has this changed Israeli politics and the strategy of the Palestinians? Listen, as journalist Haviv Rettig Gur explores the political and military history of the last three decades in Israel with EconTalk&apos;s Russ Roberts. The conversation ends with lessons for the future and a discussion of the differences between American and Israeli Jews.</itunes:subtitle>
+      <itunes:keywords>hamas, economics, israel, econlib, history, political science, war, algeria, intifada, haviv rettig gur</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>972</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">bdb1f110-9734-499f-83c8-fc691d218dd5</guid>
       <title>Who Needs Miracles? On Nature and the Miraculous (with Alan Lightman)</title>
