@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 18 Nov 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2024 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">4596e4b0-f81a-4a0e-af49-9aec0284f0db</guid>
+      <title>Tyler Cowen on Life and Fate</title>
+      <description><![CDATA[<p><i>Life and Fate</i> might be the greatest novel of the 20th century or maybe ever. Tyler Cowen talks about this sprawling masterpiece and its author, Vasily Grossman, with EconTalk's Russ Roberts.</p>
+]]></description>
+      <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/tyler-cowen-on-life-and-fate/</link>
+      <content:encoded><![CDATA[<p><i>Life and Fate</i> might be the greatest novel of the 20th century or maybe ever. Tyler Cowen talks about this sprawling masterpiece and its author, Vasily Grossman, with EconTalk's Russ Roberts.</p>
+]]></content:encoded>
+      <enclosure length="65493794" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/7a9ea507-6546-4e33-b5af-abd6d85d173b/audio/63d4d885-babf-453f-a91b-0ec10b0d8b12/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Tyler Cowen on Life and Fate</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:07:56</itunes:duration>
+      <itunes:summary>Life and Fate might be the greatest novel of the 20th century or maybe ever. Tyler Cowen talks about this sprawling masterpiece and its author, Vasily Grossman, with EconTalk&apos;s Russ Roberts.</itunes:summary>
+      <itunes:subtitle>Life and Fate might be the greatest novel of the 20th century or maybe ever. Tyler Cowen talks about this sprawling masterpiece and its author, Vasily Grossman, with EconTalk&apos;s Russ Roberts.</itunes:subtitle>
+      <itunes:keywords>economics, maternal love, vasily grossman, econlib, tyler cowen, novel, torture, russia, literature</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>973</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">5591293d-2d55-4071-bc50-72e6a4a675f6</guid>
       <title>Terrorism, Israel, and Dreams of Peace (with Haviv Rettig Gur)</title>
