@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 25 Nov 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2024 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 2 Dec 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 2 Dec 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">2fe47669-d70f-4524-a3f5-f4159eca3cbc</guid>
+      <title>Translating Life and Fate (with Robert Chandler)</title>
+      <description><![CDATA[<p>What does it take to translate a 900-page Russian novel written before the fall of the Soviet Union? For a start, it means learning what the Soviet censor cut and changed in the Russian original. It also means living in a seaside cottage for four months to immerse yourself completely in the characters' lives and meet your publisher's deadline. Listen as Robert Chandler, the translator of Vasily Grossman's <i>Life and Fate</i>, speaks with EconTalk's Russ Roberts about the challenges of bringing a sprawling Russian classic to English-speaking readers.</p>
+]]></description>
+      <pubDate>Mon, 2 Dec 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/translating-life-and-fate-with-robert-chandler/</link>
+      <content:encoded><![CDATA[<p>What does it take to translate a 900-page Russian novel written before the fall of the Soviet Union? For a start, it means learning what the Soviet censor cut and changed in the Russian original. It also means living in a seaside cottage for four months to immerse yourself completely in the characters' lives and meet your publisher's deadline. Listen as Robert Chandler, the translator of Vasily Grossman's <i>Life and Fate</i>, speaks with EconTalk's Russ Roberts about the challenges of bringing a sprawling Russian classic to English-speaking readers.</p>
+]]></content:encoded>
+      <enclosure length="75362249" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/886bed5e-6bcf-46c9-88c6-36c75fc32176/audio/1ed9f6fd-aa5e-494f-b926-aa4294a15986/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Translating Life and Fate (with Robert Chandler)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:18:12</itunes:duration>
+      <itunes:summary>What does it take to translate a 900-page Russian novel written before the fall of the Soviet Union? For a start, it means learning what the Soviet censor cut and changed in the Russian original. It also means living in a seaside cottage for four months to immerse yourself completely in the characters&apos; lives and meet your publisher&apos;s deadline. Listen as Robert Chandler, the translator of Vasily Grossman&apos;s Life and Fate, speaks with EconTalk&apos;s Russ Roberts about the challenges of bringing a sprawling Russian classic to English-speaking readers.</itunes:summary>
+      <itunes:subtitle>What does it take to translate a 900-page Russian novel written before the fall of the Soviet Union? For a start, it means learning what the Soviet censor cut and changed in the Russian original. It also means living in a seaside cottage for four months to immerse yourself completely in the characters&apos; lives and meet your publisher&apos;s deadline. Listen as Robert Chandler, the translator of Vasily Grossman&apos;s Life and Fate, speaks with EconTalk&apos;s Russ Roberts about the challenges of bringing a sprawling Russian classic to English-speaking readers.</itunes:subtitle>
+      <itunes:keywords>economics, translation, vasily grossman, econlib, russian, robert chandler, literature</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>974</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">4596e4b0-f81a-4a0e-af49-9aec0284f0db</guid>
       <title>Tyler Cowen on Life and Fate</title>
