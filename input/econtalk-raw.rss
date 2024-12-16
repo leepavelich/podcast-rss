@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 9 Dec 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 9 Dec 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 11:30:10 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">3cfef845-f722-42d6-b648-aadbf228e11c</guid>
+      <title>Is This War With Lebanon Different? (with Matti Friedman)</title>
+      <description><![CDATA[<p>Is Israel's war with Lebanon going to end differently from past attempts to secure Israel's northern border? Journalist Matti Friedman, who recounted his experience as a soldier in Lebanon in his book <i>Pumpkinflowers</i>, reflects on that experience in light of current events and looks to the future in this conversation with EconTalk's Russ Roberts.</p>
+]]></description>
+      <pubDate>Mon, 16 Dec 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/is-this-war-with-lebanon-different-with-matti-friedman/</link>
+      <content:encoded><![CDATA[<p>Is Israel's war with Lebanon going to end differently from past attempts to secure Israel's northern border? Journalist Matti Friedman, who recounted his experience as a soldier in Lebanon in his book <i>Pumpkinflowers</i>, reflects on that experience in light of current events and looks to the future in this conversation with EconTalk's Russ Roberts.</p>
+]]></content:encoded>
+      <enclosure length="67916551" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/72db7a11-234a-4484-9153-ab3576fa8658/audio/9522f4ca-d7ae-42b8-9ace-9e5379422428/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Is This War With Lebanon Different? (with Matti Friedman)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:27</itunes:duration>
+      <itunes:summary>Is Israel&apos;s war with Lebanon going to end differently from past attempts to secure Israel&apos;s northern border? Journalist Matti Friedman, who recounted his experience as a soldier in Lebanon in his book Pumpkinflowers, reflects on that experience in light of current events and looks to the future in this conversation with EconTalk&apos;s Russ Roberts.</itunes:summary>
+      <itunes:subtitle>Is Israel&apos;s war with Lebanon going to end differently from past attempts to secure Israel&apos;s northern border? Journalist Matti Friedman, who recounted his experience as a soldier in Lebanon in his book Pumpkinflowers, reflects on that experience in light of current events and looks to the future in this conversation with EconTalk&apos;s Russ Roberts.</itunes:subtitle>
+      <itunes:keywords>economics, israeli, econlib, matti friedman, history, middle east, lebanese, national security, warfare, outposts, military</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>976</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">d27e3a15-02e3-453e-a055-59836fee1206</guid>
       <title>Why Industrial Policy Is (Almost) Always a Bad Idea (with Scott Sumner)</title>
