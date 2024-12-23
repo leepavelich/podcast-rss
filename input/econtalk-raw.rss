@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 16 Dec 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2024 11:30:10 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2024 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2024 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">374ae72b-ba68-421a-b655-880859829f31</guid>
+      <title>Fixing Sick Cities (with Alain Bertaud)</title>
+      <description><![CDATA[<p>Why are European cities charming and American cities often so charmless? Simple, says urbanist Alain Bertaud: most American cities are zoned for single-family housing. The result is not enough customers within walking distance of a business, and not enough parking for the customers who drive. Why American cities are zoned that way is related to culture and history. Hear Bertaud and EconTalk's Russ Roberts talk about urban problems and how to solve them--not through urban design or planning, but by respecting what makes each place unique.</p>
+]]></description>
+      <pubDate>Mon, 23 Dec 2024 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/fixing-sick-cities-with-alain-bertaud/</link>
+      <content:encoded><![CDATA[<p>Why are European cities charming and American cities often so charmless? Simple, says urbanist Alain Bertaud: most American cities are zoned for single-family housing. The result is not enough customers within walking distance of a business, and not enough parking for the customers who drive. Why American cities are zoned that way is related to culture and history. Hear Bertaud and EconTalk's Russ Roberts talk about urban problems and how to solve them--not through urban design or planning, but by respecting what makes each place unique.</p>
+]]></content:encoded>
+      <enclosure length="68194894" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/12bdf4eb-0668-474a-8895-8c3991e0c326/audio/9af17578-deff-4bde-8b1f-2982b917d471/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Fixing Sick Cities (with Alain Bertaud)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:44</itunes:duration>
+      <itunes:summary>Why are European cities charming and American cities often so charmless? Simple, says urbanist Alain Bertaud: most American cities are zoned for single-family housing. The result is not enough customers within walking distance of a business, and not enough parking for the customers who drive. Why American cities are zoned that way is related to culture and history. Hear Bertaud and EconTalk&apos;s Russ Roberts talk about urban problems and how to solve them--not through urban design or planning, but by respecting what makes each place unique.</itunes:summary>
+      <itunes:subtitle>Why are European cities charming and American cities often so charmless? Simple, says urbanist Alain Bertaud: most American cities are zoned for single-family housing. The result is not enough customers within walking distance of a business, and not enough parking for the customers who drive. Why American cities are zoned that way is related to culture and history. Hear Bertaud and EconTalk&apos;s Russ Roberts talk about urban problems and how to solve them--not through urban design or planning, but by respecting what makes each place unique.</itunes:subtitle>
+      <itunes:keywords>economics, zoning, housing, paris, urban, econlib, congestion, alain bertaud, traffic, parking</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>977</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3cfef845-f722-42d6-b648-aadbf228e11c</guid>
       <title>Is This War With Lebanon Different? (with Matti Friedman)</title>
