@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 30 Dec 2024 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Dec 2024 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 6 Jan 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 6 Jan 2025 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">36bc01b5-b6eb-4387-b406-7a4b23020b60</guid>
+      <title>Understanding the Settler Colonialism Movement (with Adam Kirsch)</title>
+      <description><![CDATA[<p>Under settler colonialism, you're either a settler or indigenous and the sin of the founding of America, Australia, and Israel, for example, is not just a past injustice but a perpetuating mistake that explains the present. Listen as poet, author, and literary critic Adam Kirsch explains how an academic theory helps us understand the protests against Israel on America's college campuses, the phenomenon of land acknowledgments, and more.</p>
+]]></description>
+      <pubDate>Mon, 6 Jan 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/understanding-the-settler-colonialism-movement-with-adam-kirsch/</link>
+      <content:encoded><![CDATA[<p>Under settler colonialism, you're either a settler or indigenous and the sin of the founding of America, Australia, and Israel, for example, is not just a past injustice but a perpetuating mistake that explains the present. Listen as poet, author, and literary critic Adam Kirsch explains how an academic theory helps us understand the protests against Israel on America's college campuses, the phenomenon of land acknowledgments, and more.</p>
+]]></content:encoded>
+      <enclosure length="57036246" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/9fd988ca-89c5-41fe-8dc9-4979c4f39a71/audio/d8962ca6-b2ec-43b9-95e8-2a5eac410865/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Understanding the Settler Colonialism Movement (with Adam Kirsch)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:59:07</itunes:duration>
+      <itunes:summary>Under settler colonialism, you&apos;re either a settler or indigenous and the sin of the founding of America, Australia, and Israel, for example, is not just a past injustice but a perpetuating mistake that explains the present. Listen as poet, author, and literary critic Adam Kirsch explains how an academic theory helps us understand the protests against Israel on America&apos;s college campuses, the phenomenon of land acknowledgments, and more.</itunes:summary>
+      <itunes:subtitle>Under settler colonialism, you&apos;re either a settler or indigenous and the sin of the founding of America, Australia, and Israel, for example, is not just a past injustice but a perpetuating mistake that explains the present. Listen as poet, author, and literary critic Adam Kirsch explains how an academic theory helps us understand the protests against Israel on America&apos;s college campuses, the phenomenon of land acknowledgments, and more.</itunes:subtitle>
+      <itunes:keywords>economics, immigration, occupations, colonization, settlers, land acknowledgments, econlib, nationalism, adam kirsch</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>979</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">0a8e3d73-e604-4b0e-832c-bb5e42c05adb</guid>
       <title>The Power of Nuance: Lessons for Public Health (with Emily Oster)</title>
