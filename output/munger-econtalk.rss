@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2023</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 6 Jan 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 6 Jan 2025 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jan 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jan 2025 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">8f163a6a-a079-4727-b371-6b1e63d7d286</guid>
+      <title>Will DOGE and Musk Make a Difference? (with Michael Munger)</title>
+      <description>&lt;p&gt;Can Musk use DOGE to reduce the size and power of the bureaucracy and big government? Michael Munger of Duke University thinks not, but EconTalk's Russ Roberts isn't so sure. Listen as they discuss the risks of empowering bureaucrats to rein in other bureaucrats and whether change can really happen given the power of the political forces operating below the surface.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 13 Jan 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/will-doge-and-musk-make-a-difference-with-michael-munger/</link>
+      <content:encoded>&lt;p&gt;Can Musk use DOGE to reduce the size and power of the bureaucracy and big government? Michael Munger of Duke University thinks not, but EconTalk's Russ Roberts isn't so sure. Listen as they discuss the risks of empowering bureaucrats to rein in other bureaucrats and whether change can really happen given the power of the political forces operating below the surface.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="62063168" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/225617ab-3094-4bb5-bb15-4d8e8f3cd59e/audio/bd19b67a-7467-40b7-ba51-9ab2e5574427/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Will DOGE and Musk Make a Difference? (with Michael Munger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:21</itunes:duration>
+      <itunes:summary>Can Musk use DOGE to reduce the size and power of the bureaucracy and big government? Michael Munger of Duke University thinks not, but EconTalk's Russ Roberts isn't so sure. Listen as they discuss the risks of empowering bureaucrats to rein in other bureaucrats and whether change can really happen given the power of the political forces operating below the surface.</itunes:summary>
+      <itunes:subtitle>Can Musk use DOGE to reduce the size and power of the bureaucracy and big government? Michael Munger of Duke University thinks not, but EconTalk's Russ Roberts isn't so sure. Listen as they discuss the risks of empowering bureaucrats to rein in other bureaucrats and whether change can really happen given the power of the political forces operating below the surface.</itunes:subtitle>
+      <itunes:keywords>efficiency, economics, michael munger, government, spending, econlib, elon musk, vivek ramaswamy, infrastructure, education, wasteful, irs</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>980</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">0f43bd43-d476-4a33-95dc-dd90f3c80d30</guid>
       <title>The Underrated Bruno Leoni (with Michael Munger)</title>
