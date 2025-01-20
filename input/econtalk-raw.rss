@@ -6,10 +6,10 @@
     <generator>https://simplecast.com</generator>
     <title>EconTalk</title>
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
-    <copyright>Copyright 2006-2023</copyright>
+    <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 13 Jan 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Jan 2025 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jan 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2025 11:30:10 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">3711f288-dcc7-4fb5-abe8-77fb17979afc</guid>
+      <title>Weep, Shudder, Die: The Secret of Opera Revealed (with Dana Gioia)</title>
+      <description><![CDATA[<p>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk's Russ Roberts why words matter more than we think, in both opera and on Broadway.</p>
+]]></description>
+      <pubDate>Mon, 20 Jan 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/weep-shudder-die-the-secret-of-opera-revealed-with-dana-gioia/</link>
+      <content:encoded><![CDATA[<p>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk's Russ Roberts why words matter more than we think, in both opera and on Broadway.</p>
+]]></content:encoded>
+      <enclosure length="75902142" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/6e55c7e5-c37b-4e08-8c68-25d5ad09f094/audio/4e855438-fbe0-4f32-baa3-b210cc43c844/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Weep, Shudder, Die: The Secret of Opera Revealed (with Dana Gioia)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:18:46</itunes:duration>
+      <itunes:summary>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk&apos;s Russ Roberts why words matter more than we think, in both opera and on Broadway.</itunes:summary>
+      <itunes:subtitle>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk&apos;s Russ Roberts why words matter more than we think, in both opera and on Broadway.</itunes:subtitle>
+      <itunes:keywords>operas, economics, song, econlib, musicals, collaboration, death, poetry, arias, dana gioia, lyrics</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>981</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">8f163a6a-a079-4727-b371-6b1e63d7d286</guid>
       <title>Will DOGE and Musk Make a Difference? (with Michael Munger)</title>
