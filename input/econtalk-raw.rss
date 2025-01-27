@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 20 Jan 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2025 11:30:10 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -37,6 +37,27 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <item>
+      <guid isPermaLink="false">aef5d52a-b643-4345-82ac-6aa54cb24c68</guid>
+      <title>Why AI Is Good for Humans (with Reid Hoffman)</title>
+      <description><![CDATA[<p>Should we worry about the human future in a world of AI? Reid Hoffman is unafraid and even optimistic. He argues that the brave new world that awaits is going to be great for humanity. Listen as he talks about his book <i>Superagency</i> with EconTalk's Russ Roberts and argues that the future is bright not just for AI, but for the people who remake the world using it.</p>
+]]></description>
+      <pubDate>Mon, 27 Jan 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/why-ai-is-good-for-humans-with-reid-hoffman/</link>
+      <content:encoded><![CDATA[<p>Should we worry about the human future in a world of AI? Reid Hoffman is unafraid and even optimistic. He argues that the brave new world that awaits is going to be great for humanity. Listen as he talks about his book <i>Superagency</i> with EconTalk's Russ Roberts and argues that the future is bright not just for AI, but for the people who remake the world using it.</p>
+]]></content:encoded>
+      <enclosure length="78093979" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/603ccc7c-d791-4025-93b9-d28a34ec9cab/audio/18c0b945-fba9-418e-9722-648389a6bbfe/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Why AI Is Good for Humans (with Reid Hoffman)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:21:03</itunes:duration>
+      <itunes:summary>Should we worry about the human future in a world of AI? Reid Hoffman is unafraid and even optimistic. He argues that the brave new world that awaits is going to be great for humanity. Listen as he talks about his book Superagency with EconTalk&apos;s Russ Roberts and argues that the future is bright not just for AI, but for the people who remake the world using it.</itunes:summary>
+      <itunes:subtitle>Should we worry about the human future in a world of AI? Reid Hoffman is unafraid and even optimistic. He argues that the brave new world that awaits is going to be great for humanity. Listen as he talks about his book Superagency with EconTalk&apos;s Russ Roberts and argues that the future is bright not just for AI, but for the people who remake the world using it.</itunes:subtitle>
+      <itunes:keywords>economics, chatbots, econlib, artifical intelligence, agency, reid hoffman, human beings, claude</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>982</itunes:episode>
+    </item>
+    <item>
       <guid isPermaLink="false">3711f288-dcc7-4fb5-abe8-77fb17979afc</guid>
       <title>Weep, Shudder, Die: The Secret of Opera Revealed (with Dana Gioia)</title>
       <description><![CDATA[<p>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk's Russ Roberts why words matter more than we think, in both opera and on Broadway.</p>
@@ -52,7 +73,7 @@
       <itunes:duration>01:18:46</itunes:duration>
       <itunes:summary>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk&apos;s Russ Roberts why words matter more than we think, in both opera and on Broadway.</itunes:summary>
       <itunes:subtitle>How can opera, with words we rarely understand, make us cry? Why does opera, filled with melodrama, move us? Listen as poet and librettist Dana Gioia explains to EconTalk&apos;s Russ Roberts why words matter more than we think, in both opera and on Broadway.</itunes:subtitle>
-      <itunes:keywords>operas, economics, song, econlib, musicals, collaboration, death, poetry, arias, dana gioia, lyrics</itunes:keywords>
+      <itunes:keywords>operas, economics, song, econlib, musicals, collaboration, poetry, arias, dana gioia, lyrics</itunes:keywords>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>981</itunes:episode>
