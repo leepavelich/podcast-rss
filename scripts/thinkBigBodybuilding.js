@@ -19,6 +19,7 @@ const SHOWS = {
     name: "Drugs N Stuff",
     description: "PED education with Dave Crosland and Scott McNally. A pull no punches, honest look inside the world of performance enhancing drugs.",
     archiveFile: "advicesradio-drugs-n-stuff.json",
+    soundcloudFile: "soundcloud-drugs-n-stuff.json",
     outputFile: "drugs-n-stuff.rss",
     // Match "Drugs n Stuff", "Drug n Stuff" (singular), and "DNS"
     patterns: [/drugs?\s*n\s*stuff/i, /\bDNS\s+\d+/i],
@@ -28,6 +29,7 @@ const SHOWS = {
     name: "Muscle Minds",
     description: "Bodybuilding science with Dr. Scott Stevenson and Scott McNally. Deep dives into training principles, muscle physiology, and evidence-based bodybuilding.",
     archiveFile: "advicesradio-muscle-minds.json",
+    soundcloudFile: "soundcloud-muscle-minds.json",
     outputFile: "muscle-minds.rss",
     patterns: [/muscle\s*minds/i],
     mp3Prefix: "MM",
@@ -111,6 +113,7 @@ function filterItemsByShow(items, patterns) {
  */
 function archivedToRSSItem(episode) {
   const pubDate = parseDate(episode.date);
+  const guidValue = episode.trackUrl || `archive-${episode.episodeNumber}`;
 
   return {
     title: [episode.title],
@@ -123,17 +126,42 @@ function archivedToRSSItem(episode) {
         length: "0",
       },
     }] : [],
-    guid: [{ _: episode.trackUrl, $: { isPermaLink: "true" } }],
-    link: [episode.trackUrl],
+    guid: [{ _: guidValue, $: { isPermaLink: episode.trackUrl ? "true" : "false" } }],
+    link: episode.trackUrl ? [episode.trackUrl] : [],
     _episodeNumber: episode.episodeNumber,
     _source: "archive",
   };
 }
 
 /**
- * Merge and deduplicate episodes by episode number
+ * Convert SoundCloud episode to RSS item format
  */
-function mergeAndDeduplicate(rssItems, archivedEpisodes) {
+function soundcloudToRSSItem(episode) {
+  const guidValue = episode.url || `soundcloud-${episode.episodeNumber}`;
+  const pubDate = episode.datetime ? new Date(episode.datetime).toUTCString() : "";
+  return {
+    title: [episode.title],
+    description: [episode.title],
+    pubDate: [pubDate],
+    enclosure: episode.mp3Url ? [{
+      $: {
+        url: episode.mp3Url,
+        type: "audio/mpeg",
+        length: "0",
+      },
+    }] : [],
+    guid: [{ _: guidValue, $: { isPermaLink: episode.url ? "true" : "false" } }],
+    link: episode.url ? [episode.url] : [],
+    _episodeNumber: episode.episodeNumber,
+    _source: "soundcloud",
+  };
+}
+
+/**
+ * Merge and deduplicate episodes by episode number
+ * Priority: RSS > SoundCloud > Archive (RSS has best metadata)
+ */
+function mergeAndDeduplicate(rssItems, archivedEpisodes, soundcloudEpisodes = []) {
   const episodeMap = new Map();
 
   // Add RSS items first (they're more recent/have better metadata)
@@ -149,16 +177,24 @@ function mergeAndDeduplicate(rssItems, archivedEpisodes) {
       if (!episodeMap.has(epNum)) {
         episodeMap.set(epNum, item);
       } else {
-        // If existing is from archive and this is from RSS, prefer RSS
+        // If existing is from archive/soundcloud and this is from RSS, prefer RSS
         const existing = episodeMap.get(epNum);
-        if (existing._source === "archive") {
+        if (existing._source !== "rss") {
           episodeMap.set(epNum, item);
         }
       }
     }
   }
 
-  // Add archived episodes (fill in gaps)
+  // Add SoundCloud episodes (fill in gaps, prefer over archive)
+  for (const episode of soundcloudEpisodes) {
+    const epNum = episode.episodeNumber;
+    if (epNum !== null && !episodeMap.has(epNum)) {
+      episodeMap.set(epNum, soundcloudToRSSItem(episode));
+    }
+  }
+
+  // Add archived episodes (fill in remaining gaps)
   for (const episode of archivedEpisodes) {
     const epNum = episode.episodeNumber;
     if (epNum !== null && !episodeMap.has(epNum)) {
@@ -216,12 +252,18 @@ async function processShow(showKey, showConfig, thinkBigFeed) {
   );
   console.log(`  Found ${rssItems.length} episodes in Think Big RSS`);
 
+  // Load SoundCloud episodes
+  const soundcloudEpisodes = showConfig.soundcloudFile
+    ? await loadArchivedEpisodes(showConfig.soundcloudFile)
+    : [];
+  console.log(`  Found ${soundcloudEpisodes.length} episodes in SoundCloud`);
+
   // Load archived episodes
   const archivedEpisodes = await loadArchivedEpisodes(showConfig.archiveFile);
   console.log(`  Found ${archivedEpisodes.length} episodes in archive`);
 
   // Merge and deduplicate
-  const mergedItems = mergeAndDeduplicate(rssItems, archivedEpisodes);
+  const mergedItems = mergeAndDeduplicate(rssItems, archivedEpisodes, soundcloudEpisodes);
   console.log(`  Total unique episodes: ${mergedItems.length}`);
 
   // Build RSS feed
