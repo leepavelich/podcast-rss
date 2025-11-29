@@ -1,84 +1,576 @@
 [
-  {"title":"Drugs n Stuff, 86: anavar","episodeNumber":86,"date":"29 Mar 2021","trackUrl":"https://www.advicesradio.com/track/86-anavar","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS86.mp3"},
-  {"title":"Drugs n Stuff, 85: steroid qa","episodeNumber":85,"date":"22 Mar 2021","trackUrl":"https://www.advicesradio.com/track/85-steroid-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS85.mp3"},
-  {"title":"Drugs n Stuff, 84: steroid qa","episodeNumber":84,"date":"15 Mar 2021","trackUrl":"https://www.advicesradio.com/track/84-steroid-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS84.mp3"},
-  {"title":"Drugs n Stuff, 83: dnp","episodeNumber":83,"date":"15 Feb 2021","trackUrl":"https://www.advicesradio.com/track/83-dnp","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS83.mp3"},
-  {"title":"Drugs n Stuff, 82: listener qa","episodeNumber":82,"date":"09 Feb 2021","trackUrl":"https://www.advicesradio.com/track/82-listener-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS82.mp3"},
-  {"title":"Drugs n Stuff, 81: superdrol","episodeNumber":81,"date":"01 Feb 2021","trackUrl":"https://www.advicesradio.com/track/81-superdrol","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS81.mp3"},
-  {"title":"Drugs n Stuff, 80: prolactin and gyno","episodeNumber":80,"date":"25 Jan 2021","trackUrl":"https://www.advicesradio.com/track/80-prolactin-and-gyno","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS80.mp3"},
-  {"title":"Drugs n Stuff, 79: steroid cycles","episodeNumber":79,"date":"18 Jan 2021","trackUrl":"https://www.advicesradio.com/track/79-steroid-cycles","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS79.mp3"},
-  {"title":"Drugs n Stuff, 78: site enhancers","episodeNumber":78,"date":"11 Jan 2021","trackUrl":"https://www.advicesradio.com/track/78-site-enhancers","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS78.mp3"},
-  {"title":"Drugs n Stuff, 77: equipoise","episodeNumber":77,"date":"04 Jan 2021","trackUrl":"https://www.advicesradio.com/track/77-equipoise","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS77.mp3"},
-  {"title":"Drugs n Stuff, 76: halotestin","episodeNumber":76,"date":"28 Dec 2020","trackUrl":"https://www.advicesradio.com/track/76-halotestin","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS76.mp3"},
-  {"title":"Drugs n Stuff, 75: strength steroids","episodeNumber":75,"date":"14 Dec 2020","trackUrl":"https://www.advicesradio.com/track/75-strength-steroids","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS75.mp3"},
-  {"title":"Drugs n Stuff, 74: masteron","episodeNumber":74,"date":"08 Dec 2020","trackUrl":"https://www.advicesradio.com/track/74-masteron","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS74.mp3"},
-  {"title":"Drugs n Stuff, 73: dianabol","episodeNumber":73,"date":"26 Oct 2020","trackUrl":"https://www.advicesradio.com/track/73-dianabol","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS73.mp3"},
-  {"title":"Drugs n Stuff, 72: ment","episodeNumber":72,"date":"19 Oct 2020","trackUrl":"https://www.advicesradio.com/track/72-ment","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS72.mp3"},
-  {"title":"Drugs n Stuff, 71: anadrol","episodeNumber":71,"date":"05 Oct 2020","trackUrl":"https://www.advicesradio.com/track/71-anadrol","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS71.mp3"},
-  {"title":"Drugs n Stuff, 70: trenbolone","episodeNumber":70,"date":"29 Sep 2020","trackUrl":"https://www.advicesradio.com/track/70-trenbolone","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS70.mp3"},
-  {"title":"Drugs n Stuff, 69: steroid esters","episodeNumber":69,"date":"21 Sep 2020","trackUrl":"https://www.advicesradio.com/track/69-steroid-esters","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS69.mp3"},
-  {"title":"Drugs n Stuff, 68: oral steroids pros/cons","episodeNumber":68,"date":"14 Sep 2020","trackUrl":"https://www.advicesradio.com/track/68-oral-steroids-pros-cons","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS68.mp3"},
-  {"title":"Drugs n Stuff, 67: steroid profile, news and qa","episodeNumber":67,"date":"07 Sep 2020","trackUrl":"https://www.advicesradio.com/track/67-steroid-profile-news-and-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS67.mp3"},
-  {"title":"Drugs n Stuff, 66: dihydroboldenone","episodeNumber":66,"date":"31 Aug 2020","trackUrl":"https://www.advicesradio.com/track/66-dihydroboldenone","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS66.mp3"},
-  {"title":"Drugs n Stuff, 65: steroid qa","episodeNumber":65,"date":"24 Aug 2020","trackUrl":"https://www.advicesradio.com/track/65-steroid-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS65.mp3"},
-  {"title":"Drugs n Stuff, 64: steroids in the news","episodeNumber":64,"date":"18 Aug 2020","trackUrl":"https://www.advicesradio.com/track/64-steroids-in-the-news","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS64.mp3"},
-  {"title":"Drugs n Stuff, 63: therapeutic phlebotomy","episodeNumber":63,"date":"27 Jul 2020","trackUrl":"https://www.advicesradio.com/track/63-therapeutic-phlebotomy","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS63.mp3"},
-  {"title":"Drugs n Stuff, 62: steroids make psychopaths?","episodeNumber":62,"date":"20 Jul 2020","trackUrl":"https://www.advicesradio.com/track/62-steroids-make-psychopaths","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS62.mp3"},
-  {"title":"Drugs n Stuff, 61: anxiety on steroids","episodeNumber":61,"date":"13 Jul 2020","trackUrl":"https://www.advicesradio.com/track/61-anxiety-on-steroids","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS61.mp3"},
-  {"title":"Drugs n Stuff, 60: gas station viagra and trt qa","episodeNumber":60,"date":"06 Jul 2020","trackUrl":"https://www.advicesradio.com/track/60-gas-station-viagra-and-trt-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS60.mp3"},
-  {"title":"Drugs n Stuff, 59: injectable l carnitine","episodeNumber":59,"date":"29 Jun 2020","trackUrl":"https://www.advicesradio.com/track/59-injectable-l-carnitine","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS59.mp3"},
-  {"title":"Drugs n Stuff, 58: the truth is hard to swallow","episodeNumber":58,"date":"22 Jun 2020","trackUrl":"https://www.advicesradio.com/track/58-the-truth-is-hard-to-swallow","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS58.mp3"},
-  {"title":"Drugs n Stuff, 57: weight lifting doping scandal","episodeNumber":57,"date":"15 Jun 2020","trackUrl":"https://www.advicesradio.com/track/57-weight-lifting-doping-scandal","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS57.mp3"},
-  {"title":"Drugs n Stuff, 56: competitors vs gym rats","episodeNumber":56,"date":"02 Jun 2020","trackUrl":"https://www.advicesradio.com/track/56-competitors-vs-gym-rats","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS56.mp3"},
-  {"title":"Drugs n Stuff, Episode 54","episodeNumber":54,"date":"19 May 2020","trackUrl":"https://www.advicesradio.com/track/episode-54-1","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS54.mp3"},
-  {"title":"Drugs n Stuff, 53: bodybuilding qa","episodeNumber":53,"date":"15 May 2020","trackUrl":"https://www.advicesradio.com/track/53-bodybuilding-qa","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS53.mp3"},
-  {"title":"Drugs n Stuff, 52: legal steroid scam","episodeNumber":52,"date":"27 Apr 2020","trackUrl":"https://www.advicesradio.com/track/52-legal-steroid-scam","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS52.mp3"},
-  {"title":"Drugs n Stuff, 51: race horses on ostarine","episodeNumber":51,"date":"21 Apr 2020","trackUrl":"https://www.advicesradio.com/track/51-race-horses-on-ostarine","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS51.mp3"},
-  {"title":"Drugs n Stuff, 50: rich piana's cycle","episodeNumber":50,"date":"14 Apr 2020","trackUrl":"https://www.advicesradio.com/track/50-rich-pianas-cycle","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS50.mp3"},
-  {"title":"Drugs n Stuff, 49: build muscle fast","episodeNumber":49,"date":"06 Apr 2020","trackUrl":"https://www.advicesradio.com/track/49-build-muscle-fast","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS49.mp3"},
-  {"title":"Drugs n Stuff, 48 with dave crosland","episodeNumber":48,"date":"24 Mar 2020","trackUrl":"https://www.advicesradio.com/track/48-with-dave-crosland","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS48.mp3"},
-  {"title":"Drugs n Stuff, 47: man cuts leg off on spice?","episodeNumber":47,"date":"16 Mar 2020","trackUrl":"https://www.advicesradio.com/track/47-man-cuts-leg-off-on-spice","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS47.mp3"},
-  {"title":"Drugs n Stuff, Episode 46: steroids in law enforcement.","episodeNumber":46,"date":"11 Mar 2020","trackUrl":"https://www.advicesradio.com/track/episode-46-steroids-in-law-enforcement","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS46.mp3"},
-  {"title":"Drugs n Stuff, Episode 45","episodeNumber":45,"date":"03 Mar 2020","trackUrl":"https://www.advicesradio.com/track/episode-45-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS45.mp3"},
-  {"title":"Drugs n Stuff, Episode 44","episodeNumber":44,"date":"18 Feb 2020","trackUrl":"https://www.advicesradio.com/track/episode-44-3","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS44.mp3"},
-  {"title":"Drugs n Stuff, Episode 43","episodeNumber":43,"date":"11 Feb 2020","trackUrl":"https://www.advicesradio.com/track/episode-43-3","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS43.mp3"},
-  {"title":"Drugs n Stuff, Episode 42","episodeNumber":42,"date":"03 Feb 2020","trackUrl":"https://www.advicesradio.com/track/episode-42-3","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS42.mp3"},
-  {"title":"Drugs n Stuff, Episode 41","episodeNumber":41,"date":"20 Jan 2020","trackUrl":"https://www.advicesradio.com/track/episode-41-3","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS41.mp3"},
-  {"title":"Drugs n Stuff, Episode 40","episodeNumber":40,"date":"06 Jan 2020","trackUrl":"https://www.advicesradio.com/track/episode-40-3","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS40.mp3"},
-  {"title":"Drugs n Stuff, Episode 39","episodeNumber":39,"date":"31 Dec 2019","trackUrl":"https://www.advicesradio.com/track/episode-39-3","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS39.mp3"},
-  {"title":"Drugs n Stuff, Episode 38","episodeNumber":38,"date":"10 Dec 2019","trackUrl":"https://www.advicesradio.com/track/episode-38-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS38.mp3"},
-  {"title":"Drugs n Stuff, Episode 37","episodeNumber":37,"date":"12 Nov 2019","trackUrl":"https://www.advicesradio.com/track/episode-37-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS37.mp3"},
-  {"title":"Drugs n Stuff, Episode 36","episodeNumber":36,"date":"05 Nov 2019","trackUrl":"https://www.advicesradio.com/track/episode-36-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS36.mp3"},
-  {"title":"Drugs n Stuff, Episode 35","episodeNumber":35,"date":"14 Oct 2019","trackUrl":"https://www.advicesradio.com/track/episode-35-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS35.mp3"},
-  {"title":"Drugs n Stuff, Episode 34","episodeNumber":34,"date":"07 Oct 2019","trackUrl":"https://www.advicesradio.com/track/episode-34-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS34.mp3"},
-  {"title":"Drugs n Stuff, Episode 33","episodeNumber":33,"date":"27 Sep 2019","trackUrl":"https://www.advicesradio.com/track/episode-33-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS33.mp3"},
-  {"title":"Drugs n Stuff, Episode 32","episodeNumber":32,"date":"09 Sep 2019","trackUrl":"https://www.advicesradio.com/track/episode-32-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS32.mp3"},
-  {"title":"Drugs n Stuff, Episode 31","episodeNumber":31,"date":"28 Aug 2019","trackUrl":"https://www.advicesradio.com/track/episode-31-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS31.mp3"},
-  {"title":"Drugs n Stuff, Episode 30","episodeNumber":30,"date":"14 Aug 2019","trackUrl":"https://www.advicesradio.com/track/episode-30-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS30.mp3"},
-  {"title":"Drugs n Stuff, Episode 29","episodeNumber":29,"date":"06 Aug 2019","trackUrl":"https://www.advicesradio.com/track/episode-29-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS29.mp3"},
-  {"title":"Drugs n Stuff, Episode 28","episodeNumber":28,"date":"23 Jul 2019","trackUrl":"https://www.advicesradio.com/track/episode-28-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS28.mp3"},
-  {"title":"Drugs n Stuff, Episode 27","episodeNumber":27,"date":"03 Jul 2019","trackUrl":"https://www.advicesradio.com/track/episode-27-4","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS27.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 25","episodeNumber":25,"date":"29 May 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-25","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS25.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 24","episodeNumber":24,"date":"22 May 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-24","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS24.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 23","episodeNumber":23,"date":"08 May 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-23","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS23.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 22","episodeNumber":22,"date":"25 Apr 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-22","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS22.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 20","episodeNumber":20,"date":"03 Apr 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-20","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS20.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 19","episodeNumber":19,"date":"20 Mar 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-19","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS19.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 17","episodeNumber":17,"date":"27 Feb 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-17","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS17.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 16","episodeNumber":16,"date":"20 Feb 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-16","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS16.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 15","episodeNumber":15,"date":"13 Feb 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-15","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS15.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 14","episodeNumber":14,"date":"06 Feb 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-14","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS14.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 13","episodeNumber":13,"date":"28 Jan 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-13","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS13.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 12","episodeNumber":12,"date":"16 Jan 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-12","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS12.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 11","episodeNumber":11,"date":"09 Jan 2019","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-11","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS11.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 10","episodeNumber":10,"date":"19 Dec 2018","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-10","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS10.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 09","episodeNumber":9,"date":"05 Dec 2018","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-09","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS9.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 08","episodeNumber":8,"date":"28 Nov 2018","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-08","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS8.mp3"},
-  {"title":"Drugs n Stuff, Drugs n stuff, episode 07","episodeNumber":7,"date":"21 Nov 2018","trackUrl":"https://www.advicesradio.com/track/drugs-n-stuff-episode-07","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS7.mp3"},
-  {"title":"Drugs n Stuff, Episode 06","episodeNumber":6,"date":"13 Nov 2018","trackUrl":"https://www.advicesradio.com/track/episode-06-5","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS6.mp3"},
-  {"title":"Drugs n Stuff, Episode 05","episodeNumber":5,"date":"06 Nov 2018","trackUrl":"https://www.advicesradio.com/track/episode-05-5","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS5.mp3"},
-  {"title":"Drugs n Stuff, Episode 04","episodeNumber":4,"date":"31 Oct 2018","trackUrl":"https://www.advicesradio.com/track/episode-04-5","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS4.mp3"},
-  {"title":"Drugs n Stuff, Episode 03","episodeNumber":3,"date":"23 Oct 2018","trackUrl":"https://www.advicesradio.com/track/episode-03-6","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS3.mp3"},
-  {"title":"Drugs n Stuff, Episode 02","episodeNumber":2,"date":"16 Oct 2018","trackUrl":"https://www.advicesradio.com/track/episode-02-7","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS2.mp3"},
-  {"title":"Drugs n Stuff, Episode 01","episodeNumber":1,"date":"09 Oct 2018","trackUrl":"https://www.advicesradio.com/track/episode-01-5","mp3Url":"https://www.advicesradio.com/uploads/tracks/mp3/DS1.mp3"}
+  {
+    "title": "Drugs n Stuff, 86: anavar",
+    "episodeNumber": 86,
+    "date": "29 Mar 2021",
+    "trackUrl": "https://www.advicesradio.com/track/86-anavar",
+    "mp3Url": "https://www.advicesradio.com/track/download/86-anavar.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 85: steroid qa",
+    "episodeNumber": 85,
+    "date": "22 Mar 2021",
+    "trackUrl": "https://www.advicesradio.com/track/85-steroid-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/85-steroid-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 84: steroid qa",
+    "episodeNumber": 84,
+    "date": "15 Mar 2021",
+    "trackUrl": "https://www.advicesradio.com/track/84-steroid-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/84-steroid-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 83: dnp",
+    "episodeNumber": 83,
+    "date": "15 Feb 2021",
+    "trackUrl": "https://www.advicesradio.com/track/83-dnp",
+    "mp3Url": "https://www.advicesradio.com/track/download/83-dnp.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 82: listener qa",
+    "episodeNumber": 82,
+    "date": "09 Feb 2021",
+    "trackUrl": "https://www.advicesradio.com/track/82-listener-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/82-listener-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 81: superdrol",
+    "episodeNumber": 81,
+    "date": "01 Feb 2021",
+    "trackUrl": "https://www.advicesradio.com/track/81-superdrol",
+    "mp3Url": "https://www.advicesradio.com/track/download/81-superdrol.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 80: prolactin and gyno",
+    "episodeNumber": 80,
+    "date": "25 Jan 2021",
+    "trackUrl": "https://www.advicesradio.com/track/80-prolactin-and-gyno",
+    "mp3Url": "https://www.advicesradio.com/track/download/80-prolactin-and-gyno.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 79: steroid cycles",
+    "episodeNumber": 79,
+    "date": "18 Jan 2021",
+    "trackUrl": "https://www.advicesradio.com/track/79-steroid-cycles",
+    "mp3Url": "https://www.advicesradio.com/track/download/79-steroid-cycles.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 78: site enhancers",
+    "episodeNumber": 78,
+    "date": "11 Jan 2021",
+    "trackUrl": "https://www.advicesradio.com/track/78-site-enhancers",
+    "mp3Url": "https://www.advicesradio.com/track/download/78-site-enhancers.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 77: equipoise",
+    "episodeNumber": 77,
+    "date": "04 Jan 2021",
+    "trackUrl": "https://www.advicesradio.com/track/77-equipoise",
+    "mp3Url": "https://www.advicesradio.com/track/download/77-equipoise.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 76: halotestin",
+    "episodeNumber": 76,
+    "date": "28 Dec 2020",
+    "trackUrl": "https://www.advicesradio.com/track/76-halotestin",
+    "mp3Url": "https://www.advicesradio.com/track/download/76-halotestin.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 75: strength steroids",
+    "episodeNumber": 75,
+    "date": "14 Dec 2020",
+    "trackUrl": "https://www.advicesradio.com/track/75-strength-steroids",
+    "mp3Url": "https://www.advicesradio.com/track/download/75-strength-steroids.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 74: masteron",
+    "episodeNumber": 74,
+    "date": "08 Dec 2020",
+    "trackUrl": "https://www.advicesradio.com/track/74-masteron",
+    "mp3Url": "https://www.advicesradio.com/track/download/74-masteron.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 73: dianabol",
+    "episodeNumber": 73,
+    "date": "26 Oct 2020",
+    "trackUrl": "https://www.advicesradio.com/track/73-dianabol",
+    "mp3Url": "https://www.advicesradio.com/track/download/73-dianabol.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 72: ment",
+    "episodeNumber": 72,
+    "date": "19 Oct 2020",
+    "trackUrl": "https://www.advicesradio.com/track/72-ment",
+    "mp3Url": "https://www.advicesradio.com/track/download/72-ment.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 71: anadrol",
+    "episodeNumber": 71,
+    "date": "05 Oct 2020",
+    "trackUrl": "https://www.advicesradio.com/track/71-anadrol",
+    "mp3Url": "https://www.advicesradio.com/track/download/71-anadrol.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 70: trenbolone",
+    "episodeNumber": 70,
+    "date": "29 Sep 2020",
+    "trackUrl": "https://www.advicesradio.com/track/70-trenbolone",
+    "mp3Url": "https://www.advicesradio.com/track/download/70-trenbolone.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 69: steroid esters",
+    "episodeNumber": 69,
+    "date": "21 Sep 2020",
+    "trackUrl": "https://www.advicesradio.com/track/69-steroid-esters",
+    "mp3Url": "https://www.advicesradio.com/track/download/69-steroid-esters.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 68: oral steroids pros/cons",
+    "episodeNumber": 68,
+    "date": "14 Sep 2020",
+    "trackUrl": "https://www.advicesradio.com/track/68-oral-steroids-pros-cons",
+    "mp3Url": "https://www.advicesradio.com/track/download/68-oral-steroids-pros-cons.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 67: steroid profile, news and qa",
+    "episodeNumber": 67,
+    "date": "07 Sep 2020",
+    "trackUrl": "https://www.advicesradio.com/track/67-steroid-profile-news-and-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/67-steroid-profile-news-and-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 66: dihydroboldenone",
+    "episodeNumber": 66,
+    "date": "31 Aug 2020",
+    "trackUrl": "https://www.advicesradio.com/track/66-dihydroboldenone",
+    "mp3Url": "https://www.advicesradio.com/track/download/66-dihydroboldenone.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 65: steroid qa",
+    "episodeNumber": 65,
+    "date": "24 Aug 2020",
+    "trackUrl": "https://www.advicesradio.com/track/65-steroid-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/65-steroid-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 64: steroids in the news",
+    "episodeNumber": 64,
+    "date": "18 Aug 2020",
+    "trackUrl": "https://www.advicesradio.com/track/64-steroids-in-the-news",
+    "mp3Url": "https://www.advicesradio.com/track/download/64-steroids-in-the-news.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 63: therapeutic phlebotomy",
+    "episodeNumber": 63,
+    "date": "27 Jul 2020",
+    "trackUrl": "https://www.advicesradio.com/track/63-therapeutic-phlebotomy",
+    "mp3Url": "https://www.advicesradio.com/track/download/63-therapeutic-phlebotomy.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 62: steroids make psychopaths?",
+    "episodeNumber": 62,
+    "date": "20 Jul 2020",
+    "trackUrl": "https://www.advicesradio.com/track/62-steroids-make-psychopaths",
+    "mp3Url": "https://www.advicesradio.com/track/download/62-steroids-make-psychopaths.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 61: anxiety on steroids",
+    "episodeNumber": 61,
+    "date": "13 Jul 2020",
+    "trackUrl": "https://www.advicesradio.com/track/61-anxiety-on-steroids",
+    "mp3Url": "https://www.advicesradio.com/track/download/61-anxiety-on-steroids.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 60: gas station viagra and trt qa",
+    "episodeNumber": 60,
+    "date": "06 Jul 2020",
+    "trackUrl": "https://www.advicesradio.com/track/60-gas-station-viagra-and-trt-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/60-gas-station-viagra-and-trt-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 59: injectable l carnitine",
+    "episodeNumber": 59,
+    "date": "29 Jun 2020",
+    "trackUrl": "https://www.advicesradio.com/track/59-injectable-l-carnitine",
+    "mp3Url": "https://www.advicesradio.com/track/download/59-injectable-l-carnitine.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 58: the truth is hard to swallow",
+    "episodeNumber": 58,
+    "date": "22 Jun 2020",
+    "trackUrl": "https://www.advicesradio.com/track/58-the-truth-is-hard-to-swallow",
+    "mp3Url": "https://www.advicesradio.com/track/download/58-the-truth-is-hard-to-swallow.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 57: weight lifting doping scandal",
+    "episodeNumber": 57,
+    "date": "15 Jun 2020",
+    "trackUrl": "https://www.advicesradio.com/track/57-weight-lifting-doping-scandal",
+    "mp3Url": "https://www.advicesradio.com/track/download/57-weight-lifting-doping-scandal.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 56: competitors vs gym rats",
+    "episodeNumber": 56,
+    "date": "02 Jun 2020",
+    "trackUrl": "https://www.advicesradio.com/track/56-competitors-vs-gym-rats",
+    "mp3Url": "https://www.advicesradio.com/track/download/56-competitors-vs-gym-rats.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 54",
+    "episodeNumber": 54,
+    "date": "19 May 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-54-1",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-54-1.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 53: bodybuilding qa",
+    "episodeNumber": 53,
+    "date": "15 May 2020",
+    "trackUrl": "https://www.advicesradio.com/track/53-bodybuilding-qa",
+    "mp3Url": "https://www.advicesradio.com/track/download/53-bodybuilding-qa.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 52: legal steroid scam",
+    "episodeNumber": 52,
+    "date": "27 Apr 2020",
+    "trackUrl": "https://www.advicesradio.com/track/52-legal-steroid-scam",
+    "mp3Url": "https://www.advicesradio.com/track/download/52-legal-steroid-scam.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 51: race horses on ostarine",
+    "episodeNumber": 51,
+    "date": "21 Apr 2020",
+    "trackUrl": "https://www.advicesradio.com/track/51-race-horses-on-ostarine",
+    "mp3Url": "https://www.advicesradio.com/track/download/51-race-horses-on-ostarine.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 50: rich piana's cycle",
+    "episodeNumber": 50,
+    "date": "14 Apr 2020",
+    "trackUrl": "https://www.advicesradio.com/track/50-rich-pianas-cycle",
+    "mp3Url": "https://www.advicesradio.com/track/download/50-rich-pianas-cycle.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 49: build muscle fast",
+    "episodeNumber": 49,
+    "date": "06 Apr 2020",
+    "trackUrl": "https://www.advicesradio.com/track/49-build-muscle-fast",
+    "mp3Url": "https://www.advicesradio.com/track/download/49-build-muscle-fast.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 48 with dave crosland",
+    "episodeNumber": 48,
+    "date": "24 Mar 2020",
+    "trackUrl": "https://www.advicesradio.com/track/48-with-dave-crosland",
+    "mp3Url": "https://www.advicesradio.com/track/download/48-with-dave-crosland.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, 47: man cuts leg off on spice?",
+    "episodeNumber": 47,
+    "date": "16 Mar 2020",
+    "trackUrl": "https://www.advicesradio.com/track/47-man-cuts-leg-off-on-spice",
+    "mp3Url": "https://www.advicesradio.com/track/download/47-man-cuts-leg-off-on-spice.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 46: steroids in law enforcement.",
+    "episodeNumber": 46,
+    "date": "11 Mar 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-46-steroids-in-law-enforcement",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-46-steroids-in-law-enforcement.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 45",
+    "episodeNumber": 45,
+    "date": "03 Mar 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-45-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-45-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 44",
+    "episodeNumber": 44,
+    "date": "18 Feb 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-44-3",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-44-3.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 43",
+    "episodeNumber": 43,
+    "date": "11 Feb 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-43-3",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-43-3.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 42",
+    "episodeNumber": 42,
+    "date": "03 Feb 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-42-3",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-42-3.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 41",
+    "episodeNumber": 41,
+    "date": "20 Jan 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-41-3",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-41-3.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 40",
+    "episodeNumber": 40,
+    "date": "06 Jan 2020",
+    "trackUrl": "https://www.advicesradio.com/track/episode-40-3",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-40-3.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 39",
+    "episodeNumber": 39,
+    "date": "31 Dec 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-39-3",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-39-3.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 38",
+    "episodeNumber": 38,
+    "date": "10 Dec 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-38-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-38-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 37",
+    "episodeNumber": 37,
+    "date": "12 Nov 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-37-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-37-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 36",
+    "episodeNumber": 36,
+    "date": "05 Nov 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-36-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-36-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 35",
+    "episodeNumber": 35,
+    "date": "14 Oct 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-35-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-35-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 34",
+    "episodeNumber": 34,
+    "date": "07 Oct 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-34-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-34-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 33",
+    "episodeNumber": 33,
+    "date": "27 Sep 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-33-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-33-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 32",
+    "episodeNumber": 32,
+    "date": "09 Sep 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-32-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-32-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 31",
+    "episodeNumber": 31,
+    "date": "28 Aug 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-31-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-31-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 30",
+    "episodeNumber": 30,
+    "date": "14 Aug 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-30-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-30-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 29",
+    "episodeNumber": 29,
+    "date": "06 Aug 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-29-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-29-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 28",
+    "episodeNumber": 28,
+    "date": "23 Jul 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-28-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-28-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 27",
+    "episodeNumber": 27,
+    "date": "03 Jul 2019",
+    "trackUrl": "https://www.advicesradio.com/track/episode-27-4",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-27-4.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 25",
+    "episodeNumber": 25,
+    "date": "29 May 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-25",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-25.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 24",
+    "episodeNumber": 24,
+    "date": "22 May 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-24",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-24.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 23",
+    "episodeNumber": 23,
+    "date": "08 May 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-23",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-23.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 22",
+    "episodeNumber": 22,
+    "date": "25 Apr 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-22",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-22.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 20",
+    "episodeNumber": 20,
+    "date": "03 Apr 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-20",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-20.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 19",
+    "episodeNumber": 19,
+    "date": "20 Mar 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-19",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-19.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 17",
+    "episodeNumber": 17,
+    "date": "27 Feb 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-17",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-17.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 16",
+    "episodeNumber": 16,
+    "date": "20 Feb 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-16",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-16.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 15",
+    "episodeNumber": 15,
+    "date": "13 Feb 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-15",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-15.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 14",
+    "episodeNumber": 14,
+    "date": "06 Feb 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-14",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-14.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 13",
+    "episodeNumber": 13,
+    "date": "28 Jan 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-13",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-13.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 12",
+    "episodeNumber": 12,
+    "date": "16 Jan 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-12",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-12.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 11",
+    "episodeNumber": 11,
+    "date": "09 Jan 2019",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-11",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-11.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 10",
+    "episodeNumber": 10,
+    "date": "19 Dec 2018",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-10",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-10.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 09",
+    "episodeNumber": 9,
+    "date": "05 Dec 2018",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-09",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-09.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 08",
+    "episodeNumber": 8,
+    "date": "28 Nov 2018",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-08",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-08.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Drugs n stuff, episode 07",
+    "episodeNumber": 7,
+    "date": "21 Nov 2018",
+    "trackUrl": "https://www.advicesradio.com/track/drugs-n-stuff-episode-07",
+    "mp3Url": "https://www.advicesradio.com/track/download/drugs-n-stuff-episode-07.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 06",
+    "episodeNumber": 6,
+    "date": "13 Nov 2018",
+    "trackUrl": "https://www.advicesradio.com/track/episode-06-5",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-06-5.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 05",
+    "episodeNumber": 5,
+    "date": "06 Nov 2018",
+    "trackUrl": "https://www.advicesradio.com/track/episode-05-5",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-05-5.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 04",
+    "episodeNumber": 4,
+    "date": "31 Oct 2018",
+    "trackUrl": "https://www.advicesradio.com/track/episode-04-5",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-04-5.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 03",
+    "episodeNumber": 3,
+    "date": "23 Oct 2018",
+    "trackUrl": "https://www.advicesradio.com/track/episode-03-6",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-03-6.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 02",
+    "episodeNumber": 2,
+    "date": "16 Oct 2018",
+    "trackUrl": "https://www.advicesradio.com/track/episode-02-7",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-02-7.mp3"
+  },
+  {
+    "title": "Drugs n Stuff, Episode 01",
+    "episodeNumber": 1,
+    "date": "09 Oct 2018",
+    "trackUrl": "https://www.advicesradio.com/track/episode-01-5",
+    "mp3Url": "https://www.advicesradio.com/track/download/episode-01-5.mp3"
+  }
 ]
