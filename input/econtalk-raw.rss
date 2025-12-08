@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 27 Jan 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2025 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 8 Dec 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 8 Dec 2025 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,951 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">4606a1ae-2a35-4047-8a83-dc3cf7d34756</guid>
+      <title>Colonialism, Slavery, and Foreign Aid (with William Easterly)</title>
+      <description><![CDATA[<p> Can the promise of economic progress ever justify conquest, coercion, and control over other people’s lives? Economist William Easterly joins EconTalk's Russ Roberts to argue no--and to rethink what "development" really means in theory, in history, and in our politics today. Drawing on his new book, <i>Violent Saviors: The West's Conquest of the Rest,</i> Easterly explores how colonial powers and later regimes like the Soviet Union claimed to increase people's material well-being while stripping them of freedom, dignity, and any say in their own fate. Russ and Easterly dig into the idea of agency--the ability of people to choose for themselves--through the lens of Adam Smith, John Stuart Mill, Kant, Frederick Douglass, and modern debates over foreign aid, autocrats, and technocratic "solutions" imposed from afar.</p>
+]]></description>
+      <pubDate>Mon, 8 Dec 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/colonialism-slavery-and-foreign-aid-with-william-easterly/</link>
+      <content:encoded><![CDATA[<p> Can the promise of economic progress ever justify conquest, coercion, and control over other people’s lives? Economist William Easterly joins EconTalk's Russ Roberts to argue no--and to rethink what "development" really means in theory, in history, and in our politics today. Drawing on his new book, <i>Violent Saviors: The West's Conquest of the Rest,</i> Easterly explores how colonial powers and later regimes like the Soviet Union claimed to increase people's material well-being while stripping them of freedom, dignity, and any say in their own fate. Russ and Easterly dig into the idea of agency--the ability of people to choose for themselves--through the lens of Adam Smith, John Stuart Mill, Kant, Frederick Douglass, and modern debates over foreign aid, autocrats, and technocratic "solutions" imposed from afar.</p>
+]]></content:encoded>
+      <enclosure length="61782395" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/ab019906-ef56-4da5-90d7-634c595ce739/audio/53610c1c-808b-4633-80f6-1b0289400d0f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Colonialism, Slavery, and Foreign Aid (with William Easterly)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:02</itunes:duration>
+      <itunes:summary> Can the promise of economic progress ever justify conquest, coercion, and control over other people’s lives? Economist William Easterly joins EconTalk&apos;s Russ Roberts to argue no--and to rethink what &quot;development&quot; really means in theory, in history, and in our politics today. Drawing on his new book, Violent Saviors: The West&apos;s Conquest of the Rest, Easterly explores how colonial powers and later regimes like the Soviet Union claimed to increase people&apos;s material well-being while stripping them of freedom, dignity, and any say in their own fate. Russ and Easterly dig into the idea of agency--the ability of people to choose for themselves--through the lens of Adam Smith, John Stuart Mill, Kant, Frederick Douglass, and modern debates over foreign aid, autocrats, and technocratic &quot;solutions&quot; imposed from afar.</itunes:summary>
+      <itunes:subtitle> Can the promise of economic progress ever justify conquest, coercion, and control over other people’s lives? Economist William Easterly joins EconTalk&apos;s Russ Roberts to argue no--and to rethink what &quot;development&quot; really means in theory, in history, and in our politics today. Drawing on his new book, Violent Saviors: The West&apos;s Conquest of the Rest, Easterly explores how colonial powers and later regimes like the Soviet Union claimed to increase people&apos;s material well-being while stripping them of freedom, dignity, and any say in their own fate. Russ and Easterly dig into the idea of agency--the ability of people to choose for themselves--through the lens of Adam Smith, John Stuart Mill, Kant, Frederick Douglass, and modern debates over foreign aid, autocrats, and technocratic &quot;solutions&quot; imposed from afar.</itunes:subtitle>
+      <itunes:keywords>economics, colonization, international development, econlib, william easterly, paternalism, emancipation, agency, benevolent, freedom, self-determination, dictatorships</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1027</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">831ffcab-91f4-49b3-bbab-023675b8ce64</guid>
+      <title>The Perfect Tuba: How Band, Grit, and Community Build a Better Life (with Sam Quinones)</title>
+      <description><![CDATA[<p>Journalist and author Sam Quinones talks about his newest book, <i>The Perfect Tuba: Forging Fulfillment from the Brass Horn, Band, and Hard Work</i> with EconTalk's Russ Roberts. Known for his reporting on the opioid crisis, Quinones turns to a more uplifting subject--the world of tuba players and high school marching bands. What begins as curiosity about an unusual instrument evolves into a moving exploration of how discipline, community, and devotion to craft can restore meaning and purpose in people's lives.</p>
+]]></description>
+      <pubDate>Mon, 1 Dec 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-perfect-tuba-how-band-grit-and-community-build-a-better-life-with-sam-quinones/</link>
+      <content:encoded><![CDATA[<p>Journalist and author Sam Quinones talks about his newest book, <i>The Perfect Tuba: Forging Fulfillment from the Brass Horn, Band, and Hard Work</i> with EconTalk's Russ Roberts. Known for his reporting on the opioid crisis, Quinones turns to a more uplifting subject--the world of tuba players and high school marching bands. What begins as curiosity about an unusual instrument evolves into a moving exploration of how discipline, community, and devotion to craft can restore meaning and purpose in people's lives.</p>
+]]></content:encoded>
+      <enclosure length="58592661" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/bef9c7ae-bf33-4dd6-805b-48988ef26282/audio/60b0ef18-ce03-4117-ae17-803e70c2deaa/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Perfect Tuba: How Band, Grit, and Community Build a Better Life (with Sam Quinones)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:00:43</itunes:duration>
+      <itunes:summary>Journalist and author Sam Quinones talks about his newest book, The Perfect Tuba: Forging Fulfillment from the Brass Horn, Band, and Hard Work with EconTalk&apos;s Russ Roberts. Known for his reporting on the opioid crisis, Quinones turns to a more uplifting subject--the world of tuba players and high school marching bands. What begins as curiosity about an unusual instrument evolves into a moving exploration of how discipline, community, and devotion to craft can restore meaning and purpose in people&apos;s lives.</itunes:summary>
+      <itunes:subtitle>Journalist and author Sam Quinones talks about his newest book, The Perfect Tuba: Forging Fulfillment from the Brass Horn, Band, and Hard Work with EconTalk&apos;s Russ Roberts. Known for his reporting on the opioid crisis, Quinones turns to a more uplifting subject--the world of tuba players and high school marching bands. What begins as curiosity about an unusual instrument evolves into a moving exploration of how discipline, community, and devotion to craft can restore meaning and purpose in people&apos;s lives.</itunes:subtitle>
+      <itunes:keywords>economics, competitions, econlib, sousaphones, practice, sam quinones, fulfillment, self-discipline, music, community, high school bands</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1026</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">a2bacc0d-1b69-4fb0-9015-0e18d239511e</guid>
+      <title>The Status Game (with Will Storr)</title>
+      <description><![CDATA[<p>Will Storr talks about his book <i>The Status Game</i> with EconTalk host Russ Roberts, exploring how our deep need for respect and recognition shapes our behavior. The conversation delves into how we constantly judge others and compare ourselves to them, the pain of losing status, and the freedom of escaping judgment. Storr and Roberts discuss how status drives everything from workplace hierarchies to social media, and how aging can shift the games we choose to play. They also examine tribalism, moral outrage, and politics through the lens of status, suggesting that much of what we call morality or justice reflects our desire for recognition.</p>
+]]></description>
+      <pubDate>Mon, 24 Nov 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-status-game-with-will-storr/</link>
+      <content:encoded><![CDATA[<p>Will Storr talks about his book <i>The Status Game</i> with EconTalk host Russ Roberts, exploring how our deep need for respect and recognition shapes our behavior. The conversation delves into how we constantly judge others and compare ourselves to them, the pain of losing status, and the freedom of escaping judgment. Storr and Roberts discuss how status drives everything from workplace hierarchies to social media, and how aging can shift the games we choose to play. They also examine tribalism, moral outrage, and politics through the lens of status, suggesting that much of what we call morality or justice reflects our desire for recognition.</p>
+]]></content:encoded>
+      <enclosure length="59048496" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/29106c63-0ebf-44f7-8db8-1442ac9abaf4/audio/009e2138-0952-48d9-b56c-9c9266824edc/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Status Game (with Will Storr)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:01:11</itunes:duration>
+      <itunes:summary>Will Storr talks about his book The Status Game with EconTalk host Russ Roberts, exploring how our deep need for respect and recognition shapes our behavior. The conversation delves into how we constantly judge others and compare ourselves to them, the pain of losing status, and the freedom of escaping judgment. Storr and Roberts discuss how status drives everything from workplace hierarchies to social media, and how aging can shift the games we choose to play. They also examine tribalism, moral outrage, and politics through the lens of status, suggesting that much of what we call morality or justice reflects our desire for recognition.</itunes:summary>
+      <itunes:subtitle>Will Storr talks about his book The Status Game with EconTalk host Russ Roberts, exploring how our deep need for respect and recognition shapes our behavior. The conversation delves into how we constantly judge others and compare ourselves to them, the pain of losing status, and the freedom of escaping judgment. Storr and Roberts discuss how status drives everything from workplace hierarchies to social media, and how aging can shift the games we choose to play. They also examine tribalism, moral outrage, and politics through the lens of status, suggesting that much of what we call morality or justice reflects our desire for recognition.</itunes:subtitle>
+      <itunes:keywords>economics, judgments, competition, econlib, morality, prestige, social hierarchy, will storr, culture, evolutionary psychology, tribalism</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1025</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">59cd9608-af54-4dca-8c24-908d1878a676</guid>
+      <title>The Wonder of the Emergent Mind (with Gaurav Suri)</title>
+      <description><![CDATA[<p>How is your brain like an ant colony? They both use simple parts following simple rules which allows the whole to be so much more than the sum of the parts. Listen as neuroscientist and author Gaurav Suri explains how the mind emerges from the neural network of the brain, why habits form, why intuition often knows before language does, and why our post-hoc explanations can mislead us. The conversation then grapples with free will and responsibility without mysticism. Ultimately, Suri remains in awe of the emergent mind and at the end of the conversation makes the case for the essential importance of kindness and forgiveness.</p>
+]]></description>
+      <pubDate>Mon, 17 Nov 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-wonder-of-the-emergent-mind-with-gaurav-suri/</link>
+      <content:encoded><![CDATA[<p>How is your brain like an ant colony? They both use simple parts following simple rules which allows the whole to be so much more than the sum of the parts. Listen as neuroscientist and author Gaurav Suri explains how the mind emerges from the neural network of the brain, why habits form, why intuition often knows before language does, and why our post-hoc explanations can mislead us. The conversation then grapples with free will and responsibility without mysticism. Ultimately, Suri remains in awe of the emergent mind and at the end of the conversation makes the case for the essential importance of kindness and forgiveness.</p>
+]]></content:encoded>
+      <enclosure length="95995504" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/92a0aa77-5818-445d-9645-8e9ae94498ac/audio/489c4471-ca9b-4177-8b9f-000c02e5f8dd/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Wonder of the Emergent Mind (with Gaurav Suri)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:39:40</itunes:duration>
+      <itunes:summary>How is your brain like an ant colony? They both use simple parts following simple rules which allows the whole to be so much more than the sum of the parts. Listen as neuroscientist and author Gaurav Suri explains how the mind emerges from the neural network of the brain, why habits form, why intuition often knows before language does, and why our post-hoc explanations can mislead us. The conversation then grapples with free will and responsibility without mysticism. Ultimately, Suri remains in awe of the emergent mind and at the end of the conversation makes the case for the essential importance of kindness and forgiveness.</itunes:summary>
+      <itunes:subtitle>How is your brain like an ant colony? They both use simple parts following simple rules which allows the whole to be so much more than the sum of the parts. Listen as neuroscientist and author Gaurav Suri explains how the mind emerges from the neural network of the brain, why habits form, why intuition often knows before language does, and why our post-hoc explanations can mislead us. The conversation then grapples with free will and responsibility without mysticism. Ultimately, Suri remains in awe of the emergent mind and at the end of the conversation makes the case for the essential importance of kindness and forgiveness.</itunes:subtitle>
+      <itunes:keywords>economics, neuroscience, free will, gaurav suri, econlib, determinism, consciousness, intuition, ai, emergence, neural networks</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1024</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">03a5f4b9-8268-450e-bf0f-bf27a96d3be2</guid>
+      <title>Shampoo, Property Rights, and Civilization (with Anthony Gill)</title>
+      <description><![CDATA[<p>Why is it okay to take the little shampoo bottles in hotels home with you but not the towels? And what stops people from taking the towels? Listen as political scientist Anthony Gill discusses the enforcement of property rights with EconTalk's Russ Roberts. Backing up their observations with insights from Adam Smith, Friedrich Hayek, and our everyday lives, they argue that the unenforced norms surrounding trust, propriety, and moral sentiments play a central role in building a flourishing society.</p>
+]]></description>
+      <pubDate>Mon, 10 Nov 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/shampoo-property-rights-and-civilization-with-anthony-gill/</link>
+      <content:encoded><![CDATA[<p>Why is it okay to take the little shampoo bottles in hotels home with you but not the towels? And what stops people from taking the towels? Listen as political scientist Anthony Gill discusses the enforcement of property rights with EconTalk's Russ Roberts. Backing up their observations with insights from Adam Smith, Friedrich Hayek, and our everyday lives, they argue that the unenforced norms surrounding trust, propriety, and moral sentiments play a central role in building a flourishing society.</p>
+]]></content:encoded>
+      <enclosure length="65892917" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/0123e4cc-05d7-4ac2-a47b-3adb2674aafd/audio/a957195f-132d-44f5-a887-e9df48c7298b/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Shampoo, Property Rights, and Civilization (with Anthony Gill)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:19</itunes:duration>
+      <itunes:summary>Why is it okay to take the little shampoo bottles in hotels home with you but not the towels? And what stops people from taking the towels? Listen as political scientist Anthony Gill discusses the enforcement of property rights with EconTalk&apos;s Russ Roberts. Backing up their observations with insights from Adam Smith, Friedrich Hayek, and our everyday lives, they argue that the unenforced norms surrounding trust, propriety, and moral sentiments play a central role in building a flourishing society.</itunes:summary>
+      <itunes:subtitle>Why is it okay to take the little shampoo bottles in hotels home with you but not the towels? And what stops people from taking the towels? Listen as political scientist Anthony Gill discusses the enforcement of property rights with EconTalk&apos;s Russ Roberts. Backing up their observations with insights from Adam Smith, Friedrich Hayek, and our everyday lives, they argue that the unenforced norms surrounding trust, propriety, and moral sentiments play a central role in building a flourishing society.</itunes:subtitle>
+      <itunes:keywords>economics, laws, anthony gill, econlib, morality, emergent, adam smith, theft, unenforceable, norms</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1023</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">64da1aa5-23a0-470e-a8c2-68ff251a80ca</guid>
+      <title>Primal Intelligence (with Angus Fletcher)</title>
+      <description><![CDATA[<p>What do Shakespeare, Hollywood storytelling, and military special operations have in common? They all excel at inventing new plans, or improvising when we're facing radical uncertainty. Listen as professor of story science Angus Fletcher tells EconTalk's Russ Roberts how we've misdefined intelligence, equating it with data--driven reasoning in place of what he calls "primal intelligence"--the uniquely human ability to think and plan in situations with incomplete information. Drawing on years of work in Hollywood and working with elite military operators, Fletcher shows how narratives aren't just entertainment--they're the foundation of human intelligence. He reveals why military special operations personnel need to create new plans on the fly, why Shakespeare remains profoundly relevant to modern problem-solving, and why reading challenging literature literally rewires your brain for greater adaptability.</p>
+]]></description>
+      <pubDate>Mon, 3 Nov 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/primal-intelligence-with-angus-fletcher/</link>
+      <content:encoded><![CDATA[<p>What do Shakespeare, Hollywood storytelling, and military special operations have in common? They all excel at inventing new plans, or improvising when we're facing radical uncertainty. Listen as professor of story science Angus Fletcher tells EconTalk's Russ Roberts how we've misdefined intelligence, equating it with data--driven reasoning in place of what he calls "primal intelligence"--the uniquely human ability to think and plan in situations with incomplete information. Drawing on years of work in Hollywood and working with elite military operators, Fletcher shows how narratives aren't just entertainment--they're the foundation of human intelligence. He reveals why military special operations personnel need to create new plans on the fly, why Shakespeare remains profoundly relevant to modern problem-solving, and why reading challenging literature literally rewires your brain for greater adaptability.</p>
+]]></content:encoded>
+      <enclosure length="77764298" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a92f677c-4bad-4eba-923f-c62eb52557be/audio/1dcf7483-5f81-4d3f-88d4-d4d23b151c9c/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Primal Intelligence (with Angus Fletcher)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:20:41</itunes:duration>
+      <itunes:summary>What do Shakespeare, Hollywood storytelling, and military special operations have in common? They all excel at inventing new plans, or improvising when we&apos;re facing radical uncertainty. Listen as professor of story science Angus Fletcher tells EconTalk&apos;s Russ Roberts how we&apos;ve misdefined intelligence, equating it with data--driven reasoning in place of what he calls &quot;primal intelligence&quot;--the uniquely human ability to think and plan in situations with incomplete information. Drawing on years of work in Hollywood and working with elite military operators, Fletcher shows how narratives aren&apos;t just entertainment--they&apos;re the foundation of human intelligence. He reveals why military special operations personnel need to create new plans on the fly, why Shakespeare remains profoundly relevant to modern problem-solving, and why reading challenging literature literally rewires your brain for greater adaptability.</itunes:summary>
+      <itunes:subtitle>What do Shakespeare, Hollywood storytelling, and military special operations have in common? They all excel at inventing new plans, or improvising when we&apos;re facing radical uncertainty. Listen as professor of story science Angus Fletcher tells EconTalk&apos;s Russ Roberts how we&apos;ve misdefined intelligence, equating it with data--driven reasoning in place of what he calls &quot;primal intelligence&quot;--the uniquely human ability to think and plan in situations with incomplete information. Drawing on years of work in Hollywood and working with elite military operators, Fletcher shows how narratives aren&apos;t just entertainment--they&apos;re the foundation of human intelligence. He reveals why military special operations personnel need to create new plans on the fly, why Shakespeare remains profoundly relevant to modern problem-solving, and why reading challenging literature literally rewires your brain for greater adaptability.</itunes:subtitle>
+      <itunes:keywords>economics, neuroscience, shakespeare, storytelling, uncertainty, econlib, narratives, angus fletcher, intuition, special ops, optimism</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1022</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">d3b62642-2f61-4579-bb02-c87befdd6c19</guid>
+      <title>A Mind-Blowing Way of Looking at Math (with David Bessis)</title>
+      <description><![CDATA[<p>What if math isn't about grinding through equations, but about training your intuition and changing how your brain works? Mathematician and author David Bessis tells EconTalk's Russ Roberts that the secret of mathematics isn't logic--it's the way we learn to see. He explains why math books aren't meant to be read like novels, how great mathematicians toggle between images and formal proofs, and why we need a third mode of thought--"System 3"--that patiently retrains our intuition and the power of imagination. Bessis and Russ Roberts swap stories about the humility of great mathematicians, how Andrew Wiles "saw" the fix to his proof of Fermat's last theorem, and Ramanujan's dream-revelations that proved true.</p>
+]]></description>
+      <pubDate>Mon, 27 Oct 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/a-mind-blowing-way-of-looking-at-math-with-david-bessis/</link>
+      <content:encoded><![CDATA[<p>What if math isn't about grinding through equations, but about training your intuition and changing how your brain works? Mathematician and author David Bessis tells EconTalk's Russ Roberts that the secret of mathematics isn't logic--it's the way we learn to see. He explains why math books aren't meant to be read like novels, how great mathematicians toggle between images and formal proofs, and why we need a third mode of thought--"System 3"--that patiently retrains our intuition and the power of imagination. Bessis and Russ Roberts swap stories about the humility of great mathematicians, how Andrew Wiles "saw" the fix to his proof of Fermat's last theorem, and Ramanujan's dream-revelations that proved true.</p>
+]]></content:encoded>
+      <enclosure length="78915266" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5626a5c8-e00e-458d-998d-168f2c1d46e2/audio/376ed2af-9ee6-4811-98c5-d72248baea39/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>A Mind-Blowing Way of Looking at Math (with David Bessis)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:21:53</itunes:duration>
+      <itunes:summary>What if math isn&apos;t about grinding through equations, but about training your intuition and changing how your brain works? Mathematician and author David Bessis tells EconTalk&apos;s Russ Roberts that the secret of mathematics isn&apos;t logic--it&apos;s the way we learn to see. He explains why math books aren&apos;t meant to be read like novels, how great mathematicians toggle between images and formal proofs, and why we need a third mode of thought--&quot;System 3&quot;--that patiently retrains our intuition and the power of imagination. Bessis and Russ Roberts swap stories about the humility of great mathematicians, how Andrew Wiles &quot;saw&quot; the fix to his proof of Fermat&apos;s last theorem, and Ramanujan&apos;s dream-revelations that proved true.</itunes:summary>
+      <itunes:subtitle>What if math isn&apos;t about grinding through equations, but about training your intuition and changing how your brain works? Mathematician and author David Bessis tells EconTalk&apos;s Russ Roberts that the secret of mathematics isn&apos;t logic--it&apos;s the way we learn to see. He explains why math books aren&apos;t meant to be read like novels, how great mathematicians toggle between images and formal proofs, and why we need a third mode of thought--&quot;System 3&quot;--that patiently retrains our intuition and the power of imagination. Bessis and Russ Roberts swap stories about the humility of great mathematicians, how Andrew Wiles &quot;saw&quot; the fix to his proof of Fermat&apos;s last theorem, and Ramanujan&apos;s dream-revelations that proved true.</itunes:subtitle>
+      <itunes:keywords>economics, neuroscience, david bessis, econlib, srinivasa ramanujan, jean-pierre serre, education, mathematicians, intuition, andrew wiles, brain</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1021</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">e52e3bda-09f4-421d-b9e4-0149116265b7</guid>
+      <title>Twenty Years of Freakonomics (with Stephen Dubner)</title>
+      <description><![CDATA[<p>Quantitative, contrarian, and nuanced: these are the hallmarks of the <i>Freakonomics</i> approach. Hear journalist and podcaster Stephen Dubner speak with EconTalk's Russ Roberts about the 20th anniversary of the popular-economics book Dubner co-authored with Steven Levitt. They discuss how the book came to be, how the journey changed Dubner's life, and how it changed his thinking about various economics issues. The conversation includes a lengthy discussion on the role of private equity in the American economy, and Roberts's claim that Dubner and co-author Steven Levitt's treatment of incentives overlooks the role of competition and markets.</p>
+]]></description>
+      <pubDate>Mon, 20 Oct 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/twenty-years-of-freakonomics-with-stephen-dubner/</link>
+      <content:encoded><![CDATA[<p>Quantitative, contrarian, and nuanced: these are the hallmarks of the <i>Freakonomics</i> approach. Hear journalist and podcaster Stephen Dubner speak with EconTalk's Russ Roberts about the 20th anniversary of the popular-economics book Dubner co-authored with Steven Levitt. They discuss how the book came to be, how the journey changed Dubner's life, and how it changed his thinking about various economics issues. The conversation includes a lengthy discussion on the role of private equity in the American economy, and Roberts's claim that Dubner and co-author Steven Levitt's treatment of incentives overlooks the role of competition and markets.</p>
+]]></content:encoded>
+      <enclosure length="98939266" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/1162e547-5e5f-484c-921e-4f46f4418063/audio/0f52dbac-a090-4aa8-89fc-25966c154276/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Twenty Years of Freakonomics (with Stephen Dubner)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:42:44</itunes:duration>
+      <itunes:summary>Quantitative, contrarian, and nuanced: these are the hallmarks of the Freakonomics approach. Hear journalist and podcaster Stephen Dubner speak with EconTalk&apos;s Russ Roberts about the 20th anniversary of the popular-economics book Dubner co-authored with Steven Levitt. They discuss how the book came to be, how the journey changed Dubner&apos;s life, and how it changed his thinking about various economics issues. The conversation includes a lengthy discussion on the role of private equity in the American economy, and Roberts&apos;s claim that Dubner and co-author Steven Levitt&apos;s treatment of incentives overlooks the role of competition and markets.</itunes:summary>
+      <itunes:subtitle>Quantitative, contrarian, and nuanced: these are the hallmarks of the Freakonomics approach. Hear journalist and podcaster Stephen Dubner speak with EconTalk&apos;s Russ Roberts about the 20th anniversary of the popular-economics book Dubner co-authored with Steven Levitt. They discuss how the book came to be, how the journey changed Dubner&apos;s life, and how it changed his thinking about various economics issues. The conversation includes a lengthy discussion on the role of private equity in the American economy, and Roberts&apos;s claim that Dubner and co-author Steven Levitt&apos;s treatment of incentives overlooks the role of competition and markets.</itunes:subtitle>
+      <itunes:keywords>economics, podcasting, competition, monopolies, econlib, microeconomics, bagels, behavioral, equity finance, journalism, stephen dubner</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1020</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">f59dc2ae-56d2-4810-a885-883b0ad82e49</guid>
+      <title>The Magic of Tokyo (with Joe McReynolds)</title>
+      <description><![CDATA[<p>What drives the seeming relentless dynamism of Tokyo? Is there something special about Japanese culture? Joe McReynolds, co-author of <i>Emergent Tokyo,</i> argues that the secret to Tokyo's energy and attractiveness as a place to live and visit comes from policies that allow Tokyo to emerge from the bottom up. Post-war black markets evolved into today's <i>yokocho</i>--dense clusters of micro-venues that turn over, specialize, and innovate nightly--while vertical <i>zakkyo</i> buildings stack dozens of tiny bars, eateries, and shops floor by floor, pulling street life upward. The engine? Friction-light rules: permissive mixed-use zoning, minimal licensing, and no minimum unit sizes let entrepreneurs launch fast and pivot faster. And surrounding this emergent urban landscape there's plenty of new housing with excellent transportation infrastructure to let ever-more people enjoy Tokyo's magic.</p>
+]]></description>
+      <pubDate>Mon, 13 Oct 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-magic-of-tokyo-with-joe-mcreynolds/</link>
+      <content:encoded><![CDATA[<p>What drives the seeming relentless dynamism of Tokyo? Is there something special about Japanese culture? Joe McReynolds, co-author of <i>Emergent Tokyo,</i> argues that the secret to Tokyo's energy and attractiveness as a place to live and visit comes from policies that allow Tokyo to emerge from the bottom up. Post-war black markets evolved into today's <i>yokocho</i>--dense clusters of micro-venues that turn over, specialize, and innovate nightly--while vertical <i>zakkyo</i> buildings stack dozens of tiny bars, eateries, and shops floor by floor, pulling street life upward. The engine? Friction-light rules: permissive mixed-use zoning, minimal licensing, and no minimum unit sizes let entrepreneurs launch fast and pivot faster. And surrounding this emergent urban landscape there's plenty of new housing with excellent transportation infrastructure to let ever-more people enjoy Tokyo's magic.</p>
+]]></content:encoded>
+      <enclosure length="66912009" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/9e2f922e-3c8e-4d5f-aa30-ef09b831df21/audio/a5d2d3b4-ae20-411a-b01b-0dd54f0cd438/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Magic of Tokyo (with Joe McReynolds)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:23</itunes:duration>
+      <itunes:summary>What drives the seeming relentless dynamism of Tokyo? Is there something special about Japanese culture? Joe McReynolds, co-author of Emergent Tokyo, argues that the secret to Tokyo&apos;s energy and attractiveness as a place to live and visit comes from policies that allow Tokyo to emerge from the bottom up. Post-war black markets evolved into today&apos;s yokocho--dense clusters of micro-venues that turn over, specialize, and innovate nightly--while vertical zakkyo buildings stack dozens of tiny bars, eateries, and shops floor by floor, pulling street life upward. The engine? Friction-light rules: permissive mixed-use zoning, minimal licensing, and no minimum unit sizes let entrepreneurs launch fast and pivot faster. And surrounding this emergent urban landscape there&apos;s plenty of new housing with excellent transportation infrastructure to let ever-more people enjoy Tokyo&apos;s magic.</itunes:summary>
+      <itunes:subtitle>What drives the seeming relentless dynamism of Tokyo? Is there something special about Japanese culture? Joe McReynolds, co-author of Emergent Tokyo, argues that the secret to Tokyo&apos;s energy and attractiveness as a place to live and visit comes from policies that allow Tokyo to emerge from the bottom up. Post-war black markets evolved into today&apos;s yokocho--dense clusters of micro-venues that turn over, specialize, and innovate nightly--while vertical zakkyo buildings stack dozens of tiny bars, eateries, and shops floor by floor, pulling street life upward. The engine? Friction-light rules: permissive mixed-use zoning, minimal licensing, and no minimum unit sizes let entrepreneurs launch fast and pivot faster. And surrounding this emergent urban landscape there&apos;s plenty of new housing with excellent transportation infrastructure to let ever-more people enjoy Tokyo&apos;s magic.</itunes:subtitle>
+      <itunes:keywords>economics, zoning, housing, econlib, joe mcreynolds, urban development, tourism, property rights, japan, cities</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1019</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">772c4e2f-bb2b-472a-927b-f03ac835c050</guid>
+      <title>The Invisible Hierarchies that Rule Our World (with Toby Stuart)</title>
+      <description><![CDATA[<p>Status isn't fixed; it's transferred and "bestowed," shaping who gets resources, attention, and opportunity. So argues author Toby Stuart of UC Berkeley in his book, <i>Anointed</i>. He and EconTalk's Russ Roberts explore why hierarchies persist--reducing conflict, allocating scarce resources, and curating our overwhelming choices--and how endorsements, blurbs, and brands quietly steer our judgments, from bookstores to wine shops and art galleries. At the end, Stuart reflects on imposter syndrome and how thinking deeply about the anointed changed how he sees success.</p>
+]]></description>
+      <pubDate>Mon, 6 Oct 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-invisible-hierarchies-that-rule-our-world-with-toby-stuart/</link>
+      <content:encoded><![CDATA[<p>Status isn't fixed; it's transferred and "bestowed," shaping who gets resources, attention, and opportunity. So argues author Toby Stuart of UC Berkeley in his book, <i>Anointed</i>. He and EconTalk's Russ Roberts explore why hierarchies persist--reducing conflict, allocating scarce resources, and curating our overwhelming choices--and how endorsements, blurbs, and brands quietly steer our judgments, from bookstores to wine shops and art galleries. At the end, Stuart reflects on imposter syndrome and how thinking deeply about the anointed changed how he sees success.</p>
+]]></content:encoded>
+      <enclosure length="70635502" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/152bea2f-eb58-4550-8359-457f664305d9/audio/bf4f41cb-a02a-495f-bb7e-be3a1c3f67fc/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Invisible Hierarchies that Rule Our World (with Toby Stuart)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:13:15</itunes:duration>
+      <itunes:summary>Status isn&apos;t fixed; it&apos;s transferred and &quot;bestowed,&quot; shaping who gets resources, attention, and opportunity. So argues author Toby Stuart of UC Berkeley in his book, Anointed. He and EconTalk&apos;s Russ Roberts explore why hierarchies persist--reducing conflict, allocating scarce resources, and curating our overwhelming choices--and how endorsements, blurbs, and brands quietly steer our judgments, from bookstores to wine shops and art galleries. At the end, Stuart reflects on imposter syndrome and how thinking deeply about the anointed changed how he sees success.</itunes:summary>
+      <itunes:subtitle>Status isn&apos;t fixed; it&apos;s transferred and &quot;bestowed,&quot; shaping who gets resources, attention, and opportunity. So argues author Toby Stuart of UC Berkeley in his book, Anointed. He and EconTalk&apos;s Russ Roberts explore why hierarchies persist--reducing conflict, allocating scarce resources, and curating our overwhelming choices--and how endorsements, blurbs, and brands quietly steer our judgments, from bookstores to wine shops and art galleries. At the end, Stuart reflects on imposter syndrome and how thinking deeply about the anointed changed how he sees success.</itunes:subtitle>
+      <itunes:keywords>economics, k-pop, status, econlib, merit, anointment, michelin stars, picasso, imposter syndrome, curatorial problem, art, toby stuart</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1018</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">152f4a8c-dc44-4fe0-944e-87a33497a31c</guid>
+      <title>Eating with Intelligence (with Julia Belluz)</title>
+      <description><![CDATA[<p>Losing weight should be simple: eat less, exercise more. But according to author and health journalist Julia Belluz, it's complicated. Listen as Belluz talks with EconTalk's Russ Roberts about her new book, <i>Food Intelligence</i>. Belluz argues that a calorie is pretty much a calorie whether it's carbs or fat. Keeping calories under control is often harder than it sounds. The message isn't blame; it's agency with compassion: understand your body's feedback loops, redesign the choices around you, and choose a sustainable way to enjoy food. At the end of the conversation, Belluz makes the case for government intervention of various kinds to help us make what she sees as better food choices; Roberts pushes back.</p>
+]]></description>
+      <pubDate>Mon, 29 Sep 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/eating-with-intelligence-with-julia-belluz/</link>
+      <content:encoded><![CDATA[<p>Losing weight should be simple: eat less, exercise more. But according to author and health journalist Julia Belluz, it's complicated. Listen as Belluz talks with EconTalk's Russ Roberts about her new book, <i>Food Intelligence</i>. Belluz argues that a calorie is pretty much a calorie whether it's carbs or fat. Keeping calories under control is often harder than it sounds. The message isn't blame; it's agency with compassion: understand your body's feedback loops, redesign the choices around you, and choose a sustainable way to enjoy food. At the end of the conversation, Belluz makes the case for government intervention of various kinds to help us make what she sees as better food choices; Roberts pushes back.</p>
+]]></content:encoded>
+      <enclosure length="63495197" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/e27b27fc-e6b7-4a19-a19a-266080dd6b5f/audio/e377b72b-7817-4144-94e5-48dce0cc8f96/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Eating with Intelligence (with Julia Belluz)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:05:49</itunes:duration>
+      <itunes:summary>Losing weight should be simple: eat less, exercise more. But according to author and health journalist Julia Belluz, it&apos;s complicated. Listen as Belluz talks with EconTalk&apos;s Russ Roberts about her new book, Food Intelligence. Belluz argues that a calorie is pretty much a calorie whether it&apos;s carbs or fat. Keeping calories under control is often harder than it sounds. The message isn&apos;t blame; it&apos;s agency with compassion: understand your body&apos;s feedback loops, redesign the choices around you, and choose a sustainable way to enjoy food. At the end of the conversation, Belluz makes the case for government intervention of various kinds to help us make what she sees as better food choices; Roberts pushes back.</itunes:summary>
+      <itunes:subtitle>Losing weight should be simple: eat less, exercise more. But according to author and health journalist Julia Belluz, it&apos;s complicated. Listen as Belluz talks with EconTalk&apos;s Russ Roberts about her new book, Food Intelligence. Belluz argues that a calorie is pretty much a calorie whether it&apos;s carbs or fat. Keeping calories under control is often harder than it sounds. The message isn&apos;t blame; it&apos;s agency with compassion: understand your body&apos;s feedback loops, redesign the choices around you, and choose a sustainable way to enjoy food. At the end of the conversation, Belluz makes the case for government intervention of various kinds to help us make what she sees as better food choices; Roberts pushes back.</itunes:subtitle>
+      <itunes:keywords>economics, metabolism, ultra-processed foods, econlib, metabolic rate, fat, weight, carbs, drugs, exercise, biggest loser, calorie restriction, julia belluz</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1017</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">9a9104df-b61f-4b99-abc7-670f3077082a</guid>
+      <title>Steven Pinker on Common Knowledge</title>
+      <description><![CDATA[<p>Why are Super Bowl ads so good for launching certain kinds of new products? Why do we all drive on the same side of the road? And why, despite laughing and crying together, do we often misread what others think? According to bestselling author and Harvard psychologist Steven Pinker, it all comes down to common knowledge, or the phenomenon that happens when everyone knows that everyone else knows something. Hear Pinker and EconTalk's Russ Roberts explore the necessary conditions for that knowledge, and how it can be both vital and dangerous to societies, depending on how it's used. They discuss, among other things, game-theory puzzles, how laughter spreads, how totalitarian regimes exploit uncertainty about who knows what (even when they don't), and why we often don't say explicitly what we really mean to say.</p>
+]]></description>
+      <pubDate>Mon, 22 Sep 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/steven-pinker-on-common-knowledge/</link>
+      <content:encoded><![CDATA[<p>Why are Super Bowl ads so good for launching certain kinds of new products? Why do we all drive on the same side of the road? And why, despite laughing and crying together, do we often misread what others think? According to bestselling author and Harvard psychologist Steven Pinker, it all comes down to common knowledge, or the phenomenon that happens when everyone knows that everyone else knows something. Hear Pinker and EconTalk's Russ Roberts explore the necessary conditions for that knowledge, and how it can be both vital and dangerous to societies, depending on how it's used. They discuss, among other things, game-theory puzzles, how laughter spreads, how totalitarian regimes exploit uncertainty about who knows what (even when they don't), and why we often don't say explicitly what we really mean to say.</p>
+]]></content:encoded>
+      <enclosure length="80304251" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/8aed3e82-75f9-4be1-ab32-acac6e4a2b34/audio/a388ccc6-59d5-4851-97b9-ba4412c7b507/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Steven Pinker on Common Knowledge</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:23:20</itunes:duration>
+      <itunes:summary>Why are Super Bowl ads so good for launching certain kinds of new products? Why do we all drive on the same side of the road? And why, despite laughing and crying together, do we often misread what others think? According to bestselling author and Harvard psychologist Steven Pinker, it all comes down to common knowledge, or the phenomenon that happens when everyone knows that everyone else knows something. Hear Pinker and EconTalk&apos;s Russ Roberts explore the necessary conditions for that knowledge, and how it can be both vital and dangerous to societies, depending on how it&apos;s used. They discuss, among other things, game-theory puzzles, how laughter spreads, how totalitarian regimes exploit uncertainty about who knows what (even when they don&apos;t), and why we often don&apos;t say explicitly what we really mean to say.</itunes:summary>
+      <itunes:subtitle>Why are Super Bowl ads so good for launching certain kinds of new products? Why do we all drive on the same side of the road? And why, despite laughing and crying together, do we often misread what others think? According to bestselling author and Harvard psychologist Steven Pinker, it all comes down to common knowledge, or the phenomenon that happens when everyone knows that everyone else knows something. Hear Pinker and EconTalk&apos;s Russ Roberts explore the necessary conditions for that knowledge, and how it can be both vital and dangerous to societies, depending on how it&apos;s used. They discuss, among other things, game-theory puzzles, how laughter spreads, how totalitarian regimes exploit uncertainty about who knows what (even when they don&apos;t), and why we often don&apos;t say explicitly what we really mean to say.</itunes:subtitle>
+      <itunes:keywords>economics, game theory, econlib, indirect language, coordination, cancel culture, philosophy, steven pinker, stag hunt, euphemisms, prisoner&apos;s dilemma, laughter</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1016</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">ff9fb82c-f9f2-4f72-8397-356c0593c936</guid>
+      <title>How Did America Build the Arsenal of Democracy? (with Brian Potter)</title>
+      <description><![CDATA[<p>American manufacturing of aircraft during WWII dwarfed that of its enemies. By the end of the war, an American assembly line was producing a B-24 bomber in less than an hour. But that success was far from inevitable. Structural engineer and writer Brian Potter speaks with EconTalk's Russ Roberts about the logistical challenges of ramping up production from virtually nothing, and the incredible balance of precision and improvisation required to respond to constantly changing aircraft designs. They also discuss the limits of industrial mobilization, why early preparation proved so critical, the role of women in the production process, and what lessons this experience can offer today's debates about supply chains and defense readiness.</p>
+]]></description>
+      <pubDate>Mon, 15 Sep 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-did-america-build-the-arsenal-of-democracy-with-brian-potter/</link>
+      <content:encoded><![CDATA[<p>American manufacturing of aircraft during WWII dwarfed that of its enemies. By the end of the war, an American assembly line was producing a B-24 bomber in less than an hour. But that success was far from inevitable. Structural engineer and writer Brian Potter speaks with EconTalk's Russ Roberts about the logistical challenges of ramping up production from virtually nothing, and the incredible balance of precision and improvisation required to respond to constantly changing aircraft designs. They also discuss the limits of industrial mobilization, why early preparation proved so critical, the role of women in the production process, and what lessons this experience can offer today's debates about supply chains and defense readiness.</p>
+]]></content:encoded>
+      <enclosure length="62782462" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/81630fe6-e7d8-4dae-88c9-95b0c329d337/audio/ab074b28-e279-482b-9c23-0e019e822c01/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How Did America Build the Arsenal of Democracy? (with Brian Potter)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:05:05</itunes:duration>
+      <itunes:summary>American manufacturing of aircraft during WWII dwarfed that of its enemies. By the end of the war, an American assembly line was producing a B-24 bomber in less than an hour. But that success was far from inevitable. Structural engineer and writer Brian Potter speaks with EconTalk&apos;s Russ Roberts about the logistical challenges of ramping up production from virtually nothing, and the incredible balance of precision and improvisation required to respond to constantly changing aircraft designs. They also discuss the limits of industrial mobilization, why early preparation proved so critical, the role of women in the production process, and what lessons this experience can offer today&apos;s debates about supply chains and defense readiness.</itunes:summary>
+      <itunes:subtitle>American manufacturing of aircraft during WWII dwarfed that of its enemies. By the end of the war, an American assembly line was producing a B-24 bomber in less than an hour. But that success was far from inevitable. Structural engineer and writer Brian Potter speaks with EconTalk&apos;s Russ Roberts about the logistical challenges of ramping up production from virtually nothing, and the incredible balance of precision and improvisation required to respond to constantly changing aircraft designs. They also discuss the limits of industrial mobilization, why early preparation proved so critical, the role of women in the production process, and what lessons this experience can offer today&apos;s debates about supply chains and defense readiness.</itunes:subtitle>
+      <itunes:keywords>economics, labor, brian potter, econlib, production, wwii, assembly lines, workforce, willow run, industry, aircraft</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1015</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">a5e53804-c565-4741-9f62-a84bd43bd685</guid>
+      <title>How Teams Succeed (with Colin Fisher)</title>
+      <description><![CDATA[<p>What makes some groups thrive while others crash and burn? According to organizational-behavior scholar Colin Fisher, the real villains are rarely individuals, but dysfunctional teams and organizations. Listen as he and EconTalk's Russ Roberts discuss the reasons for the free-rider problem and the importance of meaningful, well-defined tasks to incentivize synergy. They speak about why most team-building exercises are usually a waste of time, and why the best way to build trust is simply to do the work. Finally, they explore the role of great leaders from Steve Jobs to Bill Belichick in elevating groups into teams, and offer lessons from history's great projects for increasing productivity.</p>
+]]></description>
+      <pubDate>Mon, 8 Sep 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-teams-succeed-with-colin-fisher/</link>
+      <content:encoded><![CDATA[<p>What makes some groups thrive while others crash and burn? According to organizational-behavior scholar Colin Fisher, the real villains are rarely individuals, but dysfunctional teams and organizations. Listen as he and EconTalk's Russ Roberts discuss the reasons for the free-rider problem and the importance of meaningful, well-defined tasks to incentivize synergy. They speak about why most team-building exercises are usually a waste of time, and why the best way to build trust is simply to do the work. Finally, they explore the role of great leaders from Steve Jobs to Bill Belichick in elevating groups into teams, and offer lessons from history's great projects for increasing productivity.</p>
+]]></content:encoded>
+      <enclosure length="61141662" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/ff2b2d7b-0467-4dff-8719-8b22225a895c/audio/afe4bfc0-ea72-4ce8-965a-857a3baba2e3/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How Teams Succeed (with Colin Fisher)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:03:22</itunes:duration>
+      <itunes:summary>What makes some groups thrive while others crash and burn? According to organizational-behavior scholar Colin Fisher, the real villains are rarely individuals, but dysfunctional teams and organizations. Listen as he and EconTalk&apos;s Russ Roberts discuss the reasons for the free-rider problem and the importance of meaningful, well-defined tasks to incentivize synergy. They speak about why most team-building exercises are usually a waste of time, and why the best way to build trust is simply to do the work. Finally, they explore the role of great leaders from Steve Jobs to Bill Belichick in elevating groups into teams, and offer lessons from history&apos;s great projects for increasing productivity.</itunes:summary>
+      <itunes:subtitle>What makes some groups thrive while others crash and burn? According to organizational-behavior scholar Colin Fisher, the real villains are rarely individuals, but dysfunctional teams and organizations. Listen as he and EconTalk&apos;s Russ Roberts discuss the reasons for the free-rider problem and the importance of meaningful, well-defined tasks to incentivize synergy. They speak about why most team-building exercises are usually a waste of time, and why the best way to build trust is simply to do the work. Finally, they explore the role of great leaders from Steve Jobs to Bill Belichick in elevating groups into teams, and offer lessons from history&apos;s great projects for increasing productivity.</itunes:subtitle>
+      <itunes:keywords>economics, leadership, steve jobs, colin fisher, econlib, richard feynman, groupiness, teamwork, collective edge, norms, measurability</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1014</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">660506b7-2640-43b6-bdec-6d1aed750488</guid>
+      <title>Humans Are Overrated (with Christine Webb)</title>
+      <description><![CDATA[<p>Are humans the most intelligent species, or just the most arrogant? NYU primatologist Christine Webb, author of <i>The Arrogant Ape</i>, believes that human exceptionalism is a myth that does more harm than good. Listen as she speaks with EconTalk's Russ Roberts about how research has skewed our understanding of animals' capabilities, the surprising inner lives of animals, and how a shift from dominance toward connection with the larger living world can help humanity.</p>
+]]></description>
+      <pubDate>Mon, 1 Sep 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/humans-are-overrated-with-christine-webb/</link>
+      <content:encoded><![CDATA[<p>Are humans the most intelligent species, or just the most arrogant? NYU primatologist Christine Webb, author of <i>The Arrogant Ape</i>, believes that human exceptionalism is a myth that does more harm than good. Listen as she speaks with EconTalk's Russ Roberts about how research has skewed our understanding of animals' capabilities, the surprising inner lives of animals, and how a shift from dominance toward connection with the larger living world can help humanity.</p>
+]]></content:encoded>
+      <enclosure length="68357314" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/176a96f9-f5b2-4c7d-b3c7-c0d92502e5c1/audio/ba368d87-9777-4d1e-bf24-a48ef2ba4365/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Humans Are Overrated (with Christine Webb)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:53</itunes:duration>
+      <itunes:summary>Are humans the most intelligent species, or just the most arrogant? NYU primatologist Christine Webb, author of The Arrogant Ape, believes that human exceptionalism is a myth that does more harm than good. Listen as she speaks with EconTalk&apos;s Russ Roberts about how research has skewed our understanding of animals&apos; capabilities, the surprising inner lives of animals, and how a shift from dominance toward connection with the larger living world can help humanity.</itunes:summary>
+      <itunes:subtitle>Are humans the most intelligent species, or just the most arrogant? NYU primatologist Christine Webb, author of The Arrogant Ape, believes that human exceptionalism is a myth that does more harm than good. Listen as she speaks with EconTalk&apos;s Russ Roberts about how research has skewed our understanding of animals&apos; capabilities, the surprising inner lives of animals, and how a shift from dominance toward connection with the larger living world can help humanity.</itunes:subtitle>
+      <itunes:keywords>economics, christine webb, econlib, exceptionalism, ecology, theory of mind, chimpanzees, hierarchy, arrogance, consciousness, anthropomorphism</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1013</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">da3716b3-b6cc-4126-80e7-b29198e23921</guid>
+      <title>Hemingway, Love, and War (with David Wyatt)</title>
+      <description><![CDATA[<p>What can Ernest Hemingway teach us today about the morality of war, the eternal and transient nature of love, and how to write a masterpiece? Listen as author and teacher David Wyatt talks with EconTalk's Russ Roberts about Hemingway's epic <i>For Whom the Bell Tolls.</i> Topics include Hemingway's role in the wars of the 20th century, the book's context and themes, and its lasting influence on American literature and writing about war.</p>
+]]></description>
+      <pubDate>Mon, 25 Aug 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/hemingway-love-and-war-with-david-wyatt/</link>
+      <content:encoded><![CDATA[<p>What can Ernest Hemingway teach us today about the morality of war, the eternal and transient nature of love, and how to write a masterpiece? Listen as author and teacher David Wyatt talks with EconTalk's Russ Roberts about Hemingway's epic <i>For Whom the Bell Tolls.</i> Topics include Hemingway's role in the wars of the 20th century, the book's context and themes, and its lasting influence on American literature and writing about war.</p>
+]]></content:encoded>
+      <enclosure length="64115728" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c637d180-b73e-4ca7-b8c0-fd05c22239cb/audio/ed478709-c84f-490c-a7ad-a5ac2f3246ea/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Hemingway, Love, and War (with David Wyatt)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:06:28</itunes:duration>
+      <itunes:summary>What can Ernest Hemingway teach us today about the morality of war, the eternal and transient nature of love, and how to write a masterpiece? Listen as author and teacher David Wyatt talks with EconTalk&apos;s Russ Roberts about Hemingway&apos;s epic For Whom the Bell Tolls. Topics include Hemingway&apos;s role in the wars of the 20th century, the book&apos;s context and themes, and its lasting influence on American literature and writing about war.</itunes:summary>
+      <itunes:subtitle>What can Ernest Hemingway teach us today about the morality of war, the eternal and transient nature of love, and how to write a masterpiece? Listen as author and teacher David Wyatt talks with EconTalk&apos;s Russ Roberts about Hemingway&apos;s epic For Whom the Bell Tolls. Topics include Hemingway&apos;s role in the wars of the 20th century, the book&apos;s context and themes, and its lasting influence on American literature and writing about war.</itunes:subtitle>
+      <itunes:keywords>economics, david wyatt, women, dignity, econlib, morality, history, death, empathy, spanish civil war, ernest hemingway, literature</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1012</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">fa91e438-c3c3-4603-ae06-ece419ab3db4</guid>
+      <title>Tim Ferriss on Tim Ferriss (and much much more)</title>
+      <description><![CDATA[<p>Cold plunges. Exogenous ketones. Pu-erh tea--but hold the breakfast: it's all par for the morning routine, at least if you're entrepreneur, self-experimenter, and king of the lifehacks, Tim Ferriss. From how he manages the challenges of his celebrity to how he manages to stay in great shape; how he does--and when he doesn't--harness the power of AI; and how he preps for a podcast designed to help us live richer, fuller, and healthier lives, the bestselling <i>4-Hour Workweek</i> author and billion-downloads podcaster speaks with EconTalk's Russ Roberts about what it's really like to be him, and more.</p>
+]]></description>
+      <pubDate>Mon, 18 Aug 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/tim-ferriss-on-tim-ferriss-and-much-much-more/</link>
+      <content:encoded><![CDATA[<p>Cold plunges. Exogenous ketones. Pu-erh tea--but hold the breakfast: it's all par for the morning routine, at least if you're entrepreneur, self-experimenter, and king of the lifehacks, Tim Ferriss. From how he manages the challenges of his celebrity to how he manages to stay in great shape; how he does--and when he doesn't--harness the power of AI; and how he preps for a podcast designed to help us live richer, fuller, and healthier lives, the bestselling <i>4-Hour Workweek</i> author and billion-downloads podcaster speaks with EconTalk's Russ Roberts about what it's really like to be him, and more.</p>
+]]></content:encoded>
+      <enclosure length="122046129" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/e362299e-c817-466e-bfea-6e1d6f9c5c6e/audio/492da6bf-923c-4074-9455-f659b989541a/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Tim Ferriss on Tim Ferriss (and much much more)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>02:06:49</itunes:duration>
+      <itunes:summary>Cold plunges. Exogenous ketones. Pu-erh tea--but hold the breakfast: it&apos;s all par for the morning routine, at least if you&apos;re entrepreneur, self-experimenter, and king of the lifehacks, Tim Ferriss. From how he manages the challenges of his celebrity to how he manages to stay in great shape; how he does--and when he doesn&apos;t--harness the power of AI; and how he preps for a podcast designed to help us live richer, fuller, and healthier lives, the bestselling 4-Hour Workweek author and billion-downloads podcaster speaks with EconTalk&apos;s Russ Roberts about what it&apos;s really like to be him, and more.</itunes:summary>
+      <itunes:subtitle>Cold plunges. Exogenous ketones. Pu-erh tea--but hold the breakfast: it&apos;s all par for the morning routine, at least if you&apos;re entrepreneur, self-experimenter, and king of the lifehacks, Tim Ferriss. From how he manages the challenges of his celebrity to how he manages to stay in great shape; how he does--and when he doesn&apos;t--harness the power of AI; and how he preps for a podcast designed to help us live richer, fuller, and healthier lives, the bestselling 4-Hour Workweek author and billion-downloads podcaster speaks with EconTalk&apos;s Russ Roberts about what it&apos;s really like to be him, and more.</itunes:subtitle>
+      <itunes:keywords>life-hacking, economics, podcasting, econlib, hrv, cold plunges, tim ferriss, self-discipline, fame, public</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1011</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">3b1d1619-be99-493e-924c-726c03160388</guid>
+      <title>Learning to Think Like Someone Else (with David Marquet)</title>
+      <description><![CDATA[<p>Former submarine commander David Marquet joins EconTalk's Russ Roberts to explore how distancing--thinking like someone else, somewhere else, or sometime else--can unlock better choices in business and life. They talk about leadership without giving orders, how to empower teams, and what it means to see yourself as a coach rather than a boss. Along the way, they discuss Jeff Bezos's leap to start Amazon, Steve Jobs' unique vision, and how a simple mindset shift can transform a struggling crew--or your career. A conversation about thinking clearly under pressure, avoiding regret, and becoming the kind of leader who creates other leaders instead of followers.</p>
+]]></description>
+      <pubDate>Mon, 11 Aug 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/learning-to-think-like-someone-else-with-david-marquet/</link>
+      <content:encoded><![CDATA[<p>Former submarine commander David Marquet joins EconTalk's Russ Roberts to explore how distancing--thinking like someone else, somewhere else, or sometime else--can unlock better choices in business and life. They talk about leadership without giving orders, how to empower teams, and what it means to see yourself as a coach rather than a boss. Along the way, they discuss Jeff Bezos's leap to start Amazon, Steve Jobs' unique vision, and how a simple mindset shift can transform a struggling crew--or your career. A conversation about thinking clearly under pressure, avoiding regret, and becoming the kind of leader who creates other leaders instead of followers.</p>
+]]></content:encoded>
+      <enclosure length="61523558" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/b45701f4-8da3-4eeb-a8fc-851bab64cf4c/audio/b0b50b62-740f-487c-907e-3149bd7d9e8c/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Learning to Think Like Someone Else (with David Marquet)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:03:46</itunes:duration>
+      <itunes:summary>Former submarine commander David Marquet joins EconTalk&apos;s Russ Roberts to explore how distancing--thinking like someone else, somewhere else, or sometime else--can unlock better choices in business and life. They talk about leadership without giving orders, how to empower teams, and what it means to see yourself as a coach rather than a boss. Along the way, they discuss Jeff Bezos&apos;s leap to start Amazon, Steve Jobs&apos; unique vision, and how a simple mindset shift can transform a struggling crew--or your career. A conversation about thinking clearly under pressure, avoiding regret, and becoming the kind of leader who creates other leaders instead of followers.</itunes:summary>
+      <itunes:subtitle>Former submarine commander David Marquet joins EconTalk&apos;s Russ Roberts to explore how distancing--thinking like someone else, somewhere else, or sometime else--can unlock better choices in business and life. They talk about leadership without giving orders, how to empower teams, and what it means to see yourself as a coach rather than a boss. Along the way, they discuss Jeff Bezos&apos;s leap to start Amazon, Steve Jobs&apos; unique vision, and how a simple mindset shift can transform a struggling crew--or your career. A conversation about thinking clearly under pressure, avoiding regret, and becoming the kind of leader who creates other leaders instead of followers.</itunes:subtitle>
+      <itunes:keywords>economics, empowerment, leadership, teams, econlib, management, coaches, bosses, decisions, david marquet</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1010</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">3158dff6-d9ad-4e24-8ffd-50fc0ff3fd2b</guid>
+      <title>Let Me Be Forgotten (with Lowry Pressly)</title>
+      <description><![CDATA[<p>What do we lose when every moment is recorded, every action scrutinized, and every past mistake preserved? Philosopher and author Lowry Pressly joins EconTalk's Russ Roberts to discuss why privacy isn't just about secrets or information control, the necessity of spontaneity, the importance of moral growth, and what we need to become fully human. From photography to forgetting, surveillance to selfhood, this episode challenges our assumptions about what it means to be seen--and unseen--in a data-driven world.</p>
+]]></description>
+      <pubDate>Mon, 4 Aug 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/let-me-be-forgotten-with-lowry-pressly/</link>
+      <content:encoded><![CDATA[<p>What do we lose when every moment is recorded, every action scrutinized, and every past mistake preserved? Philosopher and author Lowry Pressly joins EconTalk's Russ Roberts to discuss why privacy isn't just about secrets or information control, the necessity of spontaneity, the importance of moral growth, and what we need to become fully human. From photography to forgetting, surveillance to selfhood, this episode challenges our assumptions about what it means to be seen--and unseen--in a data-driven world.</p>
+]]></content:encoded>
+      <enclosure length="77766644" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/187b4e04-2f90-41cf-8b32-e51cd4307ac4/audio/671f6d5c-04cc-483a-aaff-0e4a0ee64aa5/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Let Me Be Forgotten (with Lowry Pressly)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:21:00</itunes:duration>
+      <itunes:summary>What do we lose when every moment is recorded, every action scrutinized, and every past mistake preserved? Philosopher and author Lowry Pressly joins EconTalk&apos;s Russ Roberts to discuss why privacy isn&apos;t just about secrets or information control, the necessity of spontaneity, the importance of moral growth, and what we need to become fully human. From photography to forgetting, surveillance to selfhood, this episode challenges our assumptions about what it means to be seen--and unseen--in a data-driven world.</itunes:summary>
+      <itunes:subtitle>What do we lose when every moment is recorded, every action scrutinized, and every past mistake preserved? Philosopher and author Lowry Pressly joins EconTalk&apos;s Russ Roberts to discuss why privacy isn&apos;t just about secrets or information control, the necessity of spontaneity, the importance of moral growth, and what we need to become fully human. From photography to forgetting, surveillance to selfhood, this episode challenges our assumptions about what it means to be seen--and unseen--in a data-driven world.</itunes:subtitle>
+      <itunes:keywords>economics, privacy, econlib, lowry pressly, dancing, choice, oblivion, philosophy, photography</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1009</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">2005ffff-d498-45a1-bda6-5e8780cfefa3</guid>
+      <title>Read Like a Champion (with Doug Lemov)</title>
+      <description><![CDATA[<p>Many students graduate high school today without having read a book cover to cover. Many students struggle to learn to read at all. How did this happen? Listen as educator and author Doug Lemov talks with EconTalk's Russ Roberts about the failed fads in reading education, the mistaken emphasis on vocabulary as a skill, and the importance of background knowledge for thinking and reading comprehension. Lemov and Roberts also discuss their love of difficult-to-read authors, the power of reading in groups, the value of keeping a reading journal, and how even basketball can be more enjoyable when we have the right terminology.</p>
+]]></description>
+      <pubDate>Mon, 28 Jul 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/read-like-a-champion-with-doug-lemov/</link>
+      <content:encoded><![CDATA[<p>Many students graduate high school today without having read a book cover to cover. Many students struggle to learn to read at all. How did this happen? Listen as educator and author Doug Lemov talks with EconTalk's Russ Roberts about the failed fads in reading education, the mistaken emphasis on vocabulary as a skill, and the importance of background knowledge for thinking and reading comprehension. Lemov and Roberts also discuss their love of difficult-to-read authors, the power of reading in groups, the value of keeping a reading journal, and how even basketball can be more enjoyable when we have the right terminology.</p>
+]]></content:encoded>
+      <enclosure length="61674006" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/765f17de-20df-4afa-a027-cde3d0841423/audio/8d95e21e-6473-4044-83fb-06f0f4faabb5/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Read Like a Champion (with Doug Lemov)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:03:56</itunes:duration>
+      <itunes:summary>Many students graduate high school today without having read a book cover to cover. Many students struggle to learn to read at all. How did this happen? Listen as educator and author Doug Lemov talks with EconTalk&apos;s Russ Roberts about the failed fads in reading education, the mistaken emphasis on vocabulary as a skill, and the importance of background knowledge for thinking and reading comprehension. Lemov and Roberts also discuss their love of difficult-to-read authors, the power of reading in groups, the value of keeping a reading journal, and how even basketball can be more enjoyable when we have the right terminology.</itunes:summary>
+      <itunes:subtitle>Many students graduate high school today without having read a book cover to cover. Many students struggle to learn to read at all. How did this happen? Listen as educator and author Doug Lemov talks with EconTalk&apos;s Russ Roberts about the failed fads in reading education, the mistaken emphasis on vocabulary as a skill, and the importance of background knowledge for thinking and reading comprehension. Lemov and Roberts also discuss their love of difficult-to-read authors, the power of reading in groups, the value of keeping a reading journal, and how even basketball can be more enjoyable when we have the right terminology.</itunes:subtitle>
+      <itunes:keywords>economics, science, teaching, phonics, econlib, whole language, k-12, education, books, doug lemov, inference</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1008</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">64a7d025-6b7f-4cce-9aed-8e9ab8d36de4</guid>
+      <title>James Marriott on Reading</title>
+      <description><![CDATA[<p>Is long form reading a dying pastime? Journalist and cultural critic James Marriott joins EconTalk's Russ Roberts to defend the increasingly quaint act of reading a book in our scrolling-obsessed, AI-summarized age. He urges juggling a paper book and a Kindle, recounts ditching his smartphone to rescue his attention, and shares tactics for finding the "right" beach novel and biography. He and Russ also debate the value of re-reading, spar over Dostoevsky, celebrate Elena Ferrante, and swap suggestions for poetry that "puts reality back in your bones." Throughout, they argue that the shallowness of social media makes the best case for diving into the dense, intellectually difficult, yet uniquely transformative power of books.</p>
+]]></description>
+      <pubDate>Mon, 21 Jul 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/james-marriott-on-reading/</link>
+      <content:encoded><![CDATA[<p>Is long form reading a dying pastime? Journalist and cultural critic James Marriott joins EconTalk's Russ Roberts to defend the increasingly quaint act of reading a book in our scrolling-obsessed, AI-summarized age. He urges juggling a paper book and a Kindle, recounts ditching his smartphone to rescue his attention, and shares tactics for finding the "right" beach novel and biography. He and Russ also debate the value of re-reading, spar over Dostoevsky, celebrate Elena Ferrante, and swap suggestions for poetry that "puts reality back in your bones." Throughout, they argue that the shallowness of social media makes the best case for diving into the dense, intellectually difficult, yet uniquely transformative power of books.</p>
+]]></content:encoded>
+      <enclosure length="82255984" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/e18823c3-a650-4179-a4a0-bcb8e964d55a/audio/0060b11f-5dba-4834-8306-1cc4104e8a8c/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>James Marriott on Reading</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:25:22</itunes:duration>
+      <itunes:summary>Is long form reading a dying pastime? Journalist and cultural critic James Marriott joins EconTalk&apos;s Russ Roberts to defend the increasingly quaint act of reading a book in our scrolling-obsessed, AI-summarized age. He urges juggling a paper book and a Kindle, recounts ditching his smartphone to rescue his attention, and shares tactics for finding the &quot;right&quot; beach novel and biography. He and Russ also debate the value of re-reading, spar over Dostoevsky, celebrate Elena Ferrante, and swap suggestions for poetry that &quot;puts reality back in your bones.&quot; Throughout, they argue that the shallowness of social media makes the best case for diving into the dense, intellectually difficult, yet uniquely transformative power of books.</itunes:summary>
+      <itunes:subtitle>Is long form reading a dying pastime? Journalist and cultural critic James Marriott joins EconTalk&apos;s Russ Roberts to defend the increasingly quaint act of reading a book in our scrolling-obsessed, AI-summarized age. He urges juggling a paper book and a Kindle, recounts ditching his smartphone to rescue his attention, and shares tactics for finding the &quot;right&quot; beach novel and biography. He and Russ also debate the value of re-reading, spar over Dostoevsky, celebrate Elena Ferrante, and swap suggestions for poetry that &quot;puts reality back in your bones.&quot; Throughout, they argue that the shallowness of social media makes the best case for diving into the dense, intellectually difficult, yet uniquely transformative power of books.</itunes:subtitle>
+      <itunes:keywords>smartphones, economics, econlib, books, james marriott, poetry, self-education, nonfiction, biography, fiction, literature</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1007</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">a4b4b25b-d7d1-42cb-b029-eb2bf3373d12</guid>
+      <title>How to Walk the World (with Chris Arnade)</title>
+      <description><![CDATA[<p>Skip the Mona Lisa when you visit Paris. Don't tour the Coliseum in Rome. Walk, don’t hurry. Chris Arnade speaks with EconTalk's Russ Roberts about a different way to travel. Listen as Arnade shares what he learned from Istanbul's small community mosques and how Avignon's Congolese-neighborhood cathedrals provided moving moments of spirituality. He also explains why Japan and Vietnam's emphasis on community lends itself to more happiness than America's "me-focused" approach, and what gear he carries--and leaves behind--for his extremely long walks through the world. Finally, he offers suggestions for choosing places to eat on the road that can elevate meals into meaningful experiences. This is a thoughtful conversational journey about veering off the beaten path to find home in surprising places.</p>
+]]></description>
+      <pubDate>Mon, 14 Jul 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-to-walk-the-world-with-chris-arnade/</link>
+      <content:encoded><![CDATA[<p>Skip the Mona Lisa when you visit Paris. Don't tour the Coliseum in Rome. Walk, don’t hurry. Chris Arnade speaks with EconTalk's Russ Roberts about a different way to travel. Listen as Arnade shares what he learned from Istanbul's small community mosques and how Avignon's Congolese-neighborhood cathedrals provided moving moments of spirituality. He also explains why Japan and Vietnam's emphasis on community lends itself to more happiness than America's "me-focused" approach, and what gear he carries--and leaves behind--for his extremely long walks through the world. Finally, he offers suggestions for choosing places to eat on the road that can elevate meals into meaningful experiences. This is a thoughtful conversational journey about veering off the beaten path to find home in surprising places.</p>
+]]></content:encoded>
+      <enclosure length="71945783" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/2c521946-61dd-44b3-8f6d-6e03f35b1cc0/audio/8f0129e6-ba88-4df7-924e-f6650049f110/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How to Walk the World (with Chris Arnade)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:38</itunes:duration>
+      <itunes:summary>Skip the Mona Lisa when you visit Paris. Don&apos;t tour the Coliseum in Rome. Walk, don’t hurry. Chris Arnade speaks with EconTalk&apos;s Russ Roberts about a different way to travel. Listen as Arnade shares what he learned from Istanbul&apos;s small community mosques and how Avignon&apos;s Congolese-neighborhood cathedrals provided moving moments of spirituality. He also explains why Japan and Vietnam&apos;s emphasis on community lends itself to more happiness than America&apos;s &quot;me-focused&quot; approach, and what gear he carries--and leaves behind--for his extremely long walks through the world. Finally, he offers suggestions for choosing places to eat on the road that can elevate meals into meaningful experiences. This is a thoughtful conversational journey about veering off the beaten path to find home in surprising places.</itunes:summary>
+      <itunes:subtitle>Skip the Mona Lisa when you visit Paris. Don&apos;t tour the Coliseum in Rome. Walk, don’t hurry. Chris Arnade speaks with EconTalk&apos;s Russ Roberts about a different way to travel. Listen as Arnade shares what he learned from Istanbul&apos;s small community mosques and how Avignon&apos;s Congolese-neighborhood cathedrals provided moving moments of spirituality. He also explains why Japan and Vietnam&apos;s emphasis on community lends itself to more happiness than America&apos;s &quot;me-focused&quot; approach, and what gear he carries--and leaves behind--for his extremely long walks through the world. Finally, he offers suggestions for choosing places to eat on the road that can elevate meals into meaningful experiences. This is a thoughtful conversational journey about veering off the beaten path to find home in surprising places.</itunes:subtitle>
+      <itunes:keywords>economics, chris arnade, museums, international, econlib, communities, travel, walking, self-education, hiking</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1006</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">fbb8a9c2-105e-4e61-a17d-6fb25d72d2a1</guid>
+      <title>What Is Capitalism? (with Mike Munger)</title>
+      <description><![CDATA[<p>What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk's Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables "time travel" through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.</p>
+]]></description>
+      <pubDate>Mon, 7 Jul 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/what-is-capitalism-with-mike-munger/</link>
+      <content:encoded><![CDATA[<p>What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk's Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables "time travel" through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.</p>
+]]></content:encoded>
+      <enclosure length="76919067" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5b73a5d1-4f71-4d2e-a843-4a817c2a9b71/audio/f276734e-8eb5-4b7c-9de6-054c295054b8/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>What Is Capitalism? (with Mike Munger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:19:48</itunes:duration>
+      <itunes:summary>What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk&apos;s Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables &quot;time travel&quot; through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.</itunes:summary>
+      <itunes:subtitle>What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk&apos;s Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables &quot;time travel&quot; through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.</itunes:subtitle>
+      <itunes:keywords>economics, consumer surplus, specialization, growth, michael munger, econlib, exchange, microeconomics, liquidity, adam smith, division of labor, markets</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1005</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">4ba6af42-d07f-42c4-99ec-0eefc7e19170</guid>
+      <title>The Deceptive Power of Maps (with Paulina Rowinska)</title>
+      <description><![CDATA[<p>How can the state of Colorado have nearly 700 sides? Why is a country's coastline as long as you want it to be? And how is it that your UPS driver has more routes to choose from than there are stars in the universe? Listen as mathematician Paulina Rowinska talks with EconTalk's Russ Roberts about the mathematical tricks hiding in plain sight with every map we use. From the Mercator projection that warped how we see the world to the London Tube map that reinvented urban navigation, they discuss how distorting geography shapes our ability to navigate reality.</p>
+]]></description>
+      <pubDate>Mon, 30 Jun 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-deceptive-power-of-maps-with-paulina-rowinska/</link>
+      <content:encoded><![CDATA[<p>How can the state of Colorado have nearly 700 sides? Why is a country's coastline as long as you want it to be? And how is it that your UPS driver has more routes to choose from than there are stars in the universe? Listen as mathematician Paulina Rowinska talks with EconTalk's Russ Roberts about the mathematical tricks hiding in plain sight with every map we use. From the Mercator projection that warped how we see the world to the London Tube map that reinvented urban navigation, they discuss how distorting geography shapes our ability to navigate reality.</p>
+]]></content:encoded>
+      <enclosure length="66795700" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/4c4855fa-0b2f-49ce-9427-18d299d31130/audio/3089d315-5802-48e9-bab5-dcdfe07e16ef/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Deceptive Power of Maps (with Paulina Rowinska)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:16</itunes:duration>
+      <itunes:summary>How can the state of Colorado have nearly 700 sides? Why is a country&apos;s coastline as long as you want it to be? And how is it that your UPS driver has more routes to choose from than there are stars in the universe? Listen as mathematician Paulina Rowinska talks with EconTalk&apos;s Russ Roberts about the mathematical tricks hiding in plain sight with every map we use. From the Mercator projection that warped how we see the world to the London Tube map that reinvented urban navigation, they discuss how distorting geography shapes our ability to navigate reality.</itunes:summary>
+      <itunes:subtitle>How can the state of Colorado have nearly 700 sides? Why is a country&apos;s coastline as long as you want it to be? And how is it that your UPS driver has more routes to choose from than there are stars in the universe? Listen as mathematician Paulina Rowinska talks with EconTalk&apos;s Russ Roberts about the mathematical tricks hiding in plain sight with every map we use. From the Mercator projection that warped how we see the world to the London Tube map that reinvented urban navigation, they discuss how distorting geography shapes our ability to navigate reality.</itunes:subtitle>
+      <itunes:keywords>economics, mathematics, topology, delivery routes, paulina rowinska, econlib, approximations, self-driving cars, geography, mapping</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1004</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">04e66efc-186c-462f-8f4e-b56838f3637d</guid>
+      <title>How to Be a Super Ager (with Eric Topol)</title>
+      <description><![CDATA[<p>What if we could delay--or even prevent--Alzheimer's, cancer, and heart disease? What if much of what you know about aging is wrong? Listen as cardiologist and author Eric Topol of the Scripps Research Institute talks about his new book <i>Super Agers </i>with EconTalk's Russ Roberts. They discuss why your genes matter less than you think, how your immune system can help prevent cancer and Alzheimer's, and why a simple shingles vaccine could reduce the risk of dementia. From the surprising anti-inflammatory powers of Ozempic to the critical importance of deep sleep for brain detoxification, Topol shares insights that can extend your healthy lifespan.</p>
+]]></description>
+      <pubDate>Mon, 23 Jun 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-to-be-a-super-ager-with-eric-topol/</link>
+      <content:encoded><![CDATA[<p>What if we could delay--or even prevent--Alzheimer's, cancer, and heart disease? What if much of what you know about aging is wrong? Listen as cardiologist and author Eric Topol of the Scripps Research Institute talks about his new book <i>Super Agers </i>with EconTalk's Russ Roberts. They discuss why your genes matter less than you think, how your immune system can help prevent cancer and Alzheimer's, and why a simple shingles vaccine could reduce the risk of dementia. From the surprising anti-inflammatory powers of Ozempic to the critical importance of deep sleep for brain detoxification, Topol shares insights that can extend your healthy lifespan.</p>
+]]></content:encoded>
+      <enclosure length="59243458" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5bf2cb80-0645-45c6-8093-af561c6d9514/audio/ad3b21a7-f423-4a4e-95eb-7c96d4740bb6/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How to Be a Super Ager (with Eric Topol)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:01:24</itunes:duration>
+      <itunes:summary>What if we could delay--or even prevent--Alzheimer&apos;s, cancer, and heart disease? What if much of what you know about aging is wrong? Listen as cardiologist and author Eric Topol of the Scripps Research Institute talks about his new book Super Agers with EconTalk&apos;s Russ Roberts. They discuss why your genes matter less than you think, how your immune system can help prevent cancer and Alzheimer&apos;s, and why a simple shingles vaccine could reduce the risk of dementia. From the surprising anti-inflammatory powers of Ozempic to the critical importance of deep sleep for brain detoxification, Topol shares insights that can extend your healthy lifespan.</itunes:summary>
+      <itunes:subtitle>What if we could delay--or even prevent--Alzheimer&apos;s, cancer, and heart disease? What if much of what you know about aging is wrong? Listen as cardiologist and author Eric Topol of the Scripps Research Institute talks about his new book Super Agers with EconTalk&apos;s Russ Roberts. They discuss why your genes matter less than you think, how your immune system can help prevent cancer and Alzheimer&apos;s, and why a simple shingles vaccine could reduce the risk of dementia. From the surprising anti-inflammatory powers of Ozempic to the critical importance of deep sleep for brain detoxification, Topol shares insights that can extend your healthy lifespan.</itunes:subtitle>
+      <itunes:keywords>aging, economics, immunity, eric topol, econlib, genetics, weight, sleep, healthcare, inflammation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1003</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">756c2826-c18a-43e0-ac0c-1c077a75c276</guid>
+      <title>Leon Kass on the Wisdom of Rousseau</title>
+      <description><![CDATA[<p>Does technology liberate us or enslave us? How do our social interactions affect our sense of self and our emotional health? Listen as author and master teacher Leon Kass and EconTalk's Russ Roberts do a close reading of a few paragraphs of Jean-Jacques Rousseau and explore some of the deepest aspects of our relationships with each other and with our technology.</p>
+]]></description>
+      <pubDate>Mon, 16 Jun 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/leon-kass-on-the-wisdom-of-rousseau/</link>
+      <content:encoded><![CDATA[<p>Does technology liberate us or enslave us? How do our social interactions affect our sense of self and our emotional health? Listen as author and master teacher Leon Kass and EconTalk's Russ Roberts do a close reading of a few paragraphs of Jean-Jacques Rousseau and explore some of the deepest aspects of our relationships with each other and with our technology.</p>
+]]></content:encoded>
+      <enclosure length="74335250" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/2de71c96-a097-402b-9618-5c66adf74ce3/audio/cc9195cf-5a60-4a3a-b41f-7676b8fd6459/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Leon Kass on the Wisdom of Rousseau</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:17:07</itunes:duration>
+      <itunes:summary>Does technology liberate us or enslave us? How do our social interactions affect our sense of self and our emotional health? Listen as author and master teacher Leon Kass and EconTalk&apos;s Russ Roberts do a close reading of a few paragraphs of Jean-Jacques Rousseau and explore some of the deepest aspects of our relationships with each other and with our technology.</itunes:summary>
+      <itunes:subtitle>Does technology liberate us or enslave us? How do our social interactions affect our sense of self and our emotional health? Listen as author and master teacher Leon Kass and EconTalk&apos;s Russ Roberts do a close reading of a few paragraphs of Jean-Jacques Rousseau and explore some of the deepest aspects of our relationships with each other and with our technology.</itunes:subtitle>
+      <itunes:keywords>economics, health, econlib, education, philosophy, emotions, psychology, leon kass, evolution, technology</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1002</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">4e97911b-6edb-4e6d-86f7-cc4db0665363</guid>
+      <title>Two Cheers for Libertarianism and Econ 101 (with Noah Smith)</title>
+      <description><![CDATA[<p>Economist Noah Smith was so focused on libertarianism's theoretical flaws, he overlooked its political importance. Trump's tariff policy opened his eyes and made him re-assess the virtues of both libertarianism and Econ 101. Listen as he and EconTalk's Russ Roberts explore the way political competition has shaped economic policy in surprising ways in recent years.</p>
+]]></description>
+      <pubDate>Mon, 9 Jun 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/two-cheers-for-libertarianism-and-econ-101-with-noah-smith/</link>
+      <content:encoded><![CDATA[<p>Economist Noah Smith was so focused on libertarianism's theoretical flaws, he overlooked its political importance. Trump's tariff policy opened his eyes and made him re-assess the virtues of both libertarianism and Econ 101. Listen as he and EconTalk's Russ Roberts explore the way political competition has shaped economic policy in surprising ways in recent years.</p>
+]]></content:encoded>
+      <enclosure length="79110877" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/256918c6-377e-4cbb-a85f-cd50f8326e14/audio/10372181-eaaa-456d-83b8-1720c88c3e20/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Two Cheers for Libertarianism and Econ 101 (with Noah Smith)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:22:06</itunes:duration>
+      <itunes:summary>Economist Noah Smith was so focused on libertarianism&apos;s theoretical flaws, he overlooked its political importance. Trump&apos;s tariff policy opened his eyes and made him re-assess the virtues of both libertarianism and Econ 101. Listen as he and EconTalk&apos;s Russ Roberts explore the way political competition has shaped economic policy in surprising ways in recent years.</itunes:summary>
+      <itunes:subtitle>Economist Noah Smith was so focused on libertarianism&apos;s theoretical flaws, he overlooked its political importance. Trump&apos;s tariff policy opened his eyes and made him re-assess the virtues of both libertarianism and Econ 101. Listen as he and EconTalk&apos;s Russ Roberts explore the way political competition has shaped economic policy in surprising ways in recent years.</itunes:subtitle>
+      <itunes:keywords>economics, arguments, libertarians, econlib, identity, changing opinions, political science, nationalism, politics, noah smith</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1001</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">8f50f1d8-0b6f-4d5e-ab11-05dd1b79233a</guid>
+      <title>EconTalk #1000 (with Russ Roberts)</title>
+      <description><![CDATA[<p>In honor of EconTalk's 1,000th episode, host Russ Roberts reflects on his long, strange journey from pioneer of the podcast format to weekly interviewer of leading economists, authors, and thinkers. Hear him answer your--and Chat GPT's--questions about why he got started, how he preps, and how he picks guests. He also explains why debate gave way to conversation--even about arguments with which he disagrees--and why EconTalk isn't only (or even mostly) about economics anymore. And yes, he shares some of his all-time favorite episodes and why he's so grateful to be the host.</p>
+]]></description>
+      <pubDate>Mon, 2 Jun 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/econtalk-1000-with-russ-roberts/</link>
+      <content:encoded><![CDATA[<p>In honor of EconTalk's 1,000th episode, host Russ Roberts reflects on his long, strange journey from pioneer of the podcast format to weekly interviewer of leading economists, authors, and thinkers. Hear him answer your--and Chat GPT's--questions about why he got started, how he preps, and how he picks guests. He also explains why debate gave way to conversation--even about arguments with which he disagrees--and why EconTalk isn't only (or even mostly) about economics anymore. And yes, he shares some of his all-time favorite episodes and why he's so grateful to be the host.</p>
+]]></content:encoded>
+      <enclosure length="66357117" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/dd8eb22d-f1b4-4d66-9741-d525bbf7af03/audio/1452edf9-31d3-41e4-a6a5-60da26fb957e/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>EconTalk #1000 (with Russ Roberts)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:49</itunes:duration>
+      <itunes:summary>In honor of EconTalk&apos;s 1,000th episode, host Russ Roberts reflects on his long, strange journey from pioneer of the podcast format to weekly interviewer of leading economists, authors, and thinkers. Hear him answer your--and Chat GPT&apos;s--questions about why he got started, how he preps, and how he picks guests. He also explains why debate gave way to conversation--even about arguments with which he disagrees--and why EconTalk isn&apos;t only (or even mostly) about economics anymore. And yes, he shares some of his all-time favorite episodes and why he&apos;s so grateful to be the host.</itunes:summary>
+      <itunes:subtitle>In honor of EconTalk&apos;s 1,000th episode, host Russ Roberts reflects on his long, strange journey from pioneer of the podcast format to weekly interviewer of leading economists, authors, and thinkers. Hear him answer your--and Chat GPT&apos;s--questions about why he got started, how he preps, and how he picks guests. He also explains why debate gave way to conversation--even about arguments with which he disagrees--and why EconTalk isn&apos;t only (or even mostly) about economics anymore. And yes, he shares some of his all-time favorite episodes and why he&apos;s so grateful to be the host.</itunes:subtitle>
+      <itunes:keywords>economics, podcasters, episodes, econlib, chatgpt, monologue, russ roberts</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1000</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">f181de8a-fd99-41bb-94da-329a1059a9ad</guid>
+      <title>Nature vs. Nurture (with Paul Bloom)</title>
+      <description><![CDATA[<p>How much of our success or failure is written in our genes? How much is under our control? Is it nature or nurture or is that dichotomy too simplistic? Hear EconTalk's Russ Roberts and psychologist Paul Bloom discuss why the nature vs. nurture question is actually worth taking seriously and how by understanding it we can help ourselves and others.</p>
+]]></description>
+      <pubDate>Mon, 26 May 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/nature-vs-nurture-with-paul-bloom/</link>
+      <content:encoded><![CDATA[<p>How much of our success or failure is written in our genes? How much is under our control? Is it nature or nurture or is that dichotomy too simplistic? Hear EconTalk's Russ Roberts and psychologist Paul Bloom discuss why the nature vs. nurture question is actually worth taking seriously and how by understanding it we can help ourselves and others.</p>
+]]></content:encoded>
+      <enclosure length="65317942" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/7c0c73de-7ed1-464a-9ede-ba19cfccf33d/audio/e860700b-27f2-4ec6-b824-37bf3aadcce0/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Nature vs. Nurture (with Paul Bloom)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:07:44</itunes:duration>
+      <itunes:summary>How much of our success or failure is written in our genes? How much is under our control? Is it nature or nurture or is that dichotomy too simplistic? Hear EconTalk&apos;s Russ Roberts and psychologist Paul Bloom discuss why the nature vs. nurture question is actually worth taking seriously and how by understanding it we can help ourselves and others.</itunes:summary>
+      <itunes:subtitle>How much of our success or failure is written in our genes? How much is under our control? Is it nature or nurture or is that dichotomy too simplistic? Hear EconTalk&apos;s Russ Roberts and psychologist Paul Bloom discuss why the nature vs. nurture question is actually worth taking seriously and how by understanding it we can help ourselves and others.</itunes:subtitle>
+      <itunes:keywords>fairness, economics, childrearing, bioethicists, ivf, econlib, paul bloom, psychology, justice</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>999</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">47c1767d-1360-40a4-8803-15f784deeabc</guid>
+      <title>Inside the Mysterious World of Credit Cards (with Patrick McKenzie)</title>
+      <description><![CDATA[<p>Patrick McKenzie explains to EconTalk's Russ Roberts how credit cards work, who makes money from them and how, and gives his take on whether cash customers and debit card users subsidize the users of credit cards with reward programs.</p>
+]]></description>
+      <pubDate>Mon, 19 May 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/inside-the-mysterious-world-of-credit-cards-with-patrick-mckenzie/</link>
+      <content:encoded><![CDATA[<p>Patrick McKenzie explains to EconTalk's Russ Roberts how credit cards work, who makes money from them and how, and gives his take on whether cash customers and debit card users subsidize the users of credit cards with reward programs.</p>
+]]></content:encoded>
+      <enclosure length="72519249" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/d85a2cc7-f252-4e54-b131-5315fdf3adcb/audio/4fda50f2-a01e-446c-abe5-a58dcf4c51ad/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Inside the Mysterious World of Credit Cards (with Patrick McKenzie)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:15:14</itunes:duration>
+      <itunes:summary>Patrick McKenzie explains to EconTalk&apos;s Russ Roberts how credit cards work, who makes money from them and how, and gives his take on whether cash customers and debit card users subsidize the users of credit cards with reward programs.</itunes:summary>
+      <itunes:subtitle>Patrick McKenzie explains to EconTalk&apos;s Russ Roberts how credit cards work, who makes money from them and how, and gives his take on whether cash customers and debit card users subsidize the users of credit cards with reward programs.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, finance, patrick mckenzie, borrowing, debit cards, regulation, banking, business, lending</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>998</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">b311e3e0-0f96-4cdd-bc25-bf681d5ce4e7</guid>
+      <title>The Past and Present of Privacy and Public Life (with Tiffany Jenkins)</title>
+      <description><![CDATA[<p>A paradox of our time is our willingness to bare all to strangers while worrying about who exactly is watching us online and anywhere else. Listen as author Tiffany Jenkins discusses her book, <i>Strangers and Intimates</i>, with EconTalk's Russ Roberts. In this wide-ranging conversation, they explore the role of Martin Luther, J.S. Mill, reality TV, and social media, among other factors, in creating the norms of the public and private spheres over time and today.</p>
+]]></description>
+      <pubDate>Mon, 12 May 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-past-and-present-of-privacy-and-public-life-with-tiffany-jenkins/</link>
+      <content:encoded><![CDATA[<p>A paradox of our time is our willingness to bare all to strangers while worrying about who exactly is watching us online and anywhere else. Listen as author Tiffany Jenkins discusses her book, <i>Strangers and Intimates</i>, with EconTalk's Russ Roberts. In this wide-ranging conversation, they explore the role of Martin Luther, J.S. Mill, reality TV, and social media, among other factors, in creating the norms of the public and private spheres over time and today.</p>
+]]></content:encoded>
+      <enclosure length="79961302" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3c87293f-abb9-43a2-80d4-85f0f8761f11/audio/65987c66-6333-43db-a561-5f32c6567da8/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Past and Present of Privacy and Public Life (with Tiffany Jenkins)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:22:59</itunes:duration>
+      <itunes:summary>A paradox of our time is our willingness to bare all to strangers while worrying about who exactly is watching us online and anywhere else. Listen as author Tiffany Jenkins discusses her book, Strangers and Intimates, with EconTalk&apos;s Russ Roberts. In this wide-ranging conversation, they explore the role of Martin Luther, J.S. Mill, reality TV, and social media, among other factors, in creating the norms of the public and private spheres over time and today.</itunes:summary>
+      <itunes:subtitle>A paradox of our time is our willingness to bare all to strangers while worrying about who exactly is watching us online and anywhere else. Listen as author Tiffany Jenkins discusses her book, Strangers and Intimates, with EconTalk&apos;s Russ Roberts. In this wide-ranging conversation, they explore the role of Martin Luther, J.S. Mill, reality TV, and social media, among other factors, in creating the norms of the public and private spheres over time and today.</itunes:subtitle>
+      <itunes:keywords>economics, customs, privacy, econlib, tiffany jenkins, strangers, norms, security</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>997</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">fbe7c7b8-65b7-4bf8-918d-7a25007501dc</guid>
+      <title>The Economics of Tariffs and Trade (with Doug Irwin)</title>
+      <description><![CDATA[<p>Is the United States victimized by trade? What causes trade deficits? Are higher tariffs a good idea? Can manufacturing jobs return to the United States? Economist Doug Irwin of Dartmouth College answers these questions and more in this wide-ranging conversation with EconTalk's Russ Roberts.</p>
+]]></description>
+      <pubDate>Mon, 5 May 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-economics-of-tariffs-and-trade-with-doug-irwin/</link>
+      <content:encoded><![CDATA[<p>Is the United States victimized by trade? What causes trade deficits? Are higher tariffs a good idea? Can manufacturing jobs return to the United States? Economist Doug Irwin of Dartmouth College answers these questions and more in this wide-ranging conversation with EconTalk's Russ Roberts.</p>
+]]></content:encoded>
+      <enclosure length="89472200" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c14e959a-291f-4811-aeb5-68da84936dd0/audio/76ec9af6-3c86-4b6f-a872-11ec6051699d/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Economics of Tariffs and Trade (with Doug Irwin)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:32:53</itunes:duration>
+      <itunes:summary>Is the United States victimized by trade? What causes trade deficits? Are higher tariffs a good idea? Can manufacturing jobs return to the United States? Economist Doug Irwin of Dartmouth College answers these questions and more in this wide-ranging conversation with EconTalk&apos;s Russ Roberts.</itunes:summary>
+      <itunes:subtitle>Is the United States victimized by trade? What causes trade deficits? Are higher tariffs a good idea? Can manufacturing jobs return to the United States? Economist Doug Irwin of Dartmouth College answers these questions and more in this wide-ranging conversation with EconTalk&apos;s Russ Roberts.</itunes:subtitle>
+      <itunes:keywords>deficits, economics, douglas irwin, international, econlib, production, tariffs, taxes, free trade</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>996</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">fe2f9644-5e9d-4a64-82e5-44d29303aae0</guid>
+      <title>The Past and Future of AI (with Dwarkesh Patel)</title>
+      <description><![CDATA[<p>Dwarkesh Patel interviewed the most influential thinkers and leaders in the world of AI and chronicled the history of AI up to now in his book, <i>The Scaling Era</i>. Listen as he talks to EconTalk's Russ Roberts about the book, the dangers and potential of AI, and the role scale plays in AI progress. The conversation concludes with a discussion of the art of podcasting.</p>
+]]></description>
+      <pubDate>Mon, 28 Apr 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-past-and-future-of-ai-with-dwarkesh-patel/</link>
+      <content:encoded><![CDATA[<p>Dwarkesh Patel interviewed the most influential thinkers and leaders in the world of AI and chronicled the history of AI up to now in his book, <i>The Scaling Era</i>. Listen as he talks to EconTalk's Russ Roberts about the book, the dangers and potential of AI, and the role scale plays in AI progress. The conversation concludes with a discussion of the art of podcasting.</p>
+]]></content:encoded>
+      <enclosure length="93163406" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/f1993ebd-6d04-4b38-b254-54c454978929/audio/2ecea71f-8a13-4680-90fd-4531607ab761/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Past and Future of AI (with Dwarkesh Patel)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:36:44</itunes:duration>
+      <itunes:summary>Dwarkesh Patel interviewed the most influential thinkers and leaders in the world of AI and chronicled the history of AI up to now in his book, The Scaling Era. Listen as he talks to EconTalk&apos;s Russ Roberts about the book, the dangers and potential of AI, and the role scale plays in AI progress. The conversation concludes with a discussion of the art of podcasting.</itunes:summary>
+      <itunes:subtitle>Dwarkesh Patel interviewed the most influential thinkers and leaders in the world of AI and chronicled the history of AI up to now in his book, The Scaling Era. Listen as he talks to EconTalk&apos;s Russ Roberts about the book, the dangers and potential of AI, and the role scale plays in AI progress. The conversation concludes with a discussion of the art of podcasting.</itunes:subtitle>
+      <itunes:keywords>economics, creativity, podcasters, econlib, computers, gpts, dwarkesh patel, artificial intelligence, technology, innovation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>995</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">0ee93fbe-fea5-40e5-b1d8-9577cf4f33d1</guid>
+      <title>Why Christianity Needs to Help Save Democracy (with Jonathan Rauch)</title>
+      <description><![CDATA[<p>How does a nice Jewish boy who is also a gay atheist have the chutzpah to lecture Christianity on its obligations to democracy? Listen to author Jonathan Rauch talk about his book <i>Cross Purposes</i> with EconTalk's Russ Roberts as Rauch makes the case for what he calls a thicker Christianity.</p>
+]]></description>
+      <pubDate>Mon, 21 Apr 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/why-christianity-needs-to-help-save-democracy-with-jonathan-rauch/</link>
+      <content:encoded><![CDATA[<p>How does a nice Jewish boy who is also a gay atheist have the chutzpah to lecture Christianity on its obligations to democracy? Listen to author Jonathan Rauch talk about his book <i>Cross Purposes</i> with EconTalk's Russ Roberts as Rauch makes the case for what he calls a thicker Christianity.</p>
+]]></content:encoded>
+      <enclosure length="77226428" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/e8e5e095-5d25-4434-8228-a092b6358c09/audio/e8ce643c-ab11-4b51-aa1b-8dc0811fc4b4/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Why Christianity Needs to Help Save Democracy (with Jonathan Rauch)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:20:08</itunes:duration>
+      <itunes:summary>How does a nice Jewish boy who is also a gay atheist have the chutzpah to lecture Christianity on its obligations to democracy? Listen to author Jonathan Rauch talk about his book Cross Purposes with EconTalk&apos;s Russ Roberts as Rauch makes the case for what he calls a thicker Christianity.</itunes:summary>
+      <itunes:subtitle>How does a nice Jewish boy who is also a gay atheist have the chutzpah to lecture Christianity on its obligations to democracy? Listen to author Jonathan Rauch talk about his book Cross Purposes with EconTalk&apos;s Russ Roberts as Rauch makes the case for what he calls a thicker Christianity.</itunes:subtitle>
+      <itunes:keywords>economics, fundamentalism, jonathan rauch, evangelism, government, econlib, society, churches, religion, democratic, politics</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>994</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">1bac2538-8535-445e-af33-24fbb5e58276</guid>
+      <title>Rational and Religious (with Ross Douthat)</title>
+      <description><![CDATA[<p>How can we explain the world's underlying order? How does consciousness emerge? And why do people from such different cultures have such similar near-death experiences? Listen as Ross Douthat, <i>New York Times</i> columnist and author of the new book <i>Believe: Why Everyone Should Be Religious</i>, argues that these and other unanswerable questions underscore his argument for the rationality of religious belief. He and EconTalk's Russ Roberts discuss Douthat's reasons for embracing faith with confidence, why science only bolsters his belief, and why he thinks that more religion would be a good thing for society.</p>
+]]></description>
+      <pubDate>Mon, 14 Apr 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/rational-and-religious-with-ross-douthat/</link>
+      <content:encoded><![CDATA[<p>How can we explain the world's underlying order? How does consciousness emerge? And why do people from such different cultures have such similar near-death experiences? Listen as Ross Douthat, <i>New York Times</i> columnist and author of the new book <i>Believe: Why Everyone Should Be Religious</i>, argues that these and other unanswerable questions underscore his argument for the rationality of religious belief. He and EconTalk's Russ Roberts discuss Douthat's reasons for embracing faith with confidence, why science only bolsters his belief, and why he thinks that more religion would be a good thing for society.</p>
+]]></content:encoded>
+      <enclosure length="74709035" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/ce44c0c0-f5d4-4c71-a439-72ed58b76c45/audio/bb89cfe7-23c2-479e-8ae5-b7ca38274095/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Rational and Religious (with Ross Douthat)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:17:31</itunes:duration>
+      <itunes:summary>How can we explain the world&apos;s underlying order? How does consciousness emerge? And why do people from such different cultures have such similar near-death experiences? Listen as Ross Douthat, New York Times columnist and author of the new book Believe: Why Everyone Should Be Religious, argues that these and other unanswerable questions underscore his argument for the rationality of religious belief. He and EconTalk&apos;s Russ Roberts discuss Douthat&apos;s reasons for embracing faith with confidence, why science only bolsters his belief, and why he thinks that more religion would be a good thing for society.</itunes:summary>
+      <itunes:subtitle>How can we explain the world&apos;s underlying order? How does consciousness emerge? And why do people from such different cultures have such similar near-death experiences? Listen as Ross Douthat, New York Times columnist and author of the new book Believe: Why Everyone Should Be Religious, argues that these and other unanswerable questions underscore his argument for the rationality of religious belief. He and EconTalk&apos;s Russ Roberts discuss Douthat&apos;s reasons for embracing faith with confidence, why science only bolsters his belief, and why he thinks that more religion would be a good thing for society.</itunes:subtitle>
+      <itunes:keywords>economics, science, ross douthat, econlib, religion, philosophy, ai, beliefs, near-death experiences</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>993</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">aad6afe2-a638-4362-9bbd-583dbcdb4331</guid>
+      <title>The Music and Magic of John and Paul (with Ian Leslie)</title>
+      <description><![CDATA[<p>At the heart of the success of the Beatles was the creative chemistry and volatile friendship between John Lennon and Paul McCartney. Listen as author Ian Leslie discusses his book, <i>John & Paul: A Love Story in Songs</i> with EconTalk's Russ Roberts. It's a deep dive into music and friendship as well as a revisionist history about how John and Paul created musical magic.</p>
+]]></description>
+      <pubDate>Mon, 7 Apr 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-music-and-magic-of-john-and-paul-with-ian-leslie/</link>
+      <content:encoded><![CDATA[<p>At the heart of the success of the Beatles was the creative chemistry and volatile friendship between John Lennon and Paul McCartney. Listen as author Ian Leslie discusses his book, <i>John & Paul: A Love Story in Songs</i> with EconTalk's Russ Roberts. It's a deep dive into music and friendship as well as a revisionist history about how John and Paul created musical magic.</p>
+]]></content:encoded>
+      <enclosure length="74991802" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c9c93238-acaa-44df-bb37-8b07c9d433d0/audio/0ca38719-8126-4a6b-a4a8-2062804ed88e/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Music and Magic of John and Paul (with Ian Leslie)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:17:48</itunes:duration>
+      <itunes:summary>At the heart of the success of the Beatles was the creative chemistry and volatile friendship between John Lennon and Paul McCartney. Listen as author Ian Leslie discusses his book, John &amp; Paul: A Love Story in Songs with EconTalk&apos;s Russ Roberts. It&apos;s a deep dive into music and friendship as well as a revisionist history about how John and Paul created musical magic.</itunes:summary>
+      <itunes:subtitle>At the heart of the success of the Beatles was the creative chemistry and volatile friendship between John Lennon and Paul McCartney. Listen as author Ian Leslie discusses his book, John &amp; Paul: A Love Story in Songs with EconTalk&apos;s Russ Roberts. It&apos;s a deep dive into music and friendship as well as a revisionist history about how John and Paul created musical magic.</itunes:subtitle>
+      <itunes:keywords>economics, paul mccartney, econlib, beatles, rock and roll, friendships, poetry, biography, john lennon, ian leslie</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>992</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">3e412a7e-4435-405d-ba51-9742a07f5f77</guid>
+      <title>Do All Creatures, Great and Small, and Made From Silicon, Have Rights? (with Jeff Sebo)</title>
+      <description><![CDATA[<p>Should monkeys have the same rights as humans? What about elephants, ants, or invertebrates? NYU philosopher Jeff Sebo makes the case for expanding your moral circle to many more beings than you might expect, including those based on silicon chips. Listen as Sebo and EconTalk's Russ Roberts discuss to whom and what we owe moral consideration, how we determine a being's intrinsic moral significance, and why we have ethical obligations to others, anyway. They also discuss human exceptionalism--the idea that humans should be prioritized over other beings.</p>
+]]></description>
+      <pubDate>Mon, 31 Mar 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/do-all-creatures-great-and-small-and-made-from-silicon-have-rights-with-jeff-sebo/</link>
+      <content:encoded><![CDATA[<p>Should monkeys have the same rights as humans? What about elephants, ants, or invertebrates? NYU philosopher Jeff Sebo makes the case for expanding your moral circle to many more beings than you might expect, including those based on silicon chips. Listen as Sebo and EconTalk's Russ Roberts discuss to whom and what we owe moral consideration, how we determine a being's intrinsic moral significance, and why we have ethical obligations to others, anyway. They also discuss human exceptionalism--the idea that humans should be prioritized over other beings.</p>
+]]></content:encoded>
+      <enclosure length="73456401" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/4b8f2540-509b-45a8-ac54-47c281b889cb/audio/9bbe2a88-7646-448f-a360-8be58d9bf31c/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Do All Creatures, Great and Small, and Made From Silicon, Have Rights? (with Jeff Sebo)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:16:13</itunes:duration>
+      <itunes:summary>Should monkeys have the same rights as humans? What about elephants, ants, or invertebrates? NYU philosopher Jeff Sebo makes the case for expanding your moral circle to many more beings than you might expect, including those based on silicon chips. Listen as Sebo and EconTalk&apos;s Russ Roberts discuss to whom and what we owe moral consideration, how we determine a being&apos;s intrinsic moral significance, and why we have ethical obligations to others, anyway. They also discuss human exceptionalism--the idea that humans should be prioritized over other beings.</itunes:summary>
+      <itunes:subtitle>Should monkeys have the same rights as humans? What about elephants, ants, or invertebrates? NYU philosopher Jeff Sebo makes the case for expanding your moral circle to many more beings than you might expect, including those based on silicon chips. Listen as Sebo and EconTalk&apos;s Russ Roberts discuss to whom and what we owe moral consideration, how we determine a being&apos;s intrinsic moral significance, and why we have ethical obligations to others, anyway. They also discuss human exceptionalism--the idea that humans should be prioritized over other beings.</itunes:subtitle>
+      <itunes:keywords>ethics, economics, econlib, morality, jeff sebo, philosophy, welfare principle, artificial intelligence, animals</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>991</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">0d0625e6-2721-473c-a460-0d68edd12d0c</guid>
+      <title>Bird Brains, Bird Sex, and All Kinds of Beauty (with Matt Ridley)</title>
+      <description><![CDATA[<p>Bright colors, long tails, and dances of seduction: they may hurt a bird's chances of survival in the wild, but they seem to increase the chances of reproduction. Is this all part of natural selection or is sexual selection its own force in the bird world? Is there such a thing as beauty for beauty's sake? What can we learn from birds about the human experience of beauty? Listen as author and naturalist Matt Ridley speaks with EconTalk's Russ Roberts about a puzzle that kept Darwin up at night and that still troubles modern evolutionary biologists.</p>
+]]></description>
+      <pubDate>Mon, 24 Mar 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/bird-brains-bird-sex-and-all-kinds-of-beauty-with-matt-ridley/</link>
+      <content:encoded><![CDATA[<p>Bright colors, long tails, and dances of seduction: they may hurt a bird's chances of survival in the wild, but they seem to increase the chances of reproduction. Is this all part of natural selection or is sexual selection its own force in the bird world? Is there such a thing as beauty for beauty's sake? What can we learn from birds about the human experience of beauty? Listen as author and naturalist Matt Ridley speaks with EconTalk's Russ Roberts about a puzzle that kept Darwin up at night and that still troubles modern evolutionary biologists.</p>
+]]></content:encoded>
+      <enclosure length="73979515" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/6ae3a316-a59e-421f-87cc-725aaf0ba825/audio/9a82113a-9c2a-41f4-b8bf-5490f5a979d9/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Bird Brains, Bird Sex, and All Kinds of Beauty (with Matt Ridley)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:16:45</itunes:duration>
+      <itunes:summary>Bright colors, long tails, and dances of seduction: they may hurt a bird&apos;s chances of survival in the wild, but they seem to increase the chances of reproduction. Is this all part of natural selection or is sexual selection its own force in the bird world? Is there such a thing as beauty for beauty&apos;s sake? What can we learn from birds about the human experience of beauty? Listen as author and naturalist Matt Ridley speaks with EconTalk&apos;s Russ Roberts about a puzzle that kept Darwin up at night and that still troubles modern evolutionary biologists.</itunes:summary>
+      <itunes:subtitle>Bright colors, long tails, and dances of seduction: they may hurt a bird&apos;s chances of survival in the wild, but they seem to increase the chances of reproduction. Is this all part of natural selection or is sexual selection its own force in the bird world? Is there such a thing as beauty for beauty&apos;s sake? What can we learn from birds about the human experience of beauty? Listen as author and naturalist Matt Ridley speaks with EconTalk&apos;s Russ Roberts about a puzzle that kept Darwin up at night and that still troubles modern evolutionary biologists.</itunes:subtitle>
+      <itunes:keywords>economics, aesthetics, ronald fisher, econlib, charles darwin, avian, evolution, matt ridley</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>990</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">994b9a71-d9bf-431f-8a5b-fad8e7e91e6a</guid>
+      <title>How Better Feedback Can Revolutionize Education (with Daisy Christodoulou)</title>
+      <description><![CDATA[<p>Feedback on exams and papers--grades and comments--should be more than an assessment. It should point the way to improvement. So argues educational consultant Daisy Christodoulou, emphasizing that actionable feedback has to be more than comments scribbled in the margins of a paper or at its end. Listen as she speaks with EconTalk's Russ Roberts about a new model for enabling educational improvement, with implications for learning to get better at writing and just about everything.</p>
+]]></description>
+      <pubDate>Mon, 17 Mar 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-better-feedback-can-revolutionize-education-with-daisy-christodoulou/</link>
+      <content:encoded><![CDATA[<p>Feedback on exams and papers--grades and comments--should be more than an assessment. It should point the way to improvement. So argues educational consultant Daisy Christodoulou, emphasizing that actionable feedback has to be more than comments scribbled in the margins of a paper or at its end. Listen as she speaks with EconTalk's Russ Roberts about a new model for enabling educational improvement, with implications for learning to get better at writing and just about everything.</p>
+]]></content:encoded>
+      <enclosure length="84337389" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/e2dcb288-f0fe-4bf1-a75e-d627276cd47d/audio/57383d85-c65f-4f99-82f1-9def5386edaf/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How Better Feedback Can Revolutionize Education (with Daisy Christodoulou)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:27:32</itunes:duration>
+      <itunes:summary>Feedback on exams and papers--grades and comments--should be more than an assessment. It should point the way to improvement. So argues educational consultant Daisy Christodoulou, emphasizing that actionable feedback has to be more than comments scribbled in the margins of a paper or at its end. Listen as she speaks with EconTalk&apos;s Russ Roberts about a new model for enabling educational improvement, with implications for learning to get better at writing and just about everything.</itunes:summary>
+      <itunes:subtitle>Feedback on exams and papers--grades and comments--should be more than an assessment. It should point the way to improvement. So argues educational consultant Daisy Christodoulou, emphasizing that actionable feedback has to be more than comments scribbled in the margins of a paper or at its end. Listen as she speaks with EconTalk&apos;s Russ Roberts about a new model for enabling educational improvement, with implications for learning to get better at writing and just about everything.</itunes:subtitle>
+      <itunes:keywords>economics, schools, teaching, econlib, writing skills, k-12, ai, grading, daisy christodoulou</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>989</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">218ba4b5-23dc-466d-aa2e-1c51b33bf925</guid>
+      <title>Will Guidara on Unreasonable Hospitality</title>
+      <description><![CDATA[<p>What can the restaurant business teach us about leadership and management? Listen as Will Guidara, the former owner of Eleven Madison Park, explains to EconTalk's Russ Roberts how his restaurant became good enough to be named the best restaurant in the world. Foodies will enjoy a look behind the scenes of a restaurant at the very top of its game, but the lessons for leadership and organizational culture are useful for anyone interested in creating and sustaining excellence.</p>
+]]></description>
+      <pubDate>Mon, 10 Mar 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/will-guidara-on-unreasonable-hospitality/</link>
+      <content:encoded><![CDATA[<p>What can the restaurant business teach us about leadership and management? Listen as Will Guidara, the former owner of Eleven Madison Park, explains to EconTalk's Russ Roberts how his restaurant became good enough to be named the best restaurant in the world. Foodies will enjoy a look behind the scenes of a restaurant at the very top of its game, but the lessons for leadership and organizational culture are useful for anyone interested in creating and sustaining excellence.</p>
+]]></content:encoded>
+      <enclosure length="56187117" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/e389cf6a-03ba-4f41-a1eb-154eee5d2854/audio/a3b02baf-f6dd-468b-9168-b22e427f75cc/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Will Guidara on Unreasonable Hospitality</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:58:13</itunes:duration>
+      <itunes:summary>What can the restaurant business teach us about leadership and management? Listen as Will Guidara, the former owner of Eleven Madison Park, explains to EconTalk&apos;s Russ Roberts how his restaurant became good enough to be named the best restaurant in the world. Foodies will enjoy a look behind the scenes of a restaurant at the very top of its game, but the lessons for leadership and organizational culture are useful for anyone interested in creating and sustaining excellence.</itunes:summary>
+      <itunes:subtitle>What can the restaurant business teach us about leadership and management? Listen as Will Guidara, the former owner of Eleven Madison Park, explains to EconTalk&apos;s Russ Roberts how his restaurant became good enough to be named the best restaurant in the world. Foodies will enjoy a look behind the scenes of a restaurant at the very top of its game, but the lessons for leadership and organizational culture are useful for anyone interested in creating and sustaining excellence.</itunes:subtitle>
+      <itunes:keywords>generosity, economics, leadership, restaurants, econlib, food, management, business, will guidara</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>988</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">5fdb2808-ac75-40dd-9119-c43db7dbe14e</guid>
+      <title>The Unusual World of Israeli Democracy (with Rachel Gur)</title>
+      <description><![CDATA[<p>Israel is the only democracy in the Middle East but it seems a lot more alien and chaotic than many of the older democracies of the West. Hear Rachel Gur of Reichman University explain to EconTalk's Russ Roberts how the Israeli political system works and sometimes, doesn't work. The conversation brings into relief the challenges all democracies face and the ways that political minorities can wield power or be ignored depending on the political rules of the game.</p>
+]]></description>
+      <pubDate>Mon, 3 Mar 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-unusual-world-of-israeli-democracy-with-rachel-gur/</link>
+      <content:encoded><![CDATA[<p>Israel is the only democracy in the Middle East but it seems a lot more alien and chaotic than many of the older democracies of the West. Hear Rachel Gur of Reichman University explain to EconTalk's Russ Roberts how the Israeli political system works and sometimes, doesn't work. The conversation brings into relief the challenges all democracies face and the ways that political minorities can wield power or be ignored depending on the political rules of the game.</p>
+]]></content:encoded>
+      <enclosure length="66686132" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/44c413c1-6acc-4568-9bdf-7309c8694421/audio/f6bfc702-ce08-413e-b7e9-1b402ad5f2d7/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Unusual World of Israeli Democracy (with Rachel Gur)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:10</itunes:duration>
+      <itunes:summary>Israel is the only democracy in the Middle East but it seems a lot more alien and chaotic than many of the older democracies of the West. Hear Rachel Gur of Reichman University explain to EconTalk&apos;s Russ Roberts how the Israeli political system works and sometimes, doesn&apos;t work. The conversation brings into relief the challenges all democracies face and the ways that political minorities can wield power or be ignored depending on the political rules of the game.</itunes:summary>
+      <itunes:subtitle>Israel is the only democracy in the Middle East but it seems a lot more alien and chaotic than many of the older democracies of the West. Hear Rachel Gur of Reichman University explain to EconTalk&apos;s Russ Roberts how the Israeli political system works and sometimes, doesn&apos;t work. The conversation brings into relief the challenges all democracies face and the ways that political minorities can wield power or be ignored depending on the political rules of the game.</itunes:subtitle>
+      <itunes:keywords>economics, legislative, public choice, constitutions, econlib, rachel gur, knesset, voting, political science, democratic, judicial</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>987</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">edbe12ee-e86b-42c8-915a-8f0ab1beebe6</guid>
+      <title>The Struggle That Shaped the Middle East (with James Barr)</title>
+      <description><![CDATA[<p>Until the end of WWI, the Middle East as we know it didn't exist. No Israel, Lebanon, Syria, Jordan, or Iraq. Instead, there was the Ottoman Empire, whose dissolution using an arbitrary line on a map set the region on a course of upheaval that's still with us. Listen as historian James Barr speaks with EconTalk's Russ Roberts about the 1916 Sykes-Picot Agreement, and how, in the century that followed, the machinations of the French, the British, and the local residents created the modern Middle East and affected the lives of millions.</p>
+]]></description>
+      <pubDate>Mon, 24 Feb 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-struggle-that-shaped-the-middle-east-with-james-barr/</link>
+      <content:encoded><![CDATA[<p>Until the end of WWI, the Middle East as we know it didn't exist. No Israel, Lebanon, Syria, Jordan, or Iraq. Instead, there was the Ottoman Empire, whose dissolution using an arbitrary line on a map set the region on a course of upheaval that's still with us. Listen as historian James Barr speaks with EconTalk's Russ Roberts about the 1916 Sykes-Picot Agreement, and how, in the century that followed, the machinations of the French, the British, and the local residents created the modern Middle East and affected the lives of millions.</p>
+]]></content:encoded>
+      <enclosure length="75558154" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/cbdf632e-5619-4058-a1db-47c80517565c/audio/53bd8d4c-878a-4adc-bc55-f672abe44895/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Struggle That Shaped the Middle East (with James Barr)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:18:24</itunes:duration>
+      <itunes:summary>Until the end of WWI, the Middle East as we know it didn&apos;t exist. No Israel, Lebanon, Syria, Jordan, or Iraq. Instead, there was the Ottoman Empire, whose dissolution using an arbitrary line on a map set the region on a course of upheaval that&apos;s still with us. Listen as historian James Barr speaks with EconTalk&apos;s Russ Roberts about the 1916 Sykes-Picot Agreement, and how, in the century that followed, the machinations of the French, the British, and the local residents created the modern Middle East and affected the lives of millions.</itunes:summary>
+      <itunes:subtitle>Until the end of WWI, the Middle East as we know it didn&apos;t exist. No Israel, Lebanon, Syria, Jordan, or Iraq. Instead, there was the Ottoman Empire, whose dissolution using an arbitrary line on a map set the region on a course of upheaval that&apos;s still with us. Listen as historian James Barr speaks with EconTalk&apos;s Russ Roberts about the 1916 Sykes-Picot Agreement, and how, in the century that followed, the machinations of the French, the British, and the local residents created the modern Middle East and affected the lives of millions.</itunes:subtitle>
+      <itunes:keywords>economics, france, sykes-picot, econlib, ottoman empire, history, james barr, arab-israeli, england, turkey, world war i</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>986</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">5e3cc4ec-a62e-44c5-9147-74ea510d960f</guid>
+      <title>Who Won the Socialist Calculation Debate (with Peter Boettke)</title>
+      <description><![CDATA[<p>For more than a century, some economists have insisted that central planning can outperform markets. Economists like Mises, Hayek, and Friedman disagreed. Who won this debate? Is it over? Does AI change how we should think about the power of planning? Listen as economist Peter Boettke of George Mason University discusses what is known as the "socialist calculation debate" with EconTalk's Russ Roberts.</p>
+]]></description>
+      <pubDate>Mon, 17 Feb 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/who-won-the-socialist-calculation-debate-with-peter-boettke/</link>
+      <content:encoded><![CDATA[<p>For more than a century, some economists have insisted that central planning can outperform markets. Economists like Mises, Hayek, and Friedman disagreed. Who won this debate? Is it over? Does AI change how we should think about the power of planning? Listen as economist Peter Boettke of George Mason University discusses what is known as the "socialist calculation debate" with EconTalk's Russ Roberts.</p>
+]]></content:encoded>
+      <enclosure length="78325600" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/097b88ea-45ae-484c-8ea0-10ffbdd71ea8/audio/80d3e920-bcad-4b04-9829-a17f5252026f/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Who Won the Socialist Calculation Debate (with Peter Boettke)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:21:17</itunes:duration>
+      <itunes:summary>For more than a century, some economists have insisted that central planning can outperform markets. Economists like Mises, Hayek, and Friedman disagreed. Who won this debate? Is it over? Does AI change how we should think about the power of planning? Listen as economist Peter Boettke of George Mason University discusses what is known as the &quot;socialist calculation debate&quot; with EconTalk&apos;s Russ Roberts.</itunes:summary>
+      <itunes:subtitle>For more than a century, some economists have insisted that central planning can outperform markets. Economists like Mises, Hayek, and Friedman disagreed. Who won this debate? Is it over? Does AI change how we should think about the power of planning? Listen as economist Peter Boettke of George Mason University discusses what is known as the &quot;socialist calculation debate&quot; with EconTalk&apos;s Russ Roberts.</itunes:subtitle>
+      <itunes:keywords>economics, socialism, intellectual biography, theory, econlib, peter boettke, history, markets, capitalism, marginalism</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>985</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">d166c729-a0bf-4fc5-919c-aafc6277a446</guid>
+      <title>Minimalists and Hoarders (with Michael Easter)</title>
+      <description><![CDATA[<p>Why do we buy stuff we don't need? Maybe for the same reason that some people can't stand stuff at all. Listen as author Michael Easter speaks with EconTalk's Russ Roberts about how two seemingly opposed approaches to our possessions--minimalism and hoarding--may stem from the same impulse to cope with uncertainty. They also discuss the downsides of minimalism and how to figure out whether we're really buying the right things.</p>
+]]></description>
+      <pubDate>Mon, 10 Feb 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/minimalists-and-hoarders-with-michael-easter/</link>
+      <content:encoded><![CDATA[<p>Why do we buy stuff we don't need? Maybe for the same reason that some people can't stand stuff at all. Listen as author Michael Easter speaks with EconTalk's Russ Roberts about how two seemingly opposed approaches to our possessions--minimalism and hoarding--may stem from the same impulse to cope with uncertainty. They also discuss the downsides of minimalism and how to figure out whether we're really buying the right things.</p>
+]]></content:encoded>
+      <enclosure length="53172248" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/093583ee-e0e5-4869-a950-c9e715e0cfd6/audio/0b7f7f32-6247-4f19-8589-a28571c83291/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Minimalists and Hoarders (with Michael Easter)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:55:05</itunes:duration>
+      <itunes:summary>Why do we buy stuff we don&apos;t need? Maybe for the same reason that some people can&apos;t stand stuff at all. Listen as author Michael Easter speaks with EconTalk&apos;s Russ Roberts about how two seemingly opposed approaches to our possessions--minimalism and hoarding--may stem from the same impulse to cope with uncertainty. They also discuss the downsides of minimalism and how to figure out whether we&apos;re really buying the right things.</itunes:summary>
+      <itunes:subtitle>Why do we buy stuff we don&apos;t need? Maybe for the same reason that some people can&apos;t stand stuff at all. Listen as author Michael Easter speaks with EconTalk&apos;s Russ Roberts about how two seemingly opposed approaches to our possessions--minimalism and hoarding--may stem from the same impulse to cope with uncertainty. They also discuss the downsides of minimalism and how to figure out whether we&apos;re really buying the right things.</itunes:subtitle>
+      <itunes:keywords>economics, restaurants, self-help, econlib, control, minimalism, michael easter, hoarders, journalism</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>984</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">3ff6676e-298b-43bc-b8ef-fb071e327b61</guid>
+      <title>Coase, the Rules of the Game, and the Costs of Perfection (with Daisy Christodoulou)</title>
+      <description><![CDATA[<p>Surely perfection is better than imperfection. But applying technology to improve decision-making can backfire. Listen as ed-tech innovator Daisy Christodoulou and EconTalk's Russ Roberts talk about the costs of seeking perfection when technology is used to improve refereeing in sports. They also talk about ways to embrace imperfection and how the economist Ronald Coase can help us understand the power of the rules of the game, both in sports and in life.</p>
+]]></description>
+      <pubDate>Mon, 3 Feb 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/coase-the-rules-of-the-game-and-the-costs-of-perfection-with-daisy-christodoulou/</link>
+      <content:encoded><![CDATA[<p>Surely perfection is better than imperfection. But applying technology to improve decision-making can backfire. Listen as ed-tech innovator Daisy Christodoulou and EconTalk's Russ Roberts talk about the costs of seeking perfection when technology is used to improve refereeing in sports. They also talk about ways to embrace imperfection and how the economist Ronald Coase can help us understand the power of the rules of the game, both in sports and in life.</p>
+]]></content:encoded>
+      <enclosure length="67897486" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/1eb60385-6487-41a9-93b0-006629a7c661/audio/701b2348-2ad5-4a9c-a3ed-df708d562bdd/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Coase, the Rules of the Game, and the Costs of Perfection (with Daisy Christodoulou)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:25</itunes:duration>
+      <itunes:summary>Surely perfection is better than imperfection. But applying technology to improve decision-making can backfire. Listen as ed-tech innovator Daisy Christodoulou and EconTalk&apos;s Russ Roberts talk about the costs of seeking perfection when technology is used to improve refereeing in sports. They also talk about ways to embrace imperfection and how the economist Ronald Coase can help us understand the power of the rules of the game, both in sports and in life.</itunes:summary>
+      <itunes:subtitle>Surely perfection is better than imperfection. But applying technology to improve decision-making can backfire. Listen as ed-tech innovator Daisy Christodoulou and EconTalk&apos;s Russ Roberts talk about the costs of seeking perfection when technology is used to improve refereeing in sports. They also talk about ways to embrace imperfection and how the economist Ronald Coase can help us understand the power of the rules of the game, both in sports and in life.</itunes:subtitle>
+      <itunes:keywords>football, economics, econlib, ronald coase, education, handballs, soccer, video assistant referee, rules, daisy christodoulou, technology</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>983</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">aef5d52a-b643-4345-82ac-6aa54cb24c68</guid>
       <title>Why AI Is Good for Humans (with Reid Hoffman)</title>
@@ -8063,7 +9008,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
       <itunes:duration>01:07:51</itunes:duration>
       <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.</itunes:summary>
       <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.</itunes:subtitle>
-      <itunes:keywords>economics, michael munger, inventions, econlib, philosophy, entrepreneurship, politics, emergence</itunes:keywords>
+      <itunes:keywords>economics, michael munger, inventions, econlib, dancing, philosophy, entrepreneurship, politics, emergence</itunes:keywords>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>601</itunes:episode>
@@ -14627,7 +15572,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
 ]]></description>
       <pubDate>Mon, 7 Nov 2011 06:30:00 +0000</pubDate>
       <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
-      <link>https://www.econtalk.org/kaplan-on-the-inequality-and-the-top-1%/</link>
+      <link>https://www.econtalk.org/kaplan-on-the-inequality-and-the-top-1/</link>
       <content:encoded><![CDATA[<p>Steven Kaplan of the University of Chicago talks with EconTalk host Russ Roberts about the richest Americans and income inequality. Drawing on work with Joshua Rauh, Kaplan talks about the composition of the richest 1% and 1/10 of 1%--what proportions come from the financial sector, CEOs from non-financial corporations, athletes, lawyers and so on. Then he discusses how the incomes of these different groups have changed over time. Kaplan argues that these groups have increased their incomes by similar proportions, suggesting that a failure of corporate governance is not the explanation of rising CEO pay. The discussion closes with a discussion of the financial crisis and the compensation in the financial sector.</p>
 ]]></content:encoded>
       <enclosure length="31859551" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/0c279d24-58fd-4579-a304-3fbb02e37745/audio/5624f2d2-9473-4b84-847a-4cfdedb155d7/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
@@ -14664,7 +15609,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
     </item>
     <item>
       <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2011/Rameystimulus.mp3</guid>
-      <title>Ramey on Stimulus and Multipliers</title>
+      <title>Valerie Ramey on Stimulus and Multipliers</title>
       <description><![CDATA[<p>Valerie Ramey of the University of California, San Diego talks with EconTalk host Russ Roberts about the effect of government spending on output and employment. Ramey's own work exploits the exogenous nature of wartime spending. She finds a multiplier between .8 and 1.2. (A multiplier of 1 means that GDP goes up by the amount of spending--there is neither stimulus nor crowding out.) She also discusses a survey looking at a wide range of estimates by others and finds that the estimates range from .5 to 2.0. Along the way, she discusses the effects of taxes as well. The conversation concludes with a discussion of the imprecision of multiplier estimates and the contributions of recent Nobel Laureates Thomas Sargent and Christopher Sims.</p>
 ]]></description>
       <pubDate>Mon, 24 Oct 2011 06:30:00 +0000</pubDate>
@@ -14673,7 +15618,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
       <content:encoded><![CDATA[<p>Valerie Ramey of the University of California, San Diego talks with EconTalk host Russ Roberts about the effect of government spending on output and employment. Ramey's own work exploits the exogenous nature of wartime spending. She finds a multiplier between .8 and 1.2. (A multiplier of 1 means that GDP goes up by the amount of spending--there is neither stimulus nor crowding out.) She also discusses a survey looking at a wide range of estimates by others and finds that the estimates range from .5 to 2.0. Along the way, she discusses the effects of taxes as well. The conversation concludes with a discussion of the imprecision of multiplier estimates and the contributions of recent Nobel Laureates Thomas Sargent and Christopher Sims.</p>
 ]]></content:encoded>
       <enclosure length="29992097" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/810e31a7-3e46-4928-b8db-47e8bd9bc367/audio/af7aaf33-e332-46af-acfb-83054ba06696/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
-      <itunes:title>Ramey on Stimulus and Multipliers</itunes:title>
+      <itunes:title>Valerie Ramey on Stimulus and Multipliers</itunes:title>
       <itunes:author>EconTalk: Russ Roberts</itunes:author>
       <itunes:duration>01:02:19</itunes:duration>
       <itunes:summary>Valerie Ramey of the University of California, San Diego talks with EconTalk host Russ Roberts about the effect of government spending on output and employment. Ramey&apos;s own work exploits the exogenous nature of wartime spending. She finds a multiplier between .8 and 1.2. (A multiplier of 1 means that GDP goes up by the amount of spending--there is neither stimulus nor crowding out.) She also discusses a survey looking at a wide range of estimates by others and finds that the estimates range from .5 to 2.0. Along the way, she discusses the effects of taxes as well. The conversation concludes with a discussion of the imprecision of multiplier estimates and the contributions of recent Nobel Laureates Thomas Sargent and Christopher Sims.</itunes:summary>
@@ -15777,7 +16722,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
     </item>
     <item>
       <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2010/Ridleytrade.mp3</guid>
-      <title>Ridley on Trade, Growth, and the Rational Optimist</title>
+      <title>Matt Ridley on Trade, Growth, and the Rational Optimist</title>
       <description><![CDATA[<p>Matt Ridley, author of The Rational Optimist, talks with EconTalk host Russ Roberts about why he is optimistic about the future and how trade and specialization explain the evolution of human development over the millennia. Ridley argues that life is getting better for most of the people on earth and that the underlying cause is trade and specialization. He discusses the differences between Smith's and Ricardo's insights into trade and growth and why despite what seems to be strong evidence, people are frequently pessimistic about the future. Ridley also addresses environmental issues.</p>
 ]]></description>
       <pubDate>Mon, 18 Oct 2010 06:30:00 +0000</pubDate>
@@ -15786,7 +16731,7 @@ This episode also discusses the listeners&apos; votes for their Top 10 EconTalk 
       <content:encoded><![CDATA[<p>Matt Ridley, author of The Rational Optimist, talks with EconTalk host Russ Roberts about why he is optimistic about the future and how trade and specialization explain the evolution of human development over the millennia. Ridley argues that life is getting better for most of the people on earth and that the underlying cause is trade and specialization. He discusses the differences between Smith's and Ricardo's insights into trade and growth and why despite what seems to be strong evidence, people are frequently pessimistic about the future. Ridley also addresses environmental issues.</p>
 ]]></content:encoded>
       <enclosure length="28747858" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba5/6fdba516-8381-43b0-b29f-59d05512b693/cd2413cd-9ea4-4ede-88a5-4178402646c7/ridleytrade_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
-      <itunes:title>Ridley on Trade, Growth, and the Rational Optimist</itunes:title>
+      <itunes:title>Matt Ridley on Trade, Growth, and the Rational Optimist</itunes:title>
       <itunes:author>Library of Economics and Liberty</itunes:author>
       <itunes:duration>00:59:53</itunes:duration>
       <itunes:summary>Matt Ridley, author of The Rational Optimist, talks with EconTalk host Russ Roberts about why he is optimistic about the future and how trade and specialization explain the evolution of human development over the millennia. Ridley argues that life is getting better for most of the people on earth and that the underlying cause is trade and specialization. He discusses the differences between Smith&apos;s and Ricardo&apos;s insights into trade and growth and why despite what seems to be strong evidence, people are frequently pessimistic about the future. Ridley also addresses environmental issues.</itunes:summary>

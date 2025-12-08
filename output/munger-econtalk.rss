@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 27 Jan 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2025 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 8 Dec 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 8 Dec 2025 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">fbb8a9c2-105e-4e61-a17d-6fb25d72d2a1</guid>
+      <title>What Is Capitalism? (with Mike Munger)</title>
+      <description>&lt;p&gt;What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk's Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables "time travel" through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 7 Jul 2025 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/what-is-capitalism-with-mike-munger/</link>
+      <content:encoded>&lt;p&gt;What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk's Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables "time travel" through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="76919067" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/5b73a5d1-4f71-4d2e-a843-4a817c2a9b71/audio/f276734e-8eb5-4b7c-9de6-054c295054b8/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>What Is Capitalism? (with Mike Munger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:19:48</itunes:duration>
+      <itunes:summary>What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk's Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables "time travel" through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.</itunes:summary>
+      <itunes:subtitle>What is capitalism, really? Drawing on Adam Smith, Douglass North, and his own experience as a teacher and economist, economist Michael Munger of Duke University discusses three stages of economic development with EconTalk's Russ Roberts: voluntary exchange, markets, and capitalism. Along the way, the conversation explores the moral and institutional foundations that make impersonal exchange possible, the transformative power of the division of labor, and how capitalism uniquely enables "time travel" through liquidity and equity finance. The conversation closes with a discussion of human needs beyond material well-being.</itunes:subtitle>
+      <itunes:keywords>economics, consumer surplus, specialization, growth, michael munger, econlib, exchange, microeconomics, liquidity, adam smith, division of labor, markets</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1005</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">8f163a6a-a079-4727-b371-6b1e63d7d286</guid>
       <title>Will DOGE and Musk Make a Difference? (with Michael Munger)</title>
@@ -388,7 +409,7 @@
       <itunes:duration>01:07:51</itunes:duration>
       <itunes:summary>Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.</itunes:summary>
       <itunes:subtitle>Michael Munger of Duke University talks with EconTalk host Russ Roberts about permissionless innovation. Munger argues that the ability to innovate without permission is the most important concept of political economy. Munger defends this claim and explores the metaphor of emergent order as a dance, a metaphor coming from the German poet Schiller.</itunes:subtitle>
-      <itunes:keywords>economics, michael munger, inventions, econlib, philosophy, entrepreneurship, politics, emergence</itunes:keywords>
+      <itunes:keywords>economics, michael munger, inventions, econlib, dancing, philosophy, entrepreneurship, politics, emergence</itunes:keywords>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>601</itunes:episode>
