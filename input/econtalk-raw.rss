@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 15 Dec 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">cbce677e-c65d-49ec-919f-9e56bd5e10c3</guid>
+      <title>David Deutsch on the Pattern</title>
+      <description><![CDATA[<p>A world-class physicist makes a shocking claim: across 2,500 years and every kind of society, there has been a recurring moral exception carved out just for Jews--the idea that <i>hurting Jews is, in some sense, legitimate</i>. Most of the time, this doesn't erupt into pogroms. Instead, it lives as a background permission: a readiness to excuse, minimize, or rationalize harm to Jews when it does occur. Listen as Russ Roberts talks with David Deutsch of Oxford University about what Deutsch calls "the pattern": a persistent, global impulse not primarily to <i>attack</i> Jews, but to <i>justify</i> attacks on Jews--socially, politically, or physically. The stated reasons shift with the era--deicide, moneylending, "cosmopolitan elites," Zionism--but the underlying permission structure remains disturbingly constant. Unsettling, challenging, and clarifying, this conversation may change how you understand antisemitism--and the moral fault lines of our civilization.</p>
+]]></description>
+      <pubDate>Mon, 22 Dec 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/david-deutsch-on-the-pattern/</link>
+      <content:encoded><![CDATA[<p>A world-class physicist makes a shocking claim: across 2,500 years and every kind of society, there has been a recurring moral exception carved out just for Jews--the idea that <i>hurting Jews is, in some sense, legitimate</i>. Most of the time, this doesn't erupt into pogroms. Instead, it lives as a background permission: a readiness to excuse, minimize, or rationalize harm to Jews when it does occur. Listen as Russ Roberts talks with David Deutsch of Oxford University about what Deutsch calls "the pattern": a persistent, global impulse not primarily to <i>attack</i> Jews, but to <i>justify</i> attacks on Jews--socially, politically, or physically. The stated reasons shift with the era--deicide, moneylending, "cosmopolitan elites," Zionism--but the underlying permission structure remains disturbingly constant. Unsettling, challenging, and clarifying, this conversation may change how you understand antisemitism--and the moral fault lines of our civilization.</p>
+]]></content:encoded>
+      <enclosure length="83126388" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/a465fa1a-35ca-40f6-8e3c-6f7e49424912/audio/9dfae9e8-490f-499c-8f11-35f0563688e1/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>David Deutsch on the Pattern</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:26:16</itunes:duration>
+      <itunes:summary>A world-class physicist makes a shocking claim: across 2,500 years and every kind of society, there has been a recurring moral exception carved out just for Jews--the idea that hurting Jews is, in some sense, legitimate. Most of the time, this doesn&apos;t erupt into pogroms. Instead, it lives as a background permission: a readiness to excuse, minimize, or rationalize harm to Jews when it does occur. Listen as Russ Roberts talks with David Deutsch of Oxford University about what Deutsch calls &quot;the pattern&quot;: a persistent, global impulse not primarily to attack Jews, but to justify attacks on Jews--socially, politically, or physically. The stated reasons shift with the era--deicide, moneylending, &quot;cosmopolitan elites,&quot; Zionism--but the underlying permission structure remains disturbingly constant. Unsettling, challenging, and clarifying, this conversation may change how you understand antisemitism--and the moral fault lines of our civilization.</itunes:summary>
+      <itunes:subtitle>A world-class physicist makes a shocking claim: across 2,500 years and every kind of society, there has been a recurring moral exception carved out just for Jews--the idea that hurting Jews is, in some sense, legitimate. Most of the time, this doesn&apos;t erupt into pogroms. Instead, it lives as a background permission: a readiness to excuse, minimize, or rationalize harm to Jews when it does occur. Listen as Russ Roberts talks with David Deutsch of Oxford University about what Deutsch calls &quot;the pattern&quot;: a persistent, global impulse not primarily to attack Jews, but to justify attacks on Jews--socially, politically, or physically. The stated reasons shift with the era--deicide, moneylending, &quot;cosmopolitan elites,&quot; Zionism--but the underlying permission structure remains disturbingly constant. Unsettling, challenging, and clarifying, this conversation may change how you understand antisemitism--and the moral fault lines of our civilization.</itunes:subtitle>
+      <itunes:keywords>hatred, economics, legitimization, jewish, enlightenment, econlib, morality, israeli hostages, scapegoating, irrationality, violence, zionism, antisemitism, david deutsch</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1029</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">bf370d01-fee9-442e-8ad1-1592a75f7739</guid>
       <title>Free Will Is Real (with Kevin Mitchell)</title>
