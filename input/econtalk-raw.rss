@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Dec 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 15:58:54 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Dec 2025 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Dec 2025 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">63fc4297-6ce5-4751-9495-b2fb0b8462c9</guid>
+      <title>In Defense of Intuition (with Gerd Gigerenzer)</title>
+      <description><![CDATA[<p>Psychologist Gerd Gigerenzer explains the power of intuition, how intuition became gendered, what he thinks Kahneman and Tversky's research agenda got wrong, and why it's a mistake to place intuition and conscious thinking on opposing ends of the cognition spectrum. Topics he discusses in this wide-ranging conversation with EconTalk's Russ Roberts include what Gigerenzer calls the "bias bias"--the overemphasis on claims of irrationality, why it's better to replace "nudging" with "boosting," and the limitations of AI in its current form as a replacement for human intelligence and intuition.</p>
+]]></description>
+      <pubDate>Mon, 29 Dec 2025 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/in-defense-of-intuition-with-gerd-gigerenzer/</link>
+      <content:encoded><![CDATA[<p>Psychologist Gerd Gigerenzer explains the power of intuition, how intuition became gendered, what he thinks Kahneman and Tversky's research agenda got wrong, and why it's a mistake to place intuition and conscious thinking on opposing ends of the cognition spectrum. Topics he discusses in this wide-ranging conversation with EconTalk's Russ Roberts include what Gigerenzer calls the "bias bias"--the overemphasis on claims of irrationality, why it's better to replace "nudging" with "boosting," and the limitations of AI in its current form as a replacement for human intelligence and intuition.</p>
+]]></content:encoded>
+      <enclosure length="56246745" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/6e0ea9a0-fba8-492d-9d62-1690bee6c45f/audio/e579f55b-44f7-4e2d-a4cb-f485bdb38db8/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>In Defense of Intuition (with Gerd Gigerenzer)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:58:16</itunes:duration>
+      <itunes:summary>Psychologist Gerd Gigerenzer explains the power of intuition, how intuition became gendered, what he thinks Kahneman and Tversky&apos;s research agenda got wrong, and why it&apos;s a mistake to place intuition and conscious thinking on opposing ends of the cognition spectrum. Topics he discusses in this wide-ranging conversation with EconTalk&apos;s Russ Roberts include what Gigerenzer calls the &quot;bias bias&quot;--the overemphasis on claims of irrationality, why it&apos;s better to replace &quot;nudging&quot; with &quot;boosting,&quot; and the limitations of AI in its current form as a replacement for human intelligence and intuition.</itunes:summary>
+      <itunes:subtitle>Psychologist Gerd Gigerenzer explains the power of intuition, how intuition became gendered, what he thinks Kahneman and Tversky&apos;s research agenda got wrong, and why it&apos;s a mistake to place intuition and conscious thinking on opposing ends of the cognition spectrum. Topics he discusses in this wide-ranging conversation with EconTalk&apos;s Russ Roberts include what Gigerenzer calls the &quot;bias bias&quot;--the overemphasis on claims of irrationality, why it&apos;s better to replace &quot;nudging&quot; with &quot;boosting,&quot; and the limitations of AI in its current form as a replacement for human intelligence and intuition.</itunes:subtitle>
+      <itunes:keywords>economics, chatbots, uncertainty, econlib, gut feelings, paternalism, hot hand, bias bias, gerd gigerenzer, thinking fast, heuristics, psychology, ai, rationality</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1030</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">cbce677e-c65d-49ec-919f-9e56bd5e10c3</guid>
       <title>David Deutsch on the Pattern</title>
