@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 29 Dec 2025 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Dec 2025 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 5 Jan 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 5 Jan 2026 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">22cc45d7-ceba-443e-8fc7-a9f78c1f0aae</guid>
+      <title>Conversation, Interintellect, and Arcadia (with Anna Gat)</title>
+      <description><![CDATA[<p>If technology is ruining the art of conversation, maybe it can save it, too. Anna Gat--poet, screenwriter, playwright, and founder of Interintellect--talks with EconTalk's Russ Roberts on how she's reviving the French salon in the digital age. They discuss why authority, moderation, and clear formats make conversation freer, not more constrained. They also explore why one of the greatest of modern plays--Tom Stoppard's <i>Arcadia</i>--is so resonant not only as a live theatrical performance, but also when read aloud, both alone and in a group. They conclude the episode by connecting Arcadia's themes to Gat's mission at Interintellect: Namely, preserving the value of thinking together across generations, disciplines, and worldviews.</p>
+]]></description>
+      <pubDate>Mon, 5 Jan 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/conversation-interintellect-and-arcadia-with-anna-gat/</link>
+      <content:encoded><![CDATA[<p>If technology is ruining the art of conversation, maybe it can save it, too. Anna Gat--poet, screenwriter, playwright, and founder of Interintellect--talks with EconTalk's Russ Roberts on how she's reviving the French salon in the digital age. They discuss why authority, moderation, and clear formats make conversation freer, not more constrained. They also explore why one of the greatest of modern plays--Tom Stoppard's <i>Arcadia</i>--is so resonant not only as a live theatrical performance, but also when read aloud, both alone and in a group. They conclude the episode by connecting Arcadia's themes to Gat's mission at Interintellect: Namely, preserving the value of thinking together across generations, disciplines, and worldviews.</p>
+]]></content:encoded>
+      <enclosure length="79255829" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/9770f7fb-c786-42ca-9388-be927adcf65a/audio/b272b991-58dd-487f-98d1-44390e36f8db/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Conversation, Interintellect, and Arcadia (with Anna Gat)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:22:15</itunes:duration>
+      <itunes:summary>If technology is ruining the art of conversation, maybe it can save it, too. Anna Gat--poet, screenwriter, playwright, and founder of Interintellect--talks with EconTalk&apos;s Russ Roberts on how she&apos;s reviving the French salon in the digital age. They discuss why authority, moderation, and clear formats make conversation freer, not more constrained. They also explore why one of the greatest of modern plays--Tom Stoppard&apos;s Arcadia--is so resonant not only as a live theatrical performance, but also when read aloud, both alone and in a group. They conclude the episode by connecting Arcadia&apos;s themes to Gat&apos;s mission at Interintellect: Namely, preserving the value of thinking together across generations, disciplines, and worldviews.</itunes:summary>
+      <itunes:subtitle>If technology is ruining the art of conversation, maybe it can save it, too. Anna Gat--poet, screenwriter, playwright, and founder of Interintellect--talks with EconTalk&apos;s Russ Roberts on how she&apos;s reviving the French salon in the digital age. They discuss why authority, moderation, and clear formats make conversation freer, not more constrained. They also explore why one of the greatest of modern plays--Tom Stoppard&apos;s Arcadia--is so resonant not only as a live theatrical performance, but also when read aloud, both alone and in a group. They conclude the episode by connecting Arcadia&apos;s themes to Gat&apos;s mission at Interintellect: Namely, preserving the value of thinking together across generations, disciplines, and worldviews.</itunes:subtitle>
+      <itunes:keywords>economics, science, chaos theory, plays, theater, econlib, forums, tom stoppard, hosting, moderating, conversationalism, anna gat, arcadia, discussions, readings</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1031</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">63fc4297-6ce5-4751-9495-b2fb0b8462c9</guid>
       <title>In Defense of Intuition (with Gerd Gigerenzer)</title>
