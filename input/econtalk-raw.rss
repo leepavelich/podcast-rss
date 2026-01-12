@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 900+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2025</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 5 Jan 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 5 Jan 2026 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">a8362633-c109-4342-a5d8-d7aa53ea48d5</guid>
+      <title>The Mattering Instinct (with Rebecca Newberger Goldstein)</title>
+      <description><![CDATA[<p>Philosopher and author Rebecca Newberger Goldstein discusses her new book, <i>The Mattering Instinct</i>, which argues that our lives are a quest to validate our inherent self-centeredness. Tracing this essential longing from physics and biology through to ethics and politics, she explains to EconTalk's Russ Roberts why material success alone can never satisfy our deep-seated need to matter. She describes the four ways people seek significance--through transcendence, social connection, excellence, or competition--and explains how the unmet need to matter is at the heart of some of the biggest problems afflicting modern societies: loneliness, extremism, and polarization.</p>
+]]></description>
+      <pubDate>Mon, 12 Jan 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-mattering-instinct-with-rebecca-newberger-goldstein/</link>
+      <content:encoded><![CDATA[<p>Philosopher and author Rebecca Newberger Goldstein discusses her new book, <i>The Mattering Instinct</i>, which argues that our lives are a quest to validate our inherent self-centeredness. Tracing this essential longing from physics and biology through to ethics and politics, she explains to EconTalk's Russ Roberts why material success alone can never satisfy our deep-seated need to matter. She describes the four ways people seek significance--through transcendence, social connection, excellence, or competition--and explains how the unmet need to matter is at the heart of some of the biggest problems afflicting modern societies: loneliness, extremism, and polarization.</p>
+]]></content:encoded>
+      <enclosure length="63120718" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/db509f0b-789b-4501-83af-42270ba2441e/audio/a5814d94-3e11-41c6-8e52-54d08f591f86/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Mattering Instinct (with Rebecca Newberger Goldstein)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:05:26</itunes:duration>
+      <itunes:summary>Philosopher and author Rebecca Newberger Goldstein discusses her new book, The Mattering Instinct, which argues that our lives are a quest to validate our inherent self-centeredness. Tracing this essential longing from physics and biology through to ethics and politics, she explains to EconTalk&apos;s Russ Roberts why material success alone can never satisfy our deep-seated need to matter. She describes the four ways people seek significance--through transcendence, social connection, excellence, or competition--and explains how the unmet need to matter is at the heart of some of the biggest problems afflicting modern societies: loneliness, extremism, and polarization.</itunes:summary>
+      <itunes:subtitle>Philosopher and author Rebecca Newberger Goldstein discusses her new book, The Mattering Instinct, which argues that our lives are a quest to validate our inherent self-centeredness. Tracing this essential longing from physics and biology through to ethics and politics, she explains to EconTalk&apos;s Russ Roberts why material success alone can never satisfy our deep-seated need to matter. She describes the four ways people seek significance--through transcendence, social connection, excellence, or competition--and explains how the unmet need to matter is at the heart of some of the biggest problems afflicting modern societies: loneliness, extremism, and polarization.</itunes:subtitle>
+      <itunes:keywords>ethics, economics, transcendence, competition, rebecca newberger goldstein, econlib, fly-fishing, philosophy, purpose, heroic strivers, andrew wiles, meaningful life, fermat, human motivations</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1032</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">22cc45d7-ceba-443e-8fc7-a9f78c1f0aae</guid>
       <title>Conversation, Interintellect, and Arcadia (with Anna Gat)</title>
