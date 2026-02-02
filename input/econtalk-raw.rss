@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 26 Jan 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 11:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 2 Feb 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 2 Feb 2026 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">43f52dde-26be-4a9e-b740-b7bcd3ef2fb5</guid>
+      <title>How to Flourish (with Daniel Coyle)</title>
+      <description><![CDATA[<p>Author Daniel Coyle talks with EconTalk's Russ Roberts on the art of flourishing: why it's a natural phenomenon rather than mechanical; how taking life's "yellow doors"--or detours from a straight, expected path--is often the key to a flourishing life; and why true flourishing can only occur in the context of relationships. They also discuss how the basic principles of flourishing have empowered people--from men trapped in a Chilean mine to senior citizens reliving their youth--to achieve remarkable things. Finally, they offer an exercise you can do for recognizing the ways that others have helped us to thrive.</p>
+]]></description>
+      <pubDate>Mon, 2 Feb 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-to-flourish-with-daniel-coyle/</link>
+      <content:encoded><![CDATA[<p>Author Daniel Coyle talks with EconTalk's Russ Roberts on the art of flourishing: why it's a natural phenomenon rather than mechanical; how taking life's "yellow doors"--or detours from a straight, expected path--is often the key to a flourishing life; and why true flourishing can only occur in the context of relationships. They also discuss how the basic principles of flourishing have empowered people--from men trapped in a Chilean mine to senior citizens reliving their youth--to achieve remarkable things. Finally, they offer an exercise you can do for recognizing the ways that others have helped us to thrive.</p>
+]]></content:encoded>
+      <enclosure length="72632611" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/1a6397c9-34bb-4253-88b5-1563e339f410/audio/0fd664fc-dee6-424f-bb3c-0d190dbe6b0c/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How to Flourish (with Daniel Coyle)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:15:21</itunes:duration>
+      <itunes:summary>Author Daniel Coyle talks with EconTalk&apos;s Russ Roberts on the art of flourishing: why it&apos;s a natural phenomenon rather than mechanical; how taking life&apos;s &quot;yellow doors&quot;--or detours from a straight, expected path--is often the key to a flourishing life; and why true flourishing can only occur in the context of relationships. They also discuss how the basic principles of flourishing have empowered people--from men trapped in a Chilean mine to senior citizens reliving their youth--to achieve remarkable things. Finally, they offer an exercise you can do for recognizing the ways that others have helped us to thrive.</itunes:summary>
+      <itunes:subtitle>Author Daniel Coyle talks with EconTalk&apos;s Russ Roberts on the art of flourishing: why it&apos;s a natural phenomenon rather than mechanical; how taking life&apos;s &quot;yellow doors&quot;--or detours from a straight, expected path--is often the key to a flourishing life; and why true flourishing can only occur in the context of relationships. They also discuss how the basic principles of flourishing have empowered people--from men trapped in a Chilean mine to senior citizens reliving their youth--to achieve remarkable things. Finally, they offer an exercise you can do for recognizing the ways that others have helped us to thrive.</itunes:subtitle>
+      <itunes:keywords>economics, attention, personal growth, leadership, presence, mindfulness, daniel coyle, uncertainty, econlib, control, group flow, flourishing, curiosity, fred rogers</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1035</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">ac146ab1-80d5-43ac-8256-5c9f8e752faa</guid>
       <title>Zionism, the Melting Pot, and the Galveston Project (with Rachel Cockerell)</title>
