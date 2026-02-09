@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 2 Feb 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Sun, 8 Feb 2026 05:08:07 +0000</lastBuildDate>
+    <pubDate>Mon, 9 Feb 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 9 Feb 2026 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">77b851f1-44d8-4298-98df-3c6b343c0f0a</guid>
+      <title>A Military Analysis of Israel&apos;s War in Gaza (with Andrew Fox)</title>
+      <description><![CDATA[<p>What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk's Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few tactical alternatives to destroying infrastructure and buildings in the Gaza Strip. Fox also addresses the claims that Israel deliberately targeted Gazan children and wielded starvation as a weapon, and explains why he believes that Israel succeeded in achieving its strategic war goals.</p>
+]]></description>
+      <pubDate>Mon, 9 Feb 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/a-military-analysis-of-israels-war-in-gaza-with-andrew-fox/</link>
+      <content:encoded><![CDATA[<p>What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk's Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few tactical alternatives to destroying infrastructure and buildings in the Gaza Strip. Fox also addresses the claims that Israel deliberately targeted Gazan children and wielded starvation as a weapon, and explains why he believes that Israel succeeded in achieving its strategic war goals.</p>
+]]></content:encoded>
+      <enclosure length="65828008" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/3d21cde3-7d25-417b-986f-469fda61df09/audio/d9c529b2-a426-499a-af0a-2d6bda621331/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>A Military Analysis of Israel&apos;s War in Gaza (with Andrew Fox)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:15</itunes:duration>
+      <itunes:summary>What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk&apos;s Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few tactical alternatives to destroying infrastructure and buildings in the Gaza Strip. Fox also addresses the claims that Israel deliberately targeted Gazan children and wielded starvation as a weapon, and explains why he believes that Israel succeeded in achieving its strategic war goals.</itunes:summary>
+      <itunes:subtitle>What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk&apos;s Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few tactical alternatives to destroying infrastructure and buildings in the Gaza Strip. Fox also addresses the claims that Israel deliberately targeted Gazan children and wielded starvation as a weapon, and explains why he believes that Israel succeeded in achieving its strategic war goals.</itunes:subtitle>
+      <itunes:keywords>economics, disinformation, combat, battlefield medicine, ieds, econlib, military ethics, tunnels, urban warfare, middle east, civilian casualties, andrew fox</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1036</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">43f52dde-26be-4a9e-b740-b7bcd3ef2fb5</guid>
       <title>How to Flourish (with Daniel Coyle)</title>
