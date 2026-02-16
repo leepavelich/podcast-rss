@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 9 Feb 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 9 Feb 2026 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">7433d212-911a-4abd-b058-4943b6bbb44e</guid>
+      <title>Seiko, Swatch, and the Swiss Watch Industry (with Aled Maclean-Jones)</title>
+      <description><![CDATA[<p>How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk's Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurate alternatives--and how the Swiss redefined the value of a watch to recover market dominance. Maclean-Jones discusses the Japanese innovations that led to the Swiss industry's collapse; the brilliant decision by a pair of Swiss mavericks to change the narrative around mechanical watches; and the consolidation and standardization of Swiss watchmaking undertaken by Swatch founder Nicolas Hayek.</p>
+]]></description>
+      <pubDate>Mon, 16 Feb 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/seiko-swatch-and-the-swiss-watch-industry-with-aled-maclean-jones/</link>
+      <content:encoded><![CDATA[<p>How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk's Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurate alternatives--and how the Swiss redefined the value of a watch to recover market dominance. Maclean-Jones discusses the Japanese innovations that led to the Swiss industry's collapse; the brilliant decision by a pair of Swiss mavericks to change the narrative around mechanical watches; and the consolidation and standardization of Swiss watchmaking undertaken by Swatch founder Nicolas Hayek.</p>
+]]></content:encoded>
+      <enclosure length="59328877" type="audio/mpeg" url="https://cdn.simplecast.com/audio/6fdba516-8381-43b0-b29f-59d05512b693/episodes/c4ae9090-863f-463f-9386-6fb349fd06b8/audio/87b3e0d4-688b-4d80-bef6-0f3210fe72c4/default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Seiko, Swatch, and the Swiss Watch Industry (with Aled Maclean-Jones)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:01:29</itunes:duration>
+      <itunes:summary>How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk&apos;s Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurate alternatives--and how the Swiss redefined the value of a watch to recover market dominance. Maclean-Jones discusses the Japanese innovations that led to the Swiss industry&apos;s collapse; the brilliant decision by a pair of Swiss mavericks to change the narrative around mechanical watches; and the consolidation and standardization of Swiss watchmaking undertaken by Swatch founder Nicolas Hayek.</itunes:summary>
+      <itunes:subtitle>How did an industry survive a technology that should have made it obsolete? Aled Maclean-Jones explains to EconTalk&apos;s Russ Roberts how Japanese quartz watches nearly wiped out Swiss watchmaking with cheaper, more accurate alternatives--and how the Swiss redefined the value of a watch to recover market dominance. Maclean-Jones discusses the Japanese innovations that led to the Swiss industry&apos;s collapse; the brilliant decision by a pair of Swiss mavericks to change the narrative around mechanical watches; and the consolidation and standardization of Swiss watchmaking undertaken by Swatch founder Nicolas Hayek.</itunes:subtitle>
+      <itunes:keywords>quartz watches, economics, econlib, creative destruction, business history, watchmaking industry, luxury branding, aled maclean-jones, global competition, technology, innovation</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1037</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">77b851f1-44d8-4298-98df-3c6b343c0f0a</guid>
       <title>A Military Analysis of Israel&apos;s War in Gaza (with Andrew Fox)</title>
