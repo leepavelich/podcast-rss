@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 16 Feb 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2026 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 11:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">4d67b808-cbc4-4dc6-a283-89c2b6b9565b</guid>
+      <title>The Man Who Would Be King of Saudi Arabia (with Karen Elliott House)</title>
+      <description><![CDATA[<p>Crown Prince Mohammed bin Salman has been dragging Saudi Arabia into the modern world over the last decade. Journalist and author Karen Elliott House lays out the Saudi leader's motivations, hopes, and contradictions. Listen as she and EconTalk's Russ Roberts explore the crown prince's mix of cultural liberalization and political dominance and where his balancing act might lead his country in the future. </p>
+]]></description>
+      <pubDate>Mon, 23 Feb 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-man-who-would-be-king-of-saudi-arabia-with-karen-elliott-house/</link>
+      <content:encoded><![CDATA[<p>Crown Prince Mohammed bin Salman has been dragging Saudi Arabia into the modern world over the last decade. Journalist and author Karen Elliott House lays out the Saudi leader's motivations, hopes, and contradictions. Listen as she and EconTalk's Russ Roberts explore the crown prince's mix of cultural liberalization and political dominance and where his balancing act might lead his country in the future. </p>
+]]></content:encoded>
+      <enclosure length="74183019" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/2b4b0a04-a903-425c-9350-cfc267082d59/group-item/f6933b40-c890-4088-bc4c-b172e32ad16b/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Man Who Would Be King of Saudi Arabia (with Karen Elliott House)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:16:58</itunes:duration>
+      <itunes:summary>Crown Prince Mohammed bin Salman has been dragging Saudi Arabia into the modern world over the last decade. Journalist and author Karen Elliott House lays out the Saudi leader&apos;s motivations, hopes, and contradictions. Listen as she and EconTalk&apos;s Russ Roberts explore the crown prince&apos;s mix of cultural liberalization and political dominance and where his balancing act might lead his country in the future.</itunes:summary>
+      <itunes:subtitle>Crown Prince Mohammed bin Salman has been dragging Saudi Arabia into the modern world over the last decade. Journalist and author Karen Elliott House lays out the Saudi leader&apos;s motivations, hopes, and contradictions. Listen as she and EconTalk&apos;s Russ Roberts explore the crown prince&apos;s mix of cultural liberalization and political dominance and where his balancing act might lead his country in the future.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, karen elliott house, oil, women&apos;s rights, biography, political power, autocracy, jamal khashoggi, middle east, neom, saudi crown prince mbs, vision 2030, religious police</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1038</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">7433d212-911a-4abd-b058-4943b6bbb44e</guid>
       <title>Seiko, Swatch, and the Swiss Watch Industry (with Aled Maclean-Jones)</title>
