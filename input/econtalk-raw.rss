@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 2 Mar 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 2 Mar 2026 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 9 Mar 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 9 Mar 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">f4e69597-51f2-4ce3-9252-c92d775ab435</guid>
+      <title>How We Tamed Ourselves and Invented Good and Evil (with Hanno Sauer)</title>
+      <description><![CDATA[<p>What if humanity's capacity for cruelty was actually one of our greatest moral achievements? That's just one of the provocative ideas philosopher Hanno Sauer explores in this conversation about his book <i>The Invention of Good and Evil </i>with EconTalk's Russ Roberts. Sauer tackles a fundamental puzzle: in a Darwinian world of selfish genes, how did humans become so extraordinarily cooperative? Sauer traces a fascinating journey from small hunter-gatherer bands to modern civilizations, revealing surprising mechanisms along the way--including the systematic killing of the most aggressive tribe members over millennia, which made humans the "golden retrievers of the primate kingdom." The conversation ranges from whether agriculture was history's worst mistake, to a spirited debate about religion and morality between Sauer (a German atheist who doesn't know any believers) and host Russ Roberts (a person of faith living in Israel).</p>
+]]></description>
+      <pubDate>Mon, 9 Mar 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/how-we-tamed-ourselves-and-invented-good-and-evil-with-hanno-sauer/</link>
+      <content:encoded><![CDATA[<p>What if humanity's capacity for cruelty was actually one of our greatest moral achievements? That's just one of the provocative ideas philosopher Hanno Sauer explores in this conversation about his book <i>The Invention of Good and Evil </i>with EconTalk's Russ Roberts. Sauer tackles a fundamental puzzle: in a Darwinian world of selfish genes, how did humans become so extraordinarily cooperative? Sauer traces a fascinating journey from small hunter-gatherer bands to modern civilizations, revealing surprising mechanisms along the way--including the systematic killing of the most aggressive tribe members over millennia, which made humans the "golden retrievers of the primate kingdom." The conversation ranges from whether agriculture was history's worst mistake, to a spirited debate about religion and morality between Sauer (a German atheist who doesn't know any believers) and host Russ Roberts (a person of faith living in Israel).</p>
+]]></content:encoded>
+      <enclosure length="71499848" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/d48f9c8d-68e0-45be-9ac4-6b777ff5a358/group-item/04669511-5b20-4571-9816-728becd3b38e/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>How We Tamed Ourselves and Invented Good and Evil (with Hanno Sauer)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:14:10</itunes:duration>
+      <itunes:summary>What if humanity&apos;s capacity for cruelty was actually one of our greatest moral achievements? That&apos;s just one of the provocative ideas philosopher Hanno Sauer explores in this conversation about his book The Invention of Good and Evil with EconTalk&apos;s Russ Roberts. Sauer tackles a fundamental puzzle: in a Darwinian world of selfish genes, how did humans become so extraordinarily cooperative? Sauer traces a fascinating journey from small hunter-gatherer bands to modern civilizations, revealing surprising mechanisms along the way--including the systematic killing of the most aggressive tribe members over millennia, which made humans the &quot;golden retrievers of the primate kingdom.&quot; The conversation ranges from whether agriculture was history&apos;s worst mistake, to a spirited debate about religion and morality between Sauer (a German atheist who doesn&apos;t know any believers) and host Russ Roberts (a person of faith living in Israel).</itunes:summary>
+      <itunes:subtitle>What if humanity&apos;s capacity for cruelty was actually one of our greatest moral achievements? That&apos;s just one of the provocative ideas philosopher Hanno Sauer explores in this conversation about his book The Invention of Good and Evil with EconTalk&apos;s Russ Roberts. Sauer tackles a fundamental puzzle: in a Darwinian world of selfish genes, how did humans become so extraordinarily cooperative? Sauer traces a fascinating journey from small hunter-gatherer bands to modern civilizations, revealing surprising mechanisms along the way--including the systematic killing of the most aggressive tribe members over millennia, which made humans the &quot;golden retrievers of the primate kingdom.&quot; The conversation ranges from whether agriculture was history&apos;s worst mistake, to a spirited debate about religion and morality between Sauer (a German atheist who doesn&apos;t know any believers) and host Russ Roberts (a person of faith living in Israel).</itunes:subtitle>
+      <itunes:keywords>economics, econlib, altruism, cooperation, religions, agriculture, morality, hanno sauer, moral progress, psychology, norms, evolution, big gods</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1040</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3c3d7d70-b47b-4d06-bd80-afe433378530</guid>
       <title>The Power of Introverts (with Susan Cain)</title>
