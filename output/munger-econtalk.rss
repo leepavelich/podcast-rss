@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 9 Mar 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 9 Mar 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">84039269-3e8f-4e23-8656-b29cebc0587b</guid>
+      <title>The Economics of Scarcity and the UNC-Duke Basketball Game (with Michael Munger)</title>
+      <description>&lt;p&gt;Duke University leaves millions of dollars on the table every year by giving away free tickets to the most sought-after game in college basketball. The bizarre ticket allocation system includes weeks of camping in tents, a 58-question trivia exam, border guards with air horns at 3 AM, and a 50-page student-written constitution with its own appeals court. In this special 20th-anniversary episode, EconTalk's Russ Roberts and returning favorite Michael Munger (appearance #51!) use the legendary Duke-UNC rivalry to explore the fundamental economics question: how do you deal with a world when there isn't enough of something to go around? Along the way, they ask why a university that squeezes students on every other margin, might deliberately forgo a fortune on ticket sales. The answer has everything to do with community, belonging, and the same psychology that bonds fighter pilots and elite military units.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Mar 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-economics-of-scarcity-and-the-unc-duke-basketball-game-with-michael-munger/</link>
+      <content:encoded>&lt;p&gt;Duke University leaves millions of dollars on the table every year by giving away free tickets to the most sought-after game in college basketball. The bizarre ticket allocation system includes weeks of camping in tents, a 58-question trivia exam, border guards with air horns at 3 AM, and a 50-page student-written constitution with its own appeals court. In this special 20th-anniversary episode, EconTalk's Russ Roberts and returning favorite Michael Munger (appearance #51!) use the legendary Duke-UNC rivalry to explore the fundamental economics question: how do you deal with a world when there isn't enough of something to go around? Along the way, they ask why a university that squeezes students on every other margin, might deliberately forgo a fortune on ticket sales. The answer has everything to do with community, belonging, and the same psychology that bonds fighter pilots and elite military units.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="63798126" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/00a3caa4-7838-44bc-99e4-9cbd85b22b93/group-item/dd075b98-8ff7-4e77-b3b4-54fea1ad1e04/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Economics of Scarcity and the UNC-Duke Basketball Game (with Michael Munger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:06:08</itunes:duration>
+      <itunes:summary>Duke University leaves millions of dollars on the table every year by giving away free tickets to the most sought-after game in college basketball. The bizarre ticket allocation system includes weeks of camping in tents, a 58-question trivia exam, border guards with air horns at 3 AM, and a 50-page student-written constitution with its own appeals court. In this special 20th-anniversary episode, EconTalk's Russ Roberts and returning favorite Michael Munger (appearance #51!) use the legendary Duke-UNC rivalry to explore the fundamental economics question: how do you deal with a world when there isn't enough of something to go around? Along the way, they ask why a university that squeezes students on every other margin, might deliberately forgo a fortune on ticket sales. The answer has everything to do with community, belonging, and the same psychology that bonds fighter pilots and elite military units.</itunes:summary>
+      <itunes:subtitle>Duke University leaves millions of dollars on the table every year by giving away free tickets to the most sought-after game in college basketball. The bizarre ticket allocation system includes weeks of camping in tents, a 58-question trivia exam, border guards with air horns at 3 AM, and a 50-page student-written constitution with its own appeals court. In this special 20th-anniversary episode, EconTalk's Russ Roberts and returning favorite Michael Munger (appearance #51!) use the legendary Duke-UNC rivalry to explore the fundamental economics question: how do you deal with a world when there isn't enough of something to go around? Along the way, they ask why a university that squeezes students on every other margin, might deliberately forgo a fortune on ticket sales. The answer has everything to do with community, belonging, and the same psychology that bonds fighter pilots and elite military units.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, emergent order, michael munger, sports fans, college basketball, k-ville, rationing, ticket pricing, lines, tenting, social norms, 20th anniversary, queuing</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1041</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">fbb8a9c2-105e-4e61-a17d-6fb25d72d2a1</guid>
       <title>What Is Capitalism? (with Mike Munger)</title>
