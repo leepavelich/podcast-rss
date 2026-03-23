@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 16 Mar 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">c1fafef0-6885-4289-a0d4-1b0fe5e2ecaa</guid>
+      <title>The Match That Lit the Flame: Hannah Senesh and the Creation of Modern Israel (with Matti Friedman)</title>
+      <description><![CDATA[<p>Why would a group of young Jews who escaped the Holocaust choose to parachute back into Nazi-occupied Europe? How did they become heroes despite the failure of that mission? Author Matti Friedman joins EconTalk's Russ Roberts to unravel these mysteries through his book <i>Out of the Sky,</i> revealing why a failed mission became one of Israel's most powerful founding myths. At the heart of the story is Hannah Senesh, a 23-year-old Hungarian poet who traded her Budapest life for a kibbutz, then traded the kibbutz for a parachute and a near-certain death sentence--and whose poems, scribbled on scraps of paper in forests near the Hungarian border, became some of the most famous texts in modern Hebrew.</p>
+]]></description>
+      <pubDate>Mon, 23 Mar 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-match-that-lit-the-flame-hannah-senesh-and-the-creation-of-modern-israel-with-matti-friedman/</link>
+      <content:encoded><![CDATA[<p>Why would a group of young Jews who escaped the Holocaust choose to parachute back into Nazi-occupied Europe? How did they become heroes despite the failure of that mission? Author Matti Friedman joins EconTalk's Russ Roberts to unravel these mysteries through his book <i>Out of the Sky,</i> revealing why a failed mission became one of Israel's most powerful founding myths. At the heart of the story is Hannah Senesh, a 23-year-old Hungarian poet who traded her Budapest life for a kibbutz, then traded the kibbutz for a parachute and a near-certain death sentence--and whose poems, scribbled on scraps of paper in forests near the Hungarian border, became some of the most famous texts in modern Hebrew.</p>
+]]></content:encoded>
+      <enclosure length="67812225" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/30dde062-bc8a-4113-883f-eff9cde65fc9/group-item/5f9c96b1-753d-4aaa-9a36-408518aa0875/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Match That Lit the Flame: Hannah Senesh and the Creation of Modern Israel (with Matti Friedman)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:19</itunes:duration>
+      <itunes:summary>Why would a group of young Jews who escaped the Holocaust choose to parachute back into Nazi-occupied Europe? How did they become heroes despite the failure of that mission? Author Matti Friedman joins EconTalk&apos;s Russ Roberts to unravel these mysteries through his book Out of the Sky, revealing why a failed mission became one of Israel&apos;s most powerful founding myths. At the heart of the story is Hannah Senesh, a 23-year-old Hungarian poet who traded her Budapest life for a kibbutz, then traded the kibbutz for a parachute and a near-certain death sentence--and whose poems, scribbled on scraps of paper in forests near the Hungarian border, became some of the most famous texts in modern Hebrew.</itunes:summary>
+      <itunes:subtitle>Why would a group of young Jews who escaped the Holocaust choose to parachute back into Nazi-occupied Europe? How did they become heroes despite the failure of that mission? Author Matti Friedman joins EconTalk&apos;s Russ Roberts to unravel these mysteries through his book Out of the Sky, revealing why a failed mission became one of Israel&apos;s most powerful founding myths. At the heart of the story is Hannah Senesh, a 23-year-old Hungarian poet who traded her Budapest life for a kibbutz, then traded the kibbutz for a parachute and a near-certain death sentence--and whose poems, scribbled on scraps of paper in forests near the Hungarian border, became some of the most famous texts in modern Hebrew.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, israel, holocaust, anne frank, hungarian jews, heroism, matti friedman, resistance, hannah szenes, poetry, parachuting</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1042</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">84039269-3e8f-4e23-8656-b29cebc0587b</guid>
       <title>The Economics of Scarcity and the UNC-Duke Basketball Game (with Michael Munger)</title>
