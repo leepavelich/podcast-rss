@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 23 Mar 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">2a621e39-cd5a-4c60-b75b-ccb3eb491309</guid>
+      <title>AI, Employment, and Education (with Tyler Cowen)</title>
+      <description><![CDATA[<p>Tyler Cowen is bullish on the integration of AI into higher education. He's also not worried about its effects on the future workplace. Listen as Cowen speaks with EconTalk's Russ Roberts about the reasons for his optimism, and argues that college classes should devote significant time to learning how to use AI. They discuss the future of writing (and thinking) in an academic context, and Cowen's solution to dealing with worries about cheating. Cowen also shares how he personally has adapted to AI, and whether he thinks there's value to a college education designed not to ensure mastery of a subject, but instead to help students become the kind of people they want to be.</p>
+]]></description>
+      <pubDate>Mon, 30 Mar 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/ai-employment-and-education-with-tyler-cowen/</link>
+      <content:encoded><![CDATA[<p>Tyler Cowen is bullish on the integration of AI into higher education. He's also not worried about its effects on the future workplace. Listen as Cowen speaks with EconTalk's Russ Roberts about the reasons for his optimism, and argues that college classes should devote significant time to learning how to use AI. They discuss the future of writing (and thinking) in an academic context, and Cowen's solution to dealing with worries about cheating. Cowen also shares how he personally has adapted to AI, and whether he thinks there's value to a college education designed not to ensure mastery of a subject, but instead to help students become the kind of people they want to be.</p>
+]]></content:encoded>
+      <enclosure length="60028102" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/89ddb3d8-88ac-4ff1-8208-6e7cebec2bca/group-item/5c72b6c2-5630-42f3-9c1e-01d19a142d46/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>AI, Employment, and Education (with Tyler Cowen)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:02:13</itunes:duration>
+      <itunes:summary>Tyler Cowen is bullish on the integration of AI into higher education. He&apos;s also not worried about its effects on the future workplace. Listen as Cowen speaks with EconTalk&apos;s Russ Roberts about the reasons for his optimism, and argues that college classes should devote significant time to learning how to use AI. They discuss the future of writing (and thinking) in an academic context, and Cowen&apos;s solution to dealing with worries about cheating. Cowen also shares how he personally has adapted to AI, and whether he thinks there&apos;s value to a college education designed not to ensure mastery of a subject, but instead to help students become the kind of people they want to be.</itunes:summary>
+      <itunes:subtitle>Tyler Cowen is bullish on the integration of AI into higher education. He&apos;s also not worried about its effects on the future workplace. Listen as Cowen speaks with EconTalk&apos;s Russ Roberts about the reasons for his optimism, and argues that college classes should devote significant time to learning how to use AI. They discuss the future of writing (and thinking) in an academic context, and Cowen&apos;s solution to dealing with worries about cheating. Cowen also shares how he personally has adapted to AI, and whether he thinks there&apos;s value to a college education designed not to ensure mastery of a subject, but instead to help students become the kind of people they want to be.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, education, growth, careers, artificial intelligence, teaching, tyler cowen, unemployment, college, technology</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1043</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">c1fafef0-6885-4289-a0d4-1b0fe5e2ecaa</guid>
       <title>The Match That Lit the Flame: Hannah Senesh and the Creation of Modern Israel (with Matti Friedman)</title>
