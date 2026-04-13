@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 6 Apr 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 6 Apr 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">83965796-a10f-412b-b9ae-0b906a01cf51</guid>
+      <title>The Man Who Built NVIDIA (with Stephen Witt)</title>
+      <description><![CDATA[<p>He arrived in America as a child with no English. He was mistakenly sent to a school for juvenile delinquents. He faced rampant prejudice--yet Jensen Huang, the under-the-radar CEO of NVIDIA, became a catalyzing figure behind the AI revolution and built the most valuable company in the world. Listen as journalist Stephen Witt speaks with EconTalk's Russ Roberts about how Jensen pivoted from manufacturing processing units for video games to leveraging their capacity into astonishing computing power and speed. They analyze why Huang bet so heavily on AI when no one else did, and why NVIDIA processors enjoyed almost unrivalled market dominance for so long. They also explore Huang's unique way of thinking and problem-solving—as well as his temperamental leadership style.</p>
+]]></description>
+      <pubDate>Mon, 13 Apr 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-man-who-built-nvidia-with-stephen-witt/</link>
+      <content:encoded><![CDATA[<p>He arrived in America as a child with no English. He was mistakenly sent to a school for juvenile delinquents. He faced rampant prejudice--yet Jensen Huang, the under-the-radar CEO of NVIDIA, became a catalyzing figure behind the AI revolution and built the most valuable company in the world. Listen as journalist Stephen Witt speaks with EconTalk's Russ Roberts about how Jensen pivoted from manufacturing processing units for video games to leveraging their capacity into astonishing computing power and speed. They analyze why Huang bet so heavily on AI when no one else did, and why NVIDIA processors enjoyed almost unrivalled market dominance for so long. They also explore Huang's unique way of thinking and problem-solving—as well as his temperamental leadership style.</p>
+]]></content:encoded>
+      <enclosure length="62138364" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/396cc9e4-9bc4-4708-a69e-fa695f76898e/group-item/c87c4f0f-e424-4028-abc0-d9ee3335dec9/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Man Who Built NVIDIA (with Stephen Witt)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:25</itunes:duration>
+      <itunes:summary>He arrived in America as a child with no English. He was mistakenly sent to a school for juvenile delinquents. He faced rampant prejudice--yet Jensen Huang, the under-the-radar CEO of NVIDIA, became a catalyzing figure behind the AI revolution and built the most valuable company in the world. Listen as journalist Stephen Witt speaks with EconTalk&apos;s Russ Roberts about how Jensen pivoted from manufacturing processing units for video games to leveraging their capacity into astonishing computing power and speed. They analyze why Huang bet so heavily on AI when no one else did, and why NVIDIA processors enjoyed almost unrivalled market dominance for so long. They also explore Huang&apos;s unique way of thinking and problem-solving—as well as his temperamental leadership style.</itunes:summary>
+      <itunes:subtitle>He arrived in America as a child with no English. He was mistakenly sent to a school for juvenile delinquents. He faced rampant prejudice--yet Jensen Huang, the under-the-radar CEO of NVIDIA, became a catalyzing figure behind the AI revolution and built the most valuable company in the world. Listen as journalist Stephen Witt speaks with EconTalk&apos;s Russ Roberts about how Jensen pivoted from manufacturing processing units for video games to leveraging their capacity into astonishing computing power and speed. They analyze why Huang bet so heavily on AI when no one else did, and why NVIDIA processors enjoyed almost unrivalled market dominance for so long. They also explore Huang&apos;s unique way of thinking and problem-solving—as well as his temperamental leadership style.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, data centers, immigration, leadership, artificial intelligence, microchips, jensen huang, gpus, technology, semiconductors, stephen witt</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1045</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">f82357e8-36df-4d72-9a7d-490c6083b1c8</guid>
       <title>The Unseen Work: Stewart Brand on Maintenance and Civilization</title>
