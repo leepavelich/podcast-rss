@@ -1,297 +1,3232 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:690728360/sounds.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:690728360/sounds.rss?before=1402232134" rel="next" type="application/rss+xml"/>
     <title>Muscle Minds</title>
-    <description>Bodybuilding science with Dr. Scott Stevenson and Scott McNally. Deep dives into training principles, muscle physiology, and evidence-based bodybuilding.</description>
     <link>https://soundcloud.com/user-634942648</link>
-    <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 10:07:56 GMT</lastBuildDate>
-    <atom:link href="https://anchor.fm/s/108342c28/podcast/rss" rel="self" type="application/rss+xml"/>
-    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <author>Think BIG Bodybuilding Media</author>
-    <copyright>Think BIG Bodybuilding Media</copyright>
+    <pubDate>Wed, 15 Apr 2026 14:49:00 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:49:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
     <language>en</language>
-    <itunes:author>Think BIG Bodybuilding Media</itunes:author>
-    <itunes:summary>Bodybuilding science with Dr. Scott Stevenson and Scott McNally. Deep dives into training principles, muscle physiology, and evidence-based bodybuilding.</itunes:summary>
-    <itunes:type>episodic</itunes:type>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>Bodybuilding science with Dr. Scott Stevenson and Scott McNally. Deep dives into training principles, muscle physiology, and evidence-based bodybuilding.</description>
+    <itunes:subtitle>Podcast by Think BIG Bodybuilding Media</itunes:subtitle>
     <itunes:owner>
       <itunes:name>Think BIG Bodybuilding Media</itunes:name>
       <itunes:email>thinkbigbodybuilding@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>true</itunes:explicit>
+    <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
+    <image>
+      <url>https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg</url>
+      <title>Think BIG Bodybuilding Media</title>
+      <link>https://soundcloud.com/user-634942648</link>
+    </image>
     <itunes:category text="Sports"/>
-    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44226042/cca8515ae8b121fa.jpg"/>
     <item>
-      <title>Muscle Minds 176 The Science Behind Nick Walker's Training</title>
-      <description>Muscle Minds 176 The Science Behind Nick Walker's Training</description>
-      <pubDate>Thu, 14 Aug 2025 16:18:20 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2153246634-user-634942648-muscle-minds-176-the-science-behind-nick-walkers-training.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-176-the-science-behind-nick-walkers-training</guid>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2299649651</guid>
+      <title>Muscle Minds 185 The Role of Progressive Overload in Muscle Growth: Insights from Recent Research</title>
+      <pubDate>Thu, 09 Apr 2026 16:40:12 +0000</pubDate>
+      <link>https://soundcloud.com/user-634942648/muscle-minds-185-the-role-of</link>
+      <itunes:duration>00:53:30</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds 185: Is progressive overload actually REQUIRED for muscle growth? &lt;p&gt;
+Dr. Scott Stevenson and Scott McNally break down brand-new research that challenges one of the biggest gym dogmas. Discover what the latest studies really show about hypertrophy with vs without overload, the true role of effort, effective reps, training to failure, and what this means for your long-term training. &lt;p&gt;
+
+00:00 - Introduction to the study and research questions on progressive overload &lt;p&gt;
+02:52 - Breakdown of the experimental design and training conditions &lt;p&gt;
+05:02 - Key findings: muscle growth with and without progressive overload &lt;p&gt;
+09:36 - Importance of effort, reps, and reserves in hypertrophy studies &lt;p&gt;
+12:30 - Evidence of muscle growth even without overload and what it means &lt;p&gt;
+17:35 - How training to failure and effective reps relate to hypertrophy &lt;p&gt;
+22:28 - Correlation between overload and muscle gain—what's missing in research &lt;p&gt;
+26:21 - Limitations of short-duration studies for long-term training outcomes &lt;p&gt;
+31:30 - Practical insights and real-world implications for resistance training &lt;p&gt;
+43:41 - Challenges in research measurement techniques and logistical considerations &lt;p&gt;
+
+💪 Support THINK BIG Bodybuilding &lt;p&gt;
+❤️ Support the Channel on PatreonHelp us keep the podcast and videos coming. Even $5/month makes a difference. &lt;p&gt;👉 https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+📕Get Scott Stevenson's Book  &lt;p&gt;
+https://drscottstevenson.com/byobbcoach.html &lt;p&gt;
+Hardcover linked through Scott's IG  &lt;p&gt;
+https://www.instagram.com/fortitude_training/ &lt;p&gt;
+
+👕 THINK BIG Bodybuilding Apparel &lt;p&gt;
+🔥 Official THINK BIG T-Shirts &amp; MerchTrain. Represent. Support the brand.👉 https://think-big.printify.me/products &lt;p&gt;
+
+🥇 Official Sponsor: TRUE NUTRITION &lt;p&gt;
+✅ Custom Supplements Trusted by Bodybuilders• 3rd-party tested• Fully customizable formulas•  &lt;p&gt;Used by serious lifters worldwide &lt;p&gt;
+💥 Save with code: THINK &lt;p&gt;👉 https://www.truenutrition.com/THINK &lt;p&gt;
+
+🇨🇦 Canadian Viewers — Supplements Made Easy &lt;p&gt;
+💊 Huge Deals on Top Brand Supplements in CanadaFast shipping. Trusted retailer.👉  &lt;p&gt;http://www.supplementsource.ca &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Muscle Minds 185: Is progressive overload actuall…</itunes:subtitle>
+      <description>Muscle Minds 185: Is progressive overload actually REQUIRED for muscle growth? &lt;p&gt;
+Dr. Scott Stevenson and Scott McNally break down brand-new research that challenges one of the biggest gym dogmas. Discover what the latest studies really show about hypertrophy with vs without overload, the true role of effort, effective reps, training to failure, and what this means for your long-term training. &lt;p&gt;
+
+00:00 - Introduction to the study and research questions on progressive overload &lt;p&gt;
+02:52 - Breakdown of the experimental design and training conditions &lt;p&gt;
+05:02 - Key findings: muscle growth with and without progressive overload &lt;p&gt;
+09:36 - Importance of effort, reps, and reserves in hypertrophy studies &lt;p&gt;
+12:30 - Evidence of muscle growth even without overload and what it means &lt;p&gt;
+17:35 - How training to failure and effective reps relate to hypertrophy &lt;p&gt;
+22:28 - Correlation between overload and muscle gain—what's missing in research &lt;p&gt;
+26:21 - Limitations of short-duration studies for long-term training outcomes &lt;p&gt;
+31:30 - Practical insights and real-world implications for resistance training &lt;p&gt;
+43:41 - Challenges in research measurement techniques and logistical considerations &lt;p&gt;
+
+💪 Support THINK BIG Bodybuilding &lt;p&gt;
+❤️ Support the Channel on PatreonHelp us keep the podcast and videos coming. Even $5/month makes a difference. &lt;p&gt;👉 https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+📕Get Scott Stevenson's Book  &lt;p&gt;
+https://drscottstevenson.com/byobbcoach.html &lt;p&gt;
+Hardcover linked through Scott's IG  &lt;p&gt;
+https://www.instagram.com/fortitude_training/ &lt;p&gt;
+
+👕 THINK BIG Bodybuilding Apparel &lt;p&gt;
+🔥 Official THINK BIG T-Shirts &amp; MerchTrain. Represent. Support the brand.👉 https://think-big.printify.me/products &lt;p&gt;
+
+🥇 Official Sponsor: TRUE NUTRITION &lt;p&gt;
+✅ Custom Supplements Trusted by Bodybuilders• 3rd-party tested• Fully customizable formulas•  &lt;p&gt;Used by serious lifters worldwide &lt;p&gt;
+💥 Save with code: THINK &lt;p&gt;👉 https://www.truenutrition.com/THINK &lt;p&gt;
+
+🇨🇦 Canadian Viewers — Supplements Made Easy &lt;p&gt;
+💊 Huge Deals on Top Brand Supplements in CanadaFast shipping. Trusted retailer.👉  &lt;p&gt;http://www.supplementsource.ca &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2299649651-user-634942648-muscle-minds-185-the-role-of.mp3" length="77043588"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-RePHP7PMUwwA5ZTn-c9y8qQ-t3000x3000.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2284250585</guid>
+      <title>Muscle Minds 184 Pyramiding vs Straight Sets for Muscle Growth</title>
+      <pubDate>Sun, 15 Mar 2026 17:21:56 +0000</pubDate>
+      <link>https://soundcloud.com/user-634942648/muscle-minds-184-pyramiding-vs</link>
+      <itunes:duration>01:01:55</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>On this episode of Muscle Minds, Scott McNally and Dr. Scott Stevenson discuss one of the most common training questions in bodybuilding: pyramiding vs straight sets for muscle growth.&lt;p&gt;
+Dr. Stevenson breaks down the science behind hypertrophy training, including neurological adaptations, fatigue management, exercise selection, and how to properly distribute training volume.&lt;p&gt;
+They also dive into back training biomechanics, progressive overload under fatigue, and practical ways to improve muscle activation and long-term progress in the gym.&lt;p&gt;
+&lt;p&gt; If you want to better understand how to train smarter for hypertrophy, this episode is packed with practical insights you can apply to your own training.&lt;p&gt; &lt;p&gt; Episode Timestamps&lt;p&gt; &lt;p&gt; 00:00 Introduction to effective hypertrophy strategies&lt;p&gt; 02:27 Pyramiding vs straight sets for muscle growth&lt;p&gt; 04:34 Neurological adaptations and building strength&lt;p&gt; 06:33 Heavy loads, nervous system effects, and post-activation potentiation&lt;p&gt; 08:39 Managing fatigue and rest intervals for optimal progress&lt;p&gt; 10:41 Mount Saint Hypertrophy and volume distribution&lt;p&gt; 13:08 Training weak muscles vs strong muscles&lt;p&gt; 14:55 Exercise selection and biomechanics for back training&lt;p&gt; 17:43 Joint health and injury risk with heavy training&lt;p&gt; 19:42 Progressive overload when training under fatigue&lt;p&gt; 22:47 Back training for width vs thickness&lt;p&gt; 25:53 Mobility issues and activation patterns for back development&lt;p&gt; 33:37 Single-arm pulldowns and improving muscle activation&lt;p&gt; 40:56 Pump sets and hypertrophy-focused training&lt;p&gt; 44:22 Lightheadedness and blood flow issues during squats&lt;p&gt; 46:19 Neck and vascular considerations in heavy lifting&lt;p&gt; 54:48 Bracing, core stability, and breathing techniques&lt;p&gt; 60:03 Evolution of bodybuilding standards and physique aesthetics&lt;p&gt; &lt;p&gt; Support THINK BIG Bodybuilding&lt;p&gt; &lt;p&gt; Support the podcast on Patreon and help us keep the episodes coming. Even $5 per month makes a difference.&lt;p&gt; https://www.patreon.com/thinkbigbodybuilding&lt;p&gt; &lt;p&gt; Get Dr. Scott Stevenson's Book&lt;p&gt; https://drscottstevenson.com/byobbcoach.html&lt;p&gt; Hardcover linked through Scott's Instagram&lt;p&gt; https://www.instagram.com/fortitude_training/&lt;p&gt; &lt;p&gt; THINK BIG Bodybuilding Apparel&lt;p&gt; Official THINK BIG T-Shirts and merch&lt;p&gt; https://think-big.printify.me/products&lt;p&gt; &lt;p&gt; Official Sponsor: TRUE NUTRITION&lt;p&gt; Custom supplements trusted by bodybuilders&lt;p&gt; Save with code THINK&lt;p&gt; https://www.truenutrition.com/THINK&lt;p&gt; &lt;p&gt; Canadian listeners — Supplements Made Easy&lt;p&gt; Huge deals on top brand supplements in Canada&lt;p&gt; http://www.supplementsource.ca&lt;p&gt;</itunes:summary>
+      <itunes:subtitle>On this episode of Muscle Minds, Scott McNally an…</itunes:subtitle>
+      <description>On this episode of Muscle Minds, Scott McNally and Dr. Scott Stevenson discuss one of the most common training questions in bodybuilding: pyramiding vs straight sets for muscle growth.&lt;p&gt;
+Dr. Stevenson breaks down the science behind hypertrophy training, including neurological adaptations, fatigue management, exercise selection, and how to properly distribute training volume.&lt;p&gt;
+They also dive into back training biomechanics, progressive overload under fatigue, and practical ways to improve muscle activation and long-term progress in the gym.&lt;p&gt;
+&lt;p&gt; If you want to better understand how to train smarter for hypertrophy, this episode is packed with practical insights you can apply to your own training.&lt;p&gt; &lt;p&gt; Episode Timestamps&lt;p&gt; &lt;p&gt; 00:00 Introduction to effective hypertrophy strategies&lt;p&gt; 02:27 Pyramiding vs straight sets for muscle growth&lt;p&gt; 04:34 Neurological adaptations and building strength&lt;p&gt; 06:33 Heavy loads, nervous system effects, and post-activation potentiation&lt;p&gt; 08:39 Managing fatigue and rest intervals for optimal progress&lt;p&gt; 10:41 Mount Saint Hypertrophy and volume distribution&lt;p&gt; 13:08 Training weak muscles vs strong muscles&lt;p&gt; 14:55 Exercise selection and biomechanics for back training&lt;p&gt; 17:43 Joint health and injury risk with heavy training&lt;p&gt; 19:42 Progressive overload when training under fatigue&lt;p&gt; 22:47 Back training for width vs thickness&lt;p&gt; 25:53 Mobility issues and activation patterns for back development&lt;p&gt; 33:37 Single-arm pulldowns and improving muscle activation&lt;p&gt; 40:56 Pump sets and hypertrophy-focused training&lt;p&gt; 44:22 Lightheadedness and blood flow issues during squats&lt;p&gt; 46:19 Neck and vascular considerations in heavy lifting&lt;p&gt; 54:48 Bracing, core stability, and breathing techniques&lt;p&gt; 60:03 Evolution of bodybuilding standards and physique aesthetics&lt;p&gt; &lt;p&gt; Support THINK BIG Bodybuilding&lt;p&gt; &lt;p&gt; Support the podcast on Patreon and help us keep the episodes coming. Even $5 per month makes a difference.&lt;p&gt; https://www.patreon.com/thinkbigbodybuilding&lt;p&gt; &lt;p&gt; Get Dr. Scott Stevenson's Book&lt;p&gt; https://drscottstevenson.com/byobbcoach.html&lt;p&gt; Hardcover linked through Scott's Instagram&lt;p&gt; https://www.instagram.com/fortitude_training/&lt;p&gt; &lt;p&gt; THINK BIG Bodybuilding Apparel&lt;p&gt; Official THINK BIG T-Shirts and merch&lt;p&gt; https://think-big.printify.me/products&lt;p&gt; &lt;p&gt; Official Sponsor: TRUE NUTRITION&lt;p&gt; Custom supplements trusted by bodybuilders&lt;p&gt; Save with code THINK&lt;p&gt; https://www.truenutrition.com/THINK&lt;p&gt; &lt;p&gt; Canadian listeners — Supplements Made Easy&lt;p&gt; Huge deals on top brand supplements in Canada&lt;p&gt; http://www.supplementsource.ca&lt;p&gt;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2284250585-user-634942648-muscle-minds-184-pyramiding-vs.mp3" length="89170465"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-zygSMyUtmYDyO6z6-PXCjig-t3000x3000.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2153246634</guid>
+      <title>Muscle Minds 176 The Science Behind Nick Walker’s Training</title>
+      <pubDate>Thu, 14 Aug 2025 16:18:20 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-176-the-science-behind-nick-walkers-training</link>
+      <itunes:duration>01:22:31</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Reps In Reserve? Squeeze the muscle? Why Nick Walker's Training May Be Ideal For Him - Muscle Minds 176 Scott Stevenson &amp; Scott McNally &lt;p&gt;
+0:00 Taser clip on Nick Walker’s Training &lt;p&gt;
+1:15 Intro &lt;p&gt;
+2:30 Squeezing the muscle to grow?  &lt;p&gt;
+3:00 Nick Walker Clip - Squeezing to bring out detail &lt;p&gt;
+5:20 No Load Study &lt;p&gt;
+12:00 constant tension study  &lt;p&gt;
+26:30 Difference Between Type 1 &amp; Type 2 Muscle Fibers &lt;p&gt;
+37:10 Revisiting the Squeezing Study, now with more insight &lt;p&gt;
+1:06:20 Nick Walker’s Reps In Reserve &lt;p&gt;
+1:09:00 what it’s taken for Jordan Peters vs Nick Walker &lt;p&gt;
+
+✅ Be Your Own Bodybuilding Coach Hard Cover ( TB affiliate link) &lt;p&gt;
+https://amzn.to/47figyT &lt;p&gt;
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ ✅ Modern Aminos &lt;p&gt;
+New Peptide and Research Chem Affiliate : &lt;p&gt;
+https://tinyurl.com/y4nts94n &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+✅ Parabolic Peptides Great Research Tabs and Peps &lt;p&gt;
+https://tinyurl.com/ycpnbjzd &lt;p&gt;
+✅ ✅Code THINK &lt;p&gt;
+
+✅ ✅SomaChems &lt;p&gt;
+https://somachems.com &lt;p&gt;
+✅ ✅Code THINK &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK &lt;p&gt;
+https://www.truenutrition.com/THINK &lt;p&gt;
+ 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Youtube : https://youtu.be/w9e2_Ty7ldA &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Reps In Reserve? Squeeze the muscle? Why Nick Wal…</itunes:subtitle>
+      <description>Reps In Reserve? Squeeze the muscle? Why Nick Walker's Training May Be Ideal For Him - Muscle Minds 176 Scott Stevenson &amp; Scott McNally &lt;p&gt;
+0:00 Taser clip on Nick Walker’s Training &lt;p&gt;
+1:15 Intro &lt;p&gt;
+2:30 Squeezing the muscle to grow?  &lt;p&gt;
+3:00 Nick Walker Clip - Squeezing to bring out detail &lt;p&gt;
+5:20 No Load Study &lt;p&gt;
+12:00 constant tension study  &lt;p&gt;
+26:30 Difference Between Type 1 &amp; Type 2 Muscle Fibers &lt;p&gt;
+37:10 Revisiting the Squeezing Study, now with more insight &lt;p&gt;
+1:06:20 Nick Walker’s Reps In Reserve &lt;p&gt;
+1:09:00 what it’s taken for Jordan Peters vs Nick Walker &lt;p&gt;
+
+✅ Be Your Own Bodybuilding Coach Hard Cover ( TB affiliate link) &lt;p&gt;
+https://amzn.to/47figyT &lt;p&gt;
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ ✅ Modern Aminos &lt;p&gt;
+New Peptide and Research Chem Affiliate : &lt;p&gt;
+https://tinyurl.com/y4nts94n &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+✅ Parabolic Peptides Great Research Tabs and Peps &lt;p&gt;
+https://tinyurl.com/ycpnbjzd &lt;p&gt;
+✅ ✅Code THINK &lt;p&gt;
+
+✅ ✅SomaChems &lt;p&gt;
+https://somachems.com &lt;p&gt;
+✅ ✅Code THINK &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK &lt;p&gt;
+https://www.truenutrition.com/THINK &lt;p&gt;
+ 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Youtube : https://youtu.be/w9e2_Ty7ldA &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2153246634-user-634942648-muscle-minds-176-the-science-behind-nick-walkers-training.mp3" length="118844104"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Agwy2U8XBl9bXKUb-KaT6Jg-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2130233595</guid>
       <title>Muscle Minds 175 Muscle Growth : The Law of Diminishing Returns</title>
-      <description>Muscle Minds 175 Muscle Growth : The Law of Diminishing Returns</description>
-      <pubDate>Tue, 15 Jul 2025 13:08:51 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2130233595-user-634942648-muscle-minds-175-muscle-growth-the-law-of-diminishing-returns.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-175-muscle-growth-the-law-of-diminishing-returns</guid>
+      <pubDate>Tue, 15 Jul 2025 13:08:51 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-175-muscle-growth-the-law-of-diminishing-returns</link>
+      <itunes:duration>01:17:19</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Podcast Scott Stevenson &amp; Scott McNally &lt;p&gt;
+00:00 Introduction and Overview of the Podcast &lt;p&gt;
+01:20 Understanding the Law of Diminishing Returns &lt;p&gt;
+01:56 Muscle Growth Dynamics and Genetic Limits &lt;p&gt;
+04:19 Training Experience and Muscle Gains &lt;p&gt;
+06:10 The Role of Training Techniques &lt;p&gt;
+09:08 Intermittent Training and Muscle Thickness &lt;p&gt;
+11:59 Analyzing Fiber Type Changes &lt;p&gt;
+16:42 Meta-Analysis Insights on Muscle Growth &lt;p&gt;
+21:32 Advanced Trainees and Training Bias &lt;p&gt;
+24:42 The Impact of Training Environment &lt;p&gt;
+29:40 Self-Selected Training Loads and Performance &lt;p&gt;
+38:39 Understanding Reps in Reserve and Training to Failure &lt;p&gt;
+42:00 The Importance of Logbooks in Training &lt;p&gt;
+47:07 Meta-Analysis Insights on Training Proximity to Failure &lt;p&gt;
+53:41 The Role of Training Intensity and Progressive Overload &lt;p&gt;
+01:08:14 Genetics, Training, and the Pursuit of Gains &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA) &lt;p&gt;
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ ✅ Modern Aminos &lt;p&gt;
+New Peptide and Research Chem Affiliate : &lt;p&gt;
+https://tinyurl.com/y4nts94n &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+✅ Parabolic Peptides Great Research Tabs and Peps &lt;p&gt;
+https://tinyurl.com/ycpnbjzd &lt;p&gt;
+✅ ✅Code THINK &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK &lt;p&gt;
+https://www.truenutrition.com/THINK &lt;p&gt;
+ 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements! &lt;p&gt;
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Youtube : https://youtu.be/CyfM41GhGOQ &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Muscle Minds Podcast Scott Stevenson &amp; Scott McNa…</itunes:subtitle>
+      <description>Muscle Minds Podcast Scott Stevenson &amp; Scott McNally &lt;p&gt;
+00:00 Introduction and Overview of the Podcast &lt;p&gt;
+01:20 Understanding the Law of Diminishing Returns &lt;p&gt;
+01:56 Muscle Growth Dynamics and Genetic Limits &lt;p&gt;
+04:19 Training Experience and Muscle Gains &lt;p&gt;
+06:10 The Role of Training Techniques &lt;p&gt;
+09:08 Intermittent Training and Muscle Thickness &lt;p&gt;
+11:59 Analyzing Fiber Type Changes &lt;p&gt;
+16:42 Meta-Analysis Insights on Muscle Growth &lt;p&gt;
+21:32 Advanced Trainees and Training Bias &lt;p&gt;
+24:42 The Impact of Training Environment &lt;p&gt;
+29:40 Self-Selected Training Loads and Performance &lt;p&gt;
+38:39 Understanding Reps in Reserve and Training to Failure &lt;p&gt;
+42:00 The Importance of Logbooks in Training &lt;p&gt;
+47:07 Meta-Analysis Insights on Training Proximity to Failure &lt;p&gt;
+53:41 The Role of Training Intensity and Progressive Overload &lt;p&gt;
+01:08:14 Genetics, Training, and the Pursuit of Gains &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA) &lt;p&gt;
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ ✅ Modern Aminos &lt;p&gt;
+New Peptide and Research Chem Affiliate : &lt;p&gt;
+https://tinyurl.com/y4nts94n &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+✅ Parabolic Peptides Great Research Tabs and Peps &lt;p&gt;
+https://tinyurl.com/ycpnbjzd &lt;p&gt;
+✅ ✅Code THINK &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK &lt;p&gt;
+https://www.truenutrition.com/THINK &lt;p&gt;
+ 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements! &lt;p&gt;
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Youtube : https://youtu.be/CyfM41GhGOQ &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2130233595-user-634942648-muscle-minds-175-muscle-growth-the-law-of-diminishing-returns.mp3" length="74237412"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-VBJrz5Uph1h0akIZ-QWsDnw-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2121250704</guid>
       <title>Muscle Minds 174 Steroid Half-Life Myths that Bodybuilders Believe (Fixed Upload)</title>
-      <description>Muscle Minds 174 Steroid Half-Life Myths that Bodybuilders Believe (Fixed Upload)</description>
-      <pubDate>Sat, 28 Jun 2025 20:42:36 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2121250704-user-634942648-muscle-minds-174-steroid-half-life-myths-that-bodybuilders-believe-fixed-upload.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-174-steroid-half-life-myths-that-bodybuilders-believe-fixed-upload</guid>
+      <pubDate>Sat, 28 Jun 2025 20:42:36 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-174-steroid-half-life-myths-that-bodybuilders-believe-fixed-upload</link>
+      <itunes:duration>01:12:09</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Podcast 174 Scott Stevenson &amp; Scott McNally &lt;p&gt;
+00:00 Introduction and Overview of Anabolic Steroids &lt;p&gt;
+01:24 Understanding Half-Lives and Pharmacokinetics &lt;p&gt;
+03:33 The Impact of Injection Sites and Concentration &lt;p&gt;
+09:30 Carrier Oils and Their Effects on Absorption &lt;p&gt;
+15:12 Genetic Factors Influencing Testosterone Levels &lt;p&gt;
+19:57 Metabolic Adaptation to Chronic Use of Anabolics &lt;p&gt;
+29:23 Long-Term Effects of Testosterone Use &lt;p&gt;
+35:37 Closing Thoughts on Steroid Metabolism &lt;p&gt;
+38:39 Exploring Pharmacogenetics and Dynamics &lt;p&gt;
+42:00 The Role of Glucuronidation in Hormone Clearance &lt;p&gt;
+45:16 Understanding Testosterone Metabolism &lt;p&gt;
+48:10 Joint Health and the Use of Deca &lt;p&gt;
+50:47 The Impact of Collagen on Recovery &lt;p&gt;
+01:00:32 Revisiting Collagen and Immune Response &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA) &lt;p&gt;
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ ✅New Peptide and Research Chem Affiliate : &lt;p&gt;
+https://modernaminos.com/?ref=thinkbig &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+✅ Parabolic Peptides Great Research Tabs and Peps &lt;p&gt;
+https://parabolicpeptides.com &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK &lt;p&gt;
+https://www.truenutrition.com/THINK &lt;p&gt;
+ 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements! &lt;p&gt;
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  YouTube : https://youtu.be/eqcUTP-Oy2A &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Muscle Minds Podcast 174 Scott Stevenson &amp; Scott …</itunes:subtitle>
+      <description>Muscle Minds Podcast 174 Scott Stevenson &amp; Scott McNally &lt;p&gt;
+00:00 Introduction and Overview of Anabolic Steroids &lt;p&gt;
+01:24 Understanding Half-Lives and Pharmacokinetics &lt;p&gt;
+03:33 The Impact of Injection Sites and Concentration &lt;p&gt;
+09:30 Carrier Oils and Their Effects on Absorption &lt;p&gt;
+15:12 Genetic Factors Influencing Testosterone Levels &lt;p&gt;
+19:57 Metabolic Adaptation to Chronic Use of Anabolics &lt;p&gt;
+29:23 Long-Term Effects of Testosterone Use &lt;p&gt;
+35:37 Closing Thoughts on Steroid Metabolism &lt;p&gt;
+38:39 Exploring Pharmacogenetics and Dynamics &lt;p&gt;
+42:00 The Role of Glucuronidation in Hormone Clearance &lt;p&gt;
+45:16 Understanding Testosterone Metabolism &lt;p&gt;
+48:10 Joint Health and the Use of Deca &lt;p&gt;
+50:47 The Impact of Collagen on Recovery &lt;p&gt;
+01:00:32 Revisiting Collagen and Immune Response &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA) &lt;p&gt;
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ ✅New Peptide and Research Chem Affiliate : &lt;p&gt;
+https://modernaminos.com/?ref=thinkbig &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+✅ Parabolic Peptides Great Research Tabs and Peps &lt;p&gt;
+https://parabolicpeptides.com &lt;p&gt;
+✅ ✅Code THINKBIG &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK &lt;p&gt;
+https://www.truenutrition.com/THINK &lt;p&gt;
+ 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements! &lt;p&gt;
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  YouTube : https://youtu.be/eqcUTP-Oy2A &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2121250704-user-634942648-muscle-minds-174-steroid-half-life-myths-that-bodybuilders-believe-fixed-upload.mp3" length="69268295"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-hTdr7eM1yRxtbyfs-LICARA-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2086004493</guid>
       <title>Muscle Minds 172 MK677 Study Results You Need to Know</title>
-      <description>Muscle Minds 172 MK677 Study Results You Need to Know</description>
-      <pubDate>Sun, 27 Apr 2025 13:27:02 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2086004493-user-634942648-muscle-minds-172-mk677-study-results-you-need-to-know.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-172-mk677-study-results-you-need-to-know</guid>
+      <pubDate>Sun, 27 Apr 2025 13:27:02 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-172-mk677-study-results-you-need-to-know</link>
+      <itunes:duration>01:04:46</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Breaking Down Studies on MK677. Who Can Benefit And Is It Worth It? Muscle Minds Podcast 172  &lt;p&gt;
+0:00 Teaser &lt;p&gt;
+1:00 Intro - Intro &lt;p&gt;
+3:40 Why does Mk677 come and go in popularity &lt;p&gt;
+5:30 MK677 half-life &lt;p&gt;
+9:45 tachyphylaxis - Diminishing Response of MK677 &lt;p&gt;
+17:45 MK677 in Older Subjects &lt;p&gt;
+21:10 Mk677 in Obese Subjects &lt;p&gt;
+23:40 MK677 in Dieted Subjects &lt;p&gt;
+28:50 MK677 - Low vs High dose in Non-GH Deficient Subjects &lt;p&gt;
+30:45 Increased GH Pulses but not Higher GH  &lt;p&gt;
+43:50 MK677 Takeaways  &lt;p&gt;
+46:00 Supplement Trends - why popularity comes and goes &lt;p&gt;
+50:00 Discovering If You’re A Good Responder to MK677 &lt;p&gt;
+55:20 Scott’s Experience with MK677 &lt;p&gt;
+57:40 Reach out to Scott Stevenson for a consultation &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com  &lt;p&gt; 
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements! &lt;p&gt;
+http://www.supplementsource.ca 
+
+🔴  Share this video with a friend : https://youtu.be/Vv352QSI-gM &lt;p&gt;
+
+</itunes:summary>
+      <itunes:subtitle>Breaking Down Studies on MK677. Who Can Benefit A…</itunes:subtitle>
+      <description>Breaking Down Studies on MK677. Who Can Benefit And Is It Worth It? Muscle Minds Podcast 172  &lt;p&gt;
+0:00 Teaser &lt;p&gt;
+1:00 Intro - Intro &lt;p&gt;
+3:40 Why does Mk677 come and go in popularity &lt;p&gt;
+5:30 MK677 half-life &lt;p&gt;
+9:45 tachyphylaxis - Diminishing Response of MK677 &lt;p&gt;
+17:45 MK677 in Older Subjects &lt;p&gt;
+21:10 Mk677 in Obese Subjects &lt;p&gt;
+23:40 MK677 in Dieted Subjects &lt;p&gt;
+28:50 MK677 - Low vs High dose in Non-GH Deficient Subjects &lt;p&gt;
+30:45 Increased GH Pulses but not Higher GH  &lt;p&gt;
+43:50 MK677 Takeaways  &lt;p&gt;
+46:00 Supplement Trends - why popularity comes and goes &lt;p&gt;
+50:00 Discovering If You’re A Good Responder to MK677 &lt;p&gt;
+55:20 Scott’s Experience with MK677 &lt;p&gt;
+57:40 Reach out to Scott Stevenson for a consultation &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com  &lt;p&gt; 
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements! &lt;p&gt;
+http://www.supplementsource.ca 
+
+🔴  Share this video with a friend : https://youtu.be/Vv352QSI-gM &lt;p&gt;
+
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2086004493-user-634942648-muscle-minds-172-mk677-study-results-you-need-to-know.mp3" length="62182632"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-OmboNwDwZzl5LN71-l9OqVQ-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2075381396</guid>
       <title>Muscle Minds 171 Is Organic Food Worth It In Bodybuilding?</title>
-      <description>Muscle Minds 171 Is Organic Food Worth It In Bodybuilding?</description>
-      <pubDate>Thu, 10 Apr 2025 12:47:19 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2075381396-user-634942648-muscle-minds-171-is-organic-food-worth-it-in-bodybuilding.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-171-is-organic-food-worth-it-in-bodybuilding</guid>
+      <pubDate>Thu, 10 Apr 2025 12:47:19 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-171-is-organic-food-worth-it-in-bodybuilding</link>
+      <itunes:duration>00:57:30</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Bodybuilding Podcast 171 Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+00:00 Welcome Back to Muscle Minds &lt;p&gt;
+02:45 Understanding Organic Labels &lt;p&gt;
+08:40 Grass-Fed vs Grain-Fed Beef &lt;p&gt;
+20:32 Nutritional Insights on Meat Consumption &lt;p&gt;
+24:02 Understanding Pesticides and Their Impact on Bodybuilding &lt;p&gt;
+24:38 The Role of Organic Foods in Bodybuilding &lt;p&gt;
+26:07 Chemical Sensitivities and Their Effects on Bodybuilders &lt;p&gt;
+29:26 Dieting and Food Quality: The Bodybuilder's Perspective &lt;p&gt;
+31:16 Ethical Considerations in Food Choices &lt;p&gt;
+33:59 The Nutritional Value of Organic vs. Non-Organic Foods &lt;p&gt;
+37:05 Toxic Load and Enhanced Bodybuilding &lt;p&gt;
+40:28 The Importance of Clean Eating for Bodybuilders &lt;p&gt;
+44:20 Personal Experiences with Diet and Health &lt;p&gt;
+52:10 The Broader Implications of Bodybuilding and Lifestyle Choices &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching : 
+Dr Scott = http://www.byobbcoach.com 
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust  &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/  &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com  &lt;p&gt;
+
+🔴  Video Version : https://youtu.be/Rq8E3UkvOzo &lt;p&gt;</itunes:summary>
+      <itunes:subtitle>Muscle Minds Bodybuilding Podcast 171 Scott Steve…</itunes:subtitle>
+      <description>Muscle Minds Bodybuilding Podcast 171 Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+00:00 Welcome Back to Muscle Minds &lt;p&gt;
+02:45 Understanding Organic Labels &lt;p&gt;
+08:40 Grass-Fed vs Grain-Fed Beef &lt;p&gt;
+20:32 Nutritional Insights on Meat Consumption &lt;p&gt;
+24:02 Understanding Pesticides and Their Impact on Bodybuilding &lt;p&gt;
+24:38 The Role of Organic Foods in Bodybuilding &lt;p&gt;
+26:07 Chemical Sensitivities and Their Effects on Bodybuilders &lt;p&gt;
+29:26 Dieting and Food Quality: The Bodybuilder's Perspective &lt;p&gt;
+31:16 Ethical Considerations in Food Choices &lt;p&gt;
+33:59 The Nutritional Value of Organic vs. Non-Organic Foods &lt;p&gt;
+37:05 Toxic Load and Enhanced Bodybuilding &lt;p&gt;
+40:28 The Importance of Clean Eating for Bodybuilders &lt;p&gt;
+44:20 Personal Experiences with Diet and Health &lt;p&gt;
+52:10 The Broader Implications of Bodybuilding and Lifestyle Choices &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching : 
+Dr Scott = http://www.byobbcoach.com 
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust  &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/  &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com  &lt;p&gt;
+
+🔴  Video Version : https://youtu.be/Rq8E3UkvOzo &lt;p&gt;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2075381396-user-634942648-muscle-minds-171-is-organic-food-worth-it-in-bodybuilding.mp3" length="55215671"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-nOG6PO77IWdGk863-oUkF3w-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2062886388</guid>
       <title>Muscle Minds 170 Extreme Stretches, Lengthened Position Training &amp; Sarcomerogenesis</title>
-      <description>Muscle Minds 170 Extreme Stretches, Lengthened Position Training &amp; Sarcomerogenesis</description>
-      <pubDate>Tue, 25 Mar 2025 13:21:31 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2062886388-user-634942648-muscle-minds-170-extreme-stretches-lengthened-position-training-sarcomerogenesis.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-170-extreme-stretches-lengthened-position-training-sarcomerogenesis</guid>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-170-extreme-stretches-lengthened-position-training-sarcomerogenesis</link>
+      <itunes:duration>00:49:45</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Podcast with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+00:00 Introduction to Muscle Minds and Training Philosophy &lt;p&gt;
+01:00 Understanding Stretching in Fortitude Training &lt;p&gt;
+03:17 The Role of Occlusion and Extreme Stretching &lt;p&gt;
+10:39 Exploring Sarcomerogenesis and Muscle Growth &lt;p&gt;
+17:14 Practical Applications of Lengthened Position Training &lt;p&gt;
+25:48 Understanding Blood Flow and Muscle Activation &lt;p&gt;
+33:20 Incorporating Occlusion Training in Workouts &lt;p&gt;
+35:41 Adjusting Training Cycles: On and Off Cycle Strategies &lt;p&gt;
+46:04 Maintaining Strength During Diet Phases &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/  &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com  &lt;p&gt;
+
+🔴  Video : https://youtu.be/eT0zaXXIJic &lt;p&gt;</itunes:summary>
+      <itunes:subtitle>Muscle Minds Podcast with Dr Scott Stevenson &amp; Sc…</itunes:subtitle>
+      <description>Muscle Minds Podcast with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+00:00 Introduction to Muscle Minds and Training Philosophy &lt;p&gt;
+01:00 Understanding Stretching in Fortitude Training &lt;p&gt;
+03:17 The Role of Occlusion and Extreme Stretching &lt;p&gt;
+10:39 Exploring Sarcomerogenesis and Muscle Growth &lt;p&gt;
+17:14 Practical Applications of Lengthened Position Training &lt;p&gt;
+25:48 Understanding Blood Flow and Muscle Activation &lt;p&gt;
+33:20 Incorporating Occlusion Training in Workouts &lt;p&gt;
+35:41 Adjusting Training Cycles: On and Off Cycle Strategies &lt;p&gt;
+46:04 Maintaining Strength During Diet Phases &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/  &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com  &lt;p&gt;
+
+🔴  Video : https://youtu.be/eT0zaXXIJic &lt;p&gt;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2062886388-user-634942648-muscle-minds-170-extreme-stretches-lengthened-position-training-sarcomerogenesis.mp3" length="47773489"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-7zJWt34zhPbv2w67-jkBXyQ-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2035745012</guid>
       <title>Muscle Minds 169 Mitochondrial Biogenesis, Is SHBG Bad? How Esters Break Down</title>
-      <description>Muscle Minds 169 Mitochondrial Biogenesis, Is SHBG Bad? How Esters Break Down</description>
-      <pubDate>Sun, 16 Feb 2025 13:15:40 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2035745012-user-634942648-muscle-minds-169-mitochondrial-biogenesis-is-shbg-bad-how-esters-break-down.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-169-mitochondrial-biogenesis-is-shbg-bad-how-esters-break-down</guid>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-169-mitochondrial-biogenesis-is-shbg-bad-how-esters-break-down</link>
+      <itunes:duration>01:27:55</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Podcast Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+0:00 SLU-PP-332 &lt;p&gt;
+
+6:00 Understanding Mitochondrial Biogenesis  &lt;p&gt;
+
+15:00 Intro &lt;p&gt;
+
+17:00 How do esters break down  &lt;p&gt;
+
+24:00 Researching PEDs &lt;p&gt;
+
+29:00 The Best Role Models  &lt;p&gt;
+
+36:00 Hitting Depth on Hacks without pain &lt;p&gt;
+
+41:00 Is SHBG a bad thing? Role of SHBG &lt;p&gt;
+
+45:00 Caber - Is it dangerous &lt;p&gt;
+
+53:40 Glycogen holding water  &lt;p&gt;
+
+1:02:35 Growing Rear Delts  &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com &lt;p&gt;
+
+🔴  Video : https://youtu.be/uny8rQIGLW0 &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Muscle Minds Podcast Dr Scott Stevenson &amp; Scott M…</itunes:subtitle>
+      <description>Muscle Minds Podcast Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+0:00 SLU-PP-332 &lt;p&gt;
+
+6:00 Understanding Mitochondrial Biogenesis  &lt;p&gt;
+
+15:00 Intro &lt;p&gt;
+
+17:00 How do esters break down  &lt;p&gt;
+
+24:00 Researching PEDs &lt;p&gt;
+
+29:00 The Best Role Models  &lt;p&gt;
+
+36:00 Hitting Depth on Hacks without pain &lt;p&gt;
+
+41:00 Is SHBG a bad thing? Role of SHBG &lt;p&gt;
+
+45:00 Caber - Is it dangerous &lt;p&gt;
+
+53:40 Glycogen holding water  &lt;p&gt;
+
+1:02:35 Growing Rear Delts  &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching :  &lt;p&gt;
+Dr Scott = http://www.byobbcoach.com  &lt;p&gt;
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+🙏 Support us on Patreon. Every $5 helps! &lt;p&gt;
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Parabolic Peptides Code THINK for 10% off SLU, Research Chems, Peptides &amp; more 
+https://parabolicpeptides.com &lt;p&gt;
+
+🔴  Video : https://youtu.be/uny8rQIGLW0 &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2035745012-user-634942648-muscle-minds-169-mitochondrial-biogenesis-is-shbg-bad-how-esters-break-down.mp3" length="84414300"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xNWye5r0q50qRyBL-aYLtFg-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2021735521</guid>
       <title>Muscle Minds 168 Solidifying The Gains Post Blast + Correct Imbalances</title>
-      <description>Muscle Minds 168 Solidifying The Gains Post Blast + Correct Imbalances</description>
-      <pubDate>Thu, 30 Jan 2025 13:45:31 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2021735521-user-634942648-muscle-minds-168.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-168</guid>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-168</link>
+      <itunes:duration>01:25:27</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Correcting Muscle Imbalance, Understanding Fiber Types &amp;  Solidifying The Gains Post Cycle TIME STAMPS BELOW -  Dr Scott Stevenson &amp; Scott McNally - Muscle Minds 168 &lt;p&gt;
+
+0:00 Teaser &lt;p&gt;
+
+0:40 Intro and advertisers  &lt;p&gt;
+
+2:30 Muscle Fiber Types and muscle imbalances  &lt;p&gt;
+
+14:45 We are our own worst critics &lt;p&gt;
+
+16:45 Fixing imbalances in training &lt;p&gt;
+
+23:30 Lower cals on cruise or keep them high to maintain muscle? &lt;p&gt;
+
+35:55 Issues in bed on TRT  &lt;p&gt;
+
+47:15 Training Talk : Drop Set Issues  &lt;p&gt;
+
+59:40 Solidifying the gains after gaining 100 lbs &lt;p&gt;
+
+1:09:45 Getting comfortable at heavier weight &lt;p&gt;
+
+1:12:20 Steroids and satellite cell activity  &lt;p&gt;
+
+1:16:45 Max heart rate during cardio and or training &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching : 
+Dr Scott = http://www.byobbcoach.com 
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Share this video with a friend : https://youtu.be/SyNlSpkhE0k &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Correcting Muscle Imbalance, Understanding Fiber …</itunes:subtitle>
+      <description>Correcting Muscle Imbalance, Understanding Fiber Types &amp;  Solidifying The Gains Post Cycle TIME STAMPS BELOW -  Dr Scott Stevenson &amp; Scott McNally - Muscle Minds 168 &lt;p&gt;
+
+0:00 Teaser &lt;p&gt;
+
+0:40 Intro and advertisers  &lt;p&gt;
+
+2:30 Muscle Fiber Types and muscle imbalances  &lt;p&gt;
+
+14:45 We are our own worst critics &lt;p&gt;
+
+16:45 Fixing imbalances in training &lt;p&gt;
+
+23:30 Lower cals on cruise or keep them high to maintain muscle? &lt;p&gt;
+
+35:55 Issues in bed on TRT  &lt;p&gt;
+
+47:15 Training Talk : Drop Set Issues  &lt;p&gt;
+
+59:40 Solidifying the gains after gaining 100 lbs &lt;p&gt;
+
+1:09:45 Getting comfortable at heavier weight &lt;p&gt;
+
+1:12:20 Steroids and satellite cell activity  &lt;p&gt;
+
+1:16:45 Max heart rate during cardio and or training &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching : 
+Dr Scott = http://www.byobbcoach.com 
+Scott = mcnallydiets@gmail.com   &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Share this video with a friend : https://youtu.be/SyNlSpkhE0k &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2021735521-user-634942648-muscle-minds-168.mp3" length="82036530"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xNWye5r0q50qRyBL-aYLtFg-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2006723723</guid>
       <title>Muscle Minds 167: 25 Ways to Better Your Bodybuilding in 2025</title>
-      <description>Muscle Minds 167: 25 Ways to Better Your Bodybuilding in 2025</description>
-      <pubDate>Sat, 11 Jan 2025 14:19:05 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/2006723723-user-634942648-muscle-minds-167-25-ways-to-better-your-bodybuilding-in-2025.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-167-25-ways-to-better-your-bodybuilding-in-2025</guid>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-167-25-ways-to-better-your-bodybuilding-in-2025</link>
+      <itunes:duration>00:52:32</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle MInds Podcast 166 - A-Z ways to improve your 2025 with Dr Scott Stevenson &amp; Scott McNally  &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching : 
+Scott S = http://www.byobbcoach.com 
+Scott M = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/   &lt;p&gt;
+
+✅ Great Pricing on Highly Branched Cyclic Dextrin - CODE : THINK for savings 
+https://truenutrition.com/products/highly-branched-cyclic-dextrin &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Share this video with a friend : https://youtu.be/Pau5yBJl2WA &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Muscle MInds Podcast 166 - A-Z ways to improve yo…</itunes:subtitle>
+      <description>Muscle MInds Podcast 166 - A-Z ways to improve your 2025 with Dr Scott Stevenson &amp; Scott McNally  &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott for consults or coaching : 
+Scott S = http://www.byobbcoach.com 
+Scott M = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/   &lt;p&gt;
+
+✅ Great Pricing on Highly Branched Cyclic Dextrin - CODE : THINK for savings 
+https://truenutrition.com/products/highly-branched-cyclic-dextrin &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG T Shirts! https://think-big.printify.me/products &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🔴  Share this video with a friend : https://youtu.be/Pau5yBJl2WA &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2006723723-user-634942648-muscle-minds-167-25-ways-to-better-your-bodybuilding-in-2025.mp3" length="1876946746"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xNWye5r0q50qRyBL-aYLtFg-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1998012119</guid>
       <title>Muscle Minds 166 Nutrient Timing - Does It Really Matter?</title>
-      <description>Muscle Minds 166 Nutrient Timing - Does It Really Matter?</description>
-      <pubDate>Tue, 31 Dec 2024 19:38:15 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1998012119-user-634942648-muscle-minds-166-nutrient-timing-does-it-really-matter.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-166-nutrient-timing-does-it-really-matter</guid>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-166-nutrient-timing-does-it-really-matter</link>
+      <itunes:duration>01:07:28</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle MInds Podcast 166 - Bodybuilding Science with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+0:00 Nutrient Timing for Maximizing Caloric Intake &lt;p&gt;
+1:23 Sponsors and Guest Announcements &lt;p&gt;
+3:15 Selling Autographed Books on eBay &lt;p&gt;
+4:22 The Importance of Nutrient Timing Around Workouts &lt;p&gt;
+8:20 Pros and Cons of Nutrient Timing &lt;p&gt;
+13:14 Maintaining Strength and Muscle Mass During Dieting &lt;p&gt;
+17:07 Cortisol and Carbohydrate Intake Before and During Workouts &lt;p&gt;
+22:56 Maintaining Optimal Glycogen Levels During Dieting &lt;p&gt;
+29:19 Metabolic Flexibility and Carb Cycling &lt;p&gt;
+37:31 Practical Carb Cycling Strategies &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott :  &lt;p&gt;
+Scott S = http://www.byobbcoach.com  &lt;p&gt;
+Scott M = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ Great Pricing on Highly Branched Cyclic Dextrin - CODE : THINK for savings 
+https://truenutrition.com/products/highly-branched-cyclic-dextrin &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🙏 Consider contributing to the show through Patreon. Every $5 helps to pay for software and hardware to keep making the shows better!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+🔴  Video : https://youtu.be/Ki2iGWQ9Vl8  &lt;p&gt;
+</itunes:summary>
+      <itunes:subtitle>Muscle MInds Podcast 166 - Bodybuilding Science w…</itunes:subtitle>
+      <description>Muscle MInds Podcast 166 - Bodybuilding Science with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+0:00 Nutrient Timing for Maximizing Caloric Intake &lt;p&gt;
+1:23 Sponsors and Guest Announcements &lt;p&gt;
+3:15 Selling Autographed Books on eBay &lt;p&gt;
+4:22 The Importance of Nutrient Timing Around Workouts &lt;p&gt;
+8:20 Pros and Cons of Nutrient Timing &lt;p&gt;
+13:14 Maintaining Strength and Muscle Mass During Dieting &lt;p&gt;
+17:07 Cortisol and Carbohydrate Intake Before and During Workouts &lt;p&gt;
+22:56 Maintaining Optimal Glycogen Levels During Dieting &lt;p&gt;
+29:19 Metabolic Flexibility and Carb Cycling &lt;p&gt;
+37:31 Practical Carb Cycling Strategies &lt;p&gt;
+
+✅ Signed Copy of Be Your Own Bodybuilding Coach (15% goes to ASPCA)
+https://www.ebay.com/itm/205121965946 &lt;p&gt;
+
+🔴 Reach out to Scott or Scott :  &lt;p&gt;
+Scott S = http://www.byobbcoach.com  &lt;p&gt;
+Scott M = mcnallydiets@gmail.com   &lt;p&gt;
+
+✅ Great Pricing on Highly Branched Cyclic Dextrin - CODE : THINK for savings 
+https://truenutrition.com/products/highly-branched-cyclic-dextrin &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca  &lt;p&gt;
+
+🙏 Consider contributing to the show through Patreon. Every $5 helps to pay for software and hardware to keep making the shows better!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+🔴  Video : https://youtu.be/Ki2iGWQ9Vl8  &lt;p&gt;
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1998012119-user-634942648-muscle-minds-166-nutrient-timing-does-it-really-matter.mp3" length="64774397"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-xNWye5r0q50qRyBL-aYLtFg-t3000x3000.png"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1929892793</guid>
       <title>Muscle Minds 165 Science Behind High Intensity Training &amp; Insulin's Role in Metabolism</title>
-      <description>Muscle Minds 165 Science Behind High Intensity Training &amp; Insulin's Role in Metabolism</description>
-      <pubDate>Sun, 06 Oct 2024 16:39:49 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1929892793-user-634942648-muscle-minds-165.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-165</guid>
+      <pubDate>Sun, 06 Oct 2024 16:39:49 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-165</link>
+      <itunes:duration>01:09:55</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds with Dr Scott Stevenson &amp; Scott McNally
+
+00:00 Introduction to Muscle Minds 
+01:57 Understanding DC Training and Its Relevance
+10:02 The Importance of Auto-Regulation in Training
+17:07 The Science Behind DC Training's Effectiveness
+28:21 Insulin's Role in Fat Storage and Metabolism
+52:38 DC Training for Older Athletes
+01:02:04 Hydration and Its Impact on Muscle Activation
+
+Get Dr Scott's book here !
+https://shop.ingramspark.com/b/084?xLAiPA1acXkrDaE1plwyCWgrBS8Z0txzFKOTXxNbw6z
+
+And check out more from him at his IG, where you can also find links to the E book of BYOBB Coach and Fortitude Training : https://www.instagram.com/fortitude_training/
+
+Follow Scott McNally here : 
+https://www.instagram.com/scottmcnally1/
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps 
+🔈 Spotify : https://open.spotify.com/show/0RZgpBPeXPcRLmhG5rDr2X
+🔈 Apple :https://podcasts.apple.com/us/podcast/think-big-bodybuilding/id1561623662
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust !
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca 
+
+🙏 Consider contributing to the show through Patreon. Every $5 helps to pay for software and hardware to keep making the shows better!
+https://www.patreon.com/thinkbigbodybuilding
+
+🔴  Video : https://youtu.be/y0-4X2ZHa8w</itunes:summary>
+      <itunes:subtitle>Muscle Minds with Dr Scott Stevenson &amp; Scott McNa…</itunes:subtitle>
+      <description>Muscle Minds with Dr Scott Stevenson &amp; Scott McNally
+
+00:00 Introduction to Muscle Minds 
+01:57 Understanding DC Training and Its Relevance
+10:02 The Importance of Auto-Regulation in Training
+17:07 The Science Behind DC Training's Effectiveness
+28:21 Insulin's Role in Fat Storage and Metabolism
+52:38 DC Training for Older Athletes
+01:02:04 Hydration and Its Impact on Muscle Activation
+
+Get Dr Scott's book here !
+https://shop.ingramspark.com/b/084?xLAiPA1acXkrDaE1plwyCWgrBS8Z0txzFKOTXxNbw6z
+
+And check out more from him at his IG, where you can also find links to the E book of BYOBB Coach and Fortitude Training : https://www.instagram.com/fortitude_training/
+
+Follow Scott McNally here : 
+https://www.instagram.com/scottmcnally1/
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps 
+🔈 Spotify : https://open.spotify.com/show/0RZgpBPeXPcRLmhG5rDr2X
+🔈 Apple :https://podcasts.apple.com/us/podcast/think-big-bodybuilding/id1561623662
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust !
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca 
+
+🙏 Consider contributing to the show through Patreon. Every $5 helps to pay for software and hardware to keep making the shows better!
+https://www.patreon.com/thinkbigbodybuilding
+
+🔴  Video : https://youtu.be/y0-4X2ZHa8w</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1929892793-user-634942648-muscle-minds-165.mp3" length="67128344"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3eZbabyx3zjhrDFz-TlwTXw-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1899158250</guid>
       <title>Muscle Minds 164 Thyroid Hormone Deep Dive T3, T4, T2, Reverse T3</title>
-      <description>Muscle Minds 164 Thyroid Hormone Deep Dive T3, T4, T2, Reverse T3</description>
-      <pubDate>Sat, 17 Aug 2024 18:20:38 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1899158250-user-634942648-muscle-minds-164-thyroid-hormone-deep-dive-t3-t4-t2-reverse-t3.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-164-thyroid-hormone-deep-dive-t3-t4-t2-reverse-t3</guid>
+      <pubDate>Sat, 17 Aug 2024 18:20:38 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-164-thyroid-hormone-deep-dive-t3-t4-t2-reverse-t3</link>
+      <itunes:duration>01:21:59</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Bodybuilding Podcast with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+Chapters: &lt;p&gt;
+00:00:00 - Thyroid Hormone Regulation and Metabolism &lt;p&gt;
+00:03:21 - Thyroid Hormone Conversion &lt;p&gt;
+00:07:24 - The Formation of Reverse T3 and T2 in Thyroid Hormone Metabolism &lt;p&gt;
+00:11:20 - Thyroid Replacement and T4 to T3 Conversion in the Body &lt;p&gt;
+00:15:21 - The impact of caloric deficit on T3 levels &lt;p&gt;
+00:18:56 - The Effect of Yohimbine on Insulin Levels &lt;p&gt;
+00:22:46 - The Role of Glycogen and Insulin in Fasted Cardio &lt;p&gt;
+00:26:18 - The Effects of Insulin Levels &lt;p&gt;
+00:29:36 - Training Variation and Deadlifts &lt;p&gt;
+00:33:04 - Learning Effects and Auto Regulation in Training &lt;p&gt;
+00:36:27 - Live Q&amp;A and Personal Updates &lt;p&gt;
+00:40:38 - Coming off a Growth Cycle and Going into a Deficit &lt;p&gt;
+00:44:20 - The History of Steroids in Bodybuilding &lt;p&gt;
+00:47:39 - The Importance of Satellite Cells and Muscle Overlap &lt;p&gt;
+00:51:07 - Exercise Selection for Targeting Specific Muscle Groups &lt;p&gt;
+00:54:43 - Incorporating Deadlifts for Bicep and Trap Growth &lt;p&gt;
+00:58:10 - Arm Training and Overuse &lt;p&gt;
+01:01:36 - The Importance of Interpreting Lab Work Accurately &lt;p&gt;
+01:05:05 - Common Blood Work Issues and Misinterpretations &lt;p&gt;
+01:08:13 - The Importance of Specialized Medical Knowledge &lt;p&gt;
+01:11:44 - Effective Time Under Tension &lt;p&gt;
+01:15:07 - Creating Overload through Novelty &lt;p&gt;
+01:18:37 - Exploring Partial Reps &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Watch on Video to see the Graphs  : https://youtu.be/Fg5AqnFVwOw &lt;p&gt;</itunes:summary>
+      <itunes:subtitle>Muscle Minds Bodybuilding Podcast with Dr Scott S…</itunes:subtitle>
+      <description>Muscle Minds Bodybuilding Podcast with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+Chapters: &lt;p&gt;
+00:00:00 - Thyroid Hormone Regulation and Metabolism &lt;p&gt;
+00:03:21 - Thyroid Hormone Conversion &lt;p&gt;
+00:07:24 - The Formation of Reverse T3 and T2 in Thyroid Hormone Metabolism &lt;p&gt;
+00:11:20 - Thyroid Replacement and T4 to T3 Conversion in the Body &lt;p&gt;
+00:15:21 - The impact of caloric deficit on T3 levels &lt;p&gt;
+00:18:56 - The Effect of Yohimbine on Insulin Levels &lt;p&gt;
+00:22:46 - The Role of Glycogen and Insulin in Fasted Cardio &lt;p&gt;
+00:26:18 - The Effects of Insulin Levels &lt;p&gt;
+00:29:36 - Training Variation and Deadlifts &lt;p&gt;
+00:33:04 - Learning Effects and Auto Regulation in Training &lt;p&gt;
+00:36:27 - Live Q&amp;A and Personal Updates &lt;p&gt;
+00:40:38 - Coming off a Growth Cycle and Going into a Deficit &lt;p&gt;
+00:44:20 - The History of Steroids in Bodybuilding &lt;p&gt;
+00:47:39 - The Importance of Satellite Cells and Muscle Overlap &lt;p&gt;
+00:51:07 - Exercise Selection for Targeting Specific Muscle Groups &lt;p&gt;
+00:54:43 - Incorporating Deadlifts for Bicep and Trap Growth &lt;p&gt;
+00:58:10 - Arm Training and Overuse &lt;p&gt;
+01:01:36 - The Importance of Interpreting Lab Work Accurately &lt;p&gt;
+01:05:05 - Common Blood Work Issues and Misinterpretations &lt;p&gt;
+01:08:13 - The Importance of Specialized Medical Knowledge &lt;p&gt;
+01:11:44 - Effective Time Under Tension &lt;p&gt;
+01:15:07 - Creating Overload through Novelty &lt;p&gt;
+01:18:37 - Exploring Partial Reps &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Watch on Video to see the Graphs  : https://youtu.be/Fg5AqnFVwOw &lt;p&gt;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1899158250-user-634942648-muscle-minds-164-thyroid-hormone-deep-dive-t3-t4-t2-reverse-t3.mp3" length="78707903"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3eZbabyx3zjhrDFz-TlwTXw-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1897721730</guid>
       <title>Muscle Minds 163 Growing Muscle In Your 40's + Understanding Steroid Esters</title>
-      <description>Muscle Minds 163 Growing Muscle In Your 40's + Understanding Steroid Esters</description>
-      <pubDate>Thu, 15 Aug 2024 14:45:15 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1897721730-user-634942648-muscle-minds-163.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-163</guid>
+      <pubDate>Thu, 15 Aug 2024 14:45:15 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-163</link>
+      <itunes:duration>01:09:19</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Bodybuilding Podcast with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+Chapters: &lt;p&gt;
+00:00:00 - Intro &lt;p&gt;
+00:03:07 - Bodybuilding and Longevity &lt;p&gt;
+00:05:57 - Limitations and Breakdown of the Body &lt;p&gt;
+00:09:03 - Training Smarter in your 40s &lt;p&gt;
+00:12:01 - The Importance of Avoiding Excessive Body Fat in Bodybuilding &lt;p&gt;
+00:14:55 - The Window of Opportunity &lt;p&gt;
+00:17:54 - Anomaly Training and Age &lt;p&gt;
+00:20:48 - Understanding the Duration of Testosterone Cycles &lt;p&gt;
+00:24:05 - Testosterone Half Lives and Injections &lt;p&gt;
+00:27:10 - Variability of Testosterone Response &lt;p&gt;
+00:30:16 - Adaptation of the body to testosterone &lt;p&gt;
+00:33:13 - Enhancing Testosterone Levels &lt;p&gt;
+00:36:18 - Choosing the Right Training System &lt;p&gt;
+00:39:13 - The benefits of higher frequency training &lt;p&gt;
+00:42:04 - The Benefits of Higher Rep Training &lt;p&gt;
+00:44:58 - Overcoming Training Plateaus &lt;p&gt;
+00:47:40 - Dog Distractions &lt;p&gt;
+00:50:39 - Making Weight for Wrestling &lt;p&gt;
+00:53:28 - Personal Diet Experiences &lt;p&gt;
+00:56:30 - Adjusting Macros for Effective Progress &lt;p&gt;
+00:59:39 - Muscle Loss during a Prep &lt;p&gt;
+01:02:54 - Losing Muscle During Contest Preparation &lt;p&gt;
+01:05:44 - The Impact of T3 on Muscle Loss &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com  &lt;p&gt;
+📚 Get the Hardcover here : https://amzn.to/3dykNdG &lt;p&gt;
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;</itunes:summary>
+      <itunes:subtitle>Muscle Minds Bodybuilding Podcast with Dr Scott S…</itunes:subtitle>
+      <description>Muscle Minds Bodybuilding Podcast with Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+Chapters: &lt;p&gt;
+00:00:00 - Intro &lt;p&gt;
+00:03:07 - Bodybuilding and Longevity &lt;p&gt;
+00:05:57 - Limitations and Breakdown of the Body &lt;p&gt;
+00:09:03 - Training Smarter in your 40s &lt;p&gt;
+00:12:01 - The Importance of Avoiding Excessive Body Fat in Bodybuilding &lt;p&gt;
+00:14:55 - The Window of Opportunity &lt;p&gt;
+00:17:54 - Anomaly Training and Age &lt;p&gt;
+00:20:48 - Understanding the Duration of Testosterone Cycles &lt;p&gt;
+00:24:05 - Testosterone Half Lives and Injections &lt;p&gt;
+00:27:10 - Variability of Testosterone Response &lt;p&gt;
+00:30:16 - Adaptation of the body to testosterone &lt;p&gt;
+00:33:13 - Enhancing Testosterone Levels &lt;p&gt;
+00:36:18 - Choosing the Right Training System &lt;p&gt;
+00:39:13 - The benefits of higher frequency training &lt;p&gt;
+00:42:04 - The Benefits of Higher Rep Training &lt;p&gt;
+00:44:58 - Overcoming Training Plateaus &lt;p&gt;
+00:47:40 - Dog Distractions &lt;p&gt;
+00:50:39 - Making Weight for Wrestling &lt;p&gt;
+00:53:28 - Personal Diet Experiences &lt;p&gt;
+00:56:30 - Adjusting Macros for Effective Progress &lt;p&gt;
+00:59:39 - Muscle Loss during a Prep &lt;p&gt;
+01:02:54 - Losing Muscle During Contest Preparation &lt;p&gt;
+01:05:44 - The Impact of T3 on Muscle Loss &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com  &lt;p&gt;
+📚 Get the Hardcover here : https://amzn.to/3dykNdG &lt;p&gt;
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1897721730-user-634942648-muscle-minds-163.mp3" length="66557411"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1878093432</guid>
       <title>Muscle Minds 162 Gain 20 Lbs In ONE Year?</title>
-      <description>Muscle Minds 162 Gain 20 Lbs In ONE Year?</description>
-      <pubDate>Mon, 22 Jul 2024 15:09:19 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1878093432-user-634942648-muscle-minds-162-gain-20-lbs-in-one-year.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-162-gain-20-lbs-in-one-year</guid>
+      <pubDate>Mon, 22 Jul 2024 15:09:19 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-162-gain-20-lbs-in-one-year</link>
+      <itunes:duration>01:33:24</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Is it possible to gain 20 Lbs in ONE year? What would it take? Plus Creatine Monohydrate vs Creatine HCI, Deca &amp; Heart Health &amp; more TIME STAMPS BELOW Dr Scott Stevenson &amp; Scott McNally - Muscle Minds Bodybuilding Podcast 162 &lt;p&gt;
+
+Chapters: &lt;p&gt;
+00:00:00 - Jordan's 10,000 Calorie Diet &lt;p&gt;
+00:03:58 - Gains and Limitations &lt;p&gt;
+00:08:25 - Contextual Information for Muscle Gain &lt;p&gt;
+00:12:34 - Bulking and Muscle Gain Tips &lt;p&gt;
+00:16:40 - Pushing Through Challenges in Bodybuilding &lt;p&gt;
+00:20:32 - Balancing Body Weight and Limitations &lt;p&gt;
+00:24:19 - Consistency with Food and Caloric Intake &lt;p&gt;
+00:28:26 - Setting Realistic Goals &lt;p&gt;
+00:32:30 - Bulking Up and Body Composition &lt;p&gt;
+00:36:25 - The Impact of Water Retention and Appetite on Body Weight &lt;p&gt;
+00:44:09 - Shifting Perspectives in Bodybuilding &lt;p&gt;
+00:48:29 - The Benefits of Multivitamins for Bodybuilders &lt;p&gt;
+00:52:26 - The Impact of Diet on Training Adaptations &lt;p&gt;
+00:56:10 -Creatine monohydrate vs creatine HCl &lt;p&gt;
+01:00:04 - The Marketing Scam of Creatine &lt;p&gt;
+01:04:03 - Impact of Deca on Heart Health &lt;p&gt;
+01:08:39 - Experiencing Exhaustion &lt;p&gt;
+01:12:28 - Behind the scenes coaching for a pro qualifier &lt;p&gt;
+01:20:50 - The Joy of Thinking &lt;p&gt;
+01:25:00 - The Importance of Symmetry in Bodybuilding &lt;p&gt;
+01:28:58 - Plagiarism and the Rise of AI &lt;p&gt;
+01:32:51 - Reaching out to Scott for consultations &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt; 
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Video : https://youtu.be/_QIWi-XgSjM &lt;p&gt;</itunes:summary>
+      <itunes:subtitle>Is it possible to gain 20 Lbs in ONE year? What w…</itunes:subtitle>
+      <description>Is it possible to gain 20 Lbs in ONE year? What would it take? Plus Creatine Monohydrate vs Creatine HCI, Deca &amp; Heart Health &amp; more TIME STAMPS BELOW Dr Scott Stevenson &amp; Scott McNally - Muscle Minds Bodybuilding Podcast 162 &lt;p&gt;
+
+Chapters: &lt;p&gt;
+00:00:00 - Jordan's 10,000 Calorie Diet &lt;p&gt;
+00:03:58 - Gains and Limitations &lt;p&gt;
+00:08:25 - Contextual Information for Muscle Gain &lt;p&gt;
+00:12:34 - Bulking and Muscle Gain Tips &lt;p&gt;
+00:16:40 - Pushing Through Challenges in Bodybuilding &lt;p&gt;
+00:20:32 - Balancing Body Weight and Limitations &lt;p&gt;
+00:24:19 - Consistency with Food and Caloric Intake &lt;p&gt;
+00:28:26 - Setting Realistic Goals &lt;p&gt;
+00:32:30 - Bulking Up and Body Composition &lt;p&gt;
+00:36:25 - The Impact of Water Retention and Appetite on Body Weight &lt;p&gt;
+00:44:09 - Shifting Perspectives in Bodybuilding &lt;p&gt;
+00:48:29 - The Benefits of Multivitamins for Bodybuilders &lt;p&gt;
+00:52:26 - The Impact of Diet on Training Adaptations &lt;p&gt;
+00:56:10 -Creatine monohydrate vs creatine HCl &lt;p&gt;
+01:00:04 - The Marketing Scam of Creatine &lt;p&gt;
+01:04:03 - Impact of Deca on Heart Health &lt;p&gt;
+01:08:39 - Experiencing Exhaustion &lt;p&gt;
+01:12:28 - Behind the scenes coaching for a pro qualifier &lt;p&gt;
+01:20:50 - The Joy of Thinking &lt;p&gt;
+01:25:00 - The Importance of Symmetry in Bodybuilding &lt;p&gt;
+01:28:58 - Plagiarism and the Rise of AI &lt;p&gt;
+01:32:51 - Reaching out to Scott for consultations &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt; 
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Video : https://youtu.be/_QIWi-XgSjM &lt;p&gt;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1878093432-user-634942648-muscle-minds-162-gain-20-lbs-in-one-year.mp3" length="89668883"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-PUjzrQihLqF1QzbL-Zv8VWg-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1870913070</guid>
       <title>Muscle Minds 161 Tren Cough &amp; Weighing Out Cardarine Risks</title>
-      <description>Muscle Minds 161 Tren Cough &amp; Weighing Out Cardarine Risks</description>
-      <pubDate>Sat, 13 Jul 2024 16:29:23 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1870913070-user-634942648-muscle-minds-161.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-161</guid>
+      <pubDate>Sat, 13 Jul 2024 16:29:23 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-161</link>
+      <itunes:duration>01:13:29</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Podcast 161 Tren Cough, Cardarine, Glycerin Preworkout, Benefits of Greens Formulas - Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+Chapters: &lt;p&gt;
+00:00:00 - Introduction to Muscle Minds with Scott Stevenson &lt;p&gt;
+00:01:00 - Scott Just Got "Tren Cough" From Test &lt;p&gt;
+00:03:21 - Blood Circulation and Respiration in the Lungs &lt;p&gt;
+00:09:42 - Treating Nausea with Acupuncture &lt;p&gt;
+00:12:42 - Dealing with Panic Attacks &lt;p&gt;
+00:15:45 - Cardarine ( GW501516 ) Risks  &lt;p&gt;
+00:15:56 - The Mechanisms of Cancer Growth &lt;p&gt;
+00:19:11 - The Complexity of Carcinogenic Actions &lt;p&gt;
+00:22:15 - The Cardiovascular Benefits vs. Cancer Risk &lt;p&gt;
+00:25:31 - Taking Risks and Making Decisions &lt;p&gt;
+00:28:50 - The Relationship Between Muscle Growth and Endurance Exercise &lt;p&gt;
+00:31:53 - Fiber Change From Cardarine?  &lt;p&gt;
+00:35:00 - Preemptive Health Measures &lt;p&gt;
+00:41:01 - Glycerin / Hydromax taken preworkout &lt;p&gt;
+00:44:15 - Hydration and Sodium Intake Tips &lt;p&gt;
+00:47:20 - Restoring Gut Health while Bulking &lt;p&gt;
+00:50:41 - Digestive Issues and Enzymes &lt;p&gt;
+00:53:44 - The Benefits of Greens Formulas &lt;p&gt;
+00:57:00 - Nutrient Timing and Green Veggies &lt;p&gt;
+01:00:23 - The Connection Between the Nervous System and the Outer Ear &lt;p&gt;
+01:03:50 - The Lore of Pirate Earrings &lt;p&gt;
+01:07:06 - Strategies for Water Loss and Retention &lt;p&gt;
+01:13:22 - Feeling Better &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Video : https://youtu.be/8b9b2YX1JXw</itunes:summary>
+      <itunes:subtitle>Muscle Minds Podcast 161 Tren Cough, Cardarine, G…</itunes:subtitle>
+      <description>Muscle Minds Podcast 161 Tren Cough, Cardarine, Glycerin Preworkout, Benefits of Greens Formulas - Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+Chapters: &lt;p&gt;
+00:00:00 - Introduction to Muscle Minds with Scott Stevenson &lt;p&gt;
+00:01:00 - Scott Just Got "Tren Cough" From Test &lt;p&gt;
+00:03:21 - Blood Circulation and Respiration in the Lungs &lt;p&gt;
+00:09:42 - Treating Nausea with Acupuncture &lt;p&gt;
+00:12:42 - Dealing with Panic Attacks &lt;p&gt;
+00:15:45 - Cardarine ( GW501516 ) Risks  &lt;p&gt;
+00:15:56 - The Mechanisms of Cancer Growth &lt;p&gt;
+00:19:11 - The Complexity of Carcinogenic Actions &lt;p&gt;
+00:22:15 - The Cardiovascular Benefits vs. Cancer Risk &lt;p&gt;
+00:25:31 - Taking Risks and Making Decisions &lt;p&gt;
+00:28:50 - The Relationship Between Muscle Growth and Endurance Exercise &lt;p&gt;
+00:31:53 - Fiber Change From Cardarine?  &lt;p&gt;
+00:35:00 - Preemptive Health Measures &lt;p&gt;
+00:41:01 - Glycerin / Hydromax taken preworkout &lt;p&gt;
+00:44:15 - Hydration and Sodium Intake Tips &lt;p&gt;
+00:47:20 - Restoring Gut Health while Bulking &lt;p&gt;
+00:50:41 - Digestive Issues and Enzymes &lt;p&gt;
+00:53:44 - The Benefits of Greens Formulas &lt;p&gt;
+00:57:00 - Nutrient Timing and Green Veggies &lt;p&gt;
+01:00:23 - The Connection Between the Nervous System and the Outer Ear &lt;p&gt;
+01:03:50 - The Lore of Pirate Earrings &lt;p&gt;
+01:07:06 - Strategies for Water Loss and Retention &lt;p&gt;
+01:13:22 - Feeling Better &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Video : https://youtu.be/8b9b2YX1JXw</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1870913070-user-634942648-muscle-minds-161.mp3" length="70552265"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-kR2PvozgEvkEidWK-S8dBOA-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1855925031</guid>
       <title>Muscle Minds 160 : T3 Mechanics, Peri Workout Timing, Fat Burners, DIM and other estrogen control</title>
-      <description>Muscle Minds 160 : T3 Mechanics, Peri Workout Timing, Fat Burners, DIM and other estrogen control</description>
-      <pubDate>Mon, 24 Jun 2024 16:43:53 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1855925031-user-634942648-muscle-minds-160.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-160</guid>
+      <pubDate>Mon, 24 Jun 2024 16:43:53 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-160</link>
+      <itunes:duration>00:49:30</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds 160 Scott Stevenson &amp; Scott McNally 
+
+Reaction video with Scott and Scott : 
+https://youtu.be/v0km_SMOQqY
+
+Chapters:
+00:00:00 - Mechanisms of T3 T4 as a Fat Loss Agent
+00:02:02 - The Effect of Caloric Expenditure on Metabolism
+00:04:01 - Negative Body Fat Percentage
+00:05:58 - Using Thyroid Hormone as a Fat Burner
+00:07:56 - Using Carb UPS or Refeeds
+00:09:53 - T4 and T3 Conversion
+00:11:43 - Morning Routine: Fat Loss and Muscle Building
+00:13:31 - Importance of Hydration and Pre-Workout Nutrition
+00:15:29 - Nutrient Timing After a Workout
+00:17:14 - The Importance of In-Workout Nutrition
+00:18:57 - The Benefits of Protein Intake
+00:20:47 - Training and Nutrition
+00:22:29 - Overcoming Nutritional Adaptation Challenges
+00:24:06 - Nutrient Pacing and Theobromine in a Cut
+00:26:02 - The Benefits of Combining Fat-Burning Supplements
+00:27:57 - The Benefits of Al Tyrosine
+00:29:45 - Creating a Ritual
+00:31:36 - The Calories in Coffee
+00:33:33 - DIM usage for estrogen control
+00:35:55 - Estrogen Control Techniques
+00:37:38 - Using it in Contest Prep?
+00:39:20 - Managing Energy Levels
+00:41:14 - The Effects of Tea and Modafinil
+00:43:00 - Overcoming Crutches and Becoming the Master of Your Mind
+00:45:02 - The Power of Anticipation
+00:46:39 - Controlling Your Mental State
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+✅ Scott McNally for Coaching : mcnallydiets@gmail.com
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+👕 Think BIG Merch! https://think-big.printify.me/products
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+🔴  Share this video with a friend : https://youtu.be/UWT9hmMG8jo</itunes:summary>
+      <itunes:subtitle>Muscle Minds 160 Scott Stevenson &amp; Scott McNally …</itunes:subtitle>
+      <description>Muscle Minds 160 Scott Stevenson &amp; Scott McNally 
+
+Reaction video with Scott and Scott : 
+https://youtu.be/v0km_SMOQqY
+
+Chapters:
+00:00:00 - Mechanisms of T3 T4 as a Fat Loss Agent
+00:02:02 - The Effect of Caloric Expenditure on Metabolism
+00:04:01 - Negative Body Fat Percentage
+00:05:58 - Using Thyroid Hormone as a Fat Burner
+00:07:56 - Using Carb UPS or Refeeds
+00:09:53 - T4 and T3 Conversion
+00:11:43 - Morning Routine: Fat Loss and Muscle Building
+00:13:31 - Importance of Hydration and Pre-Workout Nutrition
+00:15:29 - Nutrient Timing After a Workout
+00:17:14 - The Importance of In-Workout Nutrition
+00:18:57 - The Benefits of Protein Intake
+00:20:47 - Training and Nutrition
+00:22:29 - Overcoming Nutritional Adaptation Challenges
+00:24:06 - Nutrient Pacing and Theobromine in a Cut
+00:26:02 - The Benefits of Combining Fat-Burning Supplements
+00:27:57 - The Benefits of Al Tyrosine
+00:29:45 - Creating a Ritual
+00:31:36 - The Calories in Coffee
+00:33:33 - DIM usage for estrogen control
+00:35:55 - Estrogen Control Techniques
+00:37:38 - Using it in Contest Prep?
+00:39:20 - Managing Energy Levels
+00:41:14 - The Effects of Tea and Modafinil
+00:43:00 - Overcoming Crutches and Becoming the Master of Your Mind
+00:45:02 - The Power of Anticipation
+00:46:39 - Controlling Your Mental State
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+✅ Scott McNally for Coaching : mcnallydiets@gmail.com
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+👕 Think BIG Merch! https://think-big.printify.me/products
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+🔴  Share this video with a friend : https://youtu.be/UWT9hmMG8jo</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1855925031-user-634942648-muscle-minds-160.mp3" length="47535670"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-PUjzrQihLqF1QzbL-Zv8VWg-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1835898246</guid>
       <title>Muscle Minds 158 Train Smarter Than A Scientist</title>
-      <description>Muscle Minds 158 Train Smarter Than A Scientist</description>
-      <pubDate>Sun, 02 Jun 2024 18:26:02 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1835898246-user-634942648-muscle-minds-158-train-smarter-than-a-scientist.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-158-train-smarter-than-a-scientist</guid>
+      <pubDate>Sun, 02 Jun 2024 18:26:02 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-158-train-smarter-than-a-scientist</link>
+      <itunes:duration>01:40:08</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Scott Stevenson talks about some of the short comings of studies. With Scott McNally | Muscle Minds 158 &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://shop.ingramspark.com/b/084?xLAiPA1acXkrDaE1plwyCWgrBS8Z0txzFKOTXxNbw6z
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems like MK677, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  video version : https://youtu.be/m2BtHrr8O74</itunes:summary>
+      <itunes:subtitle>Scott Stevenson talks about some of the short com…</itunes:subtitle>
+      <description>Scott Stevenson talks about some of the short comings of studies. With Scott McNally | Muscle Minds 158 &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://shop.ingramspark.com/b/084?xLAiPA1acXkrDaE1plwyCWgrBS8Z0txzFKOTXxNbw6z
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems like MK677, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  video version : https://youtu.be/m2BtHrr8O74</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1835898246-user-634942648-muscle-minds-158-train-smarter-than-a-scientist.mp3" length="96136384"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-PUjzrQihLqF1QzbL-Zv8VWg-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1825655043</guid>
       <title>Muscle Minds 157 Bodybuilding False Positives In Lab Work</title>
-      <description>Muscle Minds 157 Bodybuilding False Positives In Lab Work</description>
-      <pubDate>Sun, 19 May 2024 21:18:41 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1825655043-user-634942648-muscle-minds-157.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-157</guid>
+      <pubDate>Sun, 19 May 2024 21:18:41 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-157</link>
+      <itunes:duration>01:12:58</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>AST, ALT, CPK, BUN, what do all of these mean and what should you expect as a bodybuilder? PLUS NPP in a cut? Testing GH with Lab work TIME STAMPS BELOW Muscle Minds - Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+✅ Get Private Lab Work Done Here :
+https://www.privatemdlabs.com/?refid=ddh4nap7 &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+0:00 intro  &lt;p&gt;
+
+1:30 Lab work as a bodybuilder  &lt;p&gt;
+
+3:00 AST &amp; ALT &lt;p&gt;
+
+8:40 CPK &lt;p&gt;
+
+11:30 BUN &lt;p&gt;
+
+12:35 Creatinine &lt;p&gt;
+
+17:00 Cystatin C &lt;p&gt;
+
+18:50 High Protein diet &amp; Kidneys  &lt;p&gt;
+
+26:00 What causes kidney problems in bodybuilding? &lt;p&gt;
+
+36:30 NPP in a Cut?  &lt;p&gt;
+
+44:30 Using blood work to check GH quality &lt;p&gt;
+
+53:00 SubQ shots for cycles &lt;p&gt;
+
+1:03:40 Not growing on current diet &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Share this video with a friend : https://youtu.be/JQTFZs5CTiA</itunes:summary>
+      <itunes:subtitle>AST, ALT, CPK, BUN, what do all of these mean and…</itunes:subtitle>
+      <description>AST, ALT, CPK, BUN, what do all of these mean and what should you expect as a bodybuilder? PLUS NPP in a cut? Testing GH with Lab work TIME STAMPS BELOW Muscle Minds - Dr Scott Stevenson &amp; Scott McNally &lt;p&gt;
+
+✅ Get Private Lab Work Done Here :
+https://www.privatemdlabs.com/?refid=ddh4nap7 &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+0:00 intro  &lt;p&gt;
+
+1:30 Lab work as a bodybuilder  &lt;p&gt;
+
+3:00 AST &amp; ALT &lt;p&gt;
+
+8:40 CPK &lt;p&gt;
+
+11:30 BUN &lt;p&gt;
+
+12:35 Creatinine &lt;p&gt;
+
+17:00 Cystatin C &lt;p&gt;
+
+18:50 High Protein diet &amp; Kidneys  &lt;p&gt;
+
+26:00 What causes kidney problems in bodybuilding? &lt;p&gt;
+
+36:30 NPP in a Cut?  &lt;p&gt;
+
+44:30 Using blood work to check GH quality &lt;p&gt;
+
+53:00 SubQ shots for cycles &lt;p&gt;
+
+1:03:40 Not growing on current diet &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site  &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Share this video with a friend : https://youtu.be/JQTFZs5CTiA</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1825655043-user-634942648-muscle-minds-157.mp3" length="70052804"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-rg0qyIzElJhPSzAZ-v3VF3A-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1809184440</guid>
       <title>Muscle Minds 156 Are All Steroids Equally As Anabolic?</title>
-      <description>Muscle Minds 156 Are All Steroids Equally As Anabolic?</description>
-      <pubDate>Sat, 27 Apr 2024 14:56:44 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1809184440-user-634942648-muscle-minds-156.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-156</guid>
+      <pubDate>Sat, 27 Apr 2024 14:56:44 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-156</link>
+      <itunes:duration>01:19:24</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>We have recently been asked the question, "Are all AAS equal on a mg/mg basis?" Today, Dr Scott Stevenson explores this topic in this lecture. With Scott McNally TIME STAMPS BELOW - Muscle Minds Podcast 156
+
+0:00 Teaser
+
+0:45 Intro 
+
+1:30 Are All Steroids Equally Anabolic? 
+
+2:30 What is the question exactly? 
+
+6:20 Why ask the question? 
+
+12:20 Is it likely that all AAS are equal on a mg/mg basis 
+
+25:20 Pharmacogenetics and Pharmacodynamics 
+
+31:40 AAS Data in Humans
+
+41:30 Supra physiological Test Study 
+
+43:50 Deca Study 
+
+51:45 Study comparison of multiple AAS
+
+1:05:20 What can we make of this? 
+
+1:07:30 Practical dose response curves 
+
+1:15:00 Concluding Thoughts on AAS Anabolic Equivalency 
+
+1:19:00 Amazing Dog Pics!! 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+👕 Think BIG Merch! https://think-big.printify.me/products
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+🔴  Video Version : https://youtu.be/P1YF9Uv2x9s</itunes:summary>
+      <itunes:subtitle>We have recently been asked the question, "Are al…</itunes:subtitle>
+      <description>We have recently been asked the question, "Are all AAS equal on a mg/mg basis?" Today, Dr Scott Stevenson explores this topic in this lecture. With Scott McNally TIME STAMPS BELOW - Muscle Minds Podcast 156
+
+0:00 Teaser
+
+0:45 Intro 
+
+1:30 Are All Steroids Equally Anabolic? 
+
+2:30 What is the question exactly? 
+
+6:20 Why ask the question? 
+
+12:20 Is it likely that all AAS are equal on a mg/mg basis 
+
+25:20 Pharmacogenetics and Pharmacodynamics 
+
+31:40 AAS Data in Humans
+
+41:30 Supra physiological Test Study 
+
+43:50 Deca Study 
+
+51:45 Study comparison of multiple AAS
+
+1:05:20 What can we make of this? 
+
+1:07:30 Practical dose response curves 
+
+1:15:00 Concluding Thoughts on AAS Anabolic Equivalency 
+
+1:19:00 Amazing Dog Pics!! 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+👕 Think BIG Merch! https://think-big.printify.me/products
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+🔴  Video Version : https://youtu.be/P1YF9Uv2x9s</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1809184440-user-634942648-muscle-minds-156.mp3" length="76234839"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-dXdVSzZRCm0oP3dX-8UFhzg-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1795349113</guid>
       <title>Muscle Minds 155 Science of Clenbuterol, Thyroid, DNP, Melanotan 2</title>
-      <description>Muscle Minds 155 Science of Clenbuterol, Thyroid, DNP, Melanotan 2</description>
-      <pubDate>Sun, 07 Apr 2024 18:48:40 GMT</pubDate>
-      <enclosure url="https://feeds.soundcloud.com/stream/1795349113-user-634942648-muscle-minds-155-science-of-clenbuterol-thyroid-dnp-melanotan-2.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-155-science-of-clenbuterol-thyroid-dnp-melanotan-2</guid>
+      <pubDate>Sun, 07 Apr 2024 18:48:40 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-155-science-of-clenbuterol-thyroid-dnp-melanotan-2</link>
+      <itunes:duration>01:36:40</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>TIME STAMPS BELOW Muscle Minds with Scott Stevenson &amp; Scott McNally - Fat Burner Science. Plus the science of solidifying gains after off season &lt;p&gt;
+
+0:00 teaser &lt;p&gt;
+
+0:30 Intro &lt;p&gt;
+
+1:30 Science of fat burners &lt;p&gt;
+
+2:30 Categories of fat burners &lt;p&gt;
+
+4:30 uncouplers like DNP &lt;p&gt;
+
+12:25 Coach’s perspective &lt;p&gt;
+
+18:45 Clen, ECA &lt;p&gt;
+
+33:25 Thyroid T3/T4 &lt;p&gt;
+
+39:45 Coach’s perspective &lt;p&gt;
+
+43:45 Fat burners in Off Season? &lt;p&gt;
+
+59:20 DNP in pro bodybuilding &lt;p&gt;
+
+1:02:25 Pro genetics &lt;p&gt;
+
+1:10:00 Going hypo after cheat meal &lt;p&gt;
+
+1:12:20 Solidifying gains after off season &lt;p&gt;
+
+1:20:10 Muscle Memory &lt;p&gt;
+
+1:24:50 Melanotan 2 fat burning? &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site &lt;p&gt;
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Video : https://youtu.be/jo_QX4p59L4</itunes:summary>
+      <itunes:subtitle>TIME STAMPS BELOW Muscle Minds with Scott Stevens…</itunes:subtitle>
+      <description>TIME STAMPS BELOW Muscle Minds with Scott Stevenson &amp; Scott McNally - Fat Burner Science. Plus the science of solidifying gains after off season &lt;p&gt;
+
+0:00 teaser &lt;p&gt;
+
+0:30 Intro &lt;p&gt;
+
+1:30 Science of fat burners &lt;p&gt;
+
+2:30 Categories of fat burners &lt;p&gt;
+
+4:30 uncouplers like DNP &lt;p&gt;
+
+12:25 Coach’s perspective &lt;p&gt;
+
+18:45 Clen, ECA &lt;p&gt;
+
+33:25 Thyroid T3/T4 &lt;p&gt;
+
+39:45 Coach’s perspective &lt;p&gt;
+
+43:45 Fat burners in Off Season? &lt;p&gt;
+
+59:20 DNP in pro bodybuilding &lt;p&gt;
+
+1:02:25 Pro genetics &lt;p&gt;
+
+1:10:00 Going hypo after cheat meal &lt;p&gt;
+
+1:12:20 Solidifying gains after off season &lt;p&gt;
+
+1:20:10 Muscle Memory &lt;p&gt;
+
+1:24:50 Melanotan 2 fat burning? &lt;p&gt;
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding &lt;p&gt;
+
+👕 Think BIG Merch! https://think-big.printify.me/products &lt;p&gt;
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site &lt;p&gt;
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com &lt;p&gt;
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/ &lt;p&gt;
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust ! &lt;p&gt;
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy &lt;p&gt;
+
+🔴  Video : https://youtu.be/jo_QX4p59L4</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1795349113-user-634942648-muscle-minds-155-science-of-clenbuterol-thyroid-dnp-melanotan-2.mp3" length="92807757"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-1K8mf7WBrcPzY7xk-FNQ7tw-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1700143278</guid>
       <title>Muscle Minds 152 Most Important Part of Every Training Plan</title>
-      <description>Muscle Minds 152 Most Important Part of Every Training Plan</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1700143278-user-634942648-muscle-minds-152.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-152</guid>
+      <pubDate>Tue, 26 Dec 2023 16:28:06 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-152</link>
+      <itunes:duration>01:20:10</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The ONE Thread Every Good Training Plan Has In Common | Muscle Minds with Scott Stevenson &amp; Scott McNally
+
+👕 THINK BIG MERCH!!!  https://think-big.printify.me
+
+📕 Check out Scott’s Book :  https://tinyurl.com/5djmr86h
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site and contact him for consultations  
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/</itunes:summary>
+      <itunes:subtitle>The ONE Thread Every Good Training Plan Has In Co…</itunes:subtitle>
+      <description>The ONE Thread Every Good Training Plan Has In Common | Muscle Minds with Scott Stevenson &amp; Scott McNally
+
+👕 THINK BIG MERCH!!!  https://think-big.printify.me
+
+📕 Check out Scott’s Book :  https://tinyurl.com/5djmr86h
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site and contact him for consultations  
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1700143278-user-634942648-muscle-minds-152.mp3" length="76972119"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1688842926</guid>
       <title>Muscle Minds 151 How Much Volume?</title>
-      <description>Muscle Minds 151 How Much Volume?</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1688842926-user-634942648-muscle-minds-151-how-much-volume.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-151-how-much-volume</guid>
+      <pubDate>Tue, 12 Dec 2023 21:00:28 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-151-how-much-volume</link>
+      <itunes:duration>01:23:20</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds 151 How Much Volume? by Think BIG Bodybuilding Media</itunes:summary>
+      <itunes:subtitle>Muscle Minds 151 How Much Volume? by Think BIG Bo…</itunes:subtitle>
+      <description>Muscle Minds 151 How Much Volume? by Think BIG Bodybuilding Media</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1688842926-user-634942648-muscle-minds-151-how-much-volume.mp3" length="80015280"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1671204609</guid>
       <title>Muscle Minds 150 Understanding T3 + QA</title>
-      <description>Muscle Minds 150 Understanding T3 + QA</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1671204609-user-634942648-muscle-minds-150-understanding-t3-qa.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-150-understanding-t3-qa</guid>
+      <pubDate>Tue, 21 Nov 2023 20:36:23 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-150-understanding-t3-qa</link>
+      <itunes:duration>01:26:16</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Scott Stevenson &amp; Scott McNally 
+
+These time stamps aren't exact but they are close 
+
+0:00 11:20 T 3 considerations 
+
+16:00 thyroid support with supplements 
+
+18:00 Understanding Reverse T 3 
+
+32:00 Growth and water retention 
+
+42:00 L-Tyrosine - Very Underrated Supplement 
+
+59:30 Youth Training 
+
+56:30 Free Smith Machine
+
+1:03:00 Try this exercise - Smith Sissy Hack Squat 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site and contact him for consultations  
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+For Unlisted GLP1 Compounds, go here :
+https://aminoasylum.shop/limited-time-sale/ref/122/
+
+✅ Hard to find Nootripics at LiftMode Code THINK 
+https://liftmode.com/341.html</itunes:summary>
+      <itunes:subtitle>Scott Stevenson &amp; Scott McNally 
+
+These time stam…</itunes:subtitle>
+      <description>Scott Stevenson &amp; Scott McNally 
+
+These time stamps aren't exact but they are close 
+
+0:00 11:20 T 3 considerations 
+
+16:00 thyroid support with supplements 
+
+18:00 Understanding Reverse T 3 
+
+32:00 Growth and water retention 
+
+42:00 L-Tyrosine - Very Underrated Supplement 
+
+59:30 Youth Training 
+
+56:30 Free Smith Machine
+
+1:03:00 Try this exercise - Smith Sissy Hack Squat 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site and contact him for consultations  
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+For Unlisted GLP1 Compounds, go here :
+https://aminoasylum.shop/limited-time-sale/ref/122/
+
+✅ Hard to find Nootripics at LiftMode Code THINK 
+https://liftmode.com/341.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1671204609-user-634942648-muscle-minds-150-understanding-t3-qa.mp3" length="82821040"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1658058435</guid>
       <title>Muscle Minds 149 Rep Tempo &amp; Muscle Growth</title>
-      <description>Muscle Minds 149 Rep Tempo &amp; Muscle Growth</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1658058435-user-634942648-muscle-minds-149.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-149</guid>
+      <pubDate>Mon, 06 Nov 2023 15:35:32 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-149</link>
+      <itunes:duration>01:03:48</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Should you use slow concentric reps or are you better off being explosive? Dr Scott Stevenson explains today! Muscle Minds 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+✅ Hard to find Nootripics at LiftMode Code THINK 
+https://liftmode.com/341.html</itunes:summary>
+      <itunes:subtitle>Should you use slow concentric reps or are you be…</itunes:subtitle>
+      <description>Should you use slow concentric reps or are you better off being explosive? Dr Scott Stevenson explains today! Muscle Minds 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+✅ Hard to find Nootripics at LiftMode Code THINK 
+https://liftmode.com/341.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1658058435-user-634942648-muscle-minds-149.mp3" length="61255181"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1602816306</guid>
       <title>Muscle Minds 148 The IGF Craze, RIR, QA</title>
-      <description>Muscle Minds 148 The IGF Craze, RIR, QA</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1602816306-user-634942648-muscle-minds-148-the-igf-craze-rir-qa.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-148-the-igf-craze-rir-qa</guid>
+      <pubDate>Mon, 28 Aug 2023 13:58:22 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-148-the-igf-craze-rir-qa</link>
+      <itunes:duration>02:07:52</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MM 146 Dr Scott Stevenson and Scott McNally talk about Plateau-Busting for Hard-Gainers plus answer your LIVE QA
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+✅ Hard to find Nootripics at LiftMode Code THINK 
+https://liftmode.com/341.html
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC</itunes:summary>
+      <itunes:subtitle>MM 146 Dr Scott Stevenson and Scott McNally talk …</itunes:subtitle>
+      <description>MM 146 Dr Scott Stevenson and Scott McNally talk about Plateau-Busting for Hard-Gainers plus answer your LIVE QA
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+✅ Hard to find Nootripics at LiftMode Code THINK 
+https://liftmode.com/341.html
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1602816306-user-634942648-muscle-minds-148-the-igf-craze-rir-qa.mp3" length="122767072"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1591723219</guid>
       <title>Muscle Minds 147 Kuba &amp; Meg Cielen</title>
-      <description>Muscle Minds 147 Kuba &amp; Meg Cielen</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1591723219-user-634942648-muscle-minds-148.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-148</guid>
+      <pubDate>Sat, 12 Aug 2023 23:20:57 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-148</link>
+      <itunes:duration>01:15:08</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Meg and Kuba Cielen join Scott Stevenson and Scott McNally to talk all about good ol fashion, progressive overload training | Muscle Minds Bodybuilding Podcast 147
+
+Follow Kuba and Meg :
+https://www.instagram.com/megsylvestercielen/
+https://www.instagram.com/kuba_sylvester_cielen/
+Follow their Youtube   @KubaSylvesterCielen  
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+1:00 What are your current workouts 
+
+3:45 Having an athletic background helps bodybuilding 
+
+6:45 Meg’s Push Pull Legs Split 
+
+8:45 Squatting 
+
+11:40 Kuba’s Pull Day 
+
+14:00 Jordan Peters influence 
+
+16:20 Jordan tried Reps in Reserve? 
+
+Sorry guys, Im busy in AU and can't get time stamps ! 
+
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off 
+
+
+🔴  Video : https://youtu.be/ibM5h6U4Gu0
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648</itunes:summary>
+      <itunes:subtitle>Meg and Kuba Cielen join Scott Stevenson and Scot…</itunes:subtitle>
+      <description>Meg and Kuba Cielen join Scott Stevenson and Scott McNally to talk all about good ol fashion, progressive overload training | Muscle Minds Bodybuilding Podcast 147
+
+Follow Kuba and Meg :
+https://www.instagram.com/megsylvestercielen/
+https://www.instagram.com/kuba_sylvester_cielen/
+Follow their Youtube   @KubaSylvesterCielen  
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+1:00 What are your current workouts 
+
+3:45 Having an athletic background helps bodybuilding 
+
+6:45 Meg’s Push Pull Legs Split 
+
+8:45 Squatting 
+
+11:40 Kuba’s Pull Day 
+
+14:00 Jordan Peters influence 
+
+16:20 Jordan tried Reps in Reserve? 
+
+Sorry guys, Im busy in AU and can't get time stamps ! 
+
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off 
+
+
+🔴  Video : https://youtu.be/ibM5h6U4Gu0
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1591723219-user-634942648-muscle-minds-148.mp3" length="72145108"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1566577201</guid>
       <title>Muscle Minds 146 Plateau-Busting for Hard-Gainers</title>
-      <description>Muscle Minds 146 Plateau-Busting for Hard-Gainers</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1566577201-user-634942648-muscle-minds-146.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-146</guid>
+      <pubDate>Sun, 16 Jul 2023 19:56:49 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-146</link>
+      <itunes:duration>01:15:34</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>MM 146 Dr Scott Stevenson and Scott McNally talk about Plateau-Busting for Hard-Gainers plus answer QA - Recorded Live on Youtube 
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/</itunes:summary>
+      <itunes:subtitle>MM 146 Dr Scott Stevenson and Scott McNally talk …</itunes:subtitle>
+      <description>MM 146 Dr Scott Stevenson and Scott McNally talk about Plateau-Busting for Hard-Gainers plus answer QA - Recorded Live on Youtube 
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1566577201-user-634942648-muscle-minds-146.mp3" length="72549274"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1551359965</guid>
       <title>Muscle Minds 145 Mike Mentzer Reaction</title>
-      <description>Muscle Minds 145 Mike Mentzer Reaction</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1551359965-user-634942648-muscle-minds-145.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-145</guid>
+      <pubDate>Tue, 27 Jun 2023 15:25:34 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-145</link>
+      <itunes:duration>00:31:49</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds Podcast 145 Scott Stevenson &amp; Scott McNally watch a lecture by Mike Mentzer talking about the Colorado Experiment
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+0:00 Teaser
+
+0:17 Intro/Advertisers 
+
+2:45 Was the experiment published? 
+
+7:17 How much fat did Casey drop ?
+
+9:45 What was the training program 
+
+12:50 Arnold Vs Casey 
+
+19:55 Casey was natural ?
+
+21:30 Did Casey have an injury?
+
+25:45 Scott and Scott still love the ideas of HIT 
+
+28:45 Define "Bro Science"
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Video : https://youtu.be/hftghwy-3aA</itunes:summary>
+      <itunes:subtitle>Muscle Minds Podcast 145 Scott Stevenson &amp; Scott …</itunes:subtitle>
+      <description>Muscle Minds Podcast 145 Scott Stevenson &amp; Scott McNally watch a lecture by Mike Mentzer talking about the Colorado Experiment
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+0:00 Teaser
+
+0:17 Intro/Advertisers 
+
+2:45 Was the experiment published? 
+
+7:17 How much fat did Casey drop ?
+
+9:45 What was the training program 
+
+12:50 Arnold Vs Casey 
+
+19:55 Casey was natural ?
+
+21:30 Did Casey have an injury?
+
+25:45 Scott and Scott still love the ideas of HIT 
+
+28:45 Define "Bro Science"
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Video : https://youtu.be/hftghwy-3aA</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1551359965-user-634942648-muscle-minds-145.mp3" length="30559004"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ZbNOz9v9qDjXehyX-4nJ10A-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1532250613</guid>
       <title>Muscle Minds 144 How Many Of YOUR Reps Grow Muscle?</title>
-      <description>Muscle Minds 144 How Many Of YOUR Reps Grow Muscle?</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1532250613-user-634942648-muscle-minds-144.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-144</guid>
+      <pubDate>Tue, 06 Jun 2023 13:06:11 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-144</link>
+      <itunes:duration>01:16:49</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Scott Stevenson explains the idea of effective reps and the value of understanding true failure to make your best progress, regardless of your weight training program. With Scott McNally TIME STAMPS BELOW | Muscle Minds Bodybuilding Podcast 144
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+0:00 teaser
+
+0:47 intro
+
+2:00 The Idea of Effective Reps 
+
+5:20 gauging your max load
+
+10:00 Defining “Hard Training”
+
+15:00 How Many Reps Are Effective? 
+
+18:30 How much is too much?
+
+24:00 Finding the right amount of stimulus 
+
+27:45 Redefining Failure (super important)
+
+33:00 “Effective Time Under Tension”
+
+37:00 Why old school guys don’t like RIR
+
+45:00 Value of Widow Maker Sets
+
+57:25 Optimal number of reps?
+
+1:07:50 Muscle Shaking during training
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Subscribe to Think BIG Bodybuilding Media here : 
+https://www.youtube.com/channel/UCrZIZSnyfieo3cX2swc36iw?sub_confirmation=1 🛎 Be sure to click the bell for notifications 🛎
+
+🔴  Share this video with a friend : https://youtu.be/IxmQMdMw864
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+#rir #hypertrophy #bodybuildingpodcast</itunes:summary>
+      <itunes:subtitle>Scott Stevenson explains the idea of effective re…</itunes:subtitle>
+      <description>Scott Stevenson explains the idea of effective reps and the value of understanding true failure to make your best progress, regardless of your weight training program. With Scott McNally TIME STAMPS BELOW | Muscle Minds Bodybuilding Podcast 144
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+0:00 teaser
+
+0:47 intro
+
+2:00 The Idea of Effective Reps 
+
+5:20 gauging your max load
+
+10:00 Defining “Hard Training”
+
+15:00 How Many Reps Are Effective? 
+
+18:30 How much is too much?
+
+24:00 Finding the right amount of stimulus 
+
+27:45 Redefining Failure (super important)
+
+33:00 “Effective Time Under Tension”
+
+37:00 Why old school guys don’t like RIR
+
+45:00 Value of Widow Maker Sets
+
+57:25 Optimal number of reps?
+
+1:07:50 Muscle Shaking during training
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+💪 Follow Scott S and reach out for consultations :
+https://www.instagram.com/fortitude_training/
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Subscribe to Think BIG Bodybuilding Media here : 
+https://www.youtube.com/channel/UCrZIZSnyfieo3cX2swc36iw?sub_confirmation=1 🛎 Be sure to click the bell for notifications 🛎
+
+🔴  Share this video with a friend : https://youtu.be/IxmQMdMw864
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+#rir #hypertrophy #bodybuildingpodcast</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1532250613-user-634942648-muscle-minds-144.mp3" length="73762192"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ZbNOz9v9qDjXehyX-4nJ10A-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1517753944</guid>
       <title>Muscle Minds 143</title>
-      <description>Muscle Minds 143</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1517753944-user-634942648-muscle-minds-143.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-143</guid>
+      <pubDate>Fri, 19 May 2023 14:46:29 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-143</link>
+      <itunes:duration>01:12:03</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The Science behind Semaglutide, Why does Grapefruit Juice Make Some Meds Stronger? Pharma vs Generic Growth, Fat Loading &amp; More TIME STAMPS BELOW
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+0:00 teaser
+
+1:00 Synopsis 
+
+3:30 Semaglutide 
+
+18:45 Grapefruit Juice and orals 
+
+31:00 Fat Loading 
+
+37:20 Pharma vs Generic Growth
+
+45:00 DC Training History 
+
+56:45 Study shows we dont go to failure
+
+1:04:00 Scott's funny story 
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Subscribe to Think BIG Bodybuilding Media here : 
+https://www.youtube.com/channel/UCrZIZSnyfieo3cX2swc36iw?sub_confirmation=1 🛎 Be sure to click the bell for notifications 🛎
+
+🔴  Share this video with a friend : https://youtu.be/fka5vaCGZTY
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+#bodybuilding #semaglutide  #bodybuildingpodcast</itunes:summary>
+      <itunes:subtitle>The Science behind Semaglutide, Why does Grapefru…</itunes:subtitle>
+      <description>The Science behind Semaglutide, Why does Grapefruit Juice Make Some Meds Stronger? Pharma vs Generic Growth, Fat Loading &amp; More TIME STAMPS BELOW
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+0:00 teaser
+
+1:00 Synopsis 
+
+3:30 Semaglutide 
+
+18:45 Grapefruit Juice and orals 
+
+31:00 Fat Loading 
+
+37:20 Pharma vs Generic Growth
+
+45:00 DC Training History 
+
+56:45 Study shows we dont go to failure
+
+1:04:00 Scott's funny story 
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Subscribe to Think BIG Bodybuilding Media here : 
+https://www.youtube.com/channel/UCrZIZSnyfieo3cX2swc36iw?sub_confirmation=1 🛎 Be sure to click the bell for notifications 🛎
+
+🔴  Share this video with a friend : https://youtu.be/fka5vaCGZTY
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+#bodybuilding #semaglutide  #bodybuildingpodcast</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1517753944-user-634942648-muscle-minds-143.mp3" length="69173000"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ZbNOz9v9qDjXehyX-4nJ10A-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1499220307</guid>
       <title>Muscle Minds 142 Reacts to Weider Principles</title>
-      <description>Muscle Minds 142 Reacts to Weider Principles</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1499220307-user-634942648-muscle-minds-142-reacts-to-weider-principles.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-142-reacts-to-weider-principles</guid>
+      <pubDate>Mon, 24 Apr 2023 13:57:25 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-142-reacts-to-weider-principles</link>
+      <itunes:duration>01:03:03</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds 142 Scott Stevenson &amp; Scott McNally react to 1980's "Weider Training Systems" video. 
+
+Check out the original upload here : https://youtu.be/7_6wD2F_fgY
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+🔴  video version : https://youtu.be/ddCLZkohZ_s
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust !
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca 
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC</itunes:summary>
+      <itunes:subtitle>Muscle Minds 142 Scott Stevenson &amp; Scott McNally …</itunes:subtitle>
+      <description>Muscle Minds 142 Scott Stevenson &amp; Scott McNally react to 1980's "Weider Training Systems" video. 
+
+Check out the original upload here : https://youtu.be/7_6wD2F_fgY
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+🔴  video version : https://youtu.be/ddCLZkohZ_s
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+http://www.truenutrition.com 3rd Party Tested, Discover the source that bodybuilders trust !
+
+🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+http://www.supplementsource.ca 
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1499220307-user-634942648-muscle-minds-142-reacts-to-weider-principles.mp3" length="60541725"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1439741950</guid>
       <title>Muscle Minds 141 Reaction to Mike Mentzer Lecture</title>
-      <description>Muscle Minds 141 Reaction to Mike Mentzer Lecture</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1439741950-user-634942648-muscle-minds-141.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-141</guid>
+      <pubDate>Sat, 04 Feb 2023 16:39:26 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-141</link>
+      <itunes:duration>01:08:18</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds 141 Reaction to Mike Mentzer Lecture by Think BIG Bodybuilding Media</itunes:summary>
+      <itunes:subtitle>Muscle Minds 141 Reaction to Mike Mentzer Lecture…</itunes:subtitle>
+      <description>Muscle Minds 141 Reaction to Mike Mentzer Lecture by Think BIG Bodybuilding Media</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1439741950-user-634942648-muscle-minds-141.mp3" length="65582731"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-X644wfHAUtRBOkhF-dxz6GQ-t3000x3000.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1429935043</guid>
       <title>Muscle Minds 140 Are Rat Studies Useless?</title>
-      <description>Muscle Minds 140 Are Rat Studies Useless?</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1429935043-user-634942648-muscle-minds-140.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-140</guid>
+      <pubDate>Sun, 22 Jan 2023 15:41:38 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-140</link>
+      <itunes:duration>01:17:16</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Scott Stevenson, Voice of Reason. This is a fun presentation Scott put together for all of y'all that like to nerd out, bodybuilding style. Muscle Minds Bodybuilding Podcast 140 with Scott McNally TIME STAMPS BELOW
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+0:00 teaser 
+
+0:40 Intro
+
+4:00 The shades of gray
+
+8:45 Why are we doing millions of rat studies a year if they are worthless? 
+
+11:40 Animal Models of Exercise
+
+27:00 Study showing similar hypertrophy in Rats and Humans
+
+36:15 Muscle Growth in Animals vs Humans 
+
+41:30 Differences between Rats and Humans
+
+46:00 Some things you just can’t do with humans 
+
+48:40 Humans are NOT Hard Science 
+
+59:30 Hierarchy of Scientific Evidence 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+
+🔴  Subscribe to Think BIG Bodybuilding Media here : 
+https://www.youtube.com/channel/UCrZIZSnyfieo3cX2swc36iw?sub_confirmation=1 🛎 Be sure to click the bell for notifications 🛎
+
+🔴  Share this video with a friend : https://youtu.be/0m_qmf0DL30
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+#bodybuildingpodcast #bodybuildingscience #bodybuildingstudy</itunes:summary>
+      <itunes:subtitle>Scott Stevenson, Voice of Reason. This is a fun p…</itunes:subtitle>
+      <description>Scott Stevenson, Voice of Reason. This is a fun presentation Scott put together for all of y'all that like to nerd out, bodybuilding style. Muscle Minds Bodybuilding Podcast 140 with Scott McNally TIME STAMPS BELOW
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+0:00 teaser 
+
+0:40 Intro
+
+4:00 The shades of gray
+
+8:45 Why are we doing millions of rat studies a year if they are worthless? 
+
+11:40 Animal Models of Exercise
+
+27:00 Study showing similar hypertrophy in Rats and Humans
+
+36:15 Muscle Growth in Animals vs Humans 
+
+41:30 Differences between Rats and Humans
+
+46:00 Some things you just can’t do with humans 
+
+48:40 Humans are NOT Hard Science 
+
+59:30 Hierarchy of Scientific Evidence 
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+✅ 🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+
+🔴  Subscribe to Think BIG Bodybuilding Media here : 
+https://www.youtube.com/channel/UCrZIZSnyfieo3cX2swc36iw?sub_confirmation=1 🛎 Be sure to click the bell for notifications 🛎
+
+🔴  Share this video with a friend : https://youtu.be/0m_qmf0DL30
+
+🔈🎧 For Audio Podcast, search THINK BIG BODYBUILDING on apps or :
+https://soundcloud.com/user-634942648
+
+#bodybuildingpodcast #bodybuildingscience #bodybuildingstudy</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1429935043-user-634942648-muscle-minds-140.mp3" length="74190182"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1409000743</guid>
       <title>Muscle Minds 139 Melatonin for Muscle Gain?</title>
-      <description>Muscle Minds 139 Melatonin for Muscle Gain?</description>
-      <pubDate/>
-      <enclosure url="https://feeds.soundcloud.com/stream/1409000743-user-634942648-muscle-minds-139.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-139</guid>
+      <pubDate>Fri, 23 Dec 2022 17:53:34 +0000</pubDate>
       <link>https://soundcloud.com/user-634942648/muscle-minds-139</link>
+      <itunes:duration>01:13:42</itunes:duration>
+      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Muscle Minds 139 Scott Stevenson explains the benefits that melatonin has for bodybuilders. With Scott McNally TIME STAMPS BELOW
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+0:00 teaser
+
+1:10 Intro
+
+5:45 Melatonin in Bodybuilding 
+
+8:00 Oxidative Stress
+
+13:50 As we age, adaptive capacity drops
+
+17:00 How Melatonin works 
+
+19:30 Melatonin mechanisms 
+
+21:40 Obesity and oxidative stress 
+
+22:40 aging and obesity 
+
+24:00 Melatonin, Muscle Injury &amp; Training Adaptation 
+
+31:00 Study : Melatonin replacement in aging rodents 
+
+37:50 Study : Melatonin, Muscle Wasting 
+
+49:20 Melatonin and Fat Loss 
+
+51:55 Melatonin and Brown fat 
+
+55:10 Melatonin : Other Thoughts 
+
+1:02:00 Melatonin Trade Offs 
+
+1:06:45 What do you think? 
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Video Presentation : https://youtu.be/maxPNk1eVp4</itunes:summary>
+      <itunes:subtitle>Muscle Minds 139 Scott Stevenson explains the ben…</itunes:subtitle>
+      <description>Muscle Minds 139 Scott Stevenson explains the benefits that melatonin has for bodybuilders. With Scott McNally TIME STAMPS BELOW
+
+🙏 Support us on Patreon. Every $5 helps!
+https://www.patreon.com/thinkbigbodybuilding
+
+📕 Check out Scott’s Book : http://www.byobbcoach.com 
+📚 Get the Hardcover here : https://amzn.to/3dykNdG
+And check out Fortitude Training while at his web site 
+
+💪 Coaching by Scott McNally - Reach out and learn more about coaching for competitors and non-competitors alike 
+mcnallydiets@gmail.com
+
+0:00 teaser
+
+1:10 Intro
+
+5:45 Melatonin in Bodybuilding 
+
+8:00 Oxidative Stress
+
+13:50 As we age, adaptive capacity drops
+
+17:00 How Melatonin works 
+
+19:30 Melatonin mechanisms 
+
+21:40 Obesity and oxidative stress 
+
+22:40 aging and obesity 
+
+24:00 Melatonin, Muscle Injury &amp; Training Adaptation 
+
+31:00 Study : Melatonin replacement in aging rodents 
+
+37:50 Study : Melatonin, Muscle Wasting 
+
+49:20 Melatonin and Fat Loss 
+
+51:55 Melatonin and Brown fat 
+
+55:10 Melatonin : Other Thoughts 
+
+1:02:00 Melatonin Trade Offs 
+
+1:06:45 What do you think? 
+
+✅ Presented by TRUE NUTRITION. Code : THINK
+https://tinyurl.com/2p8n647y 3rd Party Tested, Discover the source that bodybuilders trust !
+
+✅ 🇨🇦 For our Canadians, get blow out deals on top brand name supplements!
+https://tinyurl.com/4j2t2xyy
+
+🇬🇧 STROM SPORTS - For our followers from the UK, check out tinyurl.com/ydmbfa54 for cutting edge health blends like SupportMAX and SupportMax Joint. Or check out stand alone supps like TUDCA and NAC 
+
+✅ Amino Asylum code THINK for 20% off research chems, peptides, l-carnitine and more
+https://aminoasylum.shop/ref/122/
+
+🔴  Video Presentation : https://youtu.be/maxPNk1eVp4</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1409000743-user-634942648-muscle-minds-139.mp3" length="70766261"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-QhUozrDAylFJ8ilN-nCLCow-t3000x3000.jpg"/>
     </item>
     <item>
       <title>Muscle Minds 138 Is Cardio Overrated?</title>
