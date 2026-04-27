@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 20 Apr 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">54855620-0280-4b4e-8c6a-7b1acedf6b1d</guid>
+      <title>Claude, War, and the State of the Republic (with Dean Ball)</title>
+      <description><![CDATA[<p>The Department of War wanted to deploy Anthropic's Claude for "all lawful use." What begins as a policy dispute between a tech company and the Department of War quietly unfolds into something far more unsettling. Listen as Dean Ball and EconTalk's Russ Roberts trace the collision between Anthropic and the federal government over Claude's use in classified military operations, exploring thorny questions about autonomous weapons, domestic mass surveillance, and whether a private company can demand contractual red lines when it comes to national security. The conversation spirals outward through the erosion of constitutional norms, the decay of institutional trust, the blurred line between public and private power, and the frightening possibility that AI's most powerful capabilities may arrive just as the Republic is least equipped to govern it.</p>
+]]></description>
+      <pubDate>Mon, 27 Apr 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/claude-war-and-the-state-of-the-republic-with-dean-ball/</link>
+      <content:encoded><![CDATA[<p>The Department of War wanted to deploy Anthropic's Claude for "all lawful use." What begins as a policy dispute between a tech company and the Department of War quietly unfolds into something far more unsettling. Listen as Dean Ball and EconTalk's Russ Roberts trace the collision between Anthropic and the federal government over Claude's use in classified military operations, exploring thorny questions about autonomous weapons, domestic mass surveillance, and whether a private company can demand contractual red lines when it comes to national security. The conversation spirals outward through the erosion of constitutional norms, the decay of institutional trust, the blurred line between public and private power, and the frightening possibility that AI's most powerful capabilities may arrive just as the Republic is least equipped to govern it.</p>
+]]></content:encoded>
+      <enclosure length="74596489" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/6679fe05-567b-48b6-8572-e82c620785d0/group-item/a238dc87-62b4-45b3-8879-ad113c3a3383/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Claude, War, and the State of the Republic (with Dean Ball)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:17:23</itunes:duration>
+      <itunes:summary>The Department of War wanted to deploy Anthropic&apos;s Claude for &quot;all lawful use.&quot; What begins as a policy dispute between a tech company and the Department of War quietly unfolds into something far more unsettling. Listen as Dean Ball and EconTalk&apos;s Russ Roberts trace the collision between Anthropic and the federal government over Claude&apos;s use in classified military operations, exploring thorny questions about autonomous weapons, domestic mass surveillance, and whether a private company can demand contractual red lines when it comes to national security. The conversation spirals outward through the erosion of constitutional norms, the decay of institutional trust, the blurred line between public and private power, and the frightening possibility that AI&apos;s most powerful capabilities may arrive just as the Republic is least equipped to govern it.</itunes:summary>
+      <itunes:subtitle>The Department of War wanted to deploy Anthropic&apos;s Claude for &quot;all lawful use.&quot; What begins as a policy dispute between a tech company and the Department of War quietly unfolds into something far more unsettling. Listen as Dean Ball and EconTalk&apos;s Russ Roberts trace the collision between Anthropic and the federal government over Claude&apos;s use in classified military operations, exploring thorny questions about autonomous weapons, domestic mass surveillance, and whether a private company can demand contractual red lines when it comes to national security. The conversation spirals outward through the erosion of constitutional norms, the decay of institutional trust, the blurred line between public and private power, and the frightening possibility that AI&apos;s most powerful capabilities may arrive just as the Republic is least equipped to govern it.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, artificial intelligence, dean ball, ai governance, capitalism, supply chain risk designation, political institutions, survellance, anthropic, classical liberalism, military</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1047</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">c1efc661-c70e-4bb7-96d9-abe77dea6488</guid>
       <title>Adam Smith&apos;s Warning About Wealth, Fame, and Status (with Ross Levine)</title>
