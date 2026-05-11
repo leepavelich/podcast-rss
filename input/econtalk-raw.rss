@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 4 May 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 4 May 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">f41502b9-84de-42dd-9199-a32da69dcf3b</guid>
+      <title>Thinking Inside the Box (with David Epstein)</title>
+      <description><![CDATA[<p>What do the inventor of the periodic table, the novelist Isabel Allende, and the almost-creators of the iPhone have in common? Join author David Epstein and EconTalk's Russ Roberts to explore a counterintuitive idea: that boundaries, and not unlimited freedom, often make us more creative, productive, and fulfilled.</p>
+]]></description>
+      <pubDate>Mon, 11 May 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/thinking-inside-the-box-with-david-epstein/</link>
+      <content:encoded><![CDATA[<p>What do the inventor of the periodic table, the novelist Isabel Allende, and the almost-creators of the iPhone have in common? Join author David Epstein and EconTalk's Russ Roberts to explore a counterintuitive idea: that boundaries, and not unlimited freedom, often make us more creative, productive, and fulfilled.</p>
+]]></content:encoded>
+      <enclosure length="68292381" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/2713ee87-7162-460a-ac95-416a66b10df1/group-item/b648c8d9-d3ba-4648-afb3-3a9f64288b4d/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Thinking Inside the Box (with David Epstein)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:49</itunes:duration>
+      <itunes:summary>What do the inventor of the periodic table, the novelist Isabel Allende, and the almost-creators of the iPhone have in common? Join author David Epstein and EconTalk&apos;s Russ Roberts to explore a counterintuitive idea: that boundaries, and not unlimited freedom, often make us more creative, productive, and fulfilled.</itunes:summary>
+      <itunes:subtitle>What do the inventor of the periodic table, the novelist Isabel Allende, and the almost-creators of the iPhone have in common? Join author David Epstein and EconTalk&apos;s Russ Roberts to explore a counterintuitive idea: that boundaries, and not unlimited freedom, often make us more creative, productive, and fulfilled.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, behavioral, david epstein, creativity, innovation, scientific discoveries, satisficing, boundaries, periodic table, structure, constraints</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1049</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">538284e9-911f-4b56-b72e-fbf5fecd8845</guid>
       <title>Golfing Alone (with Gary Belsky)</title>
