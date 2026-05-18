@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 11 May 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 11 May 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">10d1d13c-3c04-4538-8830-42823dc09cd0</guid>
+      <title>Tom Cruise&apos;s Body of Work (with Aled Maclean-Jones)</title>
+      <description><![CDATA[<p>What can Tom Cruise's last impossible mission teach us about usefulness in the digital age? Aled Maclean-Jones argues that dangling from cargo planes, soldering hard drives, and skydiving nineteen consecutive times is really an extended tribute to embodied knowledge. Listen as MacLean-Jones and EconTalk's Russ Roberts analyze the unique concept of competence presented in Cruise's films. Along the way, they cover London cabbies who refuse to use Waze, a fatal dive at the sound barrier, solo sailing around the globe, and the small triumph of fixing a broken toilet by oneself. They conclude by exploring the possibility that physical mastery may come to matter more as computers take over the work of the mind.</p>
+]]></description>
+      <pubDate>Mon, 18 May 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/tom-cruises-body-of-work-with-aled-maclean-jones/</link>
+      <content:encoded><![CDATA[<p>What can Tom Cruise's last impossible mission teach us about usefulness in the digital age? Aled Maclean-Jones argues that dangling from cargo planes, soldering hard drives, and skydiving nineteen consecutive times is really an extended tribute to embodied knowledge. Listen as MacLean-Jones and EconTalk's Russ Roberts analyze the unique concept of competence presented in Cruise's films. Along the way, they cover London cabbies who refuse to use Waze, a fatal dive at the sound barrier, solo sailing around the globe, and the small triumph of fixing a broken toilet by oneself. They conclude by exploring the possibility that physical mastery may come to matter more as computers take over the work of the mind.</p>
+]]></content:encoded>
+      <enclosure length="66032079" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/939590e9-98e4-4fa8-9708-adb6d6d287d7/group-item/1d303b27-932e-46bb-b661-eadfefb27374/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Tom Cruise&apos;s Body of Work (with Aled Maclean-Jones)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:08:28</itunes:duration>
+      <itunes:summary>What can Tom Cruise&apos;s last impossible mission teach us about usefulness in the digital age? Aled Maclean-Jones argues that dangling from cargo planes, soldering hard drives, and skydiving nineteen consecutive times is really an extended tribute to embodied knowledge. Listen as MacLean-Jones and EconTalk&apos;s Russ Roberts analyze the unique concept of competence presented in Cruise&apos;s films. Along the way, they cover London cabbies who refuse to use Waze, a fatal dive at the sound barrier, solo sailing around the globe, and the small triumph of fixing a broken toilet by oneself. They conclude by exploring the possibility that physical mastery may come to matter more as computers take over the work of the mind.</itunes:summary>
+      <itunes:subtitle>What can Tom Cruise&apos;s last impossible mission teach us about usefulness in the digital age? Aled Maclean-Jones argues that dangling from cargo planes, soldering hard drives, and skydiving nineteen consecutive times is really an extended tribute to embodied knowledge. Listen as MacLean-Jones and EconTalk&apos;s Russ Roberts analyze the unique concept of competence presented in Cruise&apos;s films. Along the way, they cover London cabbies who refuse to use Waze, a fatal dive at the sound barrier, solo sailing around the globe, and the small triumph of fixing a broken toilet by oneself. They conclude by exploring the possibility that physical mastery may come to matter more as computers take over the work of the mind.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, top gun, challenges, michael polanyi, tacit knowledge, action movies, aled maclean-jones, mastery, competence, stuntmen, physical skills</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1050</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">f41502b9-84de-42dd-9199-a32da69dcf3b</guid>
       <title>Thinking Inside the Box (with David Epstein)</title>
