@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 18 May 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 18 May 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">1f18c97d-24a8-45f6-b6c1-345024d54a79</guid>
+      <title>Facing Death (with Sebastian Junger)</title>
+      <description><![CDATA[<p>What does a lifelong atheist do when his dead father appears above him in the emergency room? Author and war reporter Sebastian Junger nearly bled to death in 2020 from a ruptured aneurysm, and what he saw in those moments sent him on a journey into physics, near-death experiences, and the nature of consciousness itself. In his third appearance on EconTalk, Junger discusses his remarkable book <i>In My Time of Dying</i> with host Russ Roberts. He reflects on covering wars from Sarajevo to Afghanistan, the strange phenomenon of dying people seeing the dead, and why he's still an atheist. Along the way, Junger offers a powerful meditation on terror and reverence, blessing and wounding, and why understanding life's fragility might be the most sacred gift of all.</p>
+]]></description>
+      <pubDate>Mon, 25 May 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/facing-death-with-sebastian-junger/</link>
+      <content:encoded><![CDATA[<p>What does a lifelong atheist do when his dead father appears above him in the emergency room? Author and war reporter Sebastian Junger nearly bled to death in 2020 from a ruptured aneurysm, and what he saw in those moments sent him on a journey into physics, near-death experiences, and the nature of consciousness itself. In his third appearance on EconTalk, Junger discusses his remarkable book <i>In My Time of Dying</i> with host Russ Roberts. He reflects on covering wars from Sarajevo to Afghanistan, the strange phenomenon of dying people seeing the dead, and why he's still an atheist. Along the way, Junger offers a powerful meditation on terror and reverence, blessing and wounding, and why understanding life's fragility might be the most sacred gift of all.</p>
+]]></content:encoded>
+      <enclosure length="64200567" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/edeec680-e2e4-4969-b9cf-da21583cc1b0/group-item/0321eaeb-019a-4050-afc8-6955b2f4ab20/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Facing Death (with Sebastian Junger)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:06:33</itunes:duration>
+      <itunes:summary>What does a lifelong atheist do when his dead father appears above him in the emergency room? Author and war reporter Sebastian Junger nearly bled to death in 2020 from a ruptured aneurysm, and what he saw in those moments sent him on a journey into physics, near-death experiences, and the nature of consciousness itself. In his third appearance on EconTalk, Junger discusses his remarkable book In My Time of Dying with host Russ Roberts. He reflects on covering wars from Sarajevo to Afghanistan, the strange phenomenon of dying people seeing the dead, and why he&apos;s still an atheist. Along the way, Junger offers a powerful meditation on terror and reverence, blessing and wounding, and why understanding life&apos;s fragility might be the most sacred gift of all.</itunes:summary>
+      <itunes:subtitle>What does a lifelong atheist do when his dead father appears above him in the emergency room? Author and war reporter Sebastian Junger nearly bled to death in 2020 from a ruptured aneurysm, and what he saw in those moments sent him on a journey into physics, near-death experiences, and the nature of consciousness itself. In his third appearance on EconTalk, Junger discusses his remarkable book In My Time of Dying with host Russ Roberts. He reflects on covering wars from Sarajevo to Afghanistan, the strange phenomenon of dying people seeing the dead, and why he&apos;s still an atheist. Along the way, Junger offers a powerful meditation on terror and reverence, blessing and wounding, and why understanding life&apos;s fragility might be the most sacred gift of all.</itunes:subtitle>
+      <itunes:keywords>afterlife, economics, econlib, dying, mystical, mortality, wraiths, sebastian junger, deathbed visions, spirituality, psychology, rationality, near death</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1051</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">10d1d13c-3c04-4538-8830-42823dc09cd0</guid>
       <title>Tom Cruise&apos;s Body of Work (with Aled Maclean-Jones)</title>
