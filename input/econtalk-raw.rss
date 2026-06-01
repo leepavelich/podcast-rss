@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 25 May 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 25 May 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 1 Jun 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 1 Jun 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">10aa0938-6426-4ad2-b3e3-d1bcea915fc5</guid>
+      <title>Making Your 80,000 Hours Count (with Benjamin Todd)</title>
+      <description><![CDATA[<p>If you want to change the world, how you spend your 80,000 working hours may be the most important decision you can make. Benjamin Todd, founder of 80,000 Hours, joins EconTalk's Russ Roberts to dismantle the career advice you've been fed since childhood. "Follow your passion" turns out to be a trap. Chasing a big paycheck barely moves the happiness needle. And being a doctor has a smaller impact than you might think, says Todd. Todd and Roberts wrestle with the real ingredients of a fulfilling career--engaging work, supportive colleagues, meaningful problems--while debating whether Jeff Bezos has lived a worthy life and why most people won't part with 10% of their income to save lives abroad. Along the way, you'll meet unsung heroes like David Nalin, whose solution to dehydration saves millions of children's lives.</p>
+]]></description>
+      <pubDate>Mon, 1 Jun 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/making-your-80000-hours-count-with-benjamin-todd/</link>
+      <content:encoded><![CDATA[<p>If you want to change the world, how you spend your 80,000 working hours may be the most important decision you can make. Benjamin Todd, founder of 80,000 Hours, joins EconTalk's Russ Roberts to dismantle the career advice you've been fed since childhood. "Follow your passion" turns out to be a trap. Chasing a big paycheck barely moves the happiness needle. And being a doctor has a smaller impact than you might think, says Todd. Todd and Roberts wrestle with the real ingredients of a fulfilling career--engaging work, supportive colleagues, meaningful problems--while debating whether Jeff Bezos has lived a worthy life and why most people won't part with 10% of their income to save lives abroad. Along the way, you'll meet unsung heroes like David Nalin, whose solution to dehydration saves millions of children's lives.</p>
+]]></content:encoded>
+      <enclosure length="64654205" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/e38de557-9d97-4f0d-9e34-0d2d37bad0ad/group-item/331d7d05-8155-4f65-ab83-5e0df561c0ab/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Making Your 80,000 Hours Count (with Benjamin Todd)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:07:02</itunes:duration>
+      <itunes:summary>If you want to change the world, how you spend your 80,000 working hours may be the most important decision you can make. Benjamin Todd, founder of 80,000 Hours, joins EconTalk&apos;s Russ Roberts to dismantle the career advice you&apos;ve been fed since childhood. &quot;Follow your passion&quot; turns out to be a trap. Chasing a big paycheck barely moves the happiness needle. And being a doctor has a smaller impact than you might think, says Todd. Todd and Roberts wrestle with the real ingredients of a fulfilling career--engaging work, supportive colleagues, meaningful problems--while debating whether Jeff Bezos has lived a worthy life and why most people won&apos;t part with 10% of their income to save lives abroad. Along the way, you&apos;ll meet unsung heroes like David Nalin, whose solution to dehydration saves millions of children&apos;s lives.</itunes:summary>
+      <itunes:subtitle>If you want to change the world, how you spend your 80,000 working hours may be the most important decision you can make. Benjamin Todd, founder of 80,000 Hours, joins EconTalk&apos;s Russ Roberts to dismantle the career advice you&apos;ve been fed since childhood. &quot;Follow your passion&quot; turns out to be a trap. Chasing a big paycheck barely moves the happiness needle. And being a doctor has a smaller impact than you might think, says Todd. Todd and Roberts wrestle with the real ingredients of a fulfilling career--engaging work, supportive colleagues, meaningful problems--while debating whether Jeff Bezos has lived a worthy life and why most people won&apos;t part with 10% of their income to save lives abroad. Along the way, you&apos;ll meet unsung heroes like David Nalin, whose solution to dehydration saves millions of children&apos;s lives.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, philosophy, careers, charity, ai risk, david nalin, earning to give, benjamin todd, effective altruism, jobs, factory farming</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1052</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">1f18c97d-24a8-45f6-b6c1-345024d54a79</guid>
       <title>Facing Death (with Sebastian Junger)</title>
