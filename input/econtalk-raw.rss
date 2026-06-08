@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 1 Jun 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 1 Jun 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 8 Jun 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 8 Jun 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">4d165eae-0124-4910-9273-e528410b8995</guid>
+      <title>The Self, the Crowd, and Social Contagion (with Luke Burgis)</title>
+      <description><![CDATA[<p>Finding community can be difficult. But author Luke Burgis thinks the real challenge begins once we've found it and we're subject to social pressures to conform. Listen as Burgis and EconTalk's Russ Roberts trace the tension between individuals and their tribes through the foundational frameworks, such as family and school, that help forge our identities. Burgis argues that the disappearance of traditional rites of passage bodes ill for major life commitments such as marriage, and recounts his personal journey from Wall Street through the Great Books in search of a strong, differentiated self. He also draws lessons for today's communities from Saint Benedict's 1,500-year-old guide for monastic life and describes the moving ritual he practiced with his father before he died.</p>
+]]></description>
+      <pubDate>Mon, 8 Jun 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-self-the-crowd-and-social-contagion-with-luke-burgis/</link>
+      <content:encoded><![CDATA[<p>Finding community can be difficult. But author Luke Burgis thinks the real challenge begins once we've found it and we're subject to social pressures to conform. Listen as Burgis and EconTalk's Russ Roberts trace the tension between individuals and their tribes through the foundational frameworks, such as family and school, that help forge our identities. Burgis argues that the disappearance of traditional rites of passage bodes ill for major life commitments such as marriage, and recounts his personal journey from Wall Street through the Great Books in search of a strong, differentiated self. He also draws lessons for today's communities from Saint Benedict's 1,500-year-old guide for monastic life and describes the moving ritual he practiced with his father before he died.</p>
+]]></content:encoded>
+      <enclosure length="68570073" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/c21fb4ff-1f24-40f3-828e-2420eaf7139f/group-item/1968bf19-7957-401e-8a27-1ad1f1414338/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Self, the Crowd, and Social Contagion (with Luke Burgis)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:11:06</itunes:duration>
+      <itunes:summary>Finding community can be difficult. But author Luke Burgis thinks the real challenge begins once we&apos;ve found it and we&apos;re subject to social pressures to conform. Listen as Burgis and EconTalk&apos;s Russ Roberts trace the tension between individuals and their tribes through the foundational frameworks, such as family and school, that help forge our identities. Burgis argues that the disappearance of traditional rites of passage bodes ill for major life commitments such as marriage, and recounts his personal journey from Wall Street through the Great Books in search of a strong, differentiated self. He also draws lessons for today&apos;s communities from Saint Benedict&apos;s 1,500-year-old guide for monastic life and describes the moving ritual he practiced with his father before he died.</itunes:summary>
+      <itunes:subtitle>Finding community can be difficult. But author Luke Burgis thinks the real challenge begins once we&apos;ve found it and we&apos;re subject to social pressures to conform. Listen as Burgis and EconTalk&apos;s Russ Roberts trace the tension between individuals and their tribes through the foundational frameworks, such as family and school, that help forge our identities. Burgis argues that the disappearance of traditional rites of passage bodes ill for major life commitments such as marriage, and recounts his personal journey from Wall Street through the Great Books in search of a strong, differentiated self. He also draws lessons for today&apos;s communities from Saint Benedict&apos;s 1,500-year-old guide for monastic life and describes the moving ritual he practiced with his father before he died.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, self-help, rites of passage, individuality, rene girard, parable of lost sheep, st. benedict, mimetics, community, conformity, tribalism, luke burgis</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1053</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">10aa0938-6426-4ad2-b3e3-d1bcea915fc5</guid>
       <title>Making Your 80,000 Hours Count (with Benjamin Todd)</title>
