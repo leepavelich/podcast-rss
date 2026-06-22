@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:690728360/sounds.rss" rel="self" type="application/rss+xml"/>
-    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:690728360/sounds.rss?before=1439741950" rel="next" type="application/rss+xml"/>
+    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:690728360/sounds.rss?before=1441078957" rel="next" type="application/rss+xml"/>
     <title>Muscle Minds</title>
     <link>https://soundcloud.com/user-634942648</link>
-    <pubDate>Fri, 19 Jun 2026 14:19:20 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 14:19:20 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 15:52:06 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:52:06 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -3145,18 +3145,12 @@ http://www.supplementsource.ca
       <itunes:image href="https://i1.sndcdn.com/avatars-DeMzXNt2zyn8Bp3o-qr5gnw-original.jpg"/>
     </item>
     <item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1439741950</guid>
       <title>Muscle Minds 141 Reaction to Mike Mentzer Lecture</title>
-      <pubDate>Sat, 04 Feb 2023 16:39:26 +0000</pubDate>
+      <description>Muscle Minds 141 Reaction to Mike Mentzer Lecture</description>
+      <pubDate/>
+      <enclosure url="https://feeds.soundcloud.com/stream/1439741950-user-634942648-muscle-minds-141.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://soundcloud.com/user-634942648/muscle-minds-141</guid>
       <link>https://soundcloud.com/user-634942648/muscle-minds-141</link>
-      <itunes:duration>01:08:18</itunes:duration>
-      <itunes:author>Think BIG Bodybuilding Media</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Muscle Minds 141 Reaction to Mike Mentzer Lecture by Think BIG Bodybuilding Media</itunes:summary>
-      <itunes:subtitle>Muscle Minds 141 Reaction to Mike Mentzer Lecture…</itunes:subtitle>
-      <description>Muscle Minds 141 Reaction to Mike Mentzer Lecture by Think BIG Bodybuilding Media</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1439741950-user-634942648-muscle-minds-141.mp3" length="65582731"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-X644wfHAUtRBOkhF-dxz6GQ-t3000x3000.jpg"/>
     </item>
     <item>
       <title>Muscle Minds 140 Are Rat Studies Useless?</title>
