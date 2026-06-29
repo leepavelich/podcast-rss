@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 22 Jun 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 09:43:59 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">a91e6ac1-95f2-45dd-afe7-d6c19cbd93f0</guid>
+      <title>Do Less, Heal More: The Case for Medical Conservatism (with John Mandrola)</title>
+      <description><![CDATA[<p>What if the surgery that fixed your knee did no better than fake surgery? EconTalk host Russ Roberts speaks with Dr. John Mandrola about a striking clinical trial in which patients who received sham knee surgery (a real incision, but no actual repair) did as well or better than those who had the actual procedure--one performed 700,000 times annually in the U.S. The conversation ranges from the power of placebo and nocebo effects (how expectation of harm can cause real suffering) to the broader philosophy of "medical conservatism"--the idea that humility, watchful waiting, and honest counsel often serve patients better than the knife. Mandrola argues that financial incentives, professional identity, and language itself ("bone-on-bone," "the widowmaker") conspire to push patients toward interventions that can do more harm than good.</p>
+]]></description>
+      <pubDate>Mon, 29 Jun 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/do-less-heal-more-the-case-for-medical-conservatism-with-john-mandrola/</link>
+      <content:encoded><![CDATA[<p>What if the surgery that fixed your knee did no better than fake surgery? EconTalk host Russ Roberts speaks with Dr. John Mandrola about a striking clinical trial in which patients who received sham knee surgery (a real incision, but no actual repair) did as well or better than those who had the actual procedure--one performed 700,000 times annually in the U.S. The conversation ranges from the power of placebo and nocebo effects (how expectation of harm can cause real suffering) to the broader philosophy of "medical conservatism"--the idea that humility, watchful waiting, and honest counsel often serve patients better than the knife. Mandrola argues that financial incentives, professional identity, and language itself ("bone-on-bone," "the widowmaker") conspire to push patients toward interventions that can do more harm than good.</p>
+]]></content:encoded>
+      <enclosure length="57654954" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/c644bb95-e168-4266-9b23-699c8e6bcab7/group-item/e63e869f-98b8-4be7-9952-4ba1bf1ddc8f/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Do Less, Heal More: The Case for Medical Conservatism (with John Mandrola)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:59:44</itunes:duration>
+      <itunes:summary>What if the surgery that fixed your knee did no better than fake surgery? EconTalk host Russ Roberts speaks with Dr. John Mandrola about a striking clinical trial in which patients who received sham knee surgery (a real incision, but no actual repair) did as well or better than those who had the actual procedure--one performed 700,000 times annually in the U.S. The conversation ranges from the power of placebo and nocebo effects (how expectation of harm can cause real suffering) to the broader philosophy of &quot;medical conservatism&quot;--the idea that humility, watchful waiting, and honest counsel often serve patients better than the knife. Mandrola argues that financial incentives, professional identity, and language itself (&quot;bone-on-bone,&quot; &quot;the widowmaker&quot;) conspire to push patients toward interventions that can do more harm than good.</itunes:summary>
+      <itunes:subtitle>What if the surgery that fixed your knee did no better than fake surgery? EconTalk host Russ Roberts speaks with Dr. John Mandrola about a striking clinical trial in which patients who received sham knee surgery (a real incision, but no actual repair) did as well or better than those who had the actual procedure--one performed 700,000 times annually in the U.S. The conversation ranges from the power of placebo and nocebo effects (how expectation of harm can cause real suffering) to the broader philosophy of &quot;medical conservatism&quot;--the idea that humility, watchful waiting, and honest counsel often serve patients better than the knife. Mandrola argues that financial incentives, professional identity, and language itself (&quot;bone-on-bone,&quot; &quot;the widowmaker&quot;) conspire to push patients toward interventions that can do more harm than good.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, placebo effect, nocebo, john mandrola, orbita stent trial, shams, knees, randomized control trials, arthroscopic surgery, statins</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1056</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">03f0cab5-6cf6-4805-8e92-0457f606eb60</guid>
       <title>Can a Phone Be a Cow? (with Philip Auerswald)</title>
