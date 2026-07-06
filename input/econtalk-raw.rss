@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 29 Jun 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 6 Jul 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 6 Jul 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">1e6d5ad4-d2a0-43d5-bd40-7ba728ceb17b</guid>
+      <title>EconTalk Book Club on the Iliad (with Ido Hevroni)</title>
+      <description><![CDATA[<p>Ego, pride, wrath, fear, gods, superheroes, mortals, and lots of killing. Welcome to Homer's <i>Iliad</i>, which reads at times like a script for a Tarantino film or the latest installment of the Avengers franchise. In the first episode of the EconTalk Book Club on the <i>Iliad</i>, Ido Hevroni of Shalem College speaks with EconTalk's Russ Roberts about the surprising relevance of a 2800-year-old epic poem. Hevroni also provides useful background for first-time readers and what it's like to read the <i>Iliad</i> with combat veterans.</p>
+]]></description>
+      <pubDate>Mon, 6 Jul 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/econtalk-book-club-on-the-iliad-with-ido-hevroni/</link>
+      <content:encoded><![CDATA[<p>Ego, pride, wrath, fear, gods, superheroes, mortals, and lots of killing. Welcome to Homer's <i>Iliad</i>, which reads at times like a script for a Tarantino film or the latest installment of the Avengers franchise. In the first episode of the EconTalk Book Club on the <i>Iliad</i>, Ido Hevroni of Shalem College speaks with EconTalk's Russ Roberts about the surprising relevance of a 2800-year-old epic poem. Hevroni also provides useful background for first-time readers and what it's like to read the <i>Iliad</i> with combat veterans.</p>
+]]></content:encoded>
+      <enclosure length="67545098" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/0cf02d17-6872-4299-957b-645e7c4f1415/group-item/7bb86b13-7b25-4753-b6d4-d97627c87291/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>EconTalk Book Club on the Iliad (with Ido Hevroni)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:10:02</itunes:duration>
+      <itunes:summary>Ego, pride, wrath, fear, gods, superheroes, mortals, and lots of killing. Welcome to Homer&apos;s Iliad, which reads at times like a script for a Tarantino film or the latest installment of the Avengers franchise. In the first episode of the EconTalk Book Club on the Iliad, Ido Hevroni of Shalem College speaks with EconTalk&apos;s Russ Roberts about the surprising relevance of a 2800-year-old epic poem. Hevroni also provides useful background for first-time readers and what it&apos;s like to read the Iliad with combat veterans.</itunes:summary>
+      <itunes:subtitle>Ego, pride, wrath, fear, gods, superheroes, mortals, and lots of killing. Welcome to Homer&apos;s Iliad, which reads at times like a script for a Tarantino film or the latest installment of the Avengers franchise. In the first episode of the EconTalk Book Club on the Iliad, Ido Hevroni of Shalem College speaks with EconTalk&apos;s Russ Roberts about the surprising relevance of a 2800-year-old epic poem. Hevroni also provides useful background for first-time readers and what it&apos;s like to read the Iliad with combat veterans.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, ancient greece, book club, great books, humanities, epic poems, ido hevroni, trojan war, mythology, homer, literature</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1057</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">a91e6ac1-95f2-45dd-afe7-d6c19cbd93f0</guid>
       <title>Do Less, Heal More: The Case for Medical Conservatism (with John Mandrola)</title>
