@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 6 Jul 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 6 Jul 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">e8ab53ae-d91a-4a02-95fa-eb2f4f202dff</guid>
+      <title>From Sawdust to Paw Patrol: The Spin Master Story (with Ronnen Harary)</title>
+      <description><![CDATA[<p>A nylon stocking filled with sawdust that grows grass for hair launched one of the most successful toy companies in the world. Ronnen Harary, co-founder of Spin Master and co-creator of <i>Paw Patrol,</i> talks about his book <i>No Experience Necessary</i> with EconTalk's Russ Roberts. Harary traces his journey from selling grass-growing novelty heads at 23, through Devil Sticks and Air Hogs, to building Bakugan and Paw Patrol into global franchises touching the lives of millions of children. Along the way, he reflects on the artistry of commercial creation and what it means to build something that outlives its founders. The conversation closes on the eternal magic of toys and our childhoods.</p>
+]]></description>
+      <pubDate>Mon, 13 Jul 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/</link>
+      <content:encoded><![CDATA[<p>A nylon stocking filled with sawdust that grows grass for hair launched one of the most successful toy companies in the world. Ronnen Harary, co-founder of Spin Master and co-creator of <i>Paw Patrol,</i> talks about his book <i>No Experience Necessary</i> with EconTalk's Russ Roberts. Harary traces his journey from selling grass-growing novelty heads at 23, through Devil Sticks and Air Hogs, to building Bakugan and Paw Patrol into global franchises touching the lives of millions of children. Along the way, he reflects on the artistry of commercial creation and what it means to build something that outlives its founders. The conversation closes on the eternal magic of toys and our childhoods.</p>
+]]></content:encoded>
+      <enclosure length="66860492" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/de079f6d-02e9-4133-8918-e081015b7120/group-item/c71202d8-5cae-4c9a-970a-c28163df247b/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>From Sawdust to Paw Patrol: The Spin Master Story (with Ronnen Harary)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:20</itunes:duration>
+      <itunes:summary>A nylon stocking filled with sawdust that grows grass for hair launched one of the most successful toy companies in the world. Ronnen Harary, co-founder of Spin Master and co-creator of Paw Patrol, talks about his book No Experience Necessary with EconTalk&apos;s Russ Roberts. Harary traces his journey from selling grass-growing novelty heads at 23, through Devil Sticks and Air Hogs, to building Bakugan and Paw Patrol into global franchises touching the lives of millions of children. Along the way, he reflects on the artistry of commercial creation and what it means to build something that outlives its founders. The conversation closes on the eternal magic of toys and our childhoods.</itunes:summary>
+      <itunes:subtitle>A nylon stocking filled with sawdust that grows grass for hair launched one of the most successful toy companies in the world. Ronnen Harary, co-founder of Spin Master and co-creator of Paw Patrol, talks about his book No Experience Necessary with EconTalk&apos;s Russ Roberts. Harary traces his journey from selling grass-growing novelty heads at 23, through Devil Sticks and Air Hogs, to building Bakugan and Paw Patrol into global franchises touching the lives of millions of children. Along the way, he reflects on the artistry of commercial creation and what it means to build something that outlives its founders. The conversation closes on the eternal magic of toys and our childhoods.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, earth buddy, ronnen harary, yo-yos, leadership, paw patrol, startups, risk-taking, failure, entrepreneurship, toys</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1058</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">1e6d5ad4-d2a0-43d5-bd40-7ba728ceb17b</guid>
       <title>EconTalk Book Club on the Iliad (with Ido Hevroni)</title>
