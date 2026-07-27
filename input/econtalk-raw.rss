@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 20 Jul 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">3749efd5-2ddf-4faf-9aee-3f70e6bc1780</guid>
+      <title>Savage Landscapes (with Cal Flyn)</title>
+      <description><![CDATA[<p>What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book <i>The Savage Landscape</i> with EconTalk host Russ Roberts, weaving together journeys to some of Earth's most remote places, including a live volcanic eruption in Iceland she hiked toward despite the danger. Flyn rejects the myth of pristine, unpeopled wilderness, revealing that the wildest-looking landscapes have been shaped by humans for centuries. She explores spiritual quests at Mount Sinai, the return of predators to Europe, the uncomfortable economics of trophy hunting, and why we secretly crave discomfort in an age of endless comfort.</p>
+]]></description>
+      <pubDate>Mon, 27 Jul 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/savage-landscapes-with-cal-flyn/</link>
+      <content:encoded><![CDATA[<p>What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book <i>The Savage Landscape</i> with EconTalk host Russ Roberts, weaving together journeys to some of Earth's most remote places, including a live volcanic eruption in Iceland she hiked toward despite the danger. Flyn rejects the myth of pristine, unpeopled wilderness, revealing that the wildest-looking landscapes have been shaped by humans for centuries. She explores spiritual quests at Mount Sinai, the return of predators to Europe, the uncomfortable economics of trophy hunting, and why we secretly crave discomfort in an age of endless comfort.</p>
+]]></content:encoded>
+      <enclosure length="60230898" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/975729e5-ee44-4be4-862e-f052aa642b15/group-item/e6ac265f-b5d2-44ac-8e48-7ad0605483d7/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Savage Landscapes (with Cal Flyn)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:02:25</itunes:duration>
+      <itunes:summary>What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book The Savage Landscape with EconTalk host Russ Roberts, weaving together journeys to some of Earth&apos;s most remote places, including a live volcanic eruption in Iceland she hiked toward despite the danger. Flyn rejects the myth of pristine, unpeopled wilderness, revealing that the wildest-looking landscapes have been shaped by humans for centuries. She explores spiritual quests at Mount Sinai, the return of predators to Europe, the uncomfortable economics of trophy hunting, and why we secretly crave discomfort in an age of endless comfort.</itunes:summary>
+      <itunes:subtitle>What is wilderness when seven billion people share the planet and nowhere remains truly untouched? Author and journalist Cal Flyn discusses her book The Savage Landscape with EconTalk host Russ Roberts, weaving together journeys to some of Earth&apos;s most remote places, including a live volcanic eruption in Iceland she hiked toward despite the danger. Flyn rejects the myth of pristine, unpeopled wilderness, revealing that the wildest-looking landscapes have been shaped by humans for centuries. She explores spiritual quests at Mount Sinai, the return of predators to Europe, the uncomfortable economics of trophy hunting, and why we secretly crave discomfort in an age of endless comfort.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, africa, hunting, firestick farming, environment, challenging adventures, rewilding, wildlife, cal flyn, nature, wolves</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1060</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">7e9bb266-dc12-48da-864f-4fa3d88c4ff0</guid>
       <title>Dwayne Betts on the Iliad</title>
