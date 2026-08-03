@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 27 Jul 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 3 Aug 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 3 Aug 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">59a20b9e-2bde-4d30-8a6e-1663f714a28c</guid>
+      <title>The Political Economy of Palestine (with Hussein Aboubakr Mansour)</title>
+      <description><![CDATA[<p>Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and economic extraction where Arab regimes, opposition movements, rival states, Western academics, NGOs, and Gulf monarchies like Qatar all convert Palestinian victimhood into their own forms of power, money, and meaning. Listen as Mansour speaks with EconTalk's Russ Roberts about his childhood in an Egypt organized around the liberation of Palestine and explores why any exit from the system must run not through policy, but rather through the human need for meaning itself.</p>
+]]></description>
+      <pubDate>Mon, 3 Aug 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-political-economy-of-palestine-with-hussein-aboubakr-mansour/</link>
+      <content:encoded><![CDATA[<p>Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and economic extraction where Arab regimes, opposition movements, rival states, Western academics, NGOs, and Gulf monarchies like Qatar all convert Palestinian victimhood into their own forms of power, money, and meaning. Listen as Mansour speaks with EconTalk's Russ Roberts about his childhood in an Egypt organized around the liberation of Palestine and explores why any exit from the system must run not through policy, but rather through the human need for meaning itself.</p>
+]]></content:encoded>
+      <enclosure length="84490954" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/6f0c9b91-6746-4e8b-86b7-9552a818ff80/group-item/cb3ce0f1-f227-4690-8351-2b0ab5883ccd/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Political Economy of Palestine (with Hussein Aboubakr Mansour)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:27:41</itunes:duration>
+      <itunes:summary>Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and economic extraction where Arab regimes, opposition movements, rival states, Western academics, NGOs, and Gulf monarchies like Qatar all convert Palestinian victimhood into their own forms of power, money, and meaning. Listen as Mansour speaks with EconTalk&apos;s Russ Roberts about his childhood in an Egypt organized around the liberation of Palestine and explores why any exit from the system must run not through policy, but rather through the human need for meaning itself.</itunes:summary>
+      <itunes:subtitle>Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach, seeing the conflict as a self-reproducing system of political and economic extraction where Arab regimes, opposition movements, rival states, Western academics, NGOs, and Gulf monarchies like Qatar all convert Palestinian victimhood into their own forms of power, money, and meaning. Listen as Mansour speaks with EconTalk&apos;s Russ Roberts about his childhood in an Egypt organized around the liberation of Palestine and explores why any exit from the system must run not through policy, but rather through the human need for meaning itself.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, hamas, arab-israeli politics, geopolitics, post-colonialism, nationalism, rent extraction, middle east, hussein aboubakr mansour, abraham accords, self-perpetuation, zionism, antisemitism, post-christianity</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1061</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3749efd5-2ddf-4faf-9aee-3f70e6bc1780</guid>
       <title>Savage Landscapes (with Cal Flyn)</title>
