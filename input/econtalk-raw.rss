@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 3 Aug 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 3 Aug 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:30:11 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">edde55b8-62b5-4eaa-99c7-cd7feb42a916</guid>
+      <title>Ben Sasse on Faith, Family, and Facing Death</title>
+      <description><![CDATA[<p>Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk's Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and University of Florida president is candid about his physical challenges but the heart of this exchange is elsewhere: what actually matters when time is short. Sasse reflects on faith and mortality, the "shattering of idols" like his own workaholism, and his pride in his marriage. Along the way he offers sharp diagnoses of Congress's abdication of responsibility, the crisis inside American universities, and a republic distracted by the "digital casino" in its pocket. Funny, unflinching, and deeply human, it closes with a meditation on raging against the dying of the light while walking with your head bowed.</p>
+]]></description>
+      <pubDate>Mon, 10 Aug 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/ben-sasse-on-faith-family-and-facing-death/</link>
+      <content:encoded><![CDATA[<p>Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk's Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and University of Florida president is candid about his physical challenges but the heart of this exchange is elsewhere: what actually matters when time is short. Sasse reflects on faith and mortality, the "shattering of idols" like his own workaholism, and his pride in his marriage. Along the way he offers sharp diagnoses of Congress's abdication of responsibility, the crisis inside American universities, and a republic distracted by the "digital casino" in its pocket. Funny, unflinching, and deeply human, it closes with a meditation on raging against the dying of the light while walking with your head bowed.</p>
+]]></content:encoded>
+      <enclosure length="78246204" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/469adebf-cb94-464c-ae2d-c4740496fad8/group-item/33f84de0-b92d-4fb0-8df7-bc0e713076ee/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Ben Sasse on Faith, Family, and Facing Death</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:21:11</itunes:duration>
+      <itunes:summary>Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk&apos;s Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and University of Florida president is candid about his physical challenges but the heart of this exchange is elsewhere: what actually matters when time is short. Sasse reflects on faith and mortality, the &quot;shattering of idols&quot; like his own workaholism, and his pride in his marriage. Along the way he offers sharp diagnoses of Congress&apos;s abdication of responsibility, the crisis inside American universities, and a republic distracted by the &quot;digital casino&quot; in its pocket. Funny, unflinching, and deeply human, it closes with a meditation on raging against the dying of the light while walking with your head bowed.</itunes:summary>
+      <itunes:subtitle>Six months into a stage-four pancreatic cancer diagnosis that gave him 90 days to live, Ben Sasse sits down with EconTalk&apos;s Russ Roberts for a conversation that refuses easy comfort. The former U.S. senator and University of Florida president is candid about his physical challenges but the heart of this exchange is elsewhere: what actually matters when time is short. Sasse reflects on faith and mortality, the &quot;shattering of idols&quot; like his own workaholism, and his pride in his marriage. Along the way he offers sharp diagnoses of Congress&apos;s abdication of responsibility, the crisis inside American universities, and a republic distracted by the &quot;digital casino&quot; in its pocket. Funny, unflinching, and deeply human, it closes with a meditation on raging against the dying of the light while walking with your head bowed.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, legislation, public policy, ben sasse, civics, constitutional government, universities, christianity, executive orders, religious faith, republics, death, pancreatic cancer, senate, heidelberg catechism</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1062</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">59a20b9e-2bde-4d30-8a6e-1663f714a28c</guid>
       <title>The Political Economy of Palestine (with Hussein Aboubakr Mansour)</title>
