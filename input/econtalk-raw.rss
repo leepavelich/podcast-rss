@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 10 Aug 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Aug 2026 10:30:11 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">3b9994e7-559e-4a65-ad0f-09d9626295b4</guid>
+      <title>The Hidden Cause of the Industrial Revolution (with Ben Southwood)</title>
+      <description><![CDATA[<p>What if the Industrial Revolution wasn't sparked by the steam engine, but by a quiet legal revolution in how England handled property rights? Ben Southwood of <i>Works in Progress</i> argues that the Glorious Revolution of the 1680s unleashed British growth by empowering a Parliament composed of landowners who simplified their own tangled, inefficient property rights. Through thousands of case-by-case acts, they freed up land for investment, consolidated inefficient farm ownership, and enabled a boom in privately-built roads, canals, and navigable rivers that created national markets. Along the way you'll learn why roads once moved at 1.5 miles per hour, and how these centuries-old lessons about buying off holdouts might solve today's housing and infrastructure gridlock.</p>
+]]></description>
+      <pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/the-hidden-cause-of-the-industrial-revolution-with-ben-southwood/</link>
+      <content:encoded><![CDATA[<p>What if the Industrial Revolution wasn't sparked by the steam engine, but by a quiet legal revolution in how England handled property rights? Ben Southwood of <i>Works in Progress</i> argues that the Glorious Revolution of the 1680s unleashed British growth by empowering a Parliament composed of landowners who simplified their own tangled, inefficient property rights. Through thousands of case-by-case acts, they freed up land for investment, consolidated inefficient farm ownership, and enabled a boom in privately-built roads, canals, and navigable rivers that created national markets. Along the way you'll learn why roads once moved at 1.5 miles per hour, and how these centuries-old lessons about buying off holdouts might solve today's housing and infrastructure gridlock.</p>
+]]></content:encoded>
+      <enclosure length="70959943" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/4cba19de-3e8f-45be-a365-7d6be2966729/group-item/d27b422a-ecf8-48cf-ab0e-9817cb5e44dd/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>The Hidden Cause of the Industrial Revolution (with Ben Southwood)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:13:36</itunes:duration>
+      <itunes:summary>What if the Industrial Revolution wasn&apos;t sparked by the steam engine, but by a quiet legal revolution in how England handled property rights? Ben Southwood of Works in Progress argues that the Glorious Revolution of the 1680s unleashed British growth by empowering a Parliament composed of landowners who simplified their own tangled, inefficient property rights. Through thousands of case-by-case acts, they freed up land for investment, consolidated inefficient farm ownership, and enabled a boom in privately-built roads, canals, and navigable rivers that created national markets. Along the way you&apos;ll learn why roads once moved at 1.5 miles per hour, and how these centuries-old lessons about buying off holdouts might solve today&apos;s housing and infrastructure gridlock.</itunes:summary>
+      <itunes:subtitle>What if the Industrial Revolution wasn&apos;t sparked by the steam engine, but by a quiet legal revolution in how England handled property rights? Ben Southwood of Works in Progress argues that the Glorious Revolution of the 1680s unleashed British growth by empowering a Parliament composed of landowners who simplified their own tangled, inefficient property rights. Through thousands of case-by-case acts, they freed up land for investment, consolidated inefficient farm ownership, and enabled a boom in privately-built roads, canals, and navigable rivers that created national markets. Along the way you&apos;ll learn why roads once moved at 1.5 miles per hour, and how these centuries-old lessons about buying off holdouts might solve today&apos;s housing and infrastructure gridlock.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, institutions, growth, zoning, housing, enclosure, property rights, development, land reform, roads, history, infrastructure, urban development, canals, parliament, ben southwood, british glorious revolution, transportation, technological innovation, agricultural productivity, building regulations</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1063</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">edde55b8-62b5-4eaa-99c7-cd7feb42a916</guid>
       <title>Ben Sasse on Faith, Family, and Facing Death</title>
