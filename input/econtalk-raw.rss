@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 10:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">3cf58245-4882-40f1-896e-d0c42f071cf7</guid>
+      <title>Are We Alone? Cosmic Loneliness and the Longing to Believe (with Adam Kirsch)</title>
+      <description><![CDATA[<p>Has the earth been visited by extraterrestrials? Are we alone? Despite no formal evidence for conscious life outside of earth, the belief that we are not alone has become more common among both scientists and everyday people. Listen as author Adam Kirsch talks to EconTalk host Russ Roberts about the urge to believe that there are sentient beings elsewhere in the universe and that these aliens want to connect with human beings. Topics discussed include why belief in extraterrestrials has become more mainstream, existential loneliness, religion, extinction, and Elon Musk's desire to get to Mars.</p>
+]]></description>
+      <pubDate>Mon, 24 Aug 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/are-we-alone-cosmic-loneliness-and-the-longing-to-believe-with-adam-kirsch/</link>
+      <content:encoded><![CDATA[<p>Has the earth been visited by extraterrestrials? Are we alone? Despite no formal evidence for conscious life outside of earth, the belief that we are not alone has become more common among both scientists and everyday people. Listen as author Adam Kirsch talks to EconTalk host Russ Roberts about the urge to believe that there are sentient beings elsewhere in the universe and that these aliens want to connect with human beings. Topics discussed include why belief in extraterrestrials has become more mainstream, existential loneliness, religion, extinction, and Elon Musk's desire to get to Mars.</p>
+]]></content:encoded>
+      <enclosure length="69267037" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/2dab8c01-1972-4e18-9f58-9c63dcc77187/group-item/976fc07d-d031-4997-9a4b-a8baefb65a0d/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Are We Alone? Cosmic Loneliness and the Longing to Believe (with Adam Kirsch)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:11:50</itunes:duration>
+      <itunes:summary>Has the earth been visited by extraterrestrials? Are we alone? Despite no formal evidence for conscious life outside of earth, the belief that we are not alone has become more common among both scientists and everyday people. Listen as author Adam Kirsch talks to EconTalk host Russ Roberts about the urge to believe that there are sentient beings elsewhere in the universe and that these aliens want to connect with human beings. Topics discussed include why belief in extraterrestrials has become more mainstream, existential loneliness, religion, extinction, and Elon Musk&apos;s desire to get to Mars.</itunes:summary>
+      <itunes:subtitle>Has the earth been visited by extraterrestrials? Are we alone? Despite no formal evidence for conscious life outside of earth, the belief that we are not alone has become more common among both scientists and everyday people. Listen as author Adam Kirsch talks to EconTalk host Russ Roberts about the urge to believe that there are sentient beings elsewhere in the universe and that these aliens want to connect with human beings. Topics discussed include why belief in extraterrestrials has become more mainstream, existential loneliness, religion, extinction, and Elon Musk&apos;s desire to get to Mars.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, avi loeb, extraterrestrial life, scientific evidence, oumuamua, carl sagan, science and religion, stephen hawking, disclosure, conspiracy theories, astrobiology, uaps, ufos, adam kirsch, skepticism, aliens, trust in experts, universe, seti</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1064</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3b9994e7-559e-4a65-ad0f-09d9626295b4</guid>
       <title>The Hidden Cause of the Industrial Revolution (with Ben Southwood)</title>
