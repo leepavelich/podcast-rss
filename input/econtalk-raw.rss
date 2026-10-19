@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 10:30:20 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:30:20 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">2a8c1aa1-e9ed-4e2d-9eb4-a23af7596ae5</guid>
+      <title>Lives Wasted and Well-Lived: David Wolpe on The Death of Ivan Ilyich</title>
+      <description><![CDATA[<p>What if you did everything right and discovered on your&nbsp;deathbed that&nbsp;you've wasted your life? Rabbi and author David Wolpe talks about Tolstoy's "The Death of Ivan Ilyich" with EconTalk's Russ Roberts.&nbsp;Weaving Rabbi Wolpe's own brushes with mortality and his years at the bedsides of&nbsp;the dying into Tolstoy's masterpiece, they talk about the lies we tell ourselves about death, our longing for&nbsp;honesty and human touch at the end, and the way that death forces us to take a clear-eyed look at life.&nbsp;They conclude by offering advice on how we can avoid Ivan's regrets.</p>
+]]></description>
+      <pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/lives-wasted-and-well-lived-david-wolpe-on-the-death-of-ivan-ilyich/</link>
+      <content:encoded><![CDATA[<p>What if you did everything right and discovered on your&nbsp;deathbed that&nbsp;you've wasted your life? Rabbi and author David Wolpe talks about Tolstoy's "The Death of Ivan Ilyich" with EconTalk's Russ Roberts.&nbsp;Weaving Rabbi Wolpe's own brushes with mortality and his years at the bedsides of&nbsp;the dying into Tolstoy's masterpiece, they talk about the lies we tell ourselves about death, our longing for&nbsp;honesty and human touch at the end, and the way that death forces us to take a clear-eyed look at life.&nbsp;They conclude by offering advice on how we can avoid Ivan's regrets.</p>
+]]></content:encoded>
+      <enclosure length="66723174" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/007b13c0-deec-466e-9e07-119cab0f832f/group-item/f07c64d0-cb2c-427d-a5c3-391696dc9942/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Lives Wasted and Well-Lived: David Wolpe on The Death of Ivan Ilyich</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:09:11</itunes:duration>
+      <itunes:summary>What if you did everything right and discovered on your deathbed that you&apos;ve wasted your life? Rabbi and author David Wolpe talks about Tolstoy&apos;s &quot;The Death of Ivan Ilyich&quot; with EconTalk&apos;s Russ Roberts. Weaving Rabbi Wolpe&apos;s own brushes with mortality and his years at the bedsides of the dying into Tolstoy&apos;s masterpiece, they talk about the lies we tell ourselves about death, our longing for honesty and human touch at the end, and the way that death forces us to take a clear-eyed look at life. They conclude by offering advice on how we can avoid Ivan&apos;s regrets.</itunes:summary>
+      <itunes:subtitle>What if you did everything right and discovered on your deathbed that you&apos;ve wasted your life? Rabbi and author David Wolpe talks about Tolstoy&apos;s &quot;The Death of Ivan Ilyich&quot; with EconTalk&apos;s Russ Roberts. Weaving Rabbi Wolpe&apos;s own brushes with mortality and his years at the bedsides of the dying into Tolstoy&apos;s masterpiece, they talk about the lies we tell ourselves about death, our longing for honesty and human touch at the end, and the way that death forces us to take a clear-eyed look at life. They conclude by offering advice on how we can avoid Ivan&apos;s regrets.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, jewish thought, end-of-life, religion, dying, fear of death, redemption, existentialism, russian literature, leo tolstoy, david wolpe, mortality, moral philosophy, regret, suffering, spirituality, compassion, meaning of life, authentic life, self-examination</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1072</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">45ceb1e7-f1bc-4d05-8173-0ddde9f2239d</guid>
       <title>The Great Fertility Collapse (with Jesus Fernandez-Villaverde)</title>
