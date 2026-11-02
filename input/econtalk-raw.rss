@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 26 Oct 2026 10:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 10:30:20 +0000</lastBuildDate>
+    <pubDate>Mon, 2 Nov 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 2 Nov 2026 11:30:18 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">a4a8ae59-69af-4d07-805b-24558135d5a3</guid>
+      <title>Revisiting the China Shock (with Joseph Francis)</title>
+      <description><![CDATA[<p>What if the results of one of the most influential economics papers of the past 25 years are unreliable? The "China shock" narrative--that a surge of Chinese imports destroyed American manufacturing jobs and the communities that depended on them--became conventional wisdom in Washington and beyond. But economic historian Joseph Francis argues that the claim is much weaker than it looks. Listen as he tells EconTalk's Russ Roberts how a 2022 correction to the paper’s research design cut its estimate of lost jobs in half and erased its findings on wages and living standards. He and Russ then look at what this affair reveals about economics as a field, including the incentives that reward dramatic results, and the problems with peer review.</p>
+]]></description>
+      <pubDate>Mon, 2 Nov 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/revisiting-the-china-shock-with-joseph-francis/</link>
+      <content:encoded><![CDATA[<p>What if the results of one of the most influential economics papers of the past 25 years are unreliable? The "China shock" narrative--that a surge of Chinese imports destroyed American manufacturing jobs and the communities that depended on them--became conventional wisdom in Washington and beyond. But economic historian Joseph Francis argues that the claim is much weaker than it looks. Listen as he tells EconTalk's Russ Roberts how a 2022 correction to the paper’s research design cut its estimate of lost jobs in half and erased its findings on wages and living standards. He and Russ then look at what this affair reveals about economics as a field, including the incentives that reward dramatic results, and the problems with peer review.</p>
+]]></content:encoded>
+      <enclosure length="61852676" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/a675c31b-f7e2-4453-80f5-8d5c4b9b91a0/group-item/9aaf8654-deb4-434c-b763-5ebb3374b8e1/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Revisiting the China Shock (with Joseph Francis)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>01:04:06</itunes:duration>
+      <itunes:summary>What if the results of one of the most influential economics papers of the past 25 years are unreliable? The &quot;China shock&quot; narrative--that a surge of Chinese imports destroyed American manufacturing jobs and the communities that depended on them--became conventional wisdom in Washington and beyond. But economic historian Joseph Francis argues that the claim is much weaker than it looks. Listen as he tells EconTalk&apos;s Russ Roberts how a 2022 correction to the paper’s research design cut its estimate of lost jobs in half and erased its findings on wages and living standards. He and Russ then look at what this affair reveals about economics as a field, including the incentives that reward dramatic results, and the problems with peer review.</itunes:summary>
+      <itunes:subtitle>What if the results of one of the most influential economics papers of the past 25 years are unreliable? The &quot;China shock&quot; narrative--that a surge of Chinese imports destroyed American manufacturing jobs and the communities that depended on them--became conventional wisdom in Washington and beyond. But economic historian Joseph Francis argues that the claim is much weaker than it looks. Listen as he tells EconTalk&apos;s Russ Roberts how a 2022 correction to the paper’s research design cut its estimate of lost jobs in half and erased its findings on wages and living standards. He and Russ then look at what this affair reveals about economics as a field, including the incentives that reward dramatic results, and the problems with peer review.</itunes:subtitle>
+      <itunes:keywords>economic history, economics, econlib, ed leamer, causal inference, free trade, labor markets, protectionism, china shock, manufacturing, replication crisis, tariffs, international trade, industrial policy, globalization, econometrics, deindustrialization, autor dorn hanson, living standards, joseph francis, peer review</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1074</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">e0cb3898-4094-4296-a690-010a03680e67</guid>
       <title>How Your Situation Shapes You (with Angela Duckworth)</title>
