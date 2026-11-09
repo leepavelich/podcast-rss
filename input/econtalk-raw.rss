@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford&apos;s Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it&apos;s like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 2 Nov 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 2 Nov 2026 11:30:18 +0000</lastBuildDate>
+    <pubDate>Mon, 9 Nov 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 9 Nov 2026 11:30:21 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,27 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">45e0f5aa-515d-4c7f-b0d2-f901cdc63239</guid>
+      <title>Hubris, Humility, and the AI Revolution (with Walter Isaacson)</title>
+      <description><![CDATA[<p>The people building artificial intelligence worry there’s a real chance it could doom us all. So why do they keep building anyway? <a href="https://www.simonandschuster.com/authors/Walter-Isaacson/697650" rel="noopener noreferrer">Walter Isaacson</a>, biographer extraordinaire, talks with EconTalk’s <a href="https://www.econlib.org/library/About.html#roberts" rel="noopener noreferrer">Russ Roberts</a> about why the AI innovators feel trapped in a race none of them can pause. Drawing on The Builders, a new podcast he’s launched, Isaacson explains why so many of these innovators see humility and empathy as handicaps rather than virtues, and why he worries they’re pouring their talent into autonomous agents that leave humans out of the loop. Isaacson traces today’s AI debate back to the rival visions of Alan Turing and Ada Lovelace, reveals why Elon Musk once told him his empathy was really vanity, and recalls Benjamin Franklin’s surprising lesson about faking humility. Plus: a Marie Curie story involving a secret affair and a second Nobel Prize.</p>
+]]></description>
+      <pubDate>Mon, 9 Nov 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (EconTalk: Russ Roberts)</author>
+      <link>https://www.econtalk.org/hubris-humility-and-the-ai-revolution-with-walter-isaacson/</link>
+      <content:encoded><![CDATA[<p>The people building artificial intelligence worry there’s a real chance it could doom us all. So why do they keep building anyway? <a href="https://www.simonandschuster.com/authors/Walter-Isaacson/697650" rel="noopener noreferrer">Walter Isaacson</a>, biographer extraordinaire, talks with EconTalk’s <a href="https://www.econlib.org/library/About.html#roberts" rel="noopener noreferrer">Russ Roberts</a> about why the AI innovators feel trapped in a race none of them can pause. Drawing on The Builders, a new podcast he’s launched, Isaacson explains why so many of these innovators see humility and empathy as handicaps rather than virtues, and why he worries they’re pouring their talent into autonomous agents that leave humans out of the loop. Isaacson traces today’s AI debate back to the rival visions of Alan Turing and Ada Lovelace, reveals why Elon Musk once told him his empathy was really vanity, and recalls Benjamin Franklin’s surprising lesson about faking humility. Plus: a Marie Curie story involving a secret affair and a second Nobel Prize.</p>
+]]></content:encoded>
+      <enclosure length="51327165" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/7a5ff5c4-b896-49d0-9824-ec2e5f3365bb/group-item/7807d2d3-a071-431b-9ff9-ee2718ee78df/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Hubris, Humility, and the AI Revolution (with Walter Isaacson)</itunes:title>
+      <itunes:author>EconTalk: Russ Roberts</itunes:author>
+      <itunes:duration>00:53:09</itunes:duration>
+      <itunes:summary>The people building artificial intelligence worry there’s a real chance it could doom us all. So why do they keep building anyway? Walter Isaacson, biographer extraordinaire, talks with EconTalk’s Russ Roberts about why the AI innovators feel trapped in a race none of them can pause. Drawing on The Builders, a new podcast he’s launched, Isaacson explains why so many of these innovators see humility and empathy as handicaps rather than virtues, and why he worries they’re pouring their talent into autonomous agents that leave humans out of the loop. Isaacson traces today’s AI debate back to the rival visions of Alan Turing and Ada Lovelace, reveals why Elon Musk once told him his empathy was really vanity, and recalls Benjamin Franklin’s surprising lesson about faking humility. Plus: a Marie Curie story involving a secret affair and a second Nobel Prize.</itunes:summary>
+      <itunes:subtitle>The people building artificial intelligence worry there’s a real chance it could doom us all. So why do they keep building anyway? Walter Isaacson, biographer extraordinaire, talks with EconTalk’s Russ Roberts about why the AI innovators feel trapped in a race none of them can pause. Drawing on The Builders, a new podcast he’s launched, Isaacson explains why so many of these innovators see humility and empathy as handicaps rather than virtues, and why he worries they’re pouring their talent into autonomous agents that leave humans out of the loop. Isaacson traces today’s AI debate back to the rival visions of Alan Turing and Ada Lovelace, reveals why Elon Musk once told him his empathy was really vanity, and recalls Benjamin Franklin’s surprising lesson about faking humility. Plus: a Marie Curie story involving a secret affair and a second Nobel Prize.</itunes:subtitle>
+      <itunes:keywords>economics, econlib, innovators, the builders, nobel prize, steve jobs, econtalk, walter isaacson, russ roberts, elon musk, ai, podcast, empathy</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1075</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">a4a8ae59-69af-4d07-805b-24558135d5a3</guid>
       <title>Revisiting the China Shock (with Joseph Francis)</title>
