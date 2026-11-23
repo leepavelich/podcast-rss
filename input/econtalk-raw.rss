@@ -8,8 +8,8 @@
     <description>EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 2008 financial crisis, the nature of consciousness, the conflicts and history of the Middle East, and more. EconTalk has been taking the Monday out of Mondays since 2006.  All 1000+ episodes are available in the archive. Go to EconTalk.org for transcripts, related resources, and comments.</description>
     <copyright>Copyright 2006-2026</copyright>
     <language>en-us</language>
-    <pubDate>Mon, 16 Nov 2026 11:30:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 11:30:12 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 11:30:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:30:12 +0000</lastBuildDate>
     <image>
       <link>https://simplecast.econtalk.org</link>
       <title>EconTalk</title>
@@ -36,6 +36,26 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">db9e323d-a776-4ee2-b16d-785d091c651c</guid>
+      <title>Roland Fryer’s Relentless Search for Truth</title>
+      <description><![CDATA[<p>What happens when the best students are afraid to have tough conversations and the best scholars are afraid to do unpopular research? Harvard economist <a href="https://fryer.scholars.harvard.edu/" rel="noopener noreferrer">Roland Fryer</a> joins EconTalk’s <a href="https://www.econlib.org/library/About.html#roberts" rel="noopener noreferrer">Russ Roberts</a> to talk about the new $1 million Carob Trust Prize for Academic Courage, launched with investor Bill Ackman to reward scholars who follow the data wherever it leads. Fryer reflects on staying cheerful in the face of hatred and on why he works for disadvantaged kids rather than academic journals. He also discusses how he uses AI to let students try to prove him wrong, whether peer review is broken, and how great teaching kindles purpose, not just knowledge.</p>]]></description>
+      <pubDate>Mon, 23 Nov 2026 11:30:00 +0000</pubDate>
+      <author>webmaster@econlib.org (Russ Roberts, Roland Fryer)</author>
+      <link>https://www.econtalk.org/roland-fryers-relentless-search-for-truth/</link>
+      <content:encoded><![CDATA[<p>What happens when the best students are afraid to have tough conversations and the best scholars are afraid to do unpopular research? Harvard economist <a href="https://fryer.scholars.harvard.edu/" rel="noopener noreferrer">Roland Fryer</a> joins EconTalk’s <a href="https://www.econlib.org/library/About.html#roberts" rel="noopener noreferrer">Russ Roberts</a> to talk about the new $1 million Carob Trust Prize for Academic Courage, launched with investor Bill Ackman to reward scholars who follow the data wherever it leads. Fryer reflects on staying cheerful in the face of hatred and on why he works for disadvantaged kids rather than academic journals. He also discusses how he uses AI to let students try to prove him wrong, whether peer review is broken, and how great teaching kindles purpose, not just knowledge.</p>]]></content:encoded>
+      <enclosure length="65598109" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/14ea66f7-768f-433c-bff1-0b34ab517bf9/6fdba516-8381-43b0-b29f-59d05512b693/episodes/audio/group/63893378-5db9-4b81-88a8-6c5f36faaaf1/group-item/8a3ff6db-9ad2-4e30-9b8d-24f44b1b7d9c/128_default_tc.mp3?aid=rss_feed&amp;feed=wgl4xEgL"/>
+      <itunes:title>Roland Fryer’s Relentless Search for Truth</itunes:title>
+      <itunes:author>Russ Roberts, Roland Fryer</itunes:author>
+      <itunes:image/>
+      <itunes:duration>01:08:01</itunes:duration>
+      <itunes:summary>What happens when the best students are afraid to have tough conversations and the best scholars are afraid to do unpopular research? Harvard economist Roland Fryer joins EconTalk’s Russ Roberts to talk about the new $1 million Carob Trust Prize for Academic Courage, launched with investor Bill Ackman to reward scholars who follow the data wherever it leads. Fryer reflects on staying cheerful in the face of hatred and on why he works for disadvantaged kids rather than academic journals. He also discusses how he uses AI to let students try to prove him wrong, whether peer review is broken, and how great teaching kindles purpose, not just knowledge.</itunes:summary>
+      <itunes:subtitle>What happens when the best students are afraid to have tough conversations and the best scholars are afraid to do unpopular research? Harvard economist Roland Fryer joins EconTalk’s Russ Roberts to talk about the new $1 million Carob Trust Prize for Academic Courage, launched with investor Bill Ackman to reward scholars who follow the data wherever it leads. Fryer reflects on staying cheerful in the face of hatred and on why he works for disadvantaged kids rather than academic journals. He also discusses how he uses AI to let students try to prove him wrong, whether peer review is broken, and how great teaching kindles purpose, not just knowledge.</itunes:subtitle>
+      <itunes:keywords>academic courage, academic journals, economics, econtalk, peer review, research, students, teaching, tough conversations</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1077</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">2db795c6-2038-4390-8d87-a285e78b415d</guid>
       <title>The Wisdom of Montaigne (with Tyler Cowen)</title>
