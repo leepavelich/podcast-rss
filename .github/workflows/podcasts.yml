@@ -33,4 +33,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Auto-update podcast RSS
+          # The action defaults the author to github.actor, which on scheduled
+          # runs is the repo owner. Credit the bot instead.
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           branch: ${{ github.ref }}
